@@ -7,7 +7,7 @@
 town: Maribor
 country: Slovenija
 timezone: Europe/Ljubljana
-site_url: https://YOUR-USERNAME.github.io/maribor-events   # <-- set after deploying
+site_url: http://bostjanvihar.github.io/kulturko   # <-- set after deploying
 locale: sl
 
 # How many days into the past to keep events visible (archive)
