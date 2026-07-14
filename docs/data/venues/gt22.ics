@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:GT22 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:21fde0adb7823ba9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260714T180000
+DTEND;TZID=Europe/Ljubljana:20260714T200000
+SUMMARY:[demo] Odprtje razstave
+LOCATION:GT22
+DESCRIPTION:Demo vnos. https://gt22.si/program/
+URL:https://gt22.si/program/
+END:VEVENT
+END:VCALENDAR

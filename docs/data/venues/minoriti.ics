@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoriti — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bbbb737711106482@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260712T170000
+DTEND;TZID=Europe/Ljubljana:20260712T190000
+SUMMARY:[demo] Lutkovna predstava za otroke
+LOCATION:Minoriti
+DESCRIPTION:Demo vnos. https://www.minoriti.si/dogodki
+URL:https://www.minoriti.si/dogodki
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:SNG Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:3a13d2478d396018@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260716T193000
+DTEND;TZID=Europe/Ljubljana:20260716T213000
+SUMMARY:[demo] Operna premiera
+LOCATION:SNG Maribor
+DESCRIPTION:Demo vnos. https://www.sng-mb.si/program/
+URL:https://www.sng-mb.si/program/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Novi dogodki — Maribor</title>
+  <link>https://YOUR-USERNAME.github.io/maribor-events</link>
+  <description>Newly announced cultural events in Maribor</description>
+  <item>
+    <title>[demo] Lutkovna predstava za otroke — Minoriti</title>
+    <link>https://www.minoriti.si/dogodki</link>
+    <guid isPermaLink="false">bbbb737711106482</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-12 17:00 · Minoriti. Demo vnos.</description>
+  </item>
+  <item>
+    <title>[demo] Večer komorne glasbe — Narodni dom Maribor</title>
+    <link>https://www.nd-mb.si</link>
+    <guid isPermaLink="false">632787cc401e2074</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-12 19:00 · Narodni dom Maribor. Demo vnos — koncert. Podatki se zamenjajo ob prvem zagonu.</description>
+  </item>
+  <item>
+    <title>[demo] Klubski večer: DJ set — Klub KGB</title>
+    <link>https://klub-kgb.si/dogodki</link>
+    <guid isPermaLink="false">a76ada6c6767949f</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-13 22:00 · Klub KGB. Demo vnos.</description>
+  </item>
+  <item>
+    <title>[demo] Odprtje razstave — GT22</title>
+    <link>https://gt22.si/program/</link>
+    <guid isPermaLink="false">21fde0adb7823ba9</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-14 18:00 · GT22. Demo vnos.</description>
+  </item>
+  <item>
+    <title>[demo] Stand-up večer — ŠTUK</title>
+    <link>https://vstopnice.stuk.org/</link>
+    <guid isPermaLink="false">1833128cc0eb6408</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-15 20:00 · ŠTUK. Demo vnos.</description>
+  </item>
+  <item>
+    <title>[demo] Operna premiera — SNG Maribor</title>
+    <link>https://www.sng-mb.si/program/</link>
+    <guid isPermaLink="false">3a13d2478d396018</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-16 19:30 · SNG Maribor. Demo vnos.</description>
+  </item>
+  <item>
+    <title>[demo] Literarni večer ob vinu — Rozmarin</title>
+    <link>https://www.rozmaringroup.si/dogodki</link>
+    <guid isPermaLink="false">a451c8a3dce40ee0</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-07-17 19:00 · Rozmarin. Demo vnos.</description>
+  </item>
+  <item>
+    <title>Luka Basi — Dvorana Tabor</title>
+    <link>https://dogodki.kulturnik.si/gcal/30028376</link>
+    <guid isPermaLink="false">ee197e498277dc80</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-10-10 20:00 · Dvorana Tabor. </description>
+  </item>
+  <item>
+    <title>Tragom Olivera — Dvorana Tabor</title>
+    <link>https://dogodki.kulturnik.si/gcal/30029359</link>
+    <guid isPermaLink="false">9265e53afc630a2e</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-10-24 20:00 · Dvorana Tabor. </description>
+  </item>
+  <item>
+    <title>Jakov Jozinović — Dvorana Tabor</title>
+    <link>https://dogodki.kulturnik.si/gcal/29614199</link>
+    <guid isPermaLink="false">18424e995dbadd7f</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-11-06 20:00 · Dvorana Tabor. </description>
+  </item>
+  <item>
+    <title>Željko Bebek — Dvorana Tabor</title>
+    <link>https://dogodki.kulturnik.si/gcal/30028382</link>
+    <guid isPermaLink="false">6e1e69ed6edf744f</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-11-14 20:00 · Dvorana Tabor. </description>
+  </item>
+  <item>
+    <title>Dejan Vunjak — 40 let Brendijeve glasbe — Dvorana Tabor</title>
+    <link>https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/</link>
+    <guid isPermaLink="false">dda5c253562423d8</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <description>2026-11-20 20:00 · Dvorana Tabor. </description>
+  </item>
+</channel>
+</rss>

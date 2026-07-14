@@ -1,0 +1,160 @@
+# ============================================================
+# KULTURKO — event aggregator configuration
+# To adapt this to another town: edit town/timezone, then
+# replace the sources list. Nothing else needs to change.
+# ============================================================
+
+town: Maribor
+country: Slovenija
+timezone: Europe/Ljubljana
+site_url: https://YOUR-USERNAME.github.io/maribor-events   # <-- set after deploying
+locale: sl
+
+# How many days into the past to keep events visible (archive)
+keep_past_days: 7
+# How far ahead to look (some sites list a full season)
+horizon_days: 365
+
+# ------------------------------------------------------------
+# SOURCES
+# Each source uses one adapter:
+#   rss          — RSS/Atom feed (most reliable)
+#   jsonld       — schema.org Event JSON-LD embedded in pages (very common)
+#   tribe        — WordPress "The Events Calendar" REST API (/wp-json/tribe/...)
+#   wp_ics       — WordPress events ICS export (?ical=1)
+#   nextjs       — __NEXT_DATA__ JSON in Next.js sites (e.g. DatoCMS sites)
+#   html         — generic CSS-selector scraper (configure selectors below)
+#   ics          — a plain .ics calendar URL
+#
+# `venue` forces a venue name; otherwise it's taken from the event data.
+# `enabled: false` keeps a source in the file without running it.
+# ------------------------------------------------------------
+
+sources:
+
+  # --- Aggregators (broad coverage, incl. Facebook events) -----------
+  - id: kulturnik-maribor
+    name: Kulturnik (Maribor)
+    adapter: rss
+    url: "https://dogodki.kulturnik.si/?where=Maribor&format=rss"
+    notes: >
+      Kulturnik aggregates Slovenian cultural events including ones
+      announced only on Facebook, so it covers FB-only venues too.
+
+  - id: kulturnik-dvorana-tabor
+    name: Kulturnik (Dvorana Tabor)
+    adapter: rss
+    url: "https://dogodki.kulturnik.si/?where=Dvorana%20Tabor&format=rss"
+    venue: Dvorana Tabor
+
+  - id: visitmaribor
+    name: Visit Maribor
+    adapter: html
+    url: "https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/"
+    pagination_param: "page"   # ?page=2 ... (auto-detected if absent)
+    max_pages: 10
+    selectors:
+      item: ".item, .event-item, article"
+      title: "h2, h3, .title"
+      url: "a"
+      date: ".date, time"
+      venue: ".location, .venue"
+    try_jsonld_first: true
+
+  # --- Individual venues ---------------------------------------------
+  - id: narodni-dom
+    name: Narodni dom Maribor
+    adapter: html
+    url: "https://www.nd-mb.si/narodni-dom-maribor/program-dogodkov-narodni-dom-maribor/"
+    venue: Narodni dom Maribor
+    try_jsonld_first: true
+    selectors:
+      item: "article, .event, .dogodek, li.event-item"
+      title: "h2 a, h3 a, .title a, h2, h3"
+      url: "a"
+      date: "time, .date, .datum"
+      venue: ".venue, .lokacija"
+
+  - id: minoriti
+    name: Lutkovno gledališče Maribor / Minoriti
+    adapter: nextjs
+    url: "https://www.minoriti.si/dogodki"
+    venue: Minoriti
+    nextjs_event_hints: ["dogodki", "events", "allDogodeks", "allEvents"]
+
+  - id: klub-kgb
+    name: Klub KGB
+    adapter: tribe
+    url: "https://klub-kgb.si"
+    venue: Klub KGB
+    fallback:
+      adapter: html
+      url: "https://klub-kgb.si/dogodki"
+      selectors:
+        item: "article, .tribe-events-calendar-list__event, .event"
+        title: "h2 a, h3 a, .tribe-events-calendar-list__event-title a"
+        url: "a"
+        date: "time, .tribe-events-calendar-list__event-datetime"
+
+  - id: gt22
+    name: GT22
+    adapter: tribe
+    url: "https://gt22.si"
+    venue: GT22
+    fallback:
+      adapter: html
+      url: "https://gt22.si/program/"
+      selectors:
+        item: "article, .event, .program-item"
+        title: "h2 a, h3 a, h2, h3"
+        url: "a"
+        date: "time, .date"
+
+  - id: rozmarin
+    name: Rozmarin
+    adapter: html
+    url: "https://www.rozmaringroup.si/dogodki"
+    venue: Rozmarin
+    try_jsonld_first: true
+    selectors:
+      item: ".event, article, .card"
+      title: "h2, h3, .title"
+      url: "a"
+      date: ".date, time"
+
+  - id: stuk
+    name: ŠTUK
+    adapter: html
+    url: "https://vstopnice.stuk.org/"
+    venue: ŠTUK
+    try_jsonld_first: true
+    selectors:
+      item: ".event, .event-card, article, .show"
+      title: "h2, h3, .title, .event-title"
+      url: "a"
+      date: ".date, time, .event-date"
+
+  - id: sng-maribor
+    name: SNG Maribor
+    adapter: html
+    url: "https://www.sng-mb.si/program/"
+    venue: SNG Maribor
+    try_jsonld_first: true
+    selectors:
+      item: ".event, article, .performance, .predstava"
+      title: "h2 a, h3 a, h2, h3"
+      url: "a"
+      date: "time, .date, .datum"
+
+  # --- Facebook -------------------------------------------------------
+  # Facebook actively blocks scraping and requires a logged-in session
+  # or a Graph API token, so direct FB scraping is intentionally NOT
+  # part of the daily pipeline. Options:
+  #   1. Most FB-announced Maribor events surface via Kulturnik (above).
+  #   2. If you obtain a Facebook Graph API token with page access, set
+  #      FB_TOKEN as a GitHub secret and enable a source like this:
+  # - id: fb-page-example
+  #   name: Some venue (Facebook)
+  #   adapter: facebook_graph
+  #   page_id: "PAGE_ID_HERE"
+  #   enabled: false

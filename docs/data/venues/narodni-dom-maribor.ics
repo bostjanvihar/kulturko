@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Narodni dom Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:632787cc401e2074@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260712T190000
+DTEND;TZID=Europe/Ljubljana:20260712T210000
+SUMMARY:[demo] Večer komorne glasbe
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Demo vnos — koncert. Podatki se zamenjajo ob prvem zagonu. https://www.nd-mb.si
+URL:https://www.nd-mb.si
+END:VEVENT
+END:VCALENDAR

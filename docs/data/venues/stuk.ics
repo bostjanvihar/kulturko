@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:ŠTUK — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:1833128cc0eb6408@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T200000
+DTEND;TZID=Europe/Ljubljana:20260715T220000
+SUMMARY:[demo] Stand-up večer
+LOCATION:ŠTUK
+DESCRIPTION:Demo vnos. https://vstopnice.stuk.org/
+URL:https://vstopnice.stuk.org/
+END:VEVENT
+END:VCALENDAR

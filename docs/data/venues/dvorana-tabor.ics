@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Dvorana Tabor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ee197e498277dc80@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T200000
+DTEND;TZID=Europe/Ljubljana:20261010T220000
+SUMMARY:Luka Basi
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30028376
+URL:https://dogodki.kulturnik.si/gcal/30028376
+END:VEVENT
+BEGIN:VEVENT
+UID:9265e53afc630a2e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T200000
+DTEND;TZID=Europe/Ljubljana:20261024T220000
+SUMMARY:Tragom Olivera
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30029359
+URL:https://dogodki.kulturnik.si/gcal/30029359
+END:VEVENT
+BEGIN:VEVENT
+UID:18424e995dbadd7f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T200000
+DTEND;TZID=Europe/Ljubljana:20261106T220000
+SUMMARY:Jakov Jozinović
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/29614199
+URL:https://dogodki.kulturnik.si/gcal/29614199
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1e69ed6edf744f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T200000
+DTEND;TZID=Europe/Ljubljana:20261114T220000
+SUMMARY:Željko Bebek
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30028382
+URL:https://dogodki.kulturnik.si/gcal/30028382
+END:VEVENT
+BEGIN:VEVENT
+UID:dda5c253562423d8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:Dejan Vunjak — 40 let Brendijeve glasbe
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+END:VEVENT
+END:VCALENDAR

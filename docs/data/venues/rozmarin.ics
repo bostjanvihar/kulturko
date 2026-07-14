@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Rozmarin — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a451c8a3dce40ee0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260717T190000
+DTEND;TZID=Europe/Ljubljana:20260717T210000
+SUMMARY:[demo] Literarni večer ob vinu
+LOCATION:Rozmarin
+DESCRIPTION:Demo vnos. https://www.rozmaringroup.si/dogodki
+URL:https://www.rozmaringroup.si/dogodki
+END:VEVENT
+END:VCALENDAR

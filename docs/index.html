@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kulturko — kulturni dogodki</title>
+<meta name="description" content="Vsi kulturni dogodki v mestu na enem mestu. Dnevno osveženo.">
+<link rel="alternate" type="application/rss+xml" title="Novi dogodki" href="data/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F1F2ED; --ink:#1B1D18; --muted:#6B7066; --line:#D6D9CF;
+  --wine:#8A1B3D; --wine-soft:#F3E4E9; --river:#14554C; --river-soft:#E1EBE8;
+  --card:#FBFBF8;
+  --disp:"Bricolage Grotesque",sans-serif;
+  --body:"Inter",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",monospace;
+}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
+a{color:inherit}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--wine);outline-offset:2px}
+
+header{padding:2.2rem 1.2rem 1.2rem;max-width:960px;margin:0 auto;position:relative}
+.kicker{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--river)}
+h1{font-family:var(--disp);font-weight:750;font-size:clamp(2.3rem,7vw,4rem);line-height:1;letter-spacing:-.02em;margin:.35rem 0 .5rem}
+h1 em{font-style:normal;color:var(--wine)}
+.sub{color:var(--muted);max-width:34rem}
+.actions{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem}
+.btn{border:1.5px solid var(--ink);background:var(--ink);color:var(--paper);border-radius:999px;padding:.5rem 1rem;font-weight:600;font-size:.85rem;text-decoration:none;display:inline-flex;align-items:center;gap:.4rem}
+.btn.ghost{background:transparent;color:var(--ink)}
+.btn:hover{border-color:var(--wine);background:var(--wine);color:#fff}
+#newBadge{display:none;background:var(--wine);color:#fff;font-family:var(--mono);font-size:.72rem;border-radius:999px;padding:.35rem .7rem;align-self:center}
+.langsw{position:absolute;top:1.2rem;right:1.2rem;display:flex;border:1.5px solid var(--ink);border-radius:999px;overflow:hidden}
+.langsw button{background:transparent;border:0;padding:.3rem .7rem;font-family:var(--mono);font-size:.72rem;font-weight:500;color:var(--ink)}
+.langsw button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+
+.bar{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);border-block:1px solid var(--line)}
+.bar-in{max-width:960px;margin:0 auto;padding:.7rem 1.2rem;display:flex;flex-direction:column;gap:.55rem}
+.seg{display:flex;border:1.5px solid var(--ink);border-radius:999px;overflow:hidden;width:max-content}
+.seg button{background:transparent;border:0;padding:.42rem .85rem;font-size:.82rem;font-weight:600;color:var(--ink)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.row2{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center}
+#q{border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:.45rem .9rem;font:inherit;font-size:.85rem;min-width:0;flex:1 1 160px;max-width:260px}
+#q:focus{border-color:var(--ink);outline:none}
+.chips{display:flex;gap:.4rem;flex-wrap:wrap;align-items:center}
+.chiplabel{font-family:var(--mono);font-size:.66rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-right:.15rem}
+.chip{border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:.32rem .75rem;font-size:.78rem;font-weight:500;color:var(--ink)}
+.chip small{color:var(--muted);font-family:var(--mono);font-size:.68rem;margin-left:.25rem}
+.chip.v[aria-pressed="true"]{border-color:var(--wine);background:var(--wine-soft);color:var(--wine);font-weight:600}
+.chip.v[aria-pressed="true"] small{color:var(--wine)}
+.chip.c[aria-pressed="true"]{border-color:var(--river);background:var(--river-soft);color:var(--river);font-weight:600}
+.chip.c[aria-pressed="true"] small{color:var(--river)}
+
+main{max-width:960px;margin:0 auto;padding:1rem 1.2rem 4rem}
+.day{display:grid;grid-template-columns:96px 1fr;gap:1rem;padding:1.4rem 0;border-bottom:1px solid var(--line)}
+.daymark{position:sticky;top:150px;align-self:start}
+.daymark .dnum{font-family:var(--disp);font-weight:700;font-size:2.4rem;line-height:.9;letter-spacing:-.02em}
+.daymark .dmon,.daymark .dow{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);display:block}
+.day.today .dnum{color:var(--wine)}
+.evlist{display:flex;flex-direction:column;gap:.7rem}
+.ev{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:.85rem 1rem;display:grid;grid-template-columns:auto 1fr auto;gap:.35rem .9rem;align-items:baseline;transition:border-color .15s}
+.ev:hover{border-color:var(--ink)}
+.ev .time{font-family:var(--mono);font-size:.8rem;color:var(--river);font-weight:500}
+.ev h3{font-family:var(--disp);font-weight:600;font-size:1.06rem;line-height:1.25;grid-column:2}
+.ev h3 a{text-decoration:none}
+.ev h3 a:hover{color:var(--wine);text-decoration:underline;text-underline-offset:3px}
+.ev .isnew{display:inline-block;width:.5em;height:.5em;border-radius:50%;background:var(--wine);margin-left:.4em;vertical-align:middle}
+.ev .meta{grid-column:2;color:var(--muted);font-size:.8rem;display:flex;gap:.7rem;flex-wrap:wrap}
+.ev .venue{color:var(--ink);font-weight:500}
+.ev .cat{color:var(--river)}
+.ev .gcal{grid-column:3;grid-row:1/span 2;align-self:center;border:1.5px solid var(--line);background:transparent;border-radius:8px;padding:.4rem .6rem;font-size:.72rem;font-family:var(--mono);text-decoration:none;color:var(--muted);white-space:nowrap}
+.ev .gcal:hover{border-color:var(--river);color:var(--river)}
+#empty{padding:3rem 0;color:var(--muted);text-align:center}
+#status{font-family:var(--mono);font-size:.72rem;color:var(--muted);margin:.8rem 0 0}
+
+dialog{border:1.5px solid var(--ink);border-radius:14px;background:var(--card);color:var(--ink);max-width:26rem;width:calc(100% - 2rem);padding:1.4rem}
+dialog::backdrop{background:rgba(27,29,24,.45)}
+dialog h2{font-family:var(--disp);font-size:1.3rem;margin-bottom:.3rem}
+dialog p{color:var(--muted);font-size:.85rem;margin:.5rem 0}
+dialog .btn{margin:.25rem .25rem 0 0}
+dialog code{font-family:var(--mono);font-size:.72rem;background:var(--paper);padding:.15rem .4rem;border-radius:6px;word-break:break-all}
+.close{position:absolute;top:.7rem;right:.9rem;background:none;border:0;font-size:1.1rem;color:var(--muted)}
+
+footer{border-top:1px solid var(--line);max-width:960px;margin:0 auto;padding:1.2rem;color:var(--muted);font-size:.78rem;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+footer a{color:var(--river)}
+
+@media (max-width:640px){
+  .day{grid-template-columns:1fr;gap:.5rem}
+  .daymark{position:static;display:flex;gap:.5rem;align-items:baseline}
+  .daymark .dnum{font-size:1.5rem}
+  .ev{grid-template-columns:auto 1fr}
+  .ev .gcal{grid-column:2;grid-row:auto;justify-self:start}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="langsw" role="group" aria-label="Language">
+    <button data-lang="sl" aria-pressed="true">SL</button>
+    <button data-lang="en" aria-pressed="false">EN</button>
+  </div>
+  <span class="kicker" data-t="kicker"></span>
+  <h1><span data-t="h1a"></span> <em id="townName"></em></h1>
+  <p class="sub" data-t="sub"></p>
+  <div class="actions">
+    <button class="btn" id="subBtn"></button>
+    <button class="btn ghost" id="notifBtn"></button>
+    <a class="btn ghost" href="data/feed.xml" data-t="rss"></a>
+    <span id="newBadge"></span>
+  </div>
+  <p id="status">…</p>
+</header>
+
+<nav class="bar" aria-label="Filters">
+  <div class="bar-in">
+    <div class="row2">
+      <div class="seg" role="group" id="tfSeg">
+        <button data-tf="today" aria-pressed="false"></button>
+        <button data-tf="week" aria-pressed="false"></button>
+        <button data-tf="month" aria-pressed="false"></button>
+        <button data-tf="all" aria-pressed="true"></button>
+      </div>
+      <input id="q" type="search">
+    </div>
+    <div class="chips" id="catChips"></div>
+    <div class="chips" id="venueChips"></div>
+  </div>
+</nav>
+
+<main>
+  <div id="list"></div>
+  <div id="empty" hidden data-t="empty"></div>
+</main>
+
+<dialog id="subDlg">
+  <button class="close" aria-label="Close" onclick="subDlg.close()">✕</button>
+  <h2 data-t="dlgTitle"></h2>
+  <p data-t="dlgSub"></p>
+  <a class="btn" id="gcalSub" target="_blank" rel="noopener" data-t="dlgGcal"></a>
+  <a class="btn ghost" id="icsDl" download data-t="dlgIcs"></a>
+  <p id="venueIcsHint"></p>
+  <p><span data-t="dlgManual"></span><br><code id="icsUrl"></code></p>
+</dialog>
+
+<footer>
+  <span data-t="footer"></span>
+  <span><span data-t="sources"></span>: <span id="srcList"></span></span>
+</footer>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const state = { tf:"all", venues:new Set(), cats:new Set(), q:"", data:null,
+                lang: localStorage.getItem("kulturko-lang") ||
+                      (navigator.language.startsWith("sl") ? "sl" : "sl") };
+const seenKey = "kulturko-seen-ids";
+
+const I18N = {
+ sl: {
+  kicker:"Kulturni program · dnevno osveženo",
+  h1a:"Kaj se dogaja v", town: t => t==="Maribor" ? "Mariboru" : t,
+  sub:"Vsi dogodki kulturnih ustanov na enem mestu — gledališče, koncerti, razstave, klubi. Brez podvojenih vnosov, z enim klikom v tvoj koledar.",
+  sync:"＋ Sinhroniziraj s koledarjem", notif:"🔔 Obvestila",
+  notifOn:"🔔 Obvestila vklopljena", rss:"RSS novosti",
+  tf:{today:"Danes",week:"Ta teden",month:"Ta mesec",all:"Vse"},
+  search:"Išči dogodek …", catLabel:"Zvrst", venueLabel:"Prizorišče",
+  empty:"Ni dogodkov za izbrane filtre. Poskusi širše obdobje ali počisti izbire.",
+  status:(n,d,t)=>`${n} dogodkov · osveženo ${d} ob ${t}`,
+  loadFail:"Podatkov ni bilo mogoče naložiti. Poskusi znova kasneje.",
+  newBadge:n=>`${n} novih od zadnjega obiska`,
+  notifBody:"Ob vsakem obisku te opozorim na nove dogodke. Za obvestila brez obiska se naroči na RSS.",
+  notifNew:n=>`Kulturko · ${n} novih dogodkov`,
+  noNotif:"Ta brskalnik ne podpira obvestil.",
+  dlgTitle:"Sinhronizacija s koledarjem",
+  dlgSub:"Naročnina se v Google Koledarju samodejno osvežuje — novi dogodki se pojavijo sami, običajno v 12–24 urah.",
+  dlgGcal:"Naroči se v Google Koledarju", dlgIcs:"Prenesi .ics",
+  dlgVenue:v=>`Samo za izbrano prizorišče: `,
+  dlgHint:"Namig: izberi eno prizorišče v filtrih, pa dobiš tudi koledar samo zanj.",
+  dlgManual:"Ročno: v Google Koledarju izberi Drugi koledarji → ＋ → Iz URL-ja in prilepi:",
+  footer:"Kulturko · odprtokodni agregator · podatki se osvežijo vsak dan ob ~6.00",
+  sources:"Viri", srcCount:n=>` · ${n} vira`, addCal:"+ Koledar", newDot:"novo",
+  cats:{music:"Glasba",theatre:"Gledališče",exhibition:"Razstave",film:"Film",
+        kids:"Za otroke",literature:"Knjiga",education:"Izobraževanje",
+        festival:"Festivali",other:"Drugo"},
+  months:["JAN","FEB","MAR","APR","MAJ","JUN","JUL","AVG","SEP","OKT","NOV","DEC"],
+  dows:["nedelja","ponedeljek","torek","sreda","četrtek","petek","sobota"],
+  today:"danes", locale:"sl-SI",
+ },
+ en: {
+  kicker:"Cultural programme · updated daily",
+  h1a:"What's on in", town: t => t,
+  sub:"Every cultural venue's events in one place — theatre, concerts, exhibitions, clubs. No duplicates, one click to your calendar.",
+  sync:"＋ Sync with calendar", notif:"🔔 Notifications",
+  notifOn:"🔔 Notifications on", rss:"RSS of new events",
+  tf:{today:"Today",week:"This week",month:"This month",all:"All"},
+  search:"Search events …", catLabel:"Category", venueLabel:"Venue",
+  empty:"No events match these filters. Try a wider timeframe or clear selections.",
+  status:(n,d,t)=>`${n} events · updated ${d} at ${t}`,
+  loadFail:"Could not load data. Please try again later.",
+  newBadge:n=>`${n} new since your last visit`,
+  notifBody:"You'll be alerted to new events on each visit. For alerts without visiting, subscribe to the RSS feed.",
+  notifNew:n=>`Kulturko · ${n} new events`,
+  noNotif:"This browser does not support notifications.",
+  dlgTitle:"Calendar sync",
+  dlgSub:"The subscription refreshes automatically in Google Calendar — new events appear on their own, usually within 12–24 hours.",
+  dlgGcal:"Subscribe in Google Calendar", dlgIcs:"Download .ics",
+  dlgVenue:v=>`Just the selected venue: `,
+  dlgHint:"Tip: select a single venue in the filters to also get a calendar for that venue only.",
+  dlgManual:"Manually: in Google Calendar choose Other calendars → ＋ → From URL and paste:",
+  footer:"Kulturko · open-source aggregator · data refreshes daily at ~6:00",
+  sources:"Sources", srcCount:n=>` · ${n} sources`, addCal:"+ Calendar", newDot:"new",
+  cats:{music:"Music",theatre:"Theatre",exhibition:"Exhibitions",film:"Film",
+        kids:"For kids",literature:"Books",education:"Learning",
+        festival:"Festivals",other:"Other"},
+  months:["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"],
+  dows:["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+  today:"today", locale:"en-GB",
+ }
+};
+const T = () => I18N[state.lang];
+
+fetch("data/events.json").then(r=>r.json()).then(init).catch(()=>{
+  $("#status").textContent = T().loadFail;
+});
+
+function init(data){
+  state.data = data;
+  buildChips();
+  wireControls();
+  handleNew(data);
+  applyLang();
+  render();
+}
+
+function applyLang(){
+  const t = T();
+  document.documentElement.lang = state.lang;
+  document.title = `Kulturko — ${state.data ? state.data.town : ""}`;
+  document.querySelectorAll("[data-t]").forEach(el=>{
+    const v = t[el.dataset.t];
+    if (typeof v === "string") el.textContent = v;
+  });
+  document.querySelectorAll(".langsw button").forEach(b=>
+    b.setAttribute("aria-pressed", b.dataset.lang === state.lang));
+  $("#townName").textContent = t.town(state.data.town);
+  $("#subBtn").textContent = t.sync;
+  $("#notifBtn").textContent =
+    ("Notification" in window && Notification.permission === "granted")
+    ? t.notifOn : t.notif;
+  $("#q").placeholder = t.search;
+  document.querySelectorAll("#tfSeg button").forEach(b=>
+    b.textContent = t.tf[b.dataset.tf]);
+  $("#catChips").querySelector(".chiplabel").textContent = t.catLabel;
+  $("#venueChips").querySelector(".chiplabel").textContent = t.venueLabel;
+  document.querySelectorAll("#catChips .chip").forEach(b=>{
+    b.querySelector("span").textContent = t.cats[b.dataset.cat] || b.dataset.cat;
+  });
+  const gen = new Date(state.data.generated);
+  $("#status").textContent = t.status(state.data.events.length,
+    gen.toLocaleDateString(t.locale),
+    gen.toLocaleTimeString(t.locale,{hour:"2-digit",minute:"2-digit"}));
+  if (state.freshCount) {
+    $("#newBadge").textContent = t.newBadge(state.freshCount);
+  }
+}
+
+function buildChips(){
+  const data = state.data;
+  // categories present in the data, in a fixed sensible order
+  const order = ["music","theatre","exhibition","film","kids","literature",
+                 "education","festival","other"];
+  const counts = {};
+  data.events.forEach(e=>{ counts[e.category||"other"] =
+                           (counts[e.category||"other"]||0)+1; });
+  const cc = $("#catChips");
+  cc.innerHTML = '<span class="chiplabel"></span>';
+  order.filter(c=>counts[c]).forEach(c=>{
+    const b = document.createElement("button");
+    b.className = "chip c"; b.dataset.cat = c;
+    b.setAttribute("aria-pressed","false");
+    b.innerHTML = `<span></span><small>${counts[c]}</small>`;
+    b.onclick = ()=>{ toggle(state.cats,c);
+      b.setAttribute("aria-pressed", state.cats.has(c)); render(); };
+    cc.appendChild(b);
+  });
+  const vc = $("#venueChips");
+  vc.innerHTML = '<span class="chiplabel"></span>';
+  data.venues.slice(0,12).forEach(v=>{
+    const b = document.createElement("button");
+    b.className = "chip v"; b.setAttribute("aria-pressed","false");
+    b.innerHTML = `${esc(v.name)}<small>${v.count}</small>`;
+    b.onclick = ()=>{ toggle(state.venues, v.name);
+      b.setAttribute("aria-pressed", state.venues.has(v.name)); render(); };
+    vc.appendChild(b);
+  });
+  $("#srcList").textContent = [...new Set(data.events.flatMap(
+    e=>e.all_sources.map(s=>s.name)))].slice(0,8).join(", ");
+}
+
+function wireControls(){
+  document.querySelectorAll(".langsw button").forEach(b=>{
+    b.onclick = ()=>{ state.lang = b.dataset.lang;
+      localStorage.setItem("kulturko-lang", state.lang);
+      applyLang(); render(); };
+  });
+  const base = location.href.replace(/index\.html.*$/,"").replace(/[#?].*$/,"");
+  const icsAbs = base + "data/events.ics";
+  $("#icsUrl").textContent = icsAbs;
+  $("#icsDl").href = "data/events.ics";
+  $("#gcalSub").href = "https://calendar.google.com/calendar/r?cid=" +
+      encodeURIComponent(icsAbs.replace(/^https?:/,"webcal:"));
+  $("#subBtn").onclick = ()=>{
+    const vs=[...state.venues];
+    $("#venueIcsHint").innerHTML = vs.length===1
+      ? T().dlgVenue(vs[0]) +
+        `<a href="data/venues/${slug(vs[0])}.ics">${esc(vs[0])}.ics</a>`
+      : T().dlgHint;
+    subDlg.showModal();
+  };
+  $("#notifBtn").onclick = async ()=>{
+    if(!("Notification" in window)) return alert(T().noNotif);
+    const p = await Notification.requestPermission();
+    $("#notifBtn").textContent = p==="granted" ? T().notifOn : T().notif;
+    if(p==="granted") new Notification("Kulturko", {body:T().notifBody});
+  };
+  document.querySelectorAll("#tfSeg button").forEach(b=>{
+    b.onclick = ()=>{
+      document.querySelectorAll("#tfSeg button").forEach(x=>
+        x.setAttribute("aria-pressed","false"));
+      b.setAttribute("aria-pressed","true"); state.tf = b.dataset.tf; render();
+    };
+  });
+  $("#q").oninput = e=>{ state.q = e.target.value.trim().toLowerCase(); render(); };
+}
+
+function handleNew(data){
+  let seen = [];
+  try{ seen = JSON.parse(localStorage.getItem(seenKey)||"[]"); }catch(e){}
+  const seenSet = new Set(seen);
+  const fresh = data.events.filter(e=>!seenSet.has(e.id));
+  state.newIds = new Set(seen.length ? fresh.map(e=>e.id) : []);
+  if(seen.length && fresh.length){
+    state.freshCount = fresh.length;
+    $("#newBadge").style.display="inline-block";
+    if("Notification" in window && Notification.permission==="granted"){
+      new Notification(T().notifNew(fresh.length),
+        {body: fresh.slice(0,3).map(e=>e.title).join(" · ")});
+    }
+  }
+  localStorage.setItem(seenKey, JSON.stringify(data.events.map(e=>e.id)));
+}
+
+function render(){
+  const t = T();
+  const now = new Date();
+  const startOfDay = new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  let hi = null;
+  if(state.tf==="today") hi = addDays(startOfDay,1);
+  if(state.tf==="week")  hi = addDays(startOfDay,7);
+  if(state.tf==="month") hi = addDays(startOfDay,31);
+
+  const evs = state.data.events.filter(e=>{
+    const d = new Date(e.start);
+    if(d < startOfDay) return false;
+    if(hi && d >= hi) return false;
+    if(state.venues.size && !state.venues.has(e.venue)) return false;
+    if(state.cats.size && !state.cats.has(e.category||"other")) return false;
+    if(state.q && !(e.title+" "+e.venue+" "+(e.description||""))
+        .toLowerCase().includes(state.q)) return false;
+    return true;
+  });
+
+  const byDay = {};
+  evs.forEach(e=>{ (byDay[e.start.slice(0,10)] ||= []).push(e); });
+  const days = Object.keys(byDay).sort();
+  const todayISO = [startOfDay.getFullYear(),
+    String(startOfDay.getMonth()+1).padStart(2,"0"),
+    String(startOfDay.getDate()).padStart(2,"0")].join("-");
+
+  $("#empty").hidden = days.length>0;
+  $("#list").innerHTML = days.map(day=>{
+    const d = new Date(day+"T12:00");
+    const isToday = day===todayISO;
+    return `<section class="day${isToday?" today":""}">
+      <div class="daymark">
+        <span class="dnum">${d.getDate()}</span>
+        <span class="dmon">${t.months[d.getMonth()]} ${d.getFullYear()!==now.getFullYear()?d.getFullYear():""}</span>
+        <span class="dow">${t.dows[d.getDay()]}${isToday?` · ${t.today}`:""}</span>
+      </div>
+      <div class="evlist">${byDay[day].map(evHtml).join("")}</div>
+    </section>`;
+  }).join("");
+}
+
+function evHtml(e){
+  const t = T();
+  const time = e.start.slice(11,16);
+  const srcs = e.all_sources.length>1 ? t.srcCount(e.all_sources.length) : "";
+  const cat = e.category && e.category!=="other"
+    ? `<span class="cat">${esc(t.cats[e.category]||e.category)}</span>` : "";
+  return `<article class="ev">
+    <span class="time">${time}</span>
+    <h3><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>${state.newIds&&state.newIds.has(e.id)?`<span class="isnew" title="${t.newDot}"></span>`:""}</h3>
+    <a class="gcal" href="${gcalLink(e)}" target="_blank" rel="noopener">${t.addCal}</a>
+    <span class="meta"><span class="venue">${esc(e.venue||"—")}</span>${cat}<span>${esc(e.source_name)}${srcs}</span></span>
+  </article>`;
+}
+
+function gcalLink(e){
+  const s = e.start.replace(/[-:]/g,"").slice(0,15);
+  const endIso = e.end || new Date(new Date(e.start).getTime()+72e5)
+                  .toISOString().slice(0,19);
+  const en = endIso.replace(/[-:]/g,"").slice(0,15);
+  return "https://calendar.google.com/calendar/render?action=TEMPLATE"+
+    `&text=${encodeURIComponent(e.title)}`+
+    `&dates=${s}/${en}`+
+    `&location=${encodeURIComponent(e.venue||"")}`+
+    `&details=${encodeURIComponent((e.description||"").slice(0,200)+"\n"+e.url)}`+
+    `&ctz=${encodeURIComponent(state.data.timezone)}`;
+}
+
+const addDays = (d,n)=>new Date(d.getTime()+n*864e5);
+const toggle = (set,v)=> set.has(v)?set.delete(v):set.add(v);
+const esc = s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const slug = s=>s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const subDlg = document.getElementById("subDlg");
+</script>
+</body>
+</html>

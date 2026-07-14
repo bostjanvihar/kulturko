@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kultura Maribor
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bbbb737711106482@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260712T170000
+DTEND;TZID=Europe/Ljubljana:20260712T190000
+SUMMARY:[demo] Lutkovna predstava za otroke
+LOCATION:Minoriti
+DESCRIPTION:Demo vnos. https://www.minoriti.si/dogodki
+URL:https://www.minoriti.si/dogodki
+END:VEVENT
+BEGIN:VEVENT
+UID:632787cc401e2074@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260712T190000
+DTEND;TZID=Europe/Ljubljana:20260712T210000
+SUMMARY:[demo] Večer komorne glasbe
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Demo vnos — koncert. Podatki se zamenjajo ob prvem zagonu. https://www.nd-mb.si
+URL:https://www.nd-mb.si
+END:VEVENT
+BEGIN:VEVENT
+UID:a76ada6c6767949f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260713T220000
+DTEND;TZID=Europe/Ljubljana:20260714T000000
+SUMMARY:[demo] Klubski večer: DJ set
+LOCATION:Klub KGB
+DESCRIPTION:Demo vnos. https://klub-kgb.si/dogodki
+URL:https://klub-kgb.si/dogodki
+END:VEVENT
+BEGIN:VEVENT
+UID:21fde0adb7823ba9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260714T180000
+DTEND;TZID=Europe/Ljubljana:20260714T200000
+SUMMARY:[demo] Odprtje razstave
+LOCATION:GT22
+DESCRIPTION:Demo vnos. https://gt22.si/program/
+URL:https://gt22.si/program/
+END:VEVENT
+BEGIN:VEVENT
+UID:1833128cc0eb6408@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T200000
+DTEND;TZID=Europe/Ljubljana:20260715T220000
+SUMMARY:[demo] Stand-up večer
+LOCATION:ŠTUK
+DESCRIPTION:Demo vnos. https://vstopnice.stuk.org/
+URL:https://vstopnice.stuk.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a13d2478d396018@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260716T193000
+DTEND;TZID=Europe/Ljubljana:20260716T213000
+SUMMARY:[demo] Operna premiera
+LOCATION:SNG Maribor
+DESCRIPTION:Demo vnos. https://www.sng-mb.si/program/
+URL:https://www.sng-mb.si/program/
+END:VEVENT
+BEGIN:VEVENT
+UID:a451c8a3dce40ee0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260717T190000
+DTEND;TZID=Europe/Ljubljana:20260717T210000
+SUMMARY:[demo] Literarni večer ob vinu
+LOCATION:Rozmarin
+DESCRIPTION:Demo vnos. https://www.rozmaringroup.si/dogodki
+URL:https://www.rozmaringroup.si/dogodki
+END:VEVENT
+BEGIN:VEVENT
+UID:ee197e498277dc80@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T200000
+DTEND;TZID=Europe/Ljubljana:20261010T220000
+SUMMARY:Luka Basi
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30028376
+URL:https://dogodki.kulturnik.si/gcal/30028376
+END:VEVENT
+BEGIN:VEVENT
+UID:9265e53afc630a2e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T200000
+DTEND;TZID=Europe/Ljubljana:20261024T220000
+SUMMARY:Tragom Olivera
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30029359
+URL:https://dogodki.kulturnik.si/gcal/30029359
+END:VEVENT
+BEGIN:VEVENT
+UID:18424e995dbadd7f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T200000
+DTEND;TZID=Europe/Ljubljana:20261106T220000
+SUMMARY:Jakov Jozinović
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/29614199
+URL:https://dogodki.kulturnik.si/gcal/29614199
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1e69ed6edf744f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T200000
+DTEND;TZID=Europe/Ljubljana:20261114T220000
+SUMMARY:Željko Bebek
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://dogodki.kulturnik.si/gcal/30028382
+URL:https://dogodki.kulturnik.si/gcal/30028382
+END:VEVENT
+BEGIN:VEVENT
+UID:dda5c253562423d8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:Dejan Vunjak — 40 let Brendijeve glasbe
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+name: Scrape events daily
+
+on:
+  schedule:
+    - cron: "0 4 * * *"     # 04:00 UTC = 05:00/06:00 in Maribor
+  workflow_dispatch: {}      # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run scraper
+        env:
+          FB_TOKEN: ${{ secrets.FB_TOKEN }}   # optional
+        run: python -m scraper.main
+      - name: Commit updated data
+        run: |
+          git config user.name "kulturko-bot"
+          git config user.email "actions@github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "data: daily update $(date -u +%F)"
+          git push

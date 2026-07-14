@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Klub KGB — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a76ada6c6767949f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260713T220000
+DTEND;TZID=Europe/Ljubljana:20260714T000000
+SUMMARY:[demo] Klubski večer: DJ set
+LOCATION:Klub KGB
+DESCRIPTION:Demo vnos. https://klub-kgb.si/dogodki
+URL:https://klub-kgb.si/dogodki
+END:VEVENT
+END:VCALENDAR
