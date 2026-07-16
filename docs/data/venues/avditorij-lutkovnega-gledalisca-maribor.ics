@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Avditorij Lutkovnega gledališča Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ab7af59b6ac61868@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260722T200000
+DTEND;TZID=Europe/Ljubljana:20260722T200000
+SUMMARY:Poletje v Minoritih: Etno Histeria
+LOCATION:Avditorij Lutkovnega gledališča Maribor
+DESCRIPTION:Etno Histeria World Orchestra je mednarodni projekt\, ki že 20 let združuje vrhunske glasbenike s celega sveta. Po intenzivnem tednu vzajemnega učenja in ustvarjanja v slovenski Istri se v edinstveni zasedbi odpravi na turnejo in na petih koncertih postreže z okusno mineštro skladb iz vsega sveta\, ki https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
+URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
+END:VEVENT
+END:VCALENDAR

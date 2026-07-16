@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Srce štajerske — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6d523312ef26d51e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260720T160000
+DTEND;TZID=Europe/Ljubljana:20260720T180000
+SUMMARY:Počitniške aktivnosti za otroke ter posvet s starši
+LOCATION:Srce štajerske
+DESCRIPTION:Ponedeljek\, 20. julija\n16:00-18:00 – Počitniške aktivnosti za otroke ter posvet s starši\,\nPreradovičeva 43\, Maribor\nObvezne prijave 041 710-277\nMiro Mihec https://mladimaribor.si/dogodek/pocitniske-aktivnosti-za-otroke-ter-posvet-s-starsi/
+URL:https://mladimaribor.si/dogodek/pocitniske-aktivnosti-za-otroke-ter-posvet-s-starsi/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Drava Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:72f6d3760a9c581c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260722T190000
+DTEND;TZID=Europe/Ljubljana:20260722T210000
+SUMMARY:Etno Histeria Floating Orchestra
+LOCATION:Drava Maribor
+DESCRIPTION: https://www.facebook.com/photo?fbid=1634693881990931&set=a.354872346639764
+URL:https://www.facebook.com/photo?fbid=1634693881990931&set=a.354872346639764
+END:VEVENT
+END:VCALENDAR

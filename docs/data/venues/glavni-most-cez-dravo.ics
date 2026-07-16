@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Glavni most čez Dravo — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ef7e2bd6e0063a45@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260711T160000
+DTEND;TZID=Europe/Ljubljana:20260711T200000
+SUMMARY:26. mednarodna tekma v akrobatskih skokih v Dravo
+LOCATION:Glavni most čez Dravo
+DESCRIPTION:Glavni most bo znova prizorišče adrenalinskega spektakla\, ko bodo pogumni tekmovalci z akrobatskimi skoki navduševali obiskovalce ob Dravi.\nPoletni utrip Lenta bo tudi letos popestrila ena najbolj atraktivnih športnih prireditev v Mariboru. Na 26. mednarodni tekmi v akrobatskih skokih v Dravo bodo d https://mladimaribor.si/dogodek/26-mednarodna-tekma-v-akrobatskih-skokih-v-dravo/
+URL:https://mladimaribor.si/dogodek/26-mednarodna-tekma-v-akrobatskih-skokih-v-dravo/
+END:VEVENT
+END:VCALENDAR

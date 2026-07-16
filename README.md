@@ -53,10 +53,16 @@ GitHub Pages
 
 | Source | Adapter | Notes |
 |---|---|---|
-| Kulturnik (Maribor + Dvorana Tabor) | `rss` | Most reliable; also covers many **Facebook-only events**. |
-| Klub KGB, GT22 | `tribe` | WordPress Events Calendar API, with HTML fallback. |
-| Minoriti | `nextjs` | Reads embedded `__NEXT_DATA__` JSON (site is JS-rendered). |
-| Narodni dom, SNG, ŠTUK, Rozmarin, Visit Maribor | `html` (+ JSON-LD auto-detect) | Tries schema.org Event JSON-LD first, then CSS selectors. **Verify selectors after the first run** — check the Actions log; a failing source is logged, never fatal. |
+| Kulturnik (Maribor + Dvorana Tabor) | `rss` | Most reliable; also covers many **Facebook-only events** (GT22, Klub KGB, …). Dates come from `<ical:dtstart>`. |
+| Narodni dom | `wp_v2` | Their `dogodek` custom post type via the standard WP REST API; date/venue read from ACF fields. Also covers Vetrinjski dvor and Dvorana Union. |
+| SNG Maribor | `data_attr` | The program page embeds the season as JSON in `data-events` attributes. |
+| Minoriti / Lutkovno gledališče | `nuxt_payload` | Nuxt 3 site; events parsed from the `__NUXT_DATA__` payload. |
+| ŠTUK | `woo_store` | WooCommerce ticket shop (public Store API); event date parsed from the product description. |
+| MKC Maribor | `squarespace` | Squarespace events collection at `mkc.si/koledar?format=json`. |
+| Mladi Maribor, ZPM Maribor | `tribe` | WordPress Events Calendar REST API. |
+| Klub KGB, Rozmarin, UGM | `html` | CSS-selector scrape. **Verify selectors if a site redesigns** — check the Actions log; a failing source is logged, never fatal. |
+| GT22 | disabled | Site no longer publishes a program; their Facebook events surface via Kulturnik. |
+| Visit Maribor | disabled | Client-side Angular app with no public JSON endpoint; largely covered by Kulturnik. |
 | Facebook pages | `facebook_graph` (disabled) | Facebook blocks anonymous scraping. Either rely on Kulturnik coverage, or get a Graph API token, add it as the `FB_TOKEN` repo secret, and enable a `facebook_graph` source with the page ID. |
 
 If a venue redesigns its site, only its entry in `sources.yaml` (selectors)

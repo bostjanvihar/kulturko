@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mestni park Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d7736d4f25062f0d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260711T100000
+DTEND;TZID=Europe/Ljubljana:20260830T190000
+SUMMARY:Poletni Art kamp
+LOCATION:Mestni park Maribor
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.\nProgram Art kampa nadaljujemo z butičnimi vikend programi Poletnega Art kampa. Med 11. julijem in 30. avgustom 2026\, ob sobotah in nedeljah med 10. in 19. uro vabimo n https://mladimaribor.si/dogodek/poletni-art-kamp/2026-07-11/
+URL:https://mladimaribor.si/dogodek/poletni-art-kamp/2026-07-11/
+END:VEVENT
+END:VCALENDAR

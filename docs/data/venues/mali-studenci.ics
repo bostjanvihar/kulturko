@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mali studenci — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c326b5244bdef6ef@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T100000
+DTEND;TZID=Europe/Ljubljana:20260715T123000
+SUMMARY:Vožnja z mini železnico
+LOCATION:Mali studenci
+DESCRIPTION:Četrtek\, 15. julij\n10:00-12:30 – Vožnja z mini železnico na Malih Studencih (Preradovičeva b. št.\, pred bloki ograja desno) – spremstvo otrok https://mladimaribor.si/dogodek/voznja-z-mini-zeleznico/
+URL:https://mladimaribor.si/dogodek/voznja-z-mini-zeleznico/
+END:VEVENT
+END:VCALENDAR

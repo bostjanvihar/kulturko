@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pod hrastom — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:0ed6476c4821a716@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260723T200000
+DTEND;TZID=Europe/Ljubljana:20260723T220000
+SUMMARY:Poletje v Minoritih: 울림 (oollim) trio
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
+END:VEVENT
+BEGIN:VEVENT
+UID:c4226494a9345f32@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T200000
+DTEND;TZID=Europe/Ljubljana:20260821T220000
+SUMMARY:Poletje v Minoritih: SLON IN SADEŽ
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
+END:VEVENT
+END:VCALENDAR

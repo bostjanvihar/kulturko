@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Rozamunda Studio Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:260036692d4bc1ec@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260710T120000
+DTEND;TZID=Europe/Ljubljana:20260710T180000
+SUMMARY:KPŠ poletje: Tattoo Flash Day
+LOCATION:Rozamunda Studio Maribor
+DESCRIPTION:Ščeš meti tattoo\, pa nejsi siguren\, če bi rezervejro termin?\nPridi na naš walk-in Flash Day in zberaj med pripravlenimi flash designi ali pa predlagaj svojo menšo idejo. Ob 17:00 pa se nan pridruži še henna artistka za vse tiste\, ka bi radi probali nekaj začasnoga.\nČlani KPŠ majo 20% popust\, vsi ost https://mladimaribor.si/dogodek/kps-poletje-tattoo-flash-day/
+URL:https://mladimaribor.si/dogodek/kps-poletje-tattoo-flash-day/
+END:VEVENT
+END:VCALENDAR

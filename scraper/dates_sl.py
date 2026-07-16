@@ -2,7 +2,8 @@
 
 Handles formats seen on Maribor venue sites:
   "sobota, 10. oktober 2026", "10. 10. 2026 ob 20.00", "10.10.2026 20:00",
-  "2026-10-10T20:00:00+02:00", "10. okt 2026", "petek, 6. november ob 19h"
+  "2026-10-10T20:00:00+02:00", "10. okt 2026", "petek, 6. november ob 19h",
+  "7. 7. 26" (two-digit year), "11.09" (day.month, year from context)
 """
 from __future__ import annotations
 import re
@@ -25,7 +26,8 @@ MONTHS = {
 }
 
 _TIME_RE = re.compile(r"(?:ob\s*)?(\d{1,2})[.:](\d{2})|(?:ob\s*)(\d{1,2})\s*h", re.I)
-_NUMERIC_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})")
+_NUMERIC_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{2,4})")
+_NUMERIC_NOYEAR_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\b\.?(?!\s*\d)")
 _TEXT_RE = re.compile(r"(\d{1,2})\.\s*([a-zčšž]+)\s*(\d{4})?", re.I)
 
 
@@ -39,6 +41,19 @@ def _find_time(text: str):
         h, mi = int(m.group(3)), 0
     if 0 <= h <= 23 and 0 <= mi <= 59:
         return h, mi
+    return None
+
+
+def _next_occurrence(mo: int, d: int, t) -> Optional[datetime]:
+    """Date without a year: assume the next time this day/month comes up."""
+    now = datetime.now()
+    for y in (now.year, now.year + 1):
+        try:
+            cand = datetime(y, mo, d, *t)
+        except ValueError:
+            continue
+        if cand >= now.replace(hour=0, minute=0):
+            return cand
     return None
 
 
@@ -58,15 +73,18 @@ def parse_sl_datetime(text: str, default_year: Optional[int] = None,
         except ValueError:
             pass
 
-    m = _NUMERIC_RE.search(text)          # 10. 10. 2026
+    m = _NUMERIC_RE.search(text)          # 10. 10. 2026 / 7. 7. 26
     if m:
         d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
-        rest = text[:m.start()] + " " + text[m.end():]
-        t = _find_time(rest) or default_time
-        try:
-            return datetime(y, mo, d, *t)
-        except ValueError:
-            return None
+        if y < 100:
+            y += 2000
+        if 1 <= mo <= 12 and 1 <= d <= 31:
+            rest = text[:m.start()] + " " + text[m.end():]
+            t = _find_time(rest) or default_time
+            try:
+                return datetime(y, mo, d, *t)
+            except ValueError:
+                return None
 
     t = _find_time(text) or default_time
 
@@ -81,13 +99,23 @@ def parse_sl_datetime(text: str, default_year: Optional[int] = None,
             except ValueError:
                 return None
         if mo and default_year is None:
-            # no year given: pick the next occurrence
-            now = datetime.now()
-            for y in (now.year, now.year + 1):
+            cand = _next_occurrence(mo, d, t)
+            if cand:
+                return cand
+
+    m = _NUMERIC_NOYEAR_RE.search(text)   # "11.09" / "8. 11." (no year)
+    if m:
+        d, mo = int(m.group(1)), int(m.group(2))
+        # skip obvious times like "ob 20.00"
+        preceded_by_ob = re.search(r"\bob\s*$", text[:m.start()], re.I)
+        if 1 <= mo <= 12 and 1 <= d <= 31 and not preceded_by_ob:
+            # the matched text is the date — look for a time elsewhere
+            rest = text[:m.start()] + " " + text[m.end():]
+            t = _find_time(rest) or default_time
+            if default_year:
                 try:
-                    cand = datetime(y, mo, d, *t)
+                    return datetime(default_year, mo, d, *t)
                 except ValueError:
-                    continue
-                if cand >= now.replace(hour=0, minute=0):
-                    return cand
+                    return None
+            return _next_occurrence(mo, d, t)
     return None

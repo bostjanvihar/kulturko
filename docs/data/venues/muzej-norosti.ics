@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Muzej norosti — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c9f923a300f98747@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260710T090000
+DTEND;TZID=Europe/Ljubljana:20260712T140000
+SUMMARY:Festival norosti 2026
+LOCATION:Muzej norosti
+DESCRIPTION:Festival norosti – Tridnevni dogodek v Muzeju norosti v središče postavlja vprašanje odnosa\, ki ga imamo kot družba do ljudi s težavami v duševnem zdravju.\nStrokovni posvet in pogovori\, vodstva po Muzeju norosti\, koncerti\, gledališče in razstave ki bodo udeleženke in udeležence spodbudili k temeljni https://mladimaribor.si/dogodek/festival-norosti-2026/
+URL:https://mladimaribor.si/dogodek/festival-norosti-2026/
+END:VEVENT
+END:VCALENDAR

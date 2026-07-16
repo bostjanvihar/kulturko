@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Trg Miloša Zidanška 1\, Maribor\, Slovenia — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d7486497c5adcc9d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260713T093000
+DTEND;TZID=Europe/Ljubljana:20260713T093000
+SUMMARY:Srečanje z Ivo Grajfoner
+LOCATION:Trg Miloša Zidanška 1\, Maribor\, Slovenia
+DESCRIPTION:Iva Grajfoner\, “Tudi ti\, globoko v sebi”\n\nVljudno vabljeni na srečanje z likovno ustvarjalko Ivo Grajfoner\, v ponedeljek\, 13. 7. 2026\, ob 9.30 uri\, v avlo II. gimnazije Maribor.\n\nVabljeni! https://mladimaribor.si/dogodek/srecanje-z-ivo-grajfoner/
+URL:https://mladimaribor.si/dogodek/srecanje-z-ivo-grajfoner/
+END:VEVENT
+END:VCALENDAR

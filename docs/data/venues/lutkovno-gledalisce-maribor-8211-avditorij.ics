@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Lutkovno gledališče Maribor &#8211\; Avditorij — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9febf61054380bc6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T100000
+DTEND;TZID=Europe/Ljubljana:20260814T100000
+SUMMARY:37. Poletni lutkovni pristan
+LOCATION:Lutkovno gledališče Maribor &#8211\; Avditorij
+DESCRIPTION:Od leta 1990 Lutkovno gledališče Maribor organizira mednarodni festival Poletni lutkovni pristan\, ki ostaja stalnica poletnega dogajanja v mestu. Meseca avgusta vsako leto si odličen program ogleda več tisoč obiskovalcev. V prvi vrsti seveda ponuja najboljše tuje in domače lutkovne predstave za otro https://mladimaribor.si/dogodek/37-poletni-lutkovni-pristan/
+URL:https://mladimaribor.si/dogodek/37-poletni-lutkovni-pristan/
+END:VEVENT
+END:VCALENDAR

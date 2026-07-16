@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Letni avditorij LGM Minoriti\, Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:1387c40eee89e607@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T210000
+DTEND;TZID=Europe/Ljubljana:20260715T210000
+SUMMARY:Letni kino Minoriti: Še eno rundo\, pa greva (Le città di pianura)
+LOCATION:Letni avditorij LGM Minoriti\, Maribor
+DESCRIPTION:Otvoritev in mariborska premiera\nŠE ENO RUNDO\, PA GREVA (Le città di pianura)\nFrancesco Sossai / Italija\, Nemčija / 2025 / 100 min / italijanščina s slo. in ang. podnapisi\nCarlobianchi in Doriano\, dva petdesetletnika brez denarja in z življenjsko filozofijo »nikoli ne zavrni zadnjega kozarčka«\, spoz https://mladimaribor.si/dogodek/letni-kino-minoriti-se-eno-rundo-pa-greva-le-citta-di-pianura/
+URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-se-eno-rundo-pa-greva-le-citta-di-pianura/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d67c85f6d140d9c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260717T200000
+DTEND;TZID=Europe/Ljubljana:20260717T200000
+SUMMARY:Poletje v Minoritih: KOALA VOICE
+LOCATION:Letni avditorij LGM Minoriti\, Maribor
+DESCRIPTION:Koala Voice v letu 2026\, po tem\, ko so lani zabeležili 15. obletnico delovanja in 10. od izdaje prvenca Kangaroo’s a neighbour\, nadaljujejo koncertni pohod. Na odru nam bodo predstavili mešanico vseh petih studijskih albumov vključno z zadnjim petim imenovanim – Auf Wiedersehen\, s katerega prepoznam https://mladimaribor.si/dogodek/poletje-v-minoritih-koala-voice/
+URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-koala-voice/
+END:VEVENT
+END:VCALENDAR

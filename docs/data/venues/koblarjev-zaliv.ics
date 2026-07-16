@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Koblarjev zaliv — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:4ed39720ea23d0b1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T180000
+DTEND;TZID=Europe/Ljubljana:20260821T180000
+SUMMARY:Pilates na splavu
+LOCATION:Koblarjev zaliv
+DESCRIPTION:Ker je pilates na trdnih tleh postal že čisto prelahek\, bomo tokrat svoje ravnotežje preizkusile na vodi \n\nV avgustu se skupaj z Mariborskimi flosarji odpravljamo na prav poseben poletni dogodek: Pilates na splavu! \nPlovba se začne v Koblarjevem zalivu\, od koder se bomo s splavom zapeljale proti Len https://mladimaribor.si/dogodek/pilates-na-splavu/
+URL:https://mladimaribor.si/dogodek/pilates-na-splavu/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Župnija Sv. Peter pri Mariboru - Malečnik — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:7cc3eac5e68b8654@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T170000
+DTEND;TZID=Europe/Ljubljana:20260918T190000
+SUMMARY:Predvečer v Malečniku
+LOCATION:Župnija Sv. Peter pri Mariboru - Malečnik
+DESCRIPTION:Pred večernim koncertom v bližnji Marijini romarski cerkvi na Gorci bomo zaigrali na vse čute. Prepustite se okusom in vonjem dobrot lokalnih pridelovalcev in vinarjev ter idilični dravski pokrajini z zlatasto zelenimi griči in ozarjenim nebom. Doživetje bodo razgibala glasbena presenečenja – nastop https://nd-mb.si/dogodek/predvecer-v-malecniku-2/
+URL:https://nd-mb.si/dogodek/predvecer-v-malecniku-2/
+END:VEVENT
+END:VCALENDAR

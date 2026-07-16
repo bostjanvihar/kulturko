@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Dvorana generala Maistra — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:eba650cd47d4cc3a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261014T203000
+DTEND;TZID=Europe/Ljubljana:20261014T223000
+SUMMARY:Barcelona Gipsy balKan Orchestra
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Zasedba Barcelona Gipsy BalKan Orchestra (BGKO) se je po štirinajstih letih strastnega ustvarjanja trdno usidrala kot nesporna avtoriteta na svetovni balkanski glasbeni sceni. Njihovo edinstveno prepletanje različnih glasbenih tradicij v prepoznaven zvok je osvojilo srca in misli občinstva po vsem s https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
+URL:https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
+END:VEVENT
+BEGIN:VEVENT
+UID:abd641fcee32d426@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261123T190000
+DTEND;TZID=Europe/Ljubljana:20261123T210000
+SUMMARY:Penziči
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Na mladih svet stoji\, »penziči« so ga pa zgradil.\n\nJaka Šraufciger oz. Vinko Šimek se vrača na slovenske odre\, Boris Kobal tudi\, Franci Kek bo prvič nastopil kot stand-up komik\, Boštjan Meglič – Peška pa je poštarsko uniformo za nekaj časa obesil v omaro. Štiri ikone slovenske komedije\, ki že dese https://nd-mb.si/dogodek/penzici-3/
+URL:https://nd-mb.si/dogodek/penzici-3/
+END:VEVENT
+END:VCALENDAR

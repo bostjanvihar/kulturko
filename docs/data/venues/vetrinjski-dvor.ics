@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vetrinjski dvor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9692fb7fc44852c9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260718T203000
+DTEND;TZID=Europe/Ljubljana:20260718T223000
+SUMMARY:NIRVANA SI Tribute Band v Vetrinjcu
+LOCATION:Vetrinjski dvor
+DESCRIPTION:Cilj novonastale zasedbe je obuditi pravega duha in energijo skupine NIRVANA\, ki je v devetdesetih letih prejšnjega stoletja postavila velik mejnik v svetovni glasbi in uvedla nov žanr "GRUNGE".\n\n Peter Hudnik  (FrozenchilD\, RVR RIVER\, EX KiNG FOO...) in  Matic Ajdič  (San Di Ego\, Billysi...) sta  https://nd-mb.si/dogodek/nirvana-si-tribute-band-v-vetrinjcu-2/
+URL:https://nd-mb.si/dogodek/nirvana-si-tribute-band-v-vetrinjcu-2/
+END:VEVENT
+END:VCALENDAR

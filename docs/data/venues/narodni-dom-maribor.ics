@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Narodni dom Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:632787cc401e2074@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T190000
-DTEND;TZID=Europe/Ljubljana:20260712T210000
-SUMMARY:[demo] Večer komorne glasbe
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Demo vnos — koncert. Podatki se zamenjajo ob prvem zagonu. https://www.nd-mb.si
-URL:https://www.nd-mb.si
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Narodni dom Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9c96443a530d5654@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T150000
+DTEND;TZID=Europe/Ljubljana:20261008T170000
+SUMMARY:Tolkala od blizu
+LOCATION:Narodni dom Maribor
+DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Tolkala so glasbila\, na katera igramo tako\, da z roko ali s paličastimi pripravami (tolkalci) udarjamo nanje. To poimenovanje izhaja iz načina igranja na te inštrumente\, sicer pa  https://nd-mb.si/dogodek/tolkala-od-blizu/
+URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
+END:VEVENT
+END:VCALENDAR

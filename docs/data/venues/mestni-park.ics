@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mestni park — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6a7cd65e05c116af@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260711T100000
+DTEND;TZID=Europe/Ljubljana:20260711T120000
+SUMMARY:Poletni Art kamp • Vile v jami Vilenica
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-vile-v-jami-vilenica/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-vile-v-jami-vilenica/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a3582a46fbc860@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260712T100000
+DTEND;TZID=Europe/Ljubljana:20260712T120000
+SUMMARY:Poletni Art kamp • Začarani čajnik
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-zacarani-cajnik/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-zacarani-cajnik/
+END:VEVENT
+BEGIN:VEVENT
+UID:6d55547cd015e88b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260718T100000
+DTEND;TZID=Europe/Ljubljana:20260718T120000
+SUMMARY:Poletni Art kamp • Svetlica
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-svetlica/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-svetlica/
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe490d0b44f664f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260719T100000
+DTEND;TZID=Europe/Ljubljana:20260719T120000
+SUMMARY:Poletni Art kamp • Zvočna kuhna
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-zvocna-kuhna/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-zvocna-kuhna/
+END:VEVENT
+BEGIN:VEVENT
+UID:3802e682333b1c96@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260725T100000
+DTEND;TZID=Europe/Ljubljana:20260725T120000
+SUMMARY:Poletni Art kamp • Lačna čna
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-lacna-cna/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-lacna-cna/
+END:VEVENT
+BEGIN:VEVENT
+UID:575e130dfd0a8c79@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260726T100000
+DTEND;TZID=Europe/Ljubljana:20260726T120000
+SUMMARY:Poletni Art kamp • Velikani Istre
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-velikani-istre/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-velikani-istre/
+END:VEVENT
+BEGIN:VEVENT
+UID:64a5ede859a1d6e5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260801T100000
+DTEND;TZID=Europe/Ljubljana:20260801T120000
+SUMMARY:Poletni Art kamp • Zgodba o Tončku in Jurčku
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-zgodba-o-toncku-in-jurcku/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-zgodba-o-toncku-in-jurcku/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b108f906b672a92@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260802T100000
+DTEND;TZID=Europe/Ljubljana:20260802T120000
+SUMMARY:Poletni Art kamp • Nesem sončnico na rami
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-nesem-soncnico-na-rami/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-nesem-soncnico-na-rami/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d291410a041978@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260802T103000
+DTEND;TZID=Europe/Ljubljana:20260802T123000
+SUMMARY:Glasbeni duet Zala Črešnik in Marko Zaletelj
+LOCATION:Mestni park
+DESCRIPTION:Zala Črešnik je pevka\, ki se uveljavlja na koroški glasbeni sceni kot pevka jazza\, ljudske glasbe in slovenske avtorske glasbe.  Sodeluje z uveljavljenimi koroškimi jazzovskimi glasbeniki ter se izobražuje na področju jazz vokala in jazz kitare.\n\nPrirejanje koncertov v mestnem parku ima bogato tra https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
+URL:https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
+END:VEVENT
+BEGIN:VEVENT
+UID:577146f7493f867e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260808T100000
+DTEND;TZID=Europe/Ljubljana:20260808T120000
+SUMMARY:Poletni Art kamp • Radovednica iz čebelnjaka
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-radovednica-iz-cebelnjaka/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-radovednica-iz-cebelnjaka/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a6c89aa3f54626@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T100000
+DTEND;TZID=Europe/Ljubljana:20260809T120000
+SUMMARY:Poletni Art kamp • Gusar Berto
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-gusar-berto/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-gusar-berto/
+END:VEVENT
+BEGIN:VEVENT
+UID:d45d647523cc7df2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T103000
+DTEND;TZID=Europe/Ljubljana:20260809T123000
+SUMMARY:Frajhajmska godba na pihala
+LOCATION:Mestni park
+DESCRIPTION:Frajhajmska godba na pihala je ena izmed najstarejših godb v Sloveniji\, prihodnje leto pa bo praznovala dvestoto obletnico delovanja.\n\nNjeni začetki so povezani z glažutarstvom na Pohorju. Ko je podjetnik Hieronim Gürtler ustanovil Staro Glažuto\, je med delavci z Dunaja zaposlil tudi Simona Juriča https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
+URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:efe0962793e76ecd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T100000
+DTEND;TZID=Europe/Ljubljana:20260815T120000
+SUMMARY:Poletni Art kamp • Kovčekteta na obisku
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-kovcekteta-na-obisku/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-kovcekteta-na-obisku/
+END:VEVENT
+BEGIN:VEVENT
+UID:b898880cab305512@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T100000
+DTEND;TZID=Europe/Ljubljana:20260816T120000
+SUMMARY:Poletni Art kamp • Fuj\, gosenica!
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-fuj-gosenica/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-fuj-gosenica/
+END:VEVENT
+BEGIN:VEVENT
+UID:61664a5523c9adea@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T103000
+DTEND;TZID=Europe/Ljubljana:20260816T123000
+SUMMARY:Pihalni orkester Gornja Radgona
+LOCATION:Mestni park
+DESCRIPTION:Prvi zapis o nastopanju godbe sega v leto 1911\, ko se Radgona prvič omenja kot trg. Takrat je bila godba prvič omenjena tudi v tedanjem časopisu. Kulturno društvo pihalni orkester Gornja Radgona se razvija v skladu z možnostmi in potrebami časa.\nOrkester se redno udeležuje revij in tekmovanj pihaln https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
+URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:b25fbc43df5527c9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T100000
+DTEND;TZID=Europe/Ljubljana:20260822T120000
+SUMMARY:Poletni Art kamp • Vsem ljudem nikoli ne ustežeš
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes/
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb8583377f6cf7f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T103000
+DTEND;TZID=Europe/Ljubljana:20260823T123000
+SUMMARY:Godba na pihala KUD Janko Živko Poljčane
+LOCATION:Mestni park
+DESCRIPTION:Godba na pihala spada med dejavnejše sekcije KUD-a. Po starosti članov se uvršča med mlajše zasedbe\, saj se je članstvo v zadnjih letih precej pomladilo in spremenilo. S tem se je razširil tudi repertoar\, ki poleg značilnih koračnic vključuje še priredbe drugih glasbenih zvrsti. Člani godbe so zelo  https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
+URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1eb08dbd65924ed@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T180000
+DTEND;TZID=Europe/Ljubljana:20260823T200000
+SUMMARY:Poletni Art kamp • Srčno
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-srcno/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-srcno/
+END:VEVENT
+BEGIN:VEVENT
+UID:84659f1e5df017f7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T100000
+DTEND;TZID=Europe/Ljubljana:20260829T120000
+SUMMARY:Poletni Art kamp • V ~ DIH ~ IZ ~ DIH ~ OD ~ DIH
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-v-dih-iz-dih-od-dih/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-v-dih-iz-dih-od-dih/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1bf3c798b828e64@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T100000
+DTEND;TZID=Europe/Ljubljana:20260830T120000
+SUMMARY:Poletni Art kamp • Krog v kvadratnem mestu
+LOCATION:Mestni park
+DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-krog-v-kvadratnem-mestu/
+URL:https://nd-mb.si/dogodek/poletni-art-kamp-krog-v-kvadratnem-mestu/
+END:VEVENT
+BEGIN:VEVENT
+UID:64235a2f7074ca03@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T103000
+DTEND;TZID=Europe/Ljubljana:20260830T123000
+SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
+LOCATION:Mestni park
+DESCRIPTION:Začetki pihalnega orkestra MOL segajo v september leta 1992\, ko se je na prvi seji sestal upravni odbor društva MOL iz Lenarta. Takoj so začeli pridobivati člane\, med katerimi so bili predvsem učenci Glasbene šole Lenart\, pridružili pa so se jim tudi starejši ljubiteljski glasbeniki z območja nekdan https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
+URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae88ecfed3fa8b6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260906T103000
+DTEND;TZID=Europe/Ljubljana:20260906T123000
+SUMMARY:Pihalni orkester Pošta Maribor
+LOCATION:Mestni park
+DESCRIPTION:Pihalni orkester Pošta Maribor je bil ustanovljen leta 1931. Danes šteje 80 članov in je uvrščen v najzahtevnejšo kakovostno skupino. Z raznovrstnim repertoarjem je usmerjen predvsem v koncertno glasbo in simfonični zvok. Pri svojem umetniškem delovanju pogosto sodeluje z uglednimi glasbenimi gosti\, https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
+URL:https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
+END:VEVENT
+END:VCALENDAR

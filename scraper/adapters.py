@@ -11,8 +11,9 @@ import logging
 import os
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -22,9 +23,12 @@ from .dates_sl import parse_sl_datetime
 
 log = logging.getLogger("kulturko")
 
-UA = ("Mozilla/5.0 (compatible; KulturkoBot/1.0; "
-      "+https://github.com/YOUR-USERNAME/maribor-events)")
-TIMEOUT = 30
+# Browser-like UA (several venue sites block obvious bots) with a bot hint
+# and contact URL appended, per scraping etiquette.
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0 Safari/537.36 "
+      "KulturkoBot/1.0 (+https://github.com/bostjanvihar/kulturko)")
+TIMEOUT = 45
 
 
 def fetch(url: str, **kw) -> requests.Response:
@@ -32,27 +36,40 @@ def fetch(url: str, **kw) -> requests.Response:
                                    "Accept-Language": "sl,en;q=0.8"},
                      timeout=TIMEOUT, **kw)
     r.raise_for_status()
+    # requests falls back to ISO-8859-1 when the header omits charset;
+    # modern sites are UTF-8 (fixes mojibake on e.g. klub-kgb.si)
+    ct = r.headers.get("content-type", "").lower()
+    if "charset" not in ct and (r.encoding or "").lower() in ("iso-8859-1", ""):
+        r.encoding = "utf-8"
     return r
 
 
 # ---------------------------------------------------------------- RSS
+def _localname(tag: str) -> str:
+    """'{http://ns}dtstart' -> 'dtstart' (namespace-agnostic matching)."""
+    return tag.rsplit("}", 1)[-1].lower()
+
+
 def adapter_rss(src: dict) -> list[Event]:
     xml = fetch(src["url"]).content
     root = ET.fromstring(xml)
     events = []
-    ns = {"atom": "http://www.w3.org/2005/Atom",
-          "ev": "http://purl.org/rss/1.0/modules/event/"}
-    items = root.findall(".//item") or root.findall(".//atom:entry", ns)
+    items = [el for el in root.iter() if _localname(el.tag) in ("item", "entry")]
     for it in items:
-        def g(tag):
-            el = it.find(tag) if not tag.startswith("atom:") else it.find(tag, ns)
-            return (el.text or "").strip() if el is not None and el.text else ""
-        title = g("title") or g("atom:title")
-        link = g("link") or (it.find("atom:link", ns) is not None
-                             and it.find("atom:link", ns).get("href", "")) or ""
-        desc = re.sub(r"<[^>]+>", " ", g("description") or g("atom:summary"))
-        # event-module start date, else scan description/pubDate
-        start = g("ev:startdate")
+        # collect child elements by local tag name regardless of namespace
+        # (kulturnik uses <ical:dtstart>, others <ev:startdate> etc.)
+        f = {}
+        for child in it:
+            name = _localname(child.tag)
+            text = (child.text or "").strip()
+            if name == "link" and not text:      # Atom <link href="..."/>
+                text = child.get("href", "")
+            if text and name not in f:
+                f[name] = text
+        title = f.get("title", "")
+        link = f.get("link", "")
+        desc = re.sub(r"<[^>]+>", " ", f.get("description") or f.get("summary", ""))
+        start = f.get("dtstart") or f.get("startdate", "")
         dt = None
         if start:
             try:
@@ -65,9 +82,9 @@ def adapter_rss(src: dict) -> list[Event]:
             continue
         venue = src.get("venue", "")
         if not venue:
-            # kulturnik puts "Venue, City" in category or description tail
-            cat = g("category")
-            venue = cat.split(",")[0].strip() if cat else ""
+            # kulturnik puts "Venue, City" in ical:location; else category
+            loc = f.get("location") or f.get("category", "")
+            venue = loc.split(",")[0].strip()
         events.append(Event(title=title, start=dt.isoformat(), venue=venue,
                             url=link, description=desc[:400],
                             source=src["id"], source_name=src["name"]))
@@ -137,7 +154,8 @@ def adapter_jsonld(src: dict) -> list[Event]:
 # ------------------------------------- WordPress "The Events Calendar"
 def adapter_tribe(src: dict) -> list[Event]:
     base = src["url"].rstrip("/")
-    api = f"{base}/wp-json/tribe/events/v1/events?per_page=50"
+    since = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    api = f"{base}/wp-json/tribe/events/v1/events?per_page=50&start_date={since}"
     events, page = [], 1
     while page <= 6:
         r = fetch(f"{api}&page={page}")
@@ -232,22 +250,31 @@ def adapter_html(src: dict) -> list[Event]:
             return ld
     sel = src.get("selectors", {})
     soup = BeautifulSoup(html, "lxml")
+    # honor <base href> (e.g. ugm.si uses root-based relative links)
+    base_el = soup.find("base", href=True)
+    base_url = urljoin(src["url"], base_el["href"]) if base_el else src["url"]
     events = []
     year = datetime.now().year
+    year_re = src.get("year_from_url")   # e.g. '/dogodki/(\\d{4})/'
     for item in soup.select(sel.get("item", "article")):
         t = item.select_one(sel.get("title", "h2, h3"))
         if not t:
             continue
         title = t.get_text(" ", strip=True)
         a = item.select_one(sel.get("url", "a"))
-        url = urljoin(src["url"], a["href"]) if a and a.get("href") else src["url"]
+        url = urljoin(base_url, a["href"]) if a and a.get("href") else src["url"]
         d = item.select_one(sel.get("date", "time, .date"))
         raw = ""
         if d:
             raw = d.get("datetime", "") or d.get_text(" ", strip=True)
         if not raw:
             raw = item.get_text(" ", strip=True)
-        dt = parse_sl_datetime(raw, default_year=year)
+        default_year = year
+        if year_re:
+            m = re.search(year_re, url)
+            if m:
+                default_year = int(m.group(1))
+        dt = parse_sl_datetime(raw, default_year=default_year)
         if dt is None:
             continue
         v = item.select_one(sel.get("venue", ".venue"))
@@ -255,8 +282,294 @@ def adapter_html(src: dict) -> list[Event]:
         img = item.select_one("img")
         events.append(Event(
             title=title, start=dt.isoformat(), venue=venue, url=url,
-            image=urljoin(src["url"], img.get("src", "")) if img else "",
+            image=urljoin(base_url, img.get("src", "")) if img else "",
             source=src["id"], source_name=src["name"]))
+    return events
+
+
+# ------------------------------------------ WordPress custom post type
+def _dot_get(obj, path: str, default=""):
+    """'acf.dogodek.0.Lokacija' -> nested value, '' if any hop missing."""
+    cur = obj
+    for part in path.split("."):
+        if isinstance(cur, list):
+            try:
+                cur = cur[int(part)]
+            except (ValueError, IndexError):
+                return default
+        elif isinstance(cur, dict):
+            cur = cur.get(part)
+        else:
+            return default
+        if cur is None:
+            return default
+    return cur
+
+
+def adapter_wp_v2(src: dict) -> list[Event]:
+    """Standard WP REST API (/wp-json/wp/v2/<rest_base>) for sites that
+    expose events as a custom post type (e.g. Narodni dom's 'dogodek').
+    Event date/venue live in ACF fields — configure dot-paths in the source.
+    """
+    base = src["url"].rstrip("/")
+    rest = src.get("rest_base", "posts")
+    per = int(src.get("per_page", 100))
+    max_pages = int(src.get("max_pages", 4))
+    orderby = src.get("orderby", "modified")
+    events = []
+    for page in range(1, max_pages + 1):
+        r = fetch(f"{base}/wp-json/wp/v2/{rest}"
+                  f"?per_page={per}&page={page}&orderby={orderby}&order=desc")
+        data = r.json()
+        if not isinstance(data, list) or not data:
+            break
+        for e in data:
+            raw_date = str(_dot_get(e, src.get("date_path", "date")))
+            dt = parse_sl_datetime(raw_date)
+            if dt is None:
+                continue
+            title = BeautifulSoup(str(_dot_get(e, "title.rendered")),
+                                  "lxml").get_text(" ", strip=True)
+            if not title:
+                continue
+            venue = ""
+            if src.get("venue_path"):
+                venue = str(_dot_get(e, src["venue_path"])).split(",")[0].strip()
+            desc = re.sub(r"<[^>]+>", " ",
+                          str(_dot_get(e, src.get("desc_path", ""), "")))
+            events.append(Event(
+                title=title, start=dt.isoformat(),
+                venue=venue or src.get("venue", ""),
+                url=e.get("link", base), description=desc[:400].strip(),
+                source=src["id"], source_name=src["name"]))
+        if len(data) < per:
+            break
+    return events
+
+
+# ------------------------------------------------- Squarespace events
+def adapter_squarespace(src: dict) -> list[Event]:
+    """Squarespace event collections expose JSON at <collection>?format=json
+    (e.g. mkc.si/koledar). startDate/endDate are epoch milliseconds UTC."""
+    url = src["url"].rstrip("/")
+    d = fetch(url + "?format=json").json()
+    items = (d.get("upcoming") or []) + (d.get("items") or [])
+    tz = ZoneInfo(src.get("timezone", "Europe/Ljubljana"))
+
+    def ms_to_iso(ms):
+        return datetime.fromtimestamp(ms / 1000, tz).replace(tzinfo=None) \
+                       .isoformat()
+
+    events = []
+    for it in items:
+        ms = it.get("startDate")
+        title = (it.get("title") or "").strip()
+        if not (ms and title):
+            continue
+        loc = it.get("location") or {}
+        events.append(Event(
+            title=title, start=ms_to_iso(ms),
+            end=ms_to_iso(it["endDate"]) if it.get("endDate") else None,
+            venue=loc.get("addressTitle", "") or src.get("venue", ""),
+            url=urljoin(url + "/", it.get("fullUrl", "")),
+            description=re.sub(r"<[^>]+>", " ",
+                               it.get("excerpt", ""))[:400].strip(),
+            image=it.get("assetUrl", ""),
+            category=", ".join((it.get("tags") or [])[:2]),
+            source=src["id"], source_name=src["name"]))
+    return events
+
+
+# --------------------------------------------- Nuxt 3 payload (devalue)
+_NUXT_MARKERS = {"Reactive", "ShallowReactive", "Ref", "ShallowRef",
+                 "EmptyRef", "EmptyShallowRef", "NuxtError", "Set", "Map"}
+_DATE_KEYS = ("dateandtime", "startdate", "start_date", "datum", "date",
+              "start", "zacetek")
+_TITLE_KEYS = ("title", "naslov", "name", "ime")
+
+
+def _devalue_resolve(arr, idx=0, memo=None):
+    """Nuxt 3 serializes state as a flat array where dict values / list
+    elements are integer indices into the same array ('devalue' format)."""
+    if memo is None:
+        memo = {}
+    if idx in memo:
+        return memo[idx]
+    val = arr[idx]
+    if isinstance(val, dict):
+        out = {}
+        memo[idx] = out
+        for k, v in val.items():
+            out[k] = (_devalue_resolve(arr, v, memo)
+                      if isinstance(v, int) and not isinstance(v, bool)
+                      and 0 <= v < len(arr) else v)
+        return out
+    if isinstance(val, list):
+        if val and isinstance(val[0], str) and val[0] in _NUXT_MARKERS:
+            if len(val) > 1 and isinstance(val[1], int):
+                return _devalue_resolve(arr, val[1], memo)
+            return None
+        out = []
+        memo[idx] = out
+        for v in val:
+            out.append(_devalue_resolve(arr, v, memo)
+                       if isinstance(v, int) and not isinstance(v, bool)
+                       and 0 <= v < len(arr) else v)
+        return out
+    return val
+
+
+def _pick_title(d: dict) -> str:
+    for want in _TITLE_KEYS:
+        for k, v in d.items():
+            if k.lower() == want and isinstance(v, str) and v.strip():
+                return v.strip()
+    return ""
+
+
+def adapter_nuxt_payload(src: dict) -> list[Event]:
+    """Nuxt 3 sites (e.g. minoriti.si): event data lives in the
+    __NUXT_DATA__ payload, either inline or behind a data-src URL."""
+    html = fetch(src["url"]).text
+    m = re.search(r'id="__NUXT_DATA__"[^>]*data-src="([^"]+)"', html)
+    if m:
+        payload = fetch(urljoin(src["url"], m.group(1))).json()
+    else:
+        m = re.search(r'<script[^>]*id="__NUXT_DATA__"[^>]*>(.*?)</script>',
+                      html, re.S)
+        if not m:
+            raise RuntimeError("no __NUXT_DATA__ found")
+        payload = json.loads(m.group(1))
+    tree = _devalue_resolve(payload)
+
+    found = []
+
+    def walk(node, depth=0):
+        if depth > 15:
+            return
+        if isinstance(node, dict):
+            lk = {k.lower(): k for k in node}
+            dk = next((lk[k] for k in _DATE_KEYS if k in lk), None)
+            if dk and isinstance(node.get(dk), str):
+                found.append((node, dk))
+            for v in node.values():
+                walk(v, depth + 1)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v, depth + 1)
+
+    walk(tree)
+    events, seen = [], set()
+    for node, dk in found:
+        raw = node[dk]
+        try:
+            dt = datetime.fromisoformat(raw).replace(tzinfo=None)
+        except ValueError:
+            dt = parse_sl_datetime(raw)
+        if dt is None or node.get("cancelled") is True:
+            continue
+        # title on the node itself, or on a nested record (e.g. 'event')
+        title = _pick_title(node)
+        slug = node.get("slug", "")
+        if not title:
+            for v in node.values():
+                if isinstance(v, dict):
+                    t = _pick_title(v)
+                    if t:
+                        title = t
+                        slug = v.get("slug", "") or slug
+                        break
+        if not title:
+            continue
+        venue = src.get("venue", "")
+        loc = node.get("location") or node.get("lokacija")
+        if isinstance(loc, dict):
+            venue = loc.get("name") or loc.get("title") or venue
+        elif isinstance(loc, str) and loc:
+            venue = loc
+        key = (title, dt.isoformat())
+        if key in seen:
+            continue
+        seen.add(key)
+        url = urljoin(src["url"].rstrip("/") + "/", slug) if slug else src["url"]
+        events.append(Event(title=title, start=dt.isoformat(), venue=venue,
+                            url=url,
+                            source=src["id"], source_name=src["name"]))
+    return events
+
+
+# ------------------------------------------- WooCommerce ticket shops
+def adapter_woo_store(src: dict) -> list[Event]:
+    """WooCommerce Store API (public, no auth). Used for ticket shops like
+    vstopnice.stuk.org where each product is an event and the date is in
+    the product description ('Datum: 19. 9. 2026')."""
+    base = src["url"].rstrip("/")
+    products = fetch(f"{base}/wp-json/wc/store/products?per_page=100").json()
+    events = []
+    for p in products:
+        name = BeautifulSoup(p.get("name", ""), "lxml").get_text(" ", strip=True)
+        desc = BeautifulSoup((p.get("short_description") or "") + " " +
+                             (p.get("description") or ""),
+                             "lxml").get_text(" ", strip=True)
+        dt = parse_sl_datetime(desc)
+        if not (name and dt):
+            continue
+        imgs = p.get("images") or []
+        events.append(Event(
+            title=name, start=dt.isoformat(), venue=src.get("venue", ""),
+            url=p.get("permalink", base), description=desc[:400],
+            image=imgs[0].get("src", "") if imgs else "",
+            source=src["id"], source_name=src["name"]))
+    return events
+
+
+# --------------------------------------- JSON embedded in data-* attrs
+def adapter_data_attr(src: dict) -> list[Event]:
+    """Sites that embed their event list as JSON in an HTML attribute,
+    e.g. sng-mb.si: <div class="calendar-table" data-events='[...]'>."""
+    html = fetch(src["url"]).text
+    soup = BeautifulSoup(html, "lxml")
+    sel = src.get("selectors", {}).get("item", "[data-events]")
+    attr = src.get("data_attr", "data-events")
+    events, seen = [], set()
+    for el in soup.select(sel):
+        try:
+            data = json.loads(el.get(attr) or "[]")
+        except json.JSONDecodeError:
+            continue
+        if not isinstance(data, list):
+            continue
+        for d in data:
+            if not isinstance(d, dict):
+                continue
+            title = (d.get("title") or d.get("name") or "").strip()
+            raw = f"{d.get('date', '')} ob {d.get('time', '')}"
+            dt = parse_sl_datetime(raw)
+            if not (title and dt):
+                continue
+            if d.get("is_cancelled"):
+                continue
+            place = d.get("place") or d.get("location") or ""
+            if isinstance(place, list):
+                place = ", ".join(str(x) for x in place)
+            genre = d.get("genre", "")
+            if isinstance(genre, list):
+                genre = ", ".join(str(x) for x in genre)
+            author = d.get("author") or ""
+            key = (title, dt.isoformat())
+            if key in seen:
+                continue
+            seen.add(key)
+            slug = _dot_get(d, "post.post_name")
+            prefix = src.get("event_url_prefix", "")
+            url = (urljoin(src["url"], f"{prefix}{slug}/")
+                   if slug and prefix else src["url"])
+            desc = " · ".join(x for x in (author, place) if x)
+            events.append(Event(
+                title=title, start=dt.isoformat(),
+                venue=src.get("venue", "") or place, url=url,
+                description=desc[:400], category=genre,
+                source=src["id"], source_name=src["name"]))
     return events
 
 
@@ -314,6 +627,11 @@ ADAPTERS = {
     "jsonld": adapter_jsonld,
     "tribe": adapter_tribe,
     "nextjs": adapter_nextjs,
+    "nuxt_payload": adapter_nuxt_payload,
+    "wp_v2": adapter_wp_v2,
+    "squarespace": adapter_squarespace,
+    "woo_store": adapter_woo_store,
+    "data_attr": adapter_data_attr,
     "html": adapter_html,
     "ics": adapter_ics,
     "facebook_graph": adapter_facebook_graph,
@@ -343,5 +661,9 @@ def run_source(src: dict) -> list[Event]:
                 return events
             except Exception as exc2:
                 exc = exc2
-        log.warning("  %-24s FAILED: %s", src["id"], exc)
+        if str(exc) == "0 events":
+            log.info("  %-24s   0 events (source has nothing published)",
+                     src["id"])
+        else:
+            log.warning("  %-24s FAILED: %s", src["id"], exc)
         return []

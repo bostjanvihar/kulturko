@@ -7,7 +7,7 @@
 town: Maribor
 country: Slovenija
 timezone: Europe/Ljubljana
-site_url: http://bostjanvihar.github.io/kulturko   # <-- set after deploying
+site_url: https://bostjanvihar.github.io/kulturko
 locale: sl
 
 # How many days into the past to keep events visible (archive)
@@ -18,11 +18,17 @@ horizon_days: 365
 # ------------------------------------------------------------
 # SOURCES
 # Each source uses one adapter:
-#   rss          — RSS/Atom feed (most reliable)
-#   jsonld       — schema.org Event JSON-LD embedded in pages (very common)
+#   rss          — RSS/Atom feed (most reliable); reads <ical:dtstart>,
+#                  <ev:startdate> etc. regardless of namespace
+#   jsonld       — schema.org Event JSON-LD embedded in pages
 #   tribe        — WordPress "The Events Calendar" REST API (/wp-json/tribe/...)
-#   wp_ics       — WordPress events ICS export (?ical=1)
-#   nextjs       — __NEXT_DATA__ JSON in Next.js sites (e.g. DatoCMS sites)
+#   wp_v2        — standard WP REST API for a custom post type; event date
+#                  and venue are read from ACF fields via dot-paths
+#   squarespace  — Squarespace event collection (<collection>?format=json)
+#   nuxt_payload — Nuxt 3 sites: parses the __NUXT_DATA__ payload
+#   woo_store    — WooCommerce ticket shop (public Store API); event date is
+#                  parsed out of the product description
+#   data_attr    — event list embedded as JSON in an HTML data-* attribute
 #   html         — generic CSS-selector scraper (configure selectors below)
 #   ics          — a plain .ics calendar URL
 #
@@ -39,7 +45,9 @@ sources:
     url: "https://dogodki.kulturnik.si/?where=Maribor&format=rss"
     notes: >
       Kulturnik aggregates Slovenian cultural events including ones
-      announced only on Facebook, so it covers FB-only venues too.
+      announced only on Facebook (GT22, Klub KGB, ...), so it covers
+      FB-only venues too. Dates are in <ical:dtstart>, venue in
+      <ical:location>.
 
   - id: kulturnik-dvorana-tabor
     name: Kulturnik (Dvorana Tabor)
@@ -49,102 +57,111 @@ sources:
 
   - id: visitmaribor
     name: Visit Maribor
+    enabled: false
     adapter: html
     url: "https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/"
-    pagination_param: "page"   # ?page=2 ... (auto-detected if absent)
-    max_pages: 10
-    selectors:
-      item: ".item, .event-item, article"
-      title: "h2, h3, .title"
-      url: "a"
-      date: ".date, time"
-      venue: ".location, .venue"
-    try_jsonld_first: true
+    notes: >
+      Client-side Angular app (Umbraco backend) — the event list is not in
+      the HTML and there is no public JSON endpoint. Most of its content
+      is covered by Kulturnik anyway.
 
   # --- Individual venues ---------------------------------------------
   - id: narodni-dom
     name: Narodni dom Maribor
-    adapter: html
-    url: "https://www.nd-mb.si/narodni-dom-maribor/program-dogodkov-narodni-dom-maribor/"
+    adapter: wp_v2
+    url: "https://nd-mb.si"
     venue: Narodni dom Maribor
-    try_jsonld_first: true
-    selectors:
-      item: "article, .event, .dogodek, li.event-item"
-      title: "h2 a, h3 a, .title a, h2, h3"
-      url: "a"
-      date: "time, .date, .datum"
-      venue: ".venue, .lokacija"
+    rest_base: dogodek          # custom post type at /wp-json/wp/v2/dogodek
+    orderby: modified           # upcoming events are re-synced daily
+    per_page: 100
+    max_pages: 4
+    date_path: "acf.Bliznji_datum"          # "2026-07-31 20:30:00"
+    venue_path: "acf.dogodek.0.Lokacija"    # "Vetrinjski Dvor, Vetrinjska..."
+    desc_path: "acf.vsebina"
+    notes: Covers Narodni dom, Vetrinjski dvor and Dvorana Union events.
 
   - id: minoriti
     name: Lutkovno gledališče Maribor / Minoriti
-    adapter: nextjs
+    adapter: nuxt_payload
     url: "https://www.minoriti.si/dogodki"
     venue: Minoriti
-    nextjs_event_hints: ["dogodki", "events", "allDogodeks", "allEvents"]
 
   - id: klub-kgb
     name: Klub KGB
-    adapter: tribe
-    url: "https://klub-kgb.si"
+    adapter: html
+    url: "https://klub-kgb.si/dogodki"
     venue: Klub KGB
-    fallback:
-      adapter: html
-      url: "https://klub-kgb.si/dogodki"
-      selectors:
-        item: "article, .tribe-events-calendar-list__event, .event"
-        title: "h2 a, h3 a, .tribe-events-calendar-list__event-title a"
-        url: "a"
-        date: "time, .tribe-events-calendar-list__event-datetime"
+    year_from_url: '/dogodki/(\d{4})/'   # links look like /dogodki/2026/sep/slug
+    selectors:
+      item: '[data-slot="carousel-item"]'
+      title: "h3"
+      url: "a"
+      date: "span.text-4xl"              # "11.09" (day.month)
 
   - id: gt22
     name: GT22
-    adapter: tribe
-    url: "https://gt22.si"
+    enabled: false
+    adapter: html
+    url: "https://gt22.si/program/"
     venue: GT22
-    fallback:
-      adapter: html
-      url: "https://gt22.si/program/"
-      selectors:
-        item: "article, .event, .program-item"
-        title: "h2 a, h3 a, h2, h3"
-        url: "a"
-        date: "time, .date"
+    notes: >
+      gt22.si/program is empty — the venue announces events on Facebook
+      only. Those surface through the Kulturnik aggregator above.
 
   - id: rozmarin
     name: Rozmarin
     adapter: html
     url: "https://www.rozmaringroup.si/dogodki"
     venue: Rozmarin
-    try_jsonld_first: true
     selectors:
-      item: ".event, article, .card"
-      title: "h2, h3, .title"
+      item: ".event-item"
+      title: "h6"
       url: "a"
-      date: ".date, time"
+      date: ".item-block__content-date"   # "20.06.2026"
 
   - id: stuk
     name: ŠTUK
-    adapter: html
-    url: "https://vstopnice.stuk.org/"
+    adapter: woo_store
+    url: "https://vstopnice.stuk.org"
     venue: ŠTUK
-    try_jsonld_first: true
-    selectors:
-      item: ".event, .event-card, article, .show"
-      title: "h2, h3, .title, .event-title"
-      url: "a"
-      date: ".date, time, .event-date"
 
   - id: sng-maribor
     name: SNG Maribor
-    adapter: html
+    adapter: data_attr
     url: "https://www.sng-mb.si/program/"
     venue: SNG Maribor
-    try_jsonld_first: true
+    event_url_prefix: "/event/"
     selectors:
-      item: ".event, article, .performance, .predstava"
-      title: "h2 a, h3 a, h2, h3"
+      item: ".calendar-table[data-events]"
+
+  - id: mladi-maribor
+    name: Mladi Maribor
+    adapter: tribe
+    url: "https://mladimaribor.si"
+
+  - id: mkc-maribor
+    name: MKC Maribor
+    adapter: squarespace
+    url: "https://mkc.si/koledar"     # the events collection behind /dogodki
+    venue: MKC Maribor
+
+  - id: zpm-maribor
+    name: ZPM Maribor
+    adapter: tribe
+    url: "https://zpm-mb.si"
+    venue: ZPM Maribor
+    notes: No upcoming events during summer 2026; API works.
+
+  - id: ugm
+    name: Umetnostna galerija Maribor
+    adapter: html
+    url: "https://www.ugm.si/dogodki/"
+    venue: UGM
+    selectors:
+      item: ".event-item"
+      title: "h5"
       url: "a"
-      date: "time, .date, .datum"
+      date: "time"                      # "7. 7. 26–25. 8. 26"
 
   # --- Facebook -------------------------------------------------------
   # Facebook actively blocks scraping and requires a logged-in session

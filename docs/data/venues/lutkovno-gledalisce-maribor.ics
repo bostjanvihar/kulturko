@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c68ee2257d99aac3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T100000
+DTEND;TZID=Europe/Ljubljana:20260814T120000
+SUMMARY:37. Poletni lutkovni pristan
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/poletni-lutkovni-pristan/
+URL:https://www.lg-mb.si/poletni-lutkovni-pristan/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eaee23f749a9ddf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T170000
+DTEND;TZID=Europe/Ljubljana:20260814T190000
+SUMMARY:Ustvarjalnica na otoku - Zverinice iz Rezije
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
+URL:https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
+END:VEVENT
+BEGIN:VEVENT
+UID:893171ea0f76637d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T100000
+DTEND;TZID=Europe/Ljubljana:20260815T120000
+SUMMARY:Zverinice iz rezije
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/zverinice-iz-rezije-1-1/
+URL:https://www.lg-mb.si/gostujoce-predstave/zverinice-iz-rezije-1-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:38c0a8e857dc522d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T110000
+DTEND;TZID=Europe/Ljubljana:20260815T130000
+SUMMARY:Ma Solitud
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ma-solitud/
+URL:https://www.lg-mb.si/gostujoce-predstave/ma-solitud/
+END:VEVENT
+BEGIN:VEVENT
+UID:774320687942cf78@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T210000
+DTEND;TZID=Europe/Ljubljana:20260815T230000
+SUMMARY:Midva\, lutkarja
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/midva-lutkarja-2-2/
+URL:https://www.lg-mb.si/gostujoce-predstave/midva-lutkarja-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bba4201ce8488f3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T093000
+DTEND;TZID=Europe/Ljubljana:20260816T113000
+SUMMARY:Ogrevanje pred zaveso
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+URL:https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba379e121dad3dfd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T100000
+DTEND;TZID=Europe/Ljubljana:20260816T120000
+SUMMARY:O vrabčku\, mišku in palačinki
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/o-vrabcku-misku-in-palacinki-2/
+URL:https://www.lg-mb.si/gostujoce-predstave/o-vrabcku-misku-in-palacinki-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9723972cf3ea48@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T170000
+DTEND;TZID=Europe/Ljubljana:20260820T190000
+SUMMARY:Coprnica Dragica
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/predstave/coprnica-dragica/
+URL:https://www.lg-mb.si/predstave/coprnica-dragica/
+END:VEVENT
+BEGIN:VEVENT
+UID:53806fabee80b4fa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T180000
+DTEND;TZID=Europe/Ljubljana:20260820T200000
+SUMMARY:Huda mravljica iz UGM na coprniji v LGM
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/huda-mravljica-iz-ugm-na-coprniji-v-lgm/
+URL:https://www.lg-mb.si/gostujoce-predstave/huda-mravljica-iz-ugm-na-coprniji-v-lgm/
+END:VEVENT
+BEGIN:VEVENT
+UID:96c2853ceb701163@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T170000
+DTEND;TZID=Europe/Ljubljana:20260821T190000
+SUMMARY:Srčno
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/srno-36806
+URL:https://www.minoriti.si/dogodki/srno-36806
+END:VEVENT
+BEGIN:VEVENT
+UID:820a4ccee89da73c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T100000
+DTEND;TZID=Europe/Ljubljana:20260822T120000
+SUMMARY:Srčno
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/srno-36806
+URL:https://www.minoriti.si/dogodki/srno-36806
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6f2dd25394ec55@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T103000
+DTEND;TZID=Europe/Ljubljana:20260822T123000
+SUMMARY:Ustvarjalnica v Rušah
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/ustvarjalnicavruah-36854
+URL:https://www.minoriti.si/dogodki/ustvarjalnicavruah-36854
+END:VEVENT
+BEGIN:VEVENT
+UID:0d0de8a1e7951ddd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T110000
+DTEND;TZID=Europe/Ljubljana:20260822T130000
+SUMMARY:Lesena ustvarjalnica
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/lesena-ustvarjalnica/
+URL:https://www.lg-mb.si/gostujoce-predstave/lesena-ustvarjalnica/
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc1acbfa080456a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T093000
+DTEND;TZID=Europe/Ljubljana:20260823T113000
+SUMMARY:Ogrevanje pred zaveso
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+URL:https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3064231c15ef08@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T100000
+DTEND;TZID=Europe/Ljubljana:20260823T120000
+SUMMARY:Očka
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ocka/
+URL:https://www.lg-mb.si/gostujoce-predstave/ocka/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4c64d6cb5dc1ad@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T110000
+DTEND;TZID=Europe/Ljubljana:20260823T130000
+SUMMARY:Postavljanka
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/postavljanka-36860
+URL:https://www.minoriti.si/dogodki/postavljanka-36860
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcd1c055a7b0a28@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T180000
+DTEND;TZID=Europe/Ljubljana:20260823T200000
+SUMMARY:Srčno
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/srno-36806
+URL:https://www.minoriti.si/dogodki/srno-36806
+END:VEVENT
+BEGIN:VEVENT
+UID:57ed0a7363c914d5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T170000
+DTEND;TZID=Europe/Ljubljana:20260828T190000
+SUMMARY:Botanični sprehod
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/botaninisprehod-36863
+URL:https://www.minoriti.si/dogodki/botaninisprehod-36863
+END:VEVENT
+BEGIN:VEVENT
+UID:30f50624b8bb5c51@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T180000
+DTEND;TZID=Europe/Ljubljana:20260828T200000
+SUMMARY:Coprnica Dragica
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/coprnicadragica-12937
+URL:https://www.minoriti.si/dogodki/coprnicadragica-12937
+END:VEVENT
+BEGIN:VEVENT
+UID:8140ea49c47c1640@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T200000
+DTEND;TZID=Europe/Ljubljana:20260828T220000
+SUMMARY:Where is the beat
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
+URL:https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:76ddd467627755b6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T210000
+DTEND;TZID=Europe/Ljubljana:20260828T230000
+SUMMARY:The Double Standard
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
+URL:https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
+END:VEVENT
+BEGIN:VEVENT
+UID:41c6dfc497ac5ae5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T100000
+DTEND;TZID=Europe/Ljubljana:20260829T120000
+SUMMARY:Dojenčki so super
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
+URL:https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:daf428ce42132616@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T180000
+DTEND;TZID=Europe/Ljubljana:20260830T200000
+SUMMARY:Krog v kvadratnem mestu
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
+URL:https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
+END:VEVENT
+END:VCALENDAR

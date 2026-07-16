@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:SNG Maribor: Dvorana Ondine Otta Klasinc — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9691c39dd1d42992@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:1. Koncert simfoničnega cikla
+LOCATION:SNG Maribor: Dvorana Ondine Otta Klasinc
+DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
+URL:https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
+END:VEVENT
+END:VCALENDAR

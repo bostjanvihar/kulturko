@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Gorca - Marijina cerkev v Malečniku — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ed0bbef66f616d75@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T193000
+DTEND;TZID=Europe/Ljubljana:20260918T213000
+SUMMARY:Čisto
+LOCATION:Gorca - Marijina cerkev v Malečniku
+DESCRIPTION:Franz Schubert:  Oktet v F-duru\, D 803 \, za klarinet\, fagot\, rog\, dve violini\, violo\, violončelo in kontrabas\n***\nLudwig van Beethoven:  Septet v Es-duru\, op. 20 \, za klarinet\, fagot\, rog\, violino\, violo\, violončelo in kontrabas\n\n&nbsp\;\n\nRomantiko pogosto razumemo kot presežek čustvovanja. Kot https://nd-mb.si/dogodek/cisto/
+URL:https://nd-mb.si/dogodek/cisto/
+END:VEVENT
+END:VCALENDAR
