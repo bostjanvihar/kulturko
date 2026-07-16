@@ -55,6 +55,21 @@ sources:
     url: "https://dogodki.kulturnik.si/?where=Dvorana%20Tabor&format=rss"
     venue: Dvorana Tabor
 
+  - id: kulturnik-gt22
+    name: Kulturnik (GT22)
+    adapter: rss
+    url: "https://dogodki.kulturnik.si/?where=GT22&format=rss"
+    venue: GT22
+    notes: >
+      GT22's own site has no dated program; their scheduled performances
+      (incl. Intimni oder) surface here with real dates.
+
+  - id: kulturnik-pekarna
+    name: Kulturnik (Pekarna)
+    adapter: rss
+    url: "https://dogodki.kulturnik.si/?where=Pekarna&format=rss"
+    venue: MC Pekarna
+
   - id: visitmaribor
     name: Visit Maribor
     enabled: false
@@ -107,6 +122,31 @@ sources:
     notes: >
       gt22.si/program is empty — the venue announces events on Facebook
       only. Those surface through the Kulturnik aggregator above.
+
+  - id: gt22-intimni-oder
+    name: GT22 Intimni oder
+    adapter: html
+    url: "https://gt22.si/kategorija/intimni-oder/"
+    venue: GT22
+    follow_detail: true      # listing has no dates; read each post page
+    selectors:
+      item: ".box"
+      title: "a.post-title-front"
+      url: "a.post-title-front"
+    notes: >
+      Category posts are production pages; most have no date (those are
+      skipped) — scheduled shows also arrive via the Kulturnik GT22 feed.
+
+  - id: pekarna
+    name: MC Pekarna
+    adapter: html
+    url: "https://www.pekarna.net/napovednik/"
+    venue: MC Pekarna
+    selectors:
+      item: ".msl-concert-list .text-overflow"
+      title: "h4.concert-title"
+      url: "a"
+      date: ".concert-meta"    # "Datum: sobota, 19 september 2026 Ura: 21:00"
 
   - id: rozmarin
     name: Rozmarin

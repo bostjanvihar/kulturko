@@ -2003,15 +2003,6 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
 URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9691c39dd1d42992@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:1. Koncert simfoničnega cikla
-LOCATION:SNG Maribor: Dvorana Ondine Otta Klasinc
-DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
-URL:https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
-END:VEVENT
-BEGIN:VEVENT
 UID:324e7adf5106a138@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T193000
 DTEND;TZID=Europe/Ljubljana:20260916T213000
@@ -2019,6 +2010,15 @@ SUMMARY:OPERA IN SIMFONIKI
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
 URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9691c39dd1d42992@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:1. Koncert simfoničnega cikla
+LOCATION:SNG Maribor: Dvorana Ondine Otta Klasinc
+DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
+URL:https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
 END:VEVENT
 BEGIN:VEVENT
 UID:993ab11e51001046@kulturko
@@ -2678,15 +2678,6 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
 END:VEVENT
 BEGIN:VEVENT
-UID:ec339e72d6a02014@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T193000
-DTEND;TZID=Europe/Ljubljana:20261111T213000
-SUMMARY:Glasovi nove generacije
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
-END:VEVENT
-BEGIN:VEVENT
 UID:b08d91dc51abb98c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261111T193000
 DTEND;TZID=Europe/Ljubljana:20261111T213000
@@ -2694,6 +2685,15 @@ SUMMARY:2. koncert cikla Carpe artem
 LOCATION:Kazinska dvorana Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
 URL:https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ec339e72d6a02014@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T193000
+DTEND;TZID=Europe/Ljubljana:20261111T213000
+SUMMARY:Glasovi nove generacije
+LOCATION:SNG Maribor: Kazinska dvorana
+DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
+URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
 END:VEVENT
 BEGIN:VEVENT
 UID:db61f36ee2373408@kulturko
@@ -2813,15 +2813,6 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
 END:VEVENT
 BEGIN:VEVENT
-UID:4f64a91038b0bcd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:3. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
-URL:https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
-END:VEVENT
-BEGIN:VEVENT
 UID:f81db5852209f20c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T193000
 DTEND;TZID=Europe/Ljubljana:20261126T213000
@@ -2829,6 +2820,15 @@ SUMMARY:Refleksije strun
 LOCATION:SNG Maribor: Kazinska dvorana
 DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
 URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f64a91038b0bcd3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T193000
+DTEND;TZID=Europe/Ljubljana:20261126T213000
+SUMMARY:3. koncert cikla Carpe artem
+LOCATION:Kazinska dvorana Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
+URL:https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
 END:VEVENT
 BEGIN:VEVENT
 UID:f2db796b647eb184@kulturko

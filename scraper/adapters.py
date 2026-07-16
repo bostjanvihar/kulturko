@@ -19,7 +19,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from .models import Event
-from .dates_sl import parse_sl_datetime
+from .dates_sl import parse_sl_datetime, find_future_date
 
 log = logging.getLogger("kulturko")
 
@@ -256,6 +256,7 @@ def adapter_html(src: dict) -> list[Event]:
     events = []
     year = datetime.now().year
     year_re = src.get("year_from_url")   # e.g. '/dogodki/(\\d{4})/'
+    detail_budget = int(src.get("max_detail_fetches", 12))
     for item in soup.select(sel.get("item", "article")):
         t = item.select_one(sel.get("title", "h2, h3"))
         if not t:
@@ -275,6 +276,18 @@ def adapter_html(src: dict) -> list[Event]:
             if m:
                 default_year = int(m.group(1))
         dt = parse_sl_datetime(raw, default_year=default_year)
+        if dt is None and src.get("follow_detail") and url != src["url"] \
+                and detail_budget > 0:
+            # listing has no date — read the event's own page for one
+            detail_budget -= 1
+            try:
+                dsoup = BeautifulSoup(fetch(url).text, "lxml")
+                for tag in dsoup(["script", "style", "header",
+                                  "footer", "nav"]):
+                    tag.decompose()
+                dt = find_future_date(dsoup.get_text(" ", strip=True))
+            except requests.RequestException:
+                dt = None
         if dt is None:
             continue
         v = item.select_one(sel.get("venue", ".venue"))

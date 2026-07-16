@@ -7,7 +7,7 @@ Handles formats seen on Maribor venue sites:
 """
 from __future__ import annotations
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Optional
 
 MONTHS = {
@@ -28,7 +28,8 @@ MONTHS = {
 _TIME_RE = re.compile(r"(?:ob\s*)?(\d{1,2})[.:](\d{2})|(?:ob\s*)(\d{1,2})\s*h", re.I)
 _NUMERIC_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{2,4})")
 _NUMERIC_NOYEAR_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\b\.?(?!\s*\d)")
-_TEXT_RE = re.compile(r"(\d{1,2})\.\s*([a-zčšž]+)\s*(\d{4})?", re.I)
+# dot after the day is optional: "10. oktober 2026" and "19 september 2026"
+_TEXT_RE = re.compile(r"(\d{1,2})\.?\s*([a-zčšž]+)\s*(\d{4})?", re.I)
 
 
 def _find_time(text: str):
@@ -104,6 +105,10 @@ def parse_sl_datetime(text: str, default_year: Optional[int] = None,
                 return cand
 
     m = _NUMERIC_NOYEAR_RE.search(text)   # "11.09" / "8. 11." (no year)
+    return _parse_noyear(m, text, default_year, default_time)
+
+
+def _parse_noyear(m, text, default_year, default_time):
     if m:
         d, mo = int(m.group(1)), int(m.group(2))
         # skip obvious times like "ob 20.00"
@@ -119,3 +124,42 @@ def parse_sl_datetime(text: str, default_year: Optional[int] = None,
                     return None
             return _next_occurrence(mo, d, t)
     return None
+
+
+def find_future_date(text: str,
+                     default_time=(19, 0)) -> Optional[datetime]:
+    """Scan free text (e.g. an event detail page) for every date mention
+    and return the earliest one that is not in the past. Used when a
+    listing page has no dates and we must read the article body."""
+    if not text:
+        return None
+    text = " ".join(text.split())
+    now = datetime.now()
+    cands = []
+    for m in _NUMERIC_RE.finditer(text):
+        d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if y < 100:
+            y += 2000
+        if not (1 <= mo <= 12 and 1 <= d <= 31):
+            continue
+        t = _find_time(text[m.end():m.end() + 40]) or default_time
+        try:
+            cands.append(datetime(y, mo, d, *t))
+        except ValueError:
+            pass
+    for m in _TEXT_RE.finditer(text.lower()):
+        d, mo = int(m.group(1)), MONTHS.get(m.group(2))
+        if not (mo and 1 <= d <= 31):
+            continue
+        t = _find_time(text[m.end():m.end() + 40]) or default_time
+        if m.group(3):
+            try:
+                cands.append(datetime(int(m.group(3)), mo, d, *t))
+            except ValueError:
+                pass
+        else:
+            cand = _next_occurrence(mo, d, t)
+            if cand:
+                cands.append(cand)
+    future = [c for c in cands if c >= now - timedelta(days=1)]
+    return min(future) if future else None
