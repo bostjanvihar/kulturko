@@ -2102,6 +2102,15 @@ DESCRIPTION: https://mkc.si/koledar/2026/9/19/cikel-ljudske-glasbe
 URL:https://mkc.si/koledar/2026/9/19/cikel-ljudske-glasbe
 END:VEVENT
 BEGIN:VEVENT
+UID:fa918fc357b3e3e8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T190000
+DTEND;TZID=Europe/Ljubljana:20260919T210000
+SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
+LOCATION:ŠTUK
+DESCRIPTION:📍 Lokacija: ŠTUK\, Maribor 📅 Datum: 19. 9. 2026 🕘 Za č etek programa: 21.00 Glasbena sinergija dveh svetov Ko se na istem odru srečata rock in rap\, nastane večer\, ki ga preprosto ne smeš zamuditi. Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že deset https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
+URL:https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
+END:VEVENT
+BEGIN:VEVENT
 UID:c2662dfd1db4a233@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260919T190000
 DTEND;TZID=Europe/Ljubljana:20260919T210000
@@ -2136,15 +2145,6 @@ SUMMARY:TRYGLAV + support
 LOCATION:MC Pekarna
 DESCRIPTION:\nBrezkompromisen\, atmosferičen in vizualno dodelan\, Tryglav stopa med vodilna imena nove generacije evropskega ekstremnega metala.\n[embedded content]\nTryglav je hrvaški black metal projekt\, ki ga je leta 2018 ustanovil multiinstrumentalist Boris Behara. Po letih delovanja v skupinah\, ki niso imele e https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
 URL:https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:fa918fc357b3e3e8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T210000
-DTEND;TZID=Europe/Ljubljana:20260919T230000
-SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
-LOCATION:ŠTUK
-DESCRIPTION:📍 Lokacija: ŠTUK\, Maribor 📅 Datum: 19. 9. 2026 🕘 Za č etek programa: 21.00 Glasbena sinergija dveh svetov Ko se na istem odru srečata rock in rap\, nastane večer\, ki ga preprosto ne smeš zamuditi. Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že deset https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
-URL:https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
 END:VEVENT
 BEGIN:VEVENT
 UID:7a2f634177efe3f0@kulturko
@@ -2499,8 +2499,8 @@ URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261021T220000
-DTEND;TZID=Europe/Ljubljana:20261022T000000
+DTSTART;TZID=Europe/Ljubljana:20261021T190000
+DTEND;TZID=Europe/Ljubljana:20261021T210000
 SUMMARY:Hushhush Boiler room edition night
 LOCATION:ŠTUK
 DESCRIPTION:KAJ: Brucovanje s Kingstoni | ŠS FKKT\, FGPA\, FS\, ŠSSŠD KDAJ: torek\, 21. oktober\, 22.00 Študenti\, mi smo ready! V torek\, 21. oktobra vas vabimo na brucovanje 3 fakultet (ŠS FGPA\, FS\, FKKT) in ŠSSŠD Vabljeni ste seveda vsi študenti\, žurali pa ga bomo na našem ŠTUK-u! Z nami bo do jutra žurala skupina  https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
@@ -2669,6 +2669,15 @@ DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/e
 URL:https://www.sng-mb.si/event/bajadera/
 END:VEVENT
 BEGIN:VEVENT
+UID:db61f36ee2373408@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T190000
+DTEND;TZID=Europe/Ljubljana:20261111T210000
+SUMMARY:Študentsko martinovanje || Dejan Vunjak & Brendijeve barabeì
+LOCATION:ŠTUK
+DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​Pripravljeni na nepozabno študentsko martinovanje na Štuku?🍷 Največji štajerski praznik se vrača na Štuk! Za pravo martinovo vzdušje bo poskrbela skupina Dejan Vunjak & Brendijeve barabe. Zabava\, ples in dobra družba – vse kar potrebujet https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
+URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
+END:VEVENT
+BEGIN:VEVENT
 UID:c9c660e90457153d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261111T193000
 DTEND;TZID=Europe/Ljubljana:20261111T213000
@@ -2694,15 +2703,6 @@ SUMMARY:Glasovi nove generacije
 LOCATION:SNG Maribor: Kazinska dvorana
 DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
 URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
-END:VEVENT
-BEGIN:VEVENT
-UID:db61f36ee2373408@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T210000
-DTEND;TZID=Europe/Ljubljana:20261111T230000
-SUMMARY:Študentsko martinovanje || Dejan Vunjak & Brendijeve barabeì
-LOCATION:ŠTUK
-DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​Pripravljeni na nepozabno študentsko martinovanje na Štuku?🍷 Največji štajerski praznik se vrača na Štuk! Za pravo martinovo vzdušje bo poskrbela skupina Dejan Vunjak & Brendijeve barabe. Zabava\, ples in dobra družba – vse kar potrebujet https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
-URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
 END:VEVENT
 BEGIN:VEVENT
 UID:107302e695df0f84@kulturko

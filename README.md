@@ -56,6 +56,7 @@ GitHub Pages
 | Kulturnik (Maribor + Dvorana Tabor + GT22 + Pekarna) | `rss` | Most reliable; also covers many **Facebook-only events** (GT22, Klub KGB, …). Dates come from `<ical:dtstart>`. |
 | MC Pekarna | `html` | Server-rendered napovednik list ("Datum: sobota, 19 september 2026"). |
 | GT22 Intimni oder | `html` + `follow_detail` | Category posts are undated production pages — each post page is fetched and scanned for a future date; scheduled shows also arrive via the Kulturnik GT22 feed. |
+| Dvorana Gustaf | `html` (+ Kulturnik feed) | Joomla category-blog; date is in the article body. Sits behind a WAF that intermittently challenges bots, so the Kulturnik Gustaf feed is the reliable source. |
 | Narodni dom | `wp_v2` | Their `dogodek` custom post type via the standard WP REST API; date/venue read from ACF fields. Also covers Vetrinjski dvor and Dvorana Union. |
 | SNG Maribor | `data_attr` | The program page embeds the season as JSON in `data-events` attributes. |
 | Minoriti / Lutkovno gledališče | `nuxt_payload` | Nuxt 3 site; events parsed from the `__NUXT_DATA__` payload. |

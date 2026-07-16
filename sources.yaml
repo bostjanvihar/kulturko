@@ -70,6 +70,15 @@ sources:
     url: "https://dogodki.kulturnik.si/?where=Pekarna&format=rss"
     venue: MC Pekarna
 
+  - id: kulturnik-gustaf
+    name: Kulturnik (Gustaf)
+    adapter: rss
+    url: "https://dogodki.kulturnik.si/?where=Gustaf&format=rss"
+    venue: Gustaf
+    notes: >
+      Clean dated feed for Dvorana Gustaf (their own site embeds dates in
+      free text). Primary source; the direct `gustaf` scrape backs it up.
+
   - id: visitmaribor
     name: Visit Maribor
     enabled: false
@@ -147,6 +156,21 @@ sources:
       title: "h4.concert-title"
       url: "a"
       date: ".concert-meta"    # "Datum: sobota, 19 september 2026 Ura: 21:00"
+
+  - id: gustaf
+    name: Dvorana Gustaf
+    adapter: html
+    url: "https://www.gustaf.si/index.php/program"
+    venue: Gustaf
+    selectors:
+      item: ".items-row .item"
+      title: "h2.art-postheader a"
+      url: "h2.art-postheader a"
+      date: ".art-article"     # "18. 03. 2023 Pričetek ob 21:00" in the body
+    notes: >
+      Joomla category-blog. The date is embedded in the article body; the
+      venue is on summer break so the listing may be empty (then this
+      returns 0 and the Kulturnik Gustaf feed carries the schedule).
 
   - id: rozmarin
     name: Rozmarin

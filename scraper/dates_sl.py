@@ -25,23 +25,33 @@ MONTHS = {
     "august": 8, "october": 10,
 }
 
-_TIME_RE = re.compile(r"(?:ob\s*)?(\d{1,2})[.:](\d{2})|(?:ob\s*)(\d{1,2})\s*h", re.I)
+# "ob 20:00", "ob 20.00", "ob 21 :00" (span-split), "ob 21h", "ob 21"
+_TIME_OB_RE = re.compile(
+    r"\bob\s*(\d{1,2})(?:\s*[.:]\s*(\d{2}))?\s*(?:h|ura|uri)?\b", re.I)
+# a bare clock time; digit guards stop it matching inside a date like
+# "18.3.2023" (which would otherwise read as 3:20)
+_TIME_BARE_RE = re.compile(r"(?<!\d)(\d{1,2}):(\d{2})(?!\d)")
 _NUMERIC_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{2,4})")
 _NUMERIC_NOYEAR_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\b\.?(?!\s*\d)")
 # dot after the day is optional: "10. oktober 2026" and "19 september 2026"
 _TEXT_RE = re.compile(r"(\d{1,2})\.?\s*([a-zčšž]+)\s*(\d{4})?", re.I)
 
 
+def _valid(h, mi):
+    return (h, mi) if 0 <= h <= 23 and 0 <= mi <= 59 else None
+
+
 def _find_time(text: str):
-    m = _TIME_RE.search(text)
-    if not m:
-        return None
-    if m.group(1):
-        h, mi = int(m.group(1)), int(m.group(2))
-    else:
-        h, mi = int(m.group(3)), 0
-    if 0 <= h <= 23 and 0 <= mi <= 59:
-        return h, mi
+    # Prefer an "ob HH[:MM]" phrase — it's how Slovenian sites state the
+    # start time and is safe from being confused with a date.
+    m = _TIME_OB_RE.search(text)
+    if m:
+        v = _valid(int(m.group(1)), int(m.group(2) or 0))
+        if v:
+            return v
+    m = _TIME_BARE_RE.search(text)
+    if m:
+        return _valid(int(m.group(1)), int(m.group(2)))
     return None
 
 

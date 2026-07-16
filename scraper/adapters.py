@@ -31,10 +31,20 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 TIMEOUT = 45
 
 
+# Full browser-like header set. Some venue WAFs (e.g. gustaf.si) reject
+# requests that lack an Accept header with 415/403. The "*/*" fallback
+# keeps JSON API endpoints working.
+HEADERS = {
+    "User-Agent": UA,
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "application/json;q=0.9,*/*;q=0.8"),
+    "Accept-Language": "sl,en;q=0.8",
+}
+
+
 def fetch(url: str, **kw) -> requests.Response:
-    r = requests.get(url, headers={"User-Agent": UA,
-                                   "Accept-Language": "sl,en;q=0.8"},
-                     timeout=TIMEOUT, **kw)
+    headers = {**HEADERS, **kw.pop("headers", {})}
+    r = requests.get(url, headers=headers, timeout=TIMEOUT, **kw)
     r.raise_for_status()
     # requests falls back to ISO-8859-1 when the header omits charset;
     # modern sites are UTF-8 (fixes mojibake on e.g. klub-kgb.si)
