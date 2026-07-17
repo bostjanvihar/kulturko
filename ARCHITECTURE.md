@@ -1,4 +1,8 @@
-# Kulturko — architecture & maintenance guide
+# Kulturni zbiralnik — architecture & maintenance guide
+
+> Display name only: the repo slug, the Pages URL, the ICS `UID:…@kulturko`
+> and the `kulturko-*` localStorage keys all still say `kulturko` **on
+> purpose** — see "Gotchas" before renaming any of them.
 
 A developer-oriented map of the repo. The user-facing overview is in
 `README.md`; this file is for whoever (human or AI) next works on the code.
@@ -115,6 +119,16 @@ returns zero events (e.g. a venue on summer break) is logged as
 - **Summer break.** Many Maribor venues publish nothing June–August, so a
   new source legitimately returning 0 today is expected — verify with a
   Wayback snapshot rather than assuming the adapter is broken.
+- **The `kulturko` identifiers are load-bearing — don't "finish" the rename.**
+  The project display name is *Kulturni zbiralnik*, but three things
+  deliberately still say `kulturko`, and each breaks something if changed:
+  `UID:{id}@kulturko` in `outputs.py` (an event's identity in subscribers'
+  calendars — change it and every event is re-added as a duplicate);
+  `kulturko-seen-ids` / `kulturko-lang` in `index.html` (change them and
+  every visitor's "new" badge lights up for all events at once); and the
+  repo slug itself, which the Pages URL and every published `.ics`
+  subscription are built from. Renaming the GitHub repo silently kills
+  existing calendar subscriptions.
 - **Scheduled Actions auto-disable** after ~60 days of repo inactivity.
   If the daily update stops, re-enable "Scrape events daily" in the
   Actions tab.

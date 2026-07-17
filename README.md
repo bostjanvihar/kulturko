@@ -1,10 +1,22 @@
-# Kulturko — kulturni dogodki na enem mestu
+# Kulturni zbiralnik — kulturni dogodki na enem mestu
 
 A self-updating aggregator of cultural events. Scrapes venue websites daily,
 deduplicates across sources, and publishes a filterable website, calendar
 feeds (Google Calendar sync), and an RSS feed of newly announced events.
 
 **No servers. No databases. No AI at runtime. $0/month.**
+
+### What it covers
+
+Events are collected from venue websites and the Kulturnik aggregator.
+Facebook is **not** scraped directly — events announced only on Facebook
+make the list only when Kulturnik carries them (it does for GT22 and Klub
+KGB), so coverage of FB-only announcements is partial rather than
+guaranteed. See the source table below for what each venue contributes.
+
+> The project is named *Kulturni zbiralnik*; the repository slug is still
+> `kulturko`, which keeps the Pages URL and every published `.ics`
+> subscription working. Only the display name changed.
 
 ```
 GitHub Actions (daily cron, 06:00 local)
@@ -64,6 +76,8 @@ GitHub Pages
 | MKC Maribor | `squarespace` | Squarespace events collection at `mkc.si/koledar?format=json`. |
 | Mladi Maribor, ZPM Maribor | `tribe` | WordPress Events Calendar REST API. |
 | Klub KGB, Rozmarin, UGM | `html` | CSS-selector scrape. **Verify selectors if a site redesigns** — check the Actions log; a failing source is logged, never fatal. |
+| Najstarejša trta | `html` | Salient post grid; date is a custom field in `data-key="datum"` (the WP REST API does not expose it). Lists only the few big annual events (rez trte, festival, trgatev, martinovanje). |
+| Rajzefiber (Festival sprehodov) | `grouped_options` | The walks exist only as checkbox options in the signup form, grouped under a date heading. The festival runs once a year, so this legitimately returns 0 outside the signup window. |
 | GT22 | disabled | Site no longer publishes a program; their Facebook events surface via Kulturnik. |
 | Visit Maribor | disabled | Client-side Angular app with no public JSON endpoint; largely covered by Kulturnik. |
 | Facebook pages | `facebook_graph` (disabled) | Facebook blocks anonymous scraping. Either rely on Kulturnik coverage, or get a Graph API token, add it as the `FB_TOKEN` repo secret, and enable a `facebook_graph` source with the page ID. |

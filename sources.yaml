@@ -1,7 +1,9 @@
 # ============================================================
-# KULTURKO — event aggregator configuration
+# KULTURNI ZBIRALNIK — event aggregator configuration
 # To adapt this to another town: edit town/timezone, then
 # replace the sources list. Nothing else needs to change.
+# site_url must match the repo slug (still `kulturko`) — the
+# published .ics subscription URLs are built from it.
 # ============================================================
 
 town: Maribor

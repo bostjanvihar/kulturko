@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kulturko — kulturni dogodki</title>
-<meta name="description" content="Vsi kulturni dogodki v mestu na enem mestu. Dnevno osveženo.">
+<title>Kulturni zbiralnik — kulturni dogodki</title>
+<meta name="description" content="Kulturni dogodki na enem mestu, dnevno osveženo. Zbrano s spletnih strani prizorišč in agregatorja Kulturnik; Facebooka ne pregledujemo neposredno.">
 <link rel="alternate" type="application/rss+xml" title="Novi dogodki" href="data/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,6 +31,7 @@ header{padding:2.2rem 1.2rem 1.2rem;max-width:960px;margin:0 auto;position:relat
 h1{font-family:var(--disp);font-weight:750;font-size:clamp(2.3rem,7vw,4rem);line-height:1;letter-spacing:-.02em;margin:.35rem 0 .5rem}
 h1 em{font-style:normal;color:var(--wine)}
 .sub{color:var(--muted);max-width:34rem}
+.coverage{font-size:.82rem;margin-top:.5rem;opacity:.85}
 .actions{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem}
 .btn{border:1.5px solid var(--ink);background:var(--ink);color:var(--paper);border-radius:999px;padding:.5rem 1rem;font-weight:600;font-size:.85rem;text-decoration:none;display:inline-flex;align-items:center;gap:.4rem}
 .btn.ghost{background:transparent;color:var(--ink)}
@@ -109,6 +110,7 @@ footer a{color:var(--river)}
   <span class="kicker" data-t="kicker"></span>
   <h1><span data-t="h1a"></span> <em id="townName"></em></h1>
   <p class="sub" data-t="sub"></p>
+  <p class="sub coverage" data-t="coverage"></p>
   <div class="actions">
     <button class="btn" id="subBtn"></button>
     <button class="btn ghost" id="notifBtn"></button>
@@ -166,7 +168,8 @@ const I18N = {
  sl: {
   kicker:"Kulturni program · dnevno osveženo",
   h1a:"Kaj se dogaja v", town: t => t==="Maribor" ? "Mariboru" : t,
-  sub:"Vsi dogodki kulturnih ustanov na enem mestu — gledališče, koncerti, razstave, klubi. Brez podvojenih vnosov, z enim klikom v tvoj koledar.",
+  sub:"Dogodki kulturnih ustanov na enem mestu — gledališče, koncerti, razstave, klubi. Brez podvojenih vnosov, z enim klikom v tvoj koledar.",
+  coverage:"Dogodke zbiramo s spletnih strani prizorišč in iz agregatorja Kulturnik. Facebooka ne pregledujemo neposredno, zato dogodki, objavljeni samo tam, pridejo na seznam le, če jih zajame Kulturnik — nekaj jih zato lahko manjka.",
   sync:"＋ Sinhroniziraj s koledarjem", notif:"🔔 Obvestila",
   notifOn:"🔔 Obvestila vklopljena", rss:"RSS novosti",
   tf:{today:"Danes",week:"Ta teden",month:"Ta mesec",all:"Vse"},
@@ -176,7 +179,7 @@ const I18N = {
   loadFail:"Podatkov ni bilo mogoče naložiti. Poskusi znova kasneje.",
   newBadge:n=>`${n} novih od zadnjega obiska`,
   notifBody:"Ob vsakem obisku te opozorim na nove dogodke. Za obvestila brez obiska se naroči na RSS.",
-  notifNew:n=>`Kulturko · ${n} novih dogodkov`,
+  notifNew:n=>`Kulturni zbiralnik · ${n} novih dogodkov`,
   noNotif:"Ta brskalnik ne podpira obvestil.",
   dlgTitle:"Sinhronizacija s koledarjem",
   dlgSub:"Naročnina se v Google Koledarju samodejno osvežuje — novi dogodki se pojavijo sami, običajno v 12–24 urah.",
@@ -184,7 +187,7 @@ const I18N = {
   dlgVenue:v=>`Samo za izbrano prizorišče: `,
   dlgHint:"Namig: izberi eno prizorišče v filtrih, pa dobiš tudi koledar samo zanj.",
   dlgManual:"Ročno: v Google Koledarju izberi Drugi koledarji → ＋ → Iz URL-ja in prilepi:",
-  footer:"Kulturko · odprtokodni agregator · podatki se osvežijo vsak dan ob ~6.00",
+  footer:"Kulturni zbiralnik · odprtokodni agregator · podatki se osvežijo vsak dan ob ~6.00",
   sources:"Viri", srcCount:n=>` · ${n} vira`, addCal:"+ Koledar", newDot:"novo",
   cats:{music:"Glasba",theatre:"Gledališče",exhibition:"Razstave",film:"Film",
         kids:"Za otroke",literature:"Knjiga",education:"Izobraževanje",
@@ -196,7 +199,8 @@ const I18N = {
  en: {
   kicker:"Cultural programme · updated daily",
   h1a:"What's on in", town: t => t,
-  sub:"Every cultural venue's events in one place — theatre, concerts, exhibitions, clubs. No duplicates, one click to your calendar.",
+  sub:"Cultural venues' events in one place — theatre, concerts, exhibitions, clubs. No duplicates, one click to your calendar.",
+  coverage:"Events are collected from venue websites and the Kulturnik aggregator. We don't scrape Facebook directly, so events announced only there make the list only if Kulturnik carries them — some may be missing.",
   sync:"＋ Sync with calendar", notif:"🔔 Notifications",
   notifOn:"🔔 Notifications on", rss:"RSS of new events",
   tf:{today:"Today",week:"This week",month:"This month",all:"All"},
@@ -206,7 +210,7 @@ const I18N = {
   loadFail:"Could not load data. Please try again later.",
   newBadge:n=>`${n} new since your last visit`,
   notifBody:"You'll be alerted to new events on each visit. For alerts without visiting, subscribe to the RSS feed.",
-  notifNew:n=>`Kulturko · ${n} new events`,
+  notifNew:n=>`Kulturni zbiralnik · ${n} new events`,
   noNotif:"This browser does not support notifications.",
   dlgTitle:"Calendar sync",
   dlgSub:"The subscription refreshes automatically in Google Calendar — new events appear on their own, usually within 12–24 hours.",
@@ -214,7 +218,7 @@ const I18N = {
   dlgVenue:v=>`Just the selected venue: `,
   dlgHint:"Tip: select a single venue in the filters to also get a calendar for that venue only.",
   dlgManual:"Manually: in Google Calendar choose Other calendars → ＋ → From URL and paste:",
-  footer:"Kulturko · open-source aggregator · data refreshes daily at ~6:00",
+  footer:"Kulturni zbiralnik · open-source aggregator · data refreshes daily at ~6:00",
   sources:"Sources", srcCount:n=>` · ${n} sources`, addCal:"+ Calendar", newDot:"new",
   cats:{music:"Music",theatre:"Theatre",exhibition:"Exhibitions",film:"Film",
         kids:"For kids",literature:"Books",education:"Learning",
@@ -242,7 +246,7 @@ function init(data){
 function applyLang(){
   const t = T();
   document.documentElement.lang = state.lang;
-  document.title = `Kulturko — ${state.data ? state.data.town : ""}`;
+  document.title = `Kulturni zbiralnik — ${state.data ? state.data.town : ""}`;
   document.querySelectorAll("[data-t]").forEach(el=>{
     const v = t[el.dataset.t];
     if (typeof v === "string") el.textContent = v;
@@ -328,7 +332,7 @@ function wireControls(){
     if(!("Notification" in window)) return alert(T().noNotif);
     const p = await Notification.requestPermission();
     $("#notifBtn").textContent = p==="granted" ? T().notifOn : T().notif;
-    if(p==="granted") new Notification("Kulturko", {body:T().notifBody});
+    if(p==="granted") new Notification("Kulturni zbiralnik", {body:T().notifBody});
   };
   document.querySelectorAll("#tfSeg button").forEach(b=>{
     b.onclick = ()=>{
