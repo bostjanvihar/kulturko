@@ -596,6 +596,58 @@ def adapter_data_attr(src: dict) -> list[Event]:
     return events
 
 
+# ------------------------------- sign-up forms grouped by a date heading
+# "16.00 - Poetičen Maribor" -> (16, 00, "Poetičen Maribor")
+_OPTION_RE = re.compile(r"^\s*(\d{1,2})[.:](\d{2})\s*[-–—]\s*(.+)$")
+
+
+def adapter_grouped_options(src: dict) -> list[Event]:
+    """Sign-up forms where each event is a checkbox option and the date
+    lives on the heading of the group the option sits in (e.g. rajzefiber's
+    Festival sprehodov form: a 'PETEK, 20. 3. 2026' fieldset containing
+    '16.00 - <walk title>' options).
+
+    The date comes from `selectors.group_date`, the time+title from each
+    `selectors.item` via `item_re` (groups: hour, minute, title). Groups
+    whose heading holds no date (the name/e-mail fields) are skipped.
+    """
+    soup = BeautifulSoup(fetch(src["url"]).text, "lxml")
+    sel = src.get("selectors", {})
+    item_re = re.compile(src["item_re"]) if src.get("item_re") else _OPTION_RE
+    # e.g. a "/ ZAPRTE PRIJAVE" marker — signups are closed but the walk
+    # still takes place, so strip the marker and keep the event.
+    strip_re = re.compile(src["strip_re"], re.I) if src.get("strip_re") else None
+    events, seen = [], set()
+    for group in soup.select(sel.get("group", "fieldset")):
+        head = group.select_one(sel.get("group_date", "legend"))
+        if not head:
+            continue
+        day = parse_sl_datetime(head.get_text(" ", strip=True))
+        if day is None:
+            continue
+        for opt in group.select(sel.get("item", "label")):
+            m = item_re.match(opt.get_text(" ", strip=True))
+            if not m:
+                continue
+            title = m.group(3).strip()
+            if strip_re:
+                title = strip_re.sub("", title).strip(" /-–—")
+            if not title:
+                continue
+            try:
+                dt = day.replace(hour=int(m.group(1)), minute=int(m.group(2)))
+            except ValueError:                    # e.g. "25.00 - ..."
+                continue
+            key = (title, dt.isoformat())
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append(Event(
+                title=title, start=dt.isoformat(), venue=src.get("venue", ""),
+                url=src["url"], source=src["id"], source_name=src["name"]))
+    return events
+
+
 # --------------------------------------------------------------- ICS
 def adapter_ics(src: dict) -> list[Event]:
     text = fetch(src["url"]).text
@@ -655,6 +707,7 @@ ADAPTERS = {
     "squarespace": adapter_squarespace,
     "woo_store": adapter_woo_store,
     "data_attr": adapter_data_attr,
+    "grouped_options": adapter_grouped_options,
     "html": adapter_html,
     "ics": adapter_ics,
     "facebook_graph": adapter_facebook_graph,

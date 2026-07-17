@@ -57,6 +57,7 @@ GitHub Pages → serves docs/ ; index.html fetches data/events.json
 | `jsonld` | Pages with schema.org Event JSON-LD. | `url` |
 | `woo_store` | WooCommerce ticket shop — public Store API (`/wp-json/wc/store/products`); date parsed from product description text. | `url` (shop root) |
 | `data_attr` | Event list embedded as JSON in an HTML attribute (e.g. SNG's `data-events`). | `selectors.item`, `data_attr`, `event_url_prefix` |
+| `grouped_options` | A sign-up **form** is the only listing: each event is a checkbox option ("16.00 - Title") inside a group whose heading carries the date ("PETEK, 20. 3. 2026"). Groups with no parsable date (name/e-mail fields) are skipped. | `selectors.{group,group_date,item}`, `item_re` (hour/minute/title groups), `strip_re` (drop a marker like "/ ZAPRTE PRIJAVE") |
 | `html` | Generic CSS-selector scrape. Honors `<base href>`. Options: `try_jsonld_first`, `year_from_url` (regex to pull the year from each event URL), `follow_detail` (fetch each event page and scan its body for a date when the listing has none, capped by `max_detail_fetches`). | `selectors.{item,title,url,date,venue}` |
 | `ics` | A plain `.ics` URL. | `url` |
 | `facebook_graph` | Facebook Page events — needs `FB_TOKEN` secret. Disabled by default (FB blocks anon scraping). | `page_id` |
@@ -105,6 +106,12 @@ returns zero events (e.g. a venue on summer break) is logged as
   bare times with digit-boundary lookarounds. **If you touch
   `dates_sl.py`, run `scratchpad`'s date battery / add cases** — small
   changes here silently corrupt many events.
+- **Date ranges resolve to the dated end, not the start.** For a range the
+  parser takes the first date it can fully resolve, so
+  "25. 9. 2026 → 27. 9. 2026" correctly yields 25 Sep, but
+  "26. 6.-4. 7. 2026" (year only on the second date) yields 4 Jul. Seen on
+  `najstarejsa-trta`; fixing it means teaching `dates_sl.py` about ranges,
+  which is the risky file — weigh it against the handful of affected events.
 - **Summer break.** Many Maribor venues publish nothing June–August, so a
   new source legitimately returning 0 today is expected — verify with a
   Wayback snapshot rather than assuming the adapter is broken.

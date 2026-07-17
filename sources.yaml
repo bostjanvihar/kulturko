@@ -29,6 +29,8 @@ horizon_days: 365
 #   woo_store    — WooCommerce ticket shop (public Store API); event date is
 #                  parsed out of the product description
 #   data_attr    — event list embedded as JSON in an HTML data-* attribute
+#   grouped_options — sign-up form where each event is a checkbox option
+#                  under a group heading that carries the date
 #   html         — generic CSS-selector scraper (configure selectors below)
 #   ics          — a plain .ics calendar URL
 #
@@ -215,6 +217,42 @@ sources:
     url: "https://zpm-mb.si"
     venue: ZPM Maribor
     notes: No upcoming events during summer 2026; API works.
+
+  - id: najstarejsa-trta
+    name: Najstarejša trta
+    adapter: html
+    url: "https://najstarejsatrta.si/dogodki/"
+    venue: Hiša Stare trte
+    selectors:
+      item: ".nectar-post-grid-item"
+      title: "h2.post-heading"
+      url: "h2.post-heading a"
+      date: '[data-key="datum"]'   # "11. 11. 2026", "25. 9. 2026 → 27. 9. 2026"
+    notes: >
+      Salient/Nectar post grid; the date is a custom field rendered into
+      data-key="datum". The WP REST API does not expose that field
+      (acf is empty), so this must be scraped from the HTML. Only the few
+      big annual events (rez trte, festival, trgatev, martinovanje) are
+      listed — expect a handful, not a full program. Multi-day ranges are
+      recorded at their start date, except when the first date carries no
+      year ("26. 6.-4. 7. 2026"), where the parser takes the end date.
+
+  - id: rajzefiber-sprehodi
+    name: Rajzefiber (Festival sprehodov)
+    adapter: grouped_options
+    url: "https://rajzefiber.si/festival-sprehodov/prijave-na-sprehode/"
+    venue: Rajzefiber
+    selectors:
+      group: "div.efbField"           # one per day + one per form field
+      group_date: "label.col-form-label"   # "PETEK, 20. 3. 2026"
+      item: "div.form-check label"         # "16.00 - Poetičen Maribor"
+    strip_re: '\s*/\s*ZAPRTE PRIJAVE\s*$'
+    notes: >
+      The walks only exist as checkbox options in the Easy Form Builder
+      signup form — there is no event listing or feed. Festival sprehodov
+      runs once a year (2026 edition was 20.–28. 3.), so outside the
+      signup window this returns 0 or only past events; the form is
+      repopulated ahead of each edition.
 
   - id: ugm
     name: Umetnostna galerija Maribor
