@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Trg revolucije 9 — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:7e42aab4d81ebc69@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T130000
-DTEND;TZID=Europe/Ljubljana:20260717T150000
-SUMMARY:Amir Husak – Oko gore
-LOCATION:Trg revolucije 9
-DESCRIPTION:V četrtek\, 2. 7. 2026\, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Eye of the Mountain).\n\nRazstava bo v OBRATU na ogled vsak delavnik med 13.00 in 18.00 do 31. 7. 2026 https://nd-mb.si/dogodek/amir-husak-oko-gore/
-URL:https://nd-mb.si/dogodek/amir-husak-oko-gore/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Trg revolucije 9 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:7e42aab4d81ebc69@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260717T130000
+DTEND;TZID=Europe/Ljubljana:20260717T150000
+SUMMARY:Amir Husak – Oko gore
+LOCATION:Trg revolucije 9
+DESCRIPTION:V četrtek\, 2. 7. 2026\, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Eye of the Mountain).\n\nRazstava bo v OBRATU na ogled vsak delavnik med 13.00 in 18.00 do 31. 7. 2026 https://nd-mb.si/dogodek/amir-husak-oko-gore/
+URL:https://nd-mb.si/dogodek/amir-husak-oko-gore/
+END:VEVENT
+END:VCALENDAR

@@ -1,52 +1,52 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Dom ustvarjalnosti mladih (DUM) Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:cd8f01e4c9e73527@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260713T080000
-DTEND;TZID=Europe/Ljubljana:20260717T170000
-SUMMARY:Počitnice v Mariboru\, 3. teden
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Pozdravljeni prijatelji mladine!\nŠe en počitniški teden je za nami\, pred nami pa so nove\ndogodivščine z ZPM Maribor.\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, ki\nprinaša nova doživetja\, zanimiva raziskovanja https://mladimaribor.si/dogodek/pocitnice-v-mariboru-2-teden/
-URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-2-teden/
-END:VEVENT
-BEGIN:VEVENT
-UID:cede206c98b8820c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260720T090000
-DTEND;TZID=Europe/Ljubljana:20260724T170000
-SUMMARY:Počitnice v Mariboru\, 4. teden
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Nov teden počitnic in nove dogodivščine z ZPM Maribor\nZPM Maribor – julij 2026\n[1]\nPozdravljeni prijatelji mladine!\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, tudi ta\nteden bo poln raziskovanja\, ustvarjanja i https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
-URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e7d59439df7e4ef@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260929T170000
-DTEND;TZID=Europe/Ljubljana:20260929T190000
-SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
-URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
-END:VEVENT
-BEGIN:VEVENT
-UID:761006c8717fd7fc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T170000
-DTEND;TZID=Europe/Ljubljana:20261020T190000
-SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-6/
-URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-6/
-END:VEVENT
-BEGIN:VEVENT
-UID:1dac32fb660c052f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261124T170000
-DTEND;TZID=Europe/Ljubljana:20261124T190000
-SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-7/
-URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-7/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Dom ustvarjalnosti mladih (DUM) Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cd8f01e4c9e73527@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260713T080000
+DTEND;TZID=Europe/Ljubljana:20260717T170000
+SUMMARY:Počitnice v Mariboru\, 3. teden
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Pozdravljeni prijatelji mladine!\nŠe en počitniški teden je za nami\, pred nami pa so nove\ndogodivščine z ZPM Maribor.\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, ki\nprinaša nova doživetja\, zanimiva raziskovanja https://mladimaribor.si/dogodek/pocitnice-v-mariboru-2-teden/
+URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-2-teden/
+END:VEVENT
+BEGIN:VEVENT
+UID:cede206c98b8820c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260720T090000
+DTEND;TZID=Europe/Ljubljana:20260724T170000
+SUMMARY:Počitnice v Mariboru\, 4. teden
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Nov teden počitnic in nove dogodivščine z ZPM Maribor\nZPM Maribor – julij 2026\n[1]\nPozdravljeni prijatelji mladine!\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, tudi ta\nteden bo poln raziskovanja\, ustvarjanja i https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
+URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7d59439df7e4ef@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260929T170000
+DTEND;TZID=Europe/Ljubljana:20260929T190000
+SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
+URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:761006c8717fd7fc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T170000
+DTEND;TZID=Europe/Ljubljana:20261020T190000
+SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-6/
+URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dac32fb660c052f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261124T170000
+DTEND;TZID=Europe/Ljubljana:20261124T190000
+SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-7/
+URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-7/
+END:VEVENT
+END:VCALENDAR

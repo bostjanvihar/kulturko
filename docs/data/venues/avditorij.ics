@@ -1,97 +1,97 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Avditorij — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:ba6cdff9873c1795@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260729T210000
-DTEND;TZID=Europe/Ljubljana:20260729T230000
-SUMMARY:Letni kino Minoriti: Potovanje regratove lučke (Planètes)
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/potovanje-regratove-lucke-planetes
-URL:https://www.minoriti.si/dogodki/potovanje-regratove-lucke-planetes
-END:VEVENT
-BEGIN:VEVENT
-UID:aff183d1a5c11bc9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260801T210000
-DTEND;TZID=Europe/Ljubljana:20260801T230000
-SUMMARY:Letni kino Minoriti: Tujec (L'étranger)
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-tujec-letranger
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-tujec-letranger
-END:VEVENT
-BEGIN:VEVENT
-UID:9044795c50987f13@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260805T210000
-DTEND;TZID=Europe/Ljubljana:20260805T230000
-SUMMARY:Letni kino Minoriti: Junakinja (Heldin)
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-junakinja-heldin
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-junakinja-heldin
-END:VEVENT
-BEGIN:VEVENT
-UID:57a508ea53163b04@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T210000
-DTEND;TZID=Europe/Ljubljana:20260808T230000
-SUMMARY:Letni kino Minoriti: Palestina 36 (Palestine 36)
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-palestina-36-palestine-36
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-palestina-36-palestine-36
-END:VEVENT
-BEGIN:VEVENT
-UID:add890c04679b0d5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260812T210000
-DTEND;TZID=Europe/Ljubljana:20260812T230000
-SUMMARY:Letni kino Minoriti: Grda polsestra (Den stygge stesøsteren)
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren
-END:VEVENT
-BEGIN:VEVENT
-UID:19a7f14e237a8740@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T200000
-DTEND;TZID=Europe/Ljubljana:20260814T220000
-SUMMARY:Poletje v Minoritih: Rambo Amadeus
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-END:VEVENT
-BEGIN:VEVENT
-UID:87e15f477761421b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260815T210000
-DTEND;TZID=Europe/Ljubljana:20260815T230000
-SUMMARY:Letni kino Minoriti: Midva\, lutkarja
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
-END:VEVENT
-BEGIN:VEVENT
-UID:3b5436db98bb2f3d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260819T210000
-DTEND;TZID=Europe/Ljubljana:20260819T230000
-SUMMARY:Letni kino Minoriti: Drežniška koza in njeni ljudje & Na drugi strani plinovoda
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-and-na-drugi-strani-plinovoda
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-and-na-drugi-strani-plinovoda
-END:VEVENT
-BEGIN:VEVENT
-UID:a7b9806fda83b406@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T210000
-DTEND;TZID=Europe/Ljubljana:20260822T230000
-SUMMARY:Letni kino Minoriti: Ples življenja
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-ples-zivljenja
-URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-ples-zivljenja
-END:VEVENT
-BEGIN:VEVENT
-UID:c87ccc879ea3b05a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260826T200000
-DTEND;TZID=Europe/Ljubljana:20260826T220000
-SUMMARY:Martina Ipša – Stand up
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/martina-ipsa-stand-up
-URL:https://www.minoriti.si/dogodki/martina-ipsa-stand-up
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Avditorij — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ba6cdff9873c1795@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260729T210000
+DTEND;TZID=Europe/Ljubljana:20260729T230000
+SUMMARY:Letni kino Minoriti: Potovanje regratove lučke (Planètes)
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/potovanje-regratove-lucke-planetes
+URL:https://www.minoriti.si/dogodki/potovanje-regratove-lucke-planetes
+END:VEVENT
+BEGIN:VEVENT
+UID:aff183d1a5c11bc9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260801T210000
+DTEND;TZID=Europe/Ljubljana:20260801T230000
+SUMMARY:Letni kino Minoriti: Tujec (L'étranger)
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-tujec-letranger
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-tujec-letranger
+END:VEVENT
+BEGIN:VEVENT
+UID:9044795c50987f13@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260805T210000
+DTEND;TZID=Europe/Ljubljana:20260805T230000
+SUMMARY:Letni kino Minoriti: Junakinja (Heldin)
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-junakinja-heldin
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-junakinja-heldin
+END:VEVENT
+BEGIN:VEVENT
+UID:57a508ea53163b04@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260808T210000
+DTEND;TZID=Europe/Ljubljana:20260808T230000
+SUMMARY:Letni kino Minoriti: Palestina 36 (Palestine 36)
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-palestina-36-palestine-36
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-palestina-36-palestine-36
+END:VEVENT
+BEGIN:VEVENT
+UID:add890c04679b0d5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260812T210000
+DTEND;TZID=Europe/Ljubljana:20260812T230000
+SUMMARY:Letni kino Minoriti: Grda polsestra (Den stygge stesøsteren)
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren
+END:VEVENT
+BEGIN:VEVENT
+UID:19a7f14e237a8740@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T200000
+DTEND;TZID=Europe/Ljubljana:20260814T220000
+SUMMARY:Poletje v Minoritih: Rambo Amadeus
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+END:VEVENT
+BEGIN:VEVENT
+UID:87e15f477761421b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T210000
+DTEND;TZID=Europe/Ljubljana:20260815T230000
+SUMMARY:Letni kino Minoriti: Midva\, lutkarja
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5436db98bb2f3d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T210000
+DTEND;TZID=Europe/Ljubljana:20260819T230000
+SUMMARY:Letni kino Minoriti: Drežniška koza in njeni ljudje & Na drugi strani plinovoda
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-and-na-drugi-strani-plinovoda
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-and-na-drugi-strani-plinovoda
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b9806fda83b406@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T210000
+DTEND;TZID=Europe/Ljubljana:20260822T230000
+SUMMARY:Letni kino Minoriti: Ples življenja
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-ples-zivljenja
+URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-ples-zivljenja
+END:VEVENT
+BEGIN:VEVENT
+UID:c87ccc879ea3b05a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T200000
+DTEND;TZID=Europe/Ljubljana:20260826T220000
+SUMMARY:Martina Ipša – Stand up
+LOCATION:Avditorij
+DESCRIPTION: https://www.minoriti.si/dogodki/martina-ipsa-stand-up
+URL:https://www.minoriti.si/dogodki/martina-ipsa-stand-up
+END:VEVENT
+END:VCALENDAR

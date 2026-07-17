@@ -1,934 +1,934 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:SNG Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:19e39bd2e7fd14c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T210000
-DTEND;TZID=Europe/Ljubljana:20260710T230000
-SUMMARY:Evita
-LOCATION:SNG Maribor
-DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
-URL:https://www.sng-mb.si/event/evita/
-END:VEVENT
-BEGIN:VEVENT
-UID:e52b738a9524f710@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260713T210000
-DTEND;TZID=Europe/Ljubljana:20260713T230000
-SUMMARY:Evita
-LOCATION:SNG Maribor
-DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
-URL:https://www.sng-mb.si/event/evita/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1c48ff11ab5d682@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260718T213000
-DTEND;TZID=Europe/Ljubljana:20260718T233000
-SUMMARY:Svatba in Posvetitev pomladi
-LOCATION:SNG Maribor
-DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-END:VEVENT
-BEGIN:VEVENT
-UID:7311f9c49af51cfa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T213000
-DTEND;TZID=Europe/Ljubljana:20260719T233000
-SUMMARY:Svatba in Posvetitev pomladi
-LOCATION:SNG Maribor
-DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-END:VEVENT
-BEGIN:VEVENT
-UID:1d24b28a16e02bba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260807T213000
-DTEND;TZID=Europe/Ljubljana:20260807T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
-UID:65cb2af617f7026c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T213000
-DTEND;TZID=Europe/Ljubljana:20260808T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
-UID:9d09a0164887349d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T213000
-DTEND;TZID=Europe/Ljubljana:20260809T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
-UID:6ecb520bf5c464de@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T200000
-DTEND;TZID=Europe/Ljubljana:20260904T220000
-SUMMARY:Balet pod zvezdami
-LOCATION:SNG Maribor
-DESCRIPTION:Glavni trg Maribor https://www.sng-mb.si/event/balet-pod-zvezdami/
-URL:https://www.sng-mb.si/event/balet-pod-zvezdami/
-END:VEVENT
-BEGIN:VEVENT
-UID:c5b9d42377391666@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T193000
-DTEND;TZID=Europe/Ljubljana:20260911T213000
-SUMMARY:Lakmé
-LOCATION:SNG Maribor
-DESCRIPTION:Léo Delibes · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/lakme/
-URL:https://www.sng-mb.si/event/lakme/
-END:VEVENT
-BEGIN:VEVENT
-UID:fef1f730611fbfae@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T220000
-SUMMARY:Malomeščanska svatba
-LOCATION:SNG Maribor
-DESCRIPTION:Bertolt Brecht · Dvorana Frana Žižka https://www.sng-mb.si/event/malomescanska-svatba/
-URL:https://www.sng-mb.si/event/malomescanska-svatba/
-END:VEVENT
-BEGIN:VEVENT
-UID:96666441900c6ec0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T100000
-DTEND;TZID=Europe/Ljubljana:20260916T120000
-SUMMARY:Elvis Škorc\, genialni štor
-LOCATION:SNG Maribor
-DESCRIPTION:Janja Vidmar\, Maja Borin · Dvorana Frana Žižka  https://www.sng-mb.si/event/elvis-skorc-genialni-stor/
-URL:https://www.sng-mb.si/event/elvis-skorc-genialni-stor/
-END:VEVENT
-BEGIN:VEVENT
-UID:24d7aa761add721a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:1. koncert simfoničnega cikla: »Od glasbenega slavja\, glasbene poezije do junaške silovitosti simfonične pripovedi«
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
-URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
-END:VEVENT
-BEGIN:VEVENT
-UID:028c6762f093843a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:SIMFONIČNI CIKEL
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-END:VEVENT
-BEGIN:VEVENT
-UID:324e7adf5106a138@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:OPERA IN SIMFONIKI
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
-URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
-END:VEVENT
-BEGIN:VEVENT
-UID:993ab11e51001046@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260917T180000
-DTEND;TZID=Europe/Ljubljana:20260917T200000
-SUMMARY:Lakmé
-LOCATION:SNG Maribor
-DESCRIPTION:Léo Delibes · ZAGREBŠKI OPERNI FESTIVAL 2026\, HNK Zagreb\, Hrvaška https://www.sng-mb.si/event/lakme/
-URL:https://www.sng-mb.si/event/lakme/
-END:VEVENT
-BEGIN:VEVENT
-UID:0e74614e25cffcda@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260917T200000
-DTEND;TZID=Europe/Ljubljana:20260917T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:a15f7bcd26210b26@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T200000
-DTEND;TZID=Europe/Ljubljana:20260918T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:ed75d52e634d9fd1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T200000
-DTEND;TZID=Europe/Ljubljana:20260919T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:d4948f14543ca20c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T200000
-DTEND;TZID=Europe/Ljubljana:20260922T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:43564fc3816cef30@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T200000
-DTEND;TZID=Europe/Ljubljana:20260923T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:b5ae31ee5a7f9c6a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T200000
-DTEND;TZID=Europe/Ljubljana:20260924T220000
-SUMMARY:Kakšno ime pa je to?!
-LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-END:VEVENT
-BEGIN:VEVENT
-UID:c9ac341ce8512b80@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T200000
-DTEND;TZID=Europe/Ljubljana:20260925T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:8efb8c04e61a681a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T200000
-DTEND;TZID=Europe/Ljubljana:20260926T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:42a19d884d0761e4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T200000
-DTEND;TZID=Europe/Ljubljana:20260928T220000
-SUMMARY:»Lav iz in di er«
-LOCATION:SNG Maribor
-DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https://www.sng-mb.si/event/lav-iz-in-di-er/
-URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:a9915e205577b6d4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T193000
-DTEND;TZID=Europe/Ljubljana:20261001T213000
-SUMMARY:Ero z onega sveta
-LOCATION:SNG Maribor
-DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta Klasinc   https://www.sng-mb.si/event/ero-z-onega-sveta/
-URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
-END:VEVENT
-BEGIN:VEVENT
-UID:ab8b10c1936a0d17@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:01962ac65ba65993@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:OPERA BALET PREMIERA
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
-END:VEVENT
-BEGIN:VEVENT
-UID:e7817aec25a1cb1e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T170000
-DTEND;TZID=Europe/Ljubljana:20261018T190000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:464b585012a582dd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T170000
-DTEND;TZID=Europe/Ljubljana:20261018T190000
-SUMMARY:OPERA BALET POPOLDANSKI
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cab29663150ea5f1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:1. koncert cikla Carpe artem »Trije svetovi«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
-URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
-END:VEVENT
-BEGIN:VEVENT
-UID:a6f8aa50e4576246@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:CIKEL CARPE ARTEM
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-END:VEVENT
-BEGIN:VEVENT
-UID:3459e0360ca6cb26@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T190000
-DTEND;TZID=Europe/Ljubljana:20261020T210000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:04d1581effb83f96@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T190000
-DTEND;TZID=Europe/Ljubljana:20261020T210000
-SUMMARY:OPERA BALET TOREK
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
-END:VEVENT
-BEGIN:VEVENT
-UID:6f520a27f9c6edb0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T190000
-DTEND;TZID=Europe/Ljubljana:20261022T210000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:2e11e797965b6621@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T190000
-DTEND;TZID=Europe/Ljubljana:20261024T210000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:671ff354f575808c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T190000
-DTEND;TZID=Europe/Ljubljana:20261024T210000
-SUMMARY:OPERA BALET SOBOTA
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
-END:VEVENT
-BEGIN:VEVENT
-UID:346b95e608b34091@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T193000
-DTEND;TZID=Europe/Ljubljana:20261106T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:bbb5637cbcf973aa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T170000
-DTEND;TZID=Europe/Ljubljana:20261108T190000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:3855295d4c89bd25@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261110T193000
-DTEND;TZID=Europe/Ljubljana:20261110T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:c9c660e90457153d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T193000
-DTEND;TZID=Europe/Ljubljana:20261111T213000
-SUMMARY:2. koncert cikla Carpe artem »Glasovi nove generacije«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
-URL:https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
-END:VEVENT
-BEGIN:VEVENT
-UID:107302e695df0f84@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261112T193000
-DTEND;TZID=Europe/Ljubljana:20261112T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:ee5e75cff849b270@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261113T193000
-DTEND;TZID=Europe/Ljubljana:20261113T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:f29213721225a0c5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261114T193000
-DTEND;TZID=Europe/Ljubljana:20261114T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:315e2fa588a1435d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:3. koncert cikla Carpe artem »Refleksije strun«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
-URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
-END:VEVENT
-BEGIN:VEVENT
-UID:f2db796b647eb184@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T200000
-DTEND;TZID=Europe/Ljubljana:20261126T220000
-SUMMARY:Radio Dubrava
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Frana Žižka https://www.sng-mb.si/event/radio-dubrava/
-URL:https://www.sng-mb.si/event/radio-dubrava/
-END:VEVENT
-BEGIN:VEVENT
-UID:17c82be0270c16c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T193000
-DTEND;TZID=Europe/Ljubljana:20261127T213000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:ce41daaa94fcca80@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261128T193000
-DTEND;TZID=Europe/Ljubljana:20261128T213000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:18db271ea4c85f55@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261201T193000
-DTEND;TZID=Europe/Ljubljana:20261201T213000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:4b95037e4964c0da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261202T193000
-DTEND;TZID=Europe/Ljubljana:20261202T213000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:57af480b9185aaa8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261206T170000
-DTEND;TZID=Europe/Ljubljana:20261206T190000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:a83747cdb2b1e233@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261207T180000
-DTEND;TZID=Europe/Ljubljana:20261207T200000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:2604eb78829855fb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261215T180000
-DTEND;TZID=Europe/Ljubljana:20261215T200000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:55eeafb126c512e2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261216T180000
-DTEND;TZID=Europe/Ljubljana:20261216T200000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:f599815a610d870c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261218T193000
-DTEND;TZID=Europe/Ljubljana:20261218T213000
-SUMMARY:Božično-novoletni koncert
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
-URL:https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
-END:VEVENT
-BEGIN:VEVENT
-UID:2885413eecad9f3c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261219T180000
-DTEND;TZID=Europe/Ljubljana:20261219T200000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:69cb81714611af2d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261220T170000
-DTEND;TZID=Europe/Ljubljana:20261220T190000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:fbbe3fd17b0697a7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261222T110000
-DTEND;TZID=Europe/Ljubljana:20261222T130000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:3692e66221af63c8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261223T180000
-DTEND;TZID=Europe/Ljubljana:20261223T200000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:97ede18a18eea90d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261226T110000
-DTEND;TZID=Europe/Ljubljana:20261226T130000
-SUMMARY:Hrestač
-LOCATION:SNG Maribor
-DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
-URL:https://www.sng-mb.si/event/hrestac/
-END:VEVENT
-BEGIN:VEVENT
-UID:065fba0e88904e0d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261230T193000
-DTEND;TZID=Europe/Ljubljana:20261230T213000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:b336cc4591169b18@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261231T170000
-DTEND;TZID=Europe/Ljubljana:20261231T190000
-SUMMARY:Netopir
-LOCATION:SNG Maribor
-DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
-URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:87adc300feb69d2a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270107T100000
-DTEND;TZID=Europe/Ljubljana:20270107T120000
-SUMMARY:Peter in volk
-LOCATION:SNG Maribor
-DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
-URL:https://www.sng-mb.si/event/peter-in-volk/
-END:VEVENT
-BEGIN:VEVENT
-UID:04477979dd93807d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270108T100000
-DTEND;TZID=Europe/Ljubljana:20270108T120000
-SUMMARY:Peter in volk
-LOCATION:SNG Maribor
-DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
-URL:https://www.sng-mb.si/event/peter-in-volk/
-END:VEVENT
-BEGIN:VEVENT
-UID:9a176e0998157ead@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270109T110000
-DTEND;TZID=Europe/Ljubljana:20270109T130000
-SUMMARY:Peter in volk
-LOCATION:SNG Maribor
-DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
-URL:https://www.sng-mb.si/event/peter-in-volk/
-END:VEVENT
-BEGIN:VEVENT
-UID:2f041b9c0ad37882@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270111T100000
-DTEND;TZID=Europe/Ljubljana:20270111T120000
-SUMMARY:Peter in volk
-LOCATION:SNG Maribor
-DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
-URL:https://www.sng-mb.si/event/peter-in-volk/
-END:VEVENT
-BEGIN:VEVENT
-UID:dc2e96f7a637352d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270114T193000
-DTEND;TZID=Europe/Ljubljana:20270114T213000
-SUMMARY:2. koncert simfoničnega cikla: »Od virtuoznosti rahločutnega sloga do monumentalnega simfonizma romantike«
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/2-koncert-simfonicnega-cikla-od-virtuoznosti-rahlocutnega-sloga-do-monumentalnega-simfonizma-romantike/
-URL:https://www.sng-mb.si/event/2-koncert-simfonicnega-cikla-od-virtuoznosti-rahlocutnega-sloga-do-monumentalnega-simfonizma-romantike/
-END:VEVENT
-BEGIN:VEVENT
-UID:d524e4a18c76e9e0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270116T180000
-DTEND;TZID=Europe/Ljubljana:20270116T200000
-SUMMARY:Kekec
-LOCATION:SNG Maribor
-DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
-URL:https://www.sng-mb.si/event/kekec/
-END:VEVENT
-BEGIN:VEVENT
-UID:4915fc7692682b8f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270118T100000
-DTEND;TZID=Europe/Ljubljana:20270118T120000
-SUMMARY:Kekec
-LOCATION:SNG Maribor
-DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
-URL:https://www.sng-mb.si/event/kekec/
-END:VEVENT
-BEGIN:VEVENT
-UID:23394781add85ec6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270119T100000
-DTEND;TZID=Europe/Ljubljana:20270119T120000
-SUMMARY:Kekec
-LOCATION:SNG Maribor
-DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
-URL:https://www.sng-mb.si/event/kekec/
-END:VEVENT
-BEGIN:VEVENT
-UID:9dcb881884a437f9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270121T180000
-DTEND;TZID=Europe/Ljubljana:20270121T200000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Gallusova dvorana\, Cankarjev dom Ljubljana https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:14b71ad9cd47413e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270123T180000
-DTEND;TZID=Europe/Ljubljana:20270123T200000
-SUMMARY:Tannhäuser
-LOCATION:SNG Maribor
-DESCRIPTION:Richard Wagner · Gallusova dvorana\, Cankarjev dom Ljubljana https://www.sng-mb.si/event/tannhauser/
-URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:671a5a3cbd90b01d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270204T193000
-DTEND;TZID=Europe/Ljubljana:20270204T213000
-SUMMARY:4. koncert cikla Carpe artem »Burna srečanje«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/4oncert-cikla-carpe-artem-burna-srecanje/
-URL:https://www.sng-mb.si/event/4oncert-cikla-carpe-artem-burna-srecanje/
-END:VEVENT
-BEGIN:VEVENT
-UID:2ed171abf6027e45@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270205T193000
-DTEND;TZID=Europe/Ljubljana:20270205T213000
-SUMMARY:Don Giovanni
-LOCATION:SNG Maribor
-DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
-URL:https://www.sng-mb.si/event/don-giovanni/
-END:VEVENT
-BEGIN:VEVENT
-UID:605a8f56e9b3e893@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270207T170000
-DTEND;TZID=Europe/Ljubljana:20270207T190000
-SUMMARY:Don Giovanni
-LOCATION:SNG Maribor
-DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
-URL:https://www.sng-mb.si/event/don-giovanni/
-END:VEVENT
-BEGIN:VEVENT
-UID:5ff1fbb4ab4b803d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270209T193000
-DTEND;TZID=Europe/Ljubljana:20270209T213000
-SUMMARY:Don Giovanni
-LOCATION:SNG Maribor
-DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
-URL:https://www.sng-mb.si/event/don-giovanni/
-END:VEVENT
-BEGIN:VEVENT
-UID:3af87fca0b756152@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270211T193000
-DTEND;TZID=Europe/Ljubljana:20270211T213000
-SUMMARY:Don Giovanni
-LOCATION:SNG Maribor
-DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
-URL:https://www.sng-mb.si/event/don-giovanni/
-END:VEVENT
-BEGIN:VEVENT
-UID:4f8721de8129e441@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270213T193000
-DTEND;TZID=Europe/Ljubljana:20270213T213000
-SUMMARY:Don Giovanni
-LOCATION:SNG Maribor
-DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
-URL:https://www.sng-mb.si/event/don-giovanni/
-END:VEVENT
-BEGIN:VEVENT
-UID:58928d953b819f0a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270223T193000
-DTEND;TZID=Europe/Ljubljana:20270223T213000
-SUMMARY:Koncert Simfoničnega orkestra SNG Maribor s solisti Akademije za glasbo Univerze v Ljubljani
-LOCATION:SNG Maribor
-DESCRIPTION:Unionska dvorana https://www.sng-mb.si/event/koncert-simfonicnega-orkestra-sng-maribor-s-solisti-akademije-za-glasbo-univerze-v-ljubljani-2/
-URL:https://www.sng-mb.si/event/koncert-simfonicnega-orkestra-sng-maribor-s-solisti-akademije-za-glasbo-univerze-v-ljubljani-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:8206c6f6359383e2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270305T193000
-DTEND;TZID=Europe/Ljubljana:20270305T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:e9baa28da71708d2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270306T193000
-DTEND;TZID=Europe/Ljubljana:20270306T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:c63cc899145873d5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270306T193000
-DTEND;TZID=Europe/Ljubljana:20270306T213000
-SUMMARY:1. glasbena matineja
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-glasbena-matineja/
-URL:https://www.sng-mb.si/event/1-glasbena-matineja/
-END:VEVENT
-BEGIN:VEVENT
-UID:090fc755bc25fcc0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270309T193000
-DTEND;TZID=Europe/Ljubljana:20270309T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:2074c636668397ba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270310T193000
-DTEND;TZID=Europe/Ljubljana:20270310T213000
-SUMMARY:5. koncert cikla Carpe artem »Posoda pleše«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/5-koncert-cikla-carpe-artem-posoda-plese/
-URL:https://www.sng-mb.si/event/5-koncert-cikla-carpe-artem-posoda-plese/
-END:VEVENT
-BEGIN:VEVENT
-UID:7db20cec37d91165@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270311T193000
-DTEND;TZID=Europe/Ljubljana:20270311T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:ec8483313f18ae85@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270313T180000
-DTEND;TZID=Europe/Ljubljana:20270313T200000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:4142ff35a0032aba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270314T170000
-DTEND;TZID=Europe/Ljubljana:20270314T190000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:a8c958c0bdc7eb91@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270325T193000
-DTEND;TZID=Europe/Ljubljana:20270325T213000
-SUMMARY:3. koncert simfoničnega cikla: »Nova zvočnost\, cesarska moč klavirja in simfonija vedrine«
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/3-koncert-simfonicnega-cikla-nova-zvocnost-cesarska-moc-klavirja-in-simfonija-vedrine/
-URL:https://www.sng-mb.si/event/3-koncert-simfonicnega-cikla-nova-zvocnost-cesarska-moc-klavirja-in-simfonija-vedrine/
-END:VEVENT
-BEGIN:VEVENT
-UID:37abbe0ee8c72e87@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270409T193000
-DTEND;TZID=Europe/Ljubljana:20270409T213000
-SUMMARY:Hamlet
-LOCATION:SNG Maribor
-DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hamlet-opera/
-URL:https://www.sng-mb.si/event/hamlet-opera/
-END:VEVENT
-BEGIN:VEVENT
-UID:92483975f4b19dd8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270410T180000
-DTEND;TZID=Europe/Ljubljana:20270410T200000
-SUMMARY:Hamlet
-LOCATION:SNG Maribor
-DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hamlet-opera/
-URL:https://www.sng-mb.si/event/hamlet-opera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4064d345eae1d6e9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270417T193000
-DTEND;TZID=Europe/Ljubljana:20270417T213000
-SUMMARY:2. glasbena matineja
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-glasbena-matineja-2/
-URL:https://www.sng-mb.si/event/2-glasbena-matineja-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:f88e5978a8ffafba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270420T110000
-DTEND;TZID=Europe/Ljubljana:20270420T130000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:529e4b4120dd5b52@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270421T110000
-DTEND;TZID=Europe/Ljubljana:20270421T130000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:6b27cd2b73555faa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270423T193000
-DTEND;TZID=Europe/Ljubljana:20270423T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:776eb5d5f95dcc5d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270424T193000
-DTEND;TZID=Europe/Ljubljana:20270424T213000
-SUMMARY:Bajadera
-LOCATION:SNG Maribor
-DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
-URL:https://www.sng-mb.si/event/bajadera/
-END:VEVENT
-BEGIN:VEVENT
-UID:b92af0ec4f1cedf8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270507T193000
-DTEND;TZID=Europe/Ljubljana:20270507T213000
-SUMMARY:4. koncert simfoničnega cikla: »Pripoved iz eksotičnih pokrajin\, godalni lirizem in plemenita vedrina simfonične klasike«
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
-URL:https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
-END:VEVENT
-BEGIN:VEVENT
-UID:32c8e4251a07d39a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270521T193000
-DTEND;TZID=Europe/Ljubljana:20270521T213000
-SUMMARY:La bohème
-LOCATION:SNG Maribor
-DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
-URL:https://www.sng-mb.si/event/la-boheme-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:5db1e37eb05188d6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270523T170000
-DTEND;TZID=Europe/Ljubljana:20270523T190000
-SUMMARY:La bohème
-LOCATION:SNG Maribor
-DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
-URL:https://www.sng-mb.si/event/la-boheme-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:8ddbf91a22f9c1d3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270525T193000
-DTEND;TZID=Europe/Ljubljana:20270525T213000
-SUMMARY:La bohème
-LOCATION:SNG Maribor
-DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
-URL:https://www.sng-mb.si/event/la-boheme-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ba7b10292a6112e1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270526T193000
-DTEND;TZID=Europe/Ljubljana:20270526T213000
-SUMMARY:6. koncert cikla Carpe artem »Med mehom in lokom«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/6-koncert-cikla-carpe-artem-med-mehom-in-lokom/
-URL:https://www.sng-mb.si/event/6-koncert-cikla-carpe-artem-med-mehom-in-lokom/
-END:VEVENT
-BEGIN:VEVENT
-UID:e41fe56984c93fe5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270527T193000
-DTEND;TZID=Europe/Ljubljana:20270527T213000
-SUMMARY:La bohème
-LOCATION:SNG Maribor
-DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
-URL:https://www.sng-mb.si/event/la-boheme-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:dfba8eb9192e8c04@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270529T193000
-DTEND;TZID=Europe/Ljubljana:20270529T213000
-SUMMARY:La bohème
-LOCATION:SNG Maribor
-DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
-URL:https://www.sng-mb.si/event/la-boheme-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:6184fda70b6a4a1c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270604T193000
-DTEND;TZID=Europe/Ljubljana:20270604T213000
-SUMMARY:Operna noč v Mestnem parku
-LOCATION:SNG Maribor
-DESCRIPTION:Promenada Mestnega parka Maribor https://www.sng-mb.si/event/operna-noc-2026/
-URL:https://www.sng-mb.si/event/operna-noc-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:406e22b46cb74293@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270624T193000
-DTEND;TZID=Europe/Ljubljana:20270624T213000
-SUMMARY:La traviata
-LOCATION:SNG Maribor
-DESCRIPTION:Giuseppe Verdi · Dvorana Ondine Otte Klasinc https://www.sng-mb.si/event/la-traviata/
-URL:https://www.sng-mb.si/event/la-traviata/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:SNG Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:19e39bd2e7fd14c9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260710T210000
+DTEND;TZID=Europe/Ljubljana:20260710T230000
+SUMMARY:Evita
+LOCATION:SNG Maribor
+DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
+URL:https://www.sng-mb.si/event/evita/
+END:VEVENT
+BEGIN:VEVENT
+UID:e52b738a9524f710@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260713T210000
+DTEND;TZID=Europe/Ljubljana:20260713T230000
+SUMMARY:Evita
+LOCATION:SNG Maribor
+DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
+URL:https://www.sng-mb.si/event/evita/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c48ff11ab5d682@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260718T213000
+DTEND;TZID=Europe/Ljubljana:20260718T233000
+SUMMARY:Svatba in Posvetitev pomladi
+LOCATION:SNG Maribor
+DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
+URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
+END:VEVENT
+BEGIN:VEVENT
+UID:7311f9c49af51cfa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260719T213000
+DTEND;TZID=Europe/Ljubljana:20260719T233000
+SUMMARY:Svatba in Posvetitev pomladi
+LOCATION:SNG Maribor
+DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
+URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
+END:VEVENT
+BEGIN:VEVENT
+UID:1d24b28a16e02bba@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260807T213000
+DTEND;TZID=Europe/Ljubljana:20260807T233000
+SUMMARY:Medeja
+LOCATION:SNG Maribor
+DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
+URL:https://www.sng-mb.si/event/stone_muller_medeja/
+END:VEVENT
+BEGIN:VEVENT
+UID:65cb2af617f7026c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260808T213000
+DTEND;TZID=Europe/Ljubljana:20260808T233000
+SUMMARY:Medeja
+LOCATION:SNG Maribor
+DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
+URL:https://www.sng-mb.si/event/stone_muller_medeja/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d09a0164887349d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T213000
+DTEND;TZID=Europe/Ljubljana:20260809T233000
+SUMMARY:Medeja
+LOCATION:SNG Maribor
+DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
+URL:https://www.sng-mb.si/event/stone_muller_medeja/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ecb520bf5c464de@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T200000
+DTEND;TZID=Europe/Ljubljana:20260904T220000
+SUMMARY:Balet pod zvezdami
+LOCATION:SNG Maribor
+DESCRIPTION:Glavni trg Maribor https://www.sng-mb.si/event/balet-pod-zvezdami/
+URL:https://www.sng-mb.si/event/balet-pod-zvezdami/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b9d42377391666@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T193000
+DTEND;TZID=Europe/Ljubljana:20260911T213000
+SUMMARY:Lakmé
+LOCATION:SNG Maribor
+DESCRIPTION:Léo Delibes · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/lakme/
+URL:https://www.sng-mb.si/event/lakme/
+END:VEVENT
+BEGIN:VEVENT
+UID:fef1f730611fbfae@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T200000
+DTEND;TZID=Europe/Ljubljana:20260911T220000
+SUMMARY:Malomeščanska svatba
+LOCATION:SNG Maribor
+DESCRIPTION:Bertolt Brecht · Dvorana Frana Žižka https://www.sng-mb.si/event/malomescanska-svatba/
+URL:https://www.sng-mb.si/event/malomescanska-svatba/
+END:VEVENT
+BEGIN:VEVENT
+UID:96666441900c6ec0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T100000
+DTEND;TZID=Europe/Ljubljana:20260916T120000
+SUMMARY:Elvis Škorc\, genialni štor
+LOCATION:SNG Maribor
+DESCRIPTION:Janja Vidmar\, Maja Borin · Dvorana Frana Žižka  https://www.sng-mb.si/event/elvis-skorc-genialni-stor/
+URL:https://www.sng-mb.si/event/elvis-skorc-genialni-stor/
+END:VEVENT
+BEGIN:VEVENT
+UID:24d7aa761add721a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:1. koncert simfoničnega cikla: »Od glasbenega slavja\, glasbene poezije do junaške silovitosti simfonične pripovedi«
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
+URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
+END:VEVENT
+BEGIN:VEVENT
+UID:028c6762f093843a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:SIMFONIČNI CIKEL
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+END:VEVENT
+BEGIN:VEVENT
+UID:324e7adf5106a138@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:OPERA IN SIMFONIKI
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+END:VEVENT
+BEGIN:VEVENT
+UID:993ab11e51001046@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260917T180000
+DTEND;TZID=Europe/Ljubljana:20260917T200000
+SUMMARY:Lakmé
+LOCATION:SNG Maribor
+DESCRIPTION:Léo Delibes · ZAGREBŠKI OPERNI FESTIVAL 2026\, HNK Zagreb\, Hrvaška https://www.sng-mb.si/event/lakme/
+URL:https://www.sng-mb.si/event/lakme/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e74614e25cffcda@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260917T200000
+DTEND;TZID=Europe/Ljubljana:20260917T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:a15f7bcd26210b26@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T200000
+DTEND;TZID=Europe/Ljubljana:20260918T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed75d52e634d9fd1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T200000
+DTEND;TZID=Europe/Ljubljana:20260919T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4948f14543ca20c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T200000
+DTEND;TZID=Europe/Ljubljana:20260922T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:43564fc3816cef30@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T200000
+DTEND;TZID=Europe/Ljubljana:20260923T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ae31ee5a7f9c6a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T200000
+DTEND;TZID=Europe/Ljubljana:20260924T220000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ac341ce8512b80@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T200000
+DTEND;TZID=Europe/Ljubljana:20260925T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:8efb8c04e61a681a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T200000
+DTEND;TZID=Europe/Ljubljana:20260926T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:42a19d884d0761e4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260928T200000
+DTEND;TZID=Europe/Ljubljana:20260928T220000
+SUMMARY:»Lav iz in di er«
+LOCATION:SNG Maribor
+DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https://www.sng-mb.si/event/lav-iz-in-di-er/
+URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:a9915e205577b6d4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T193000
+DTEND;TZID=Europe/Ljubljana:20261001T213000
+SUMMARY:Ero z onega sveta
+LOCATION:SNG Maribor
+DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta Klasinc   https://www.sng-mb.si/event/ero-z-onega-sveta/
+URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab8b10c1936a0d17@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T190000
+DTEND;TZID=Europe/Ljubljana:20261016T210000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:01962ac65ba65993@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T190000
+DTEND;TZID=Europe/Ljubljana:20261016T210000
+SUMMARY:OPERA BALET PREMIERA
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+END:VEVENT
+BEGIN:VEVENT
+UID:e7817aec25a1cb1e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261018T170000
+DTEND;TZID=Europe/Ljubljana:20261018T190000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:464b585012a582dd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261018T170000
+DTEND;TZID=Europe/Ljubljana:20261018T190000
+SUMMARY:OPERA BALET POPOLDANSKI
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cab29663150ea5f1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:1. koncert cikla Carpe artem »Trije svetovi«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
+URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f8aa50e4576246@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:CIKEL CARPE ARTEM
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
+URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3459e0360ca6cb26@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:04d1581effb83f96@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:OPERA BALET TOREK
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6f520a27f9c6edb0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T190000
+DTEND;TZID=Europe/Ljubljana:20261022T210000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e11e797965b6621@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T190000
+DTEND;TZID=Europe/Ljubljana:20261024T210000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:671ff354f575808c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T190000
+DTEND;TZID=Europe/Ljubljana:20261024T210000
+SUMMARY:OPERA BALET SOBOTA
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
+END:VEVENT
+BEGIN:VEVENT
+UID:346b95e608b34091@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T193000
+DTEND;TZID=Europe/Ljubljana:20261106T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb5637cbcf973aa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T170000
+DTEND;TZID=Europe/Ljubljana:20261108T190000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:3855295d4c89bd25@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261110T193000
+DTEND;TZID=Europe/Ljubljana:20261110T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c660e90457153d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T193000
+DTEND;TZID=Europe/Ljubljana:20261111T213000
+SUMMARY:2. koncert cikla Carpe artem »Glasovi nove generacije«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
+URL:https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
+END:VEVENT
+BEGIN:VEVENT
+UID:107302e695df0f84@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261112T193000
+DTEND;TZID=Europe/Ljubljana:20261112T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5e75cff849b270@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T193000
+DTEND;TZID=Europe/Ljubljana:20261113T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:f29213721225a0c5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T193000
+DTEND;TZID=Europe/Ljubljana:20261114T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:315e2fa588a1435d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T193000
+DTEND;TZID=Europe/Ljubljana:20261126T213000
+SUMMARY:3. koncert cikla Carpe artem »Refleksije strun«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
+URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2db796b647eb184@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T200000
+DTEND;TZID=Europe/Ljubljana:20261126T220000
+SUMMARY:Radio Dubrava
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Frana Žižka https://www.sng-mb.si/event/radio-dubrava/
+URL:https://www.sng-mb.si/event/radio-dubrava/
+END:VEVENT
+BEGIN:VEVENT
+UID:17c82be0270c16c9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261127T193000
+DTEND;TZID=Europe/Ljubljana:20261127T213000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ce41daaa94fcca80@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T193000
+DTEND;TZID=Europe/Ljubljana:20261128T213000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:18db271ea4c85f55@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T193000
+DTEND;TZID=Europe/Ljubljana:20261201T213000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b95037e4964c0da@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261202T193000
+DTEND;TZID=Europe/Ljubljana:20261202T213000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:57af480b9185aaa8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261206T170000
+DTEND;TZID=Europe/Ljubljana:20261206T190000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:a83747cdb2b1e233@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261207T180000
+DTEND;TZID=Europe/Ljubljana:20261207T200000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2604eb78829855fb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261215T180000
+DTEND;TZID=Europe/Ljubljana:20261215T200000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:55eeafb126c512e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261216T180000
+DTEND;TZID=Europe/Ljubljana:20261216T200000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:f599815a610d870c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261218T193000
+DTEND;TZID=Europe/Ljubljana:20261218T213000
+SUMMARY:Božično-novoletni koncert
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
+URL:https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2885413eecad9f3c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261219T180000
+DTEND;TZID=Europe/Ljubljana:20261219T200000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:69cb81714611af2d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261220T170000
+DTEND;TZID=Europe/Ljubljana:20261220T190000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbbe3fd17b0697a7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261222T110000
+DTEND;TZID=Europe/Ljubljana:20261222T130000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:3692e66221af63c8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261223T180000
+DTEND;TZID=Europe/Ljubljana:20261223T200000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:97ede18a18eea90d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261226T110000
+DTEND;TZID=Europe/Ljubljana:20261226T130000
+SUMMARY:Hrestač
+LOCATION:SNG Maribor
+DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
+URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:065fba0e88904e0d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261230T193000
+DTEND;TZID=Europe/Ljubljana:20261230T213000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:b336cc4591169b18@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261231T170000
+DTEND;TZID=Europe/Ljubljana:20261231T190000
+SUMMARY:Netopir
+LOCATION:SNG Maribor
+DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
+URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:87adc300feb69d2a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270107T100000
+DTEND;TZID=Europe/Ljubljana:20270107T120000
+SUMMARY:Peter in volk
+LOCATION:SNG Maribor
+DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
+URL:https://www.sng-mb.si/event/peter-in-volk/
+END:VEVENT
+BEGIN:VEVENT
+UID:04477979dd93807d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270108T100000
+DTEND;TZID=Europe/Ljubljana:20270108T120000
+SUMMARY:Peter in volk
+LOCATION:SNG Maribor
+DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
+URL:https://www.sng-mb.si/event/peter-in-volk/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a176e0998157ead@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270109T110000
+DTEND;TZID=Europe/Ljubljana:20270109T130000
+SUMMARY:Peter in volk
+LOCATION:SNG Maribor
+DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
+URL:https://www.sng-mb.si/event/peter-in-volk/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f041b9c0ad37882@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270111T100000
+DTEND;TZID=Europe/Ljubljana:20270111T120000
+SUMMARY:Peter in volk
+LOCATION:SNG Maribor
+DESCRIPTION:Sergej Prokofjev · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/peter-in-volk/
+URL:https://www.sng-mb.si/event/peter-in-volk/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2e96f7a637352d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270114T193000
+DTEND;TZID=Europe/Ljubljana:20270114T213000
+SUMMARY:2. koncert simfoničnega cikla: »Od virtuoznosti rahločutnega sloga do monumentalnega simfonizma romantike«
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/2-koncert-simfonicnega-cikla-od-virtuoznosti-rahlocutnega-sloga-do-monumentalnega-simfonizma-romantike/
+URL:https://www.sng-mb.si/event/2-koncert-simfonicnega-cikla-od-virtuoznosti-rahlocutnega-sloga-do-monumentalnega-simfonizma-romantike/
+END:VEVENT
+BEGIN:VEVENT
+UID:d524e4a18c76e9e0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270116T180000
+DTEND;TZID=Europe/Ljubljana:20270116T200000
+SUMMARY:Kekec
+LOCATION:SNG Maribor
+DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
+URL:https://www.sng-mb.si/event/kekec/
+END:VEVENT
+BEGIN:VEVENT
+UID:4915fc7692682b8f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270118T100000
+DTEND;TZID=Europe/Ljubljana:20270118T120000
+SUMMARY:Kekec
+LOCATION:SNG Maribor
+DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
+URL:https://www.sng-mb.si/event/kekec/
+END:VEVENT
+BEGIN:VEVENT
+UID:23394781add85ec6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270119T100000
+DTEND;TZID=Europe/Ljubljana:20270119T120000
+SUMMARY:Kekec
+LOCATION:SNG Maribor
+DESCRIPTION:Avtorski projekt Edwarda Cluga in skupine Katalena · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/kekec/
+URL:https://www.sng-mb.si/event/kekec/
+END:VEVENT
+BEGIN:VEVENT
+UID:9dcb881884a437f9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270121T180000
+DTEND;TZID=Europe/Ljubljana:20270121T200000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Gallusova dvorana\, Cankarjev dom Ljubljana https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:14b71ad9cd47413e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270123T180000
+DTEND;TZID=Europe/Ljubljana:20270123T200000
+SUMMARY:Tannhäuser
+LOCATION:SNG Maribor
+DESCRIPTION:Richard Wagner · Gallusova dvorana\, Cankarjev dom Ljubljana https://www.sng-mb.si/event/tannhauser/
+URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:671a5a3cbd90b01d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270204T193000
+DTEND;TZID=Europe/Ljubljana:20270204T213000
+SUMMARY:4. koncert cikla Carpe artem »Burna srečanje«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/4oncert-cikla-carpe-artem-burna-srecanje/
+URL:https://www.sng-mb.si/event/4oncert-cikla-carpe-artem-burna-srecanje/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed171abf6027e45@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270205T193000
+DTEND;TZID=Europe/Ljubljana:20270205T213000
+SUMMARY:Don Giovanni
+LOCATION:SNG Maribor
+DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
+URL:https://www.sng-mb.si/event/don-giovanni/
+END:VEVENT
+BEGIN:VEVENT
+UID:605a8f56e9b3e893@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270207T170000
+DTEND;TZID=Europe/Ljubljana:20270207T190000
+SUMMARY:Don Giovanni
+LOCATION:SNG Maribor
+DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
+URL:https://www.sng-mb.si/event/don-giovanni/
+END:VEVENT
+BEGIN:VEVENT
+UID:5ff1fbb4ab4b803d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270209T193000
+DTEND;TZID=Europe/Ljubljana:20270209T213000
+SUMMARY:Don Giovanni
+LOCATION:SNG Maribor
+DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
+URL:https://www.sng-mb.si/event/don-giovanni/
+END:VEVENT
+BEGIN:VEVENT
+UID:3af87fca0b756152@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270211T193000
+DTEND;TZID=Europe/Ljubljana:20270211T213000
+SUMMARY:Don Giovanni
+LOCATION:SNG Maribor
+DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
+URL:https://www.sng-mb.si/event/don-giovanni/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8721de8129e441@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270213T193000
+DTEND;TZID=Europe/Ljubljana:20270213T213000
+SUMMARY:Don Giovanni
+LOCATION:SNG Maribor
+DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/don-giovanni/
+URL:https://www.sng-mb.si/event/don-giovanni/
+END:VEVENT
+BEGIN:VEVENT
+UID:58928d953b819f0a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270223T193000
+DTEND;TZID=Europe/Ljubljana:20270223T213000
+SUMMARY:Koncert Simfoničnega orkestra SNG Maribor s solisti Akademije za glasbo Univerze v Ljubljani
+LOCATION:SNG Maribor
+DESCRIPTION:Unionska dvorana https://www.sng-mb.si/event/koncert-simfonicnega-orkestra-sng-maribor-s-solisti-akademije-za-glasbo-univerze-v-ljubljani-2/
+URL:https://www.sng-mb.si/event/koncert-simfonicnega-orkestra-sng-maribor-s-solisti-akademije-za-glasbo-univerze-v-ljubljani-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8206c6f6359383e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270305T193000
+DTEND;TZID=Europe/Ljubljana:20270305T213000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9baa28da71708d2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270306T193000
+DTEND;TZID=Europe/Ljubljana:20270306T213000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:c63cc899145873d5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270306T193000
+DTEND;TZID=Europe/Ljubljana:20270306T213000
+SUMMARY:1. glasbena matineja
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-glasbena-matineja/
+URL:https://www.sng-mb.si/event/1-glasbena-matineja/
+END:VEVENT
+BEGIN:VEVENT
+UID:090fc755bc25fcc0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270309T193000
+DTEND;TZID=Europe/Ljubljana:20270309T213000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:2074c636668397ba@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270310T193000
+DTEND;TZID=Europe/Ljubljana:20270310T213000
+SUMMARY:5. koncert cikla Carpe artem »Posoda pleše«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/5-koncert-cikla-carpe-artem-posoda-plese/
+URL:https://www.sng-mb.si/event/5-koncert-cikla-carpe-artem-posoda-plese/
+END:VEVENT
+BEGIN:VEVENT
+UID:7db20cec37d91165@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270311T193000
+DTEND;TZID=Europe/Ljubljana:20270311T213000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8483313f18ae85@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270313T180000
+DTEND;TZID=Europe/Ljubljana:20270313T200000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:4142ff35a0032aba@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270314T170000
+DTEND;TZID=Europe/Ljubljana:20270314T190000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c958c0bdc7eb91@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270325T193000
+DTEND;TZID=Europe/Ljubljana:20270325T213000
+SUMMARY:3. koncert simfoničnega cikla: »Nova zvočnost\, cesarska moč klavirja in simfonija vedrine«
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/3-koncert-simfonicnega-cikla-nova-zvocnost-cesarska-moc-klavirja-in-simfonija-vedrine/
+URL:https://www.sng-mb.si/event/3-koncert-simfonicnega-cikla-nova-zvocnost-cesarska-moc-klavirja-in-simfonija-vedrine/
+END:VEVENT
+BEGIN:VEVENT
+UID:37abbe0ee8c72e87@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270409T193000
+DTEND;TZID=Europe/Ljubljana:20270409T213000
+SUMMARY:Hamlet
+LOCATION:SNG Maribor
+DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hamlet-opera/
+URL:https://www.sng-mb.si/event/hamlet-opera/
+END:VEVENT
+BEGIN:VEVENT
+UID:92483975f4b19dd8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270410T180000
+DTEND;TZID=Europe/Ljubljana:20270410T200000
+SUMMARY:Hamlet
+LOCATION:SNG Maribor
+DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hamlet-opera/
+URL:https://www.sng-mb.si/event/hamlet-opera/
+END:VEVENT
+BEGIN:VEVENT
+UID:4064d345eae1d6e9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270417T193000
+DTEND;TZID=Europe/Ljubljana:20270417T213000
+SUMMARY:2. glasbena matineja
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-glasbena-matineja-2/
+URL:https://www.sng-mb.si/event/2-glasbena-matineja-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f88e5978a8ffafba@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270420T110000
+DTEND;TZID=Europe/Ljubljana:20270420T130000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:529e4b4120dd5b52@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270421T110000
+DTEND;TZID=Europe/Ljubljana:20270421T130000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b27cd2b73555faa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270423T193000
+DTEND;TZID=Europe/Ljubljana:20270423T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:776eb5d5f95dcc5d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270424T193000
+DTEND;TZID=Europe/Ljubljana:20270424T213000
+SUMMARY:Bajadera
+LOCATION:SNG Maribor
+DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
+URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:b92af0ec4f1cedf8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270507T193000
+DTEND;TZID=Europe/Ljubljana:20270507T213000
+SUMMARY:4. koncert simfoničnega cikla: »Pripoved iz eksotičnih pokrajin\, godalni lirizem in plemenita vedrina simfonične klasike«
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
+URL:https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
+END:VEVENT
+BEGIN:VEVENT
+UID:32c8e4251a07d39a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270521T193000
+DTEND;TZID=Europe/Ljubljana:20270521T213000
+SUMMARY:La bohème
+LOCATION:SNG Maribor
+DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
+URL:https://www.sng-mb.si/event/la-boheme-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:5db1e37eb05188d6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270523T170000
+DTEND;TZID=Europe/Ljubljana:20270523T190000
+SUMMARY:La bohème
+LOCATION:SNG Maribor
+DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
+URL:https://www.sng-mb.si/event/la-boheme-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ddbf91a22f9c1d3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270525T193000
+DTEND;TZID=Europe/Ljubljana:20270525T213000
+SUMMARY:La bohème
+LOCATION:SNG Maribor
+DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
+URL:https://www.sng-mb.si/event/la-boheme-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7b10292a6112e1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270526T193000
+DTEND;TZID=Europe/Ljubljana:20270526T213000
+SUMMARY:6. koncert cikla Carpe artem »Med mehom in lokom«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/6-koncert-cikla-carpe-artem-med-mehom-in-lokom/
+URL:https://www.sng-mb.si/event/6-koncert-cikla-carpe-artem-med-mehom-in-lokom/
+END:VEVENT
+BEGIN:VEVENT
+UID:e41fe56984c93fe5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270527T193000
+DTEND;TZID=Europe/Ljubljana:20270527T213000
+SUMMARY:La bohème
+LOCATION:SNG Maribor
+DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
+URL:https://www.sng-mb.si/event/la-boheme-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfba8eb9192e8c04@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270529T193000
+DTEND;TZID=Europe/Ljubljana:20270529T213000
+SUMMARY:La bohème
+LOCATION:SNG Maribor
+DESCRIPTION:Giacomo Puccini · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/la-boheme-2/
+URL:https://www.sng-mb.si/event/la-boheme-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6184fda70b6a4a1c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270604T193000
+DTEND;TZID=Europe/Ljubljana:20270604T213000
+SUMMARY:Operna noč v Mestnem parku
+LOCATION:SNG Maribor
+DESCRIPTION:Promenada Mestnega parka Maribor https://www.sng-mb.si/event/operna-noc-2026/
+URL:https://www.sng-mb.si/event/operna-noc-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:406e22b46cb74293@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270624T193000
+DTEND;TZID=Europe/Ljubljana:20270624T213000
+SUMMARY:La traviata
+LOCATION:SNG Maribor
+DESCRIPTION:Giuseppe Verdi · Dvorana Ondine Otte Klasinc https://www.sng-mb.si/event/la-traviata/
+URL:https://www.sng-mb.si/event/la-traviata/
+END:VEVENT
+END:VCALENDAR
