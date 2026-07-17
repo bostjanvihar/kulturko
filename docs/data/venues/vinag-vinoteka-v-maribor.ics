@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vinag - Vinoteka V Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:95a4461bc4151032@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T193000
-DTEND;TZID=Europe/Ljubljana:20260923T213000
-SUMMARY:Zbogom\, Dunaj\, servus\, Hollywood!
-LOCATION:Vinag - Vinoteka V Maribor
-DESCRIPTION:Anton Webern:  Počasni stavek  za godalni kvartet\nAlban Berg:  Štiri skladbe za klarinet in klavir\, op. 5\n Ernst Křenek:  Serenada za klarinet\, violino\, violo in violončelo\, op. 4\n ***\nErich Wolfgang Korngold:  Kvintet za dve violini\, violo\, violončelo in klavir v E-duru\, op. 15 \n\n&nbsp\;\n\nJe https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
-URL:https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vinag - Vinoteka V Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:95a4461bc4151032@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T193000
+DTEND;TZID=Europe/Ljubljana:20260923T213000
+SUMMARY:Zbogom\, Dunaj\, servus\, Hollywood!
+LOCATION:Vinag - Vinoteka V Maribor
+DESCRIPTION:Anton Webern:  Počasni stavek  za godalni kvartet\nAlban Berg:  Štiri skladbe za klarinet in klavir\, op. 5\n Ernst Křenek:  Serenada za klarinet\, violino\, violo in violončelo\, op. 4\n ***\nErich Wolfgang Korngold:  Kvintet za dve violini\, violo\, violončelo in klavir v E-duru\, op. 15 \n\n&nbsp\;\n\nJe https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
+URL:https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
+END:VEVENT
+END:VCALENDAR

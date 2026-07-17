@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Pokrajinski muzej Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:5f9d1035c9ecda1a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T110000
-DTEND;TZID=Europe/Ljubljana:20260919T130000
-SUMMARY:V naročju pesmi
-LOCATION:Pokrajinski muzej Maribor
-DESCRIPTION:Matineja za najmlajše \n\nAntonín Dvořák: Pesmi\, ki me jih je naučila moja mati ( Ciganske melodije\, B 104\, op. 55 )\nGiovanni Bottesini:  Elegija št. 1 v C-duru \nMaria Theresia von Paradis:  Sicilijana \nLudwig van Beethoven: Adagio cantabile ( Sonata št. 8 v c-molu\, op. 13\, »Patetična« )\nCamille https://nd-mb.si/dogodek/v-narocju-pesmi/
-URL:https://nd-mb.si/dogodek/v-narocju-pesmi/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pokrajinski muzej Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5f9d1035c9ecda1a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T110000
+DTEND;TZID=Europe/Ljubljana:20260919T130000
+SUMMARY:V naročju pesmi
+LOCATION:Pokrajinski muzej Maribor
+DESCRIPTION:Matineja za najmlajše \n\nAntonín Dvořák: Pesmi\, ki me jih je naučila moja mati ( Ciganske melodije\, B 104\, op. 55 )\nGiovanni Bottesini:  Elegija št. 1 v C-duru \nMaria Theresia von Paradis:  Sicilijana \nLudwig van Beethoven: Adagio cantabile ( Sonata št. 8 v c-molu\, op. 13\, »Patetična« )\nCamille https://nd-mb.si/dogodek/v-narocju-pesmi/
+URL:https://nd-mb.si/dogodek/v-narocju-pesmi/
+END:VEVENT
+END:VCALENDAR

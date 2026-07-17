@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Niagara — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:5d24ff0a1b43c901@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260711T220000
-DTEND;TZID=Europe/Ljubljana:20260711T220000
-SUMMARY:COCTAIL COMBAT powered by HAVANA CLUB
-LOCATION:Niagara
-DESCRIPTION:To ni le večer koktajlov – to je barmansko tekmovanje\, kjer se bodo najboljši pomerili v ustvarjanju unikatnih signature koktajlov na osnovi Havana Club ruma. Pridi navijat\, okušat in doživeti pravo barsko predstavo!\n Live Cooking – kulinarični spektakel v živo by Meating Burger Club & Restaurant DJ https://mladimaribor.si/dogodek/coctail-combat-powered-by-havana-club/
-URL:https://mladimaribor.si/dogodek/coctail-combat-powered-by-havana-club/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Niagara — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5d24ff0a1b43c901@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260711T220000
+DTEND;TZID=Europe/Ljubljana:20260711T220000
+SUMMARY:COCTAIL COMBAT powered by HAVANA CLUB
+LOCATION:Niagara
+DESCRIPTION:To ni le večer koktajlov – to je barmansko tekmovanje\, kjer se bodo najboljši pomerili v ustvarjanju unikatnih signature koktajlov na osnovi Havana Club ruma. Pridi navijat\, okušat in doživeti pravo barsko predstavo!\n Live Cooking – kulinarični spektakel v živo by Meating Burger Club & Restaurant DJ https://mladimaribor.si/dogodek/coctail-combat-powered-by-havana-club/
+URL:https://mladimaribor.si/dogodek/coctail-combat-powered-by-havana-club/
+END:VEVENT
+END:VCALENDAR

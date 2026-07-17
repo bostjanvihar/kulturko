@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Mestna četrt Tabor\, Metelkova ulica 63\, Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:ae04d6e736808090@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T090000
-DTEND;TZID=Europe/Ljubljana:20260710T120000
-SUMMARY:LEGO delavnica – robotika za otroke
-LOCATION:Mestna četrt Tabor\, Metelkova ulica 63\, Maribor
-DESCRIPTION:Na urah LEGO ustvarjanja se bomo srečali z zanimivimi načrti\, poučnimi nalogami in super idejami. Naučili se bomo veliko s področja robotike in programiranja\, se malce poigrali in ob tem neizmerno zabavali.\nKdaj: 10.7.2026\; 9:00 – 12:00\nKje: Mestna četrt Tabor\, Metelkova ulica 63\, 2000 Maribor\nKaj:  https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
-URL:https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mestna četrt Tabor\, Metelkova ulica 63\, Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ae04d6e736808090@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260710T090000
+DTEND;TZID=Europe/Ljubljana:20260710T120000
+SUMMARY:LEGO delavnica – robotika za otroke
+LOCATION:Mestna četrt Tabor\, Metelkova ulica 63\, Maribor
+DESCRIPTION:Na urah LEGO ustvarjanja se bomo srečali z zanimivimi načrti\, poučnimi nalogami in super idejami. Naučili se bomo veliko s področja robotike in programiranja\, se malce poigrali in ob tem neizmerno zabavali.\nKdaj: 10.7.2026\; 9:00 – 12:00\nKje: Mestna četrt Tabor\, Metelkova ulica 63\, 2000 Maribor\nKaj:  https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
+URL:https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
+END:VEVENT
+END:VCALENDAR

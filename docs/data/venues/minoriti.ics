@@ -1,52 +1,52 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Minoriti — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:7f5d8ac7a775c735@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T200000
-DTEND;TZID=Europe/Ljubljana:20260710T200000
-SUMMARY:Poletje v Minoritih: Domačica
-LOCATION:Minoriti
-DESCRIPTION:DOMAČICA prihaja v Minorite Pod hrastom!🍪\nOd največjih ex-YU hitov in rock klasik do najboljše slovenske glasbe ter izbranih sodobnih ritmov.\nDomačica združuje generacije\, zgodbe in refrene\, ki jih prepevamo že leta.\nV poletni noči Pod hrastom bomo skupaj prepletli nostalgijo in sedanjost\, jug in se https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
-URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
-END:VEVENT
-BEGIN:VEVENT
-UID:bbe1d6db1f32da46@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T200000
-DTEND;TZID=Europe/Ljubljana:20260717T220000
-SUMMARY:Koala Voice
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
-END:VEVENT
-BEGIN:VEVENT
-UID:0fac184266683806@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T200000
-DTEND;TZID=Europe/Ljubljana:20260722T220000
-SUMMARY:Etno Histeria World Orchestra
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/etno-histeria
-URL:https://www.minoriti.si/dogodki/etno-histeria
-END:VEVENT
-BEGIN:VEVENT
-UID:f533e8502cc0374f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T200000
-DTEND;TZID=Europe/Ljubljana:20260814T220000
-SUMMARY:Rambo Amadeus
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-END:VEVENT
-BEGIN:VEVENT
-UID:865d1b54da773b75@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T200000
-DTEND;TZID=Europe/Ljubljana:20260821T220000
-SUMMARY:Slon in Sadež
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoriti — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:7f5d8ac7a775c735@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260710T200000
+DTEND;TZID=Europe/Ljubljana:20260710T200000
+SUMMARY:Poletje v Minoritih: Domačica
+LOCATION:Minoriti
+DESCRIPTION:DOMAČICA prihaja v Minorite Pod hrastom!🍪\nOd največjih ex-YU hitov in rock klasik do najboljše slovenske glasbe ter izbranih sodobnih ritmov.\nDomačica združuje generacije\, zgodbe in refrene\, ki jih prepevamo že leta.\nV poletni noči Pod hrastom bomo skupaj prepletli nostalgijo in sedanjost\, jug in se https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
+URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe1d6db1f32da46@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260717T200000
+DTEND;TZID=Europe/Ljubljana:20260717T220000
+SUMMARY:Koala Voice
+LOCATION:Minoriti
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
+END:VEVENT
+BEGIN:VEVENT
+UID:0fac184266683806@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260722T200000
+DTEND;TZID=Europe/Ljubljana:20260722T220000
+SUMMARY:Etno Histeria World Orchestra
+LOCATION:Minoriti
+DESCRIPTION: https://www.minoriti.si/dogodki/etno-histeria
+URL:https://www.minoriti.si/dogodki/etno-histeria
+END:VEVENT
+BEGIN:VEVENT
+UID:f533e8502cc0374f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T200000
+DTEND;TZID=Europe/Ljubljana:20260814T220000
+SUMMARY:Rambo Amadeus
+LOCATION:Minoriti
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+END:VEVENT
+BEGIN:VEVENT
+UID:865d1b54da773b75@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T200000
+DTEND;TZID=Europe/Ljubljana:20260821T220000
+SUMMARY:Slon in Sadež
+LOCATION:Minoriti
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
+END:VEVENT
+END:VCALENDAR
