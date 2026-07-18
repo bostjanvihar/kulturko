@@ -5,71 +5,97 @@
   <link>https://bostjanvihar.github.io/kulturko</link>
   <description>Newly announced cultural events in Maribor</description>
   <item>
+    <title>Ustvarjalno varstvo na MARSu — Vetrinjski Dvor</title>
+    <link>https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/</link>
+    <guid isPermaLink="false">eafdcdb2a25a2f1d</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-07-20 07:30 · Vetrinjski Dvor. Veseli smo, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z n</description>
+  </item>
+  <item>
+    <title>Amir Husak – Oko gore — Trg revolucije 9</title>
+    <link>https://nd-mb.si/dogodek/amir-husak-oko-gore/</link>
+    <guid isPermaLink="false">41a3e959663edf38</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-07-20 13:00 · Trg revolucije 9. V četrtek, 2. 7. 2026, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Ey</description>
+  </item>
+  <item>
+    <title>Participativno gledališče kot orodje družbenih sprememb — Vetrinjski Dvor</title>
+    <link>https://nd-mb.si/dogodek/participativno-gledalisce-kot-orodje-druzbenih-sprememb/</link>
+    <guid isPermaLink="false">522d0a08f365fbc1</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-07-27 18:00 · Vetrinjski Dvor. Preden zbežimo na zaslužene počitnice in odklop, vabljene in vabljeni na julijski ZIZ dogodek, kjer bomo govorile o participativnem gledališču kot orodju družbenih sprememb.
+
+ZIZ že od samega začetk</description>
+  </item>
+  <item>
+    <title>Poletje v Minoritih: Teo Collori &amp; Jaki Potezi — Pod hrastom</title>
+    <link>https://www.minoriti.si/dogodki/poletje-v-minoritih-teo-collori-in-jaki-potezi</link>
+    <guid isPermaLink="false">9b6c85984e672869</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-07-30 20:00 · Pod hrastom. </description>
+  </item>
+  <item>
+    <title>Poletje v Minoritih: ADI SMOLAR — Pod hrastom</title>
+    <link>https://www.minoriti.si/dogodki/poletje-v-minoritih-adi-smolar</link>
+    <guid isPermaLink="false">4923a85e56b41682</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-20 20:00 · Pod hrastom. </description>
+  </item>
+  <item>
+    <title>Odbite arktične zgodbe — Velika dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/odbitearktinezgodbe-36800</link>
+    <guid isPermaLink="false">d78aa07854ba3930</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-21 18:00 · Velika dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Abežeda — Mala dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/abeeda-22021</link>
+    <guid isPermaLink="false">7fec0afea0b4be41</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-22 17:00 · Mala dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Sladke besede — Velika dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/sladkebesede-36821</link>
+    <guid isPermaLink="false">aceb3b144774ddf4</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-29 17:00 · Velika dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Blišč in breg — Mala dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/bliinbreg-36824</link>
+    <guid isPermaLink="false">2644354e1ad05f72</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-29 18:00 · Mala dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Impostor — Velika dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/impostor-36833</link>
+    <guid isPermaLink="false">40606972918633aa</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-08-30 19:00 · Velika dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Festival Najstarejše trte — Hiša Stare trte</title>
+    <link>https://najstarejsatrta.si/vinski-vecer-z-vini-vracko-naslov/</link>
+    <guid isPermaLink="false">2cc093118b7cef41</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-09-25 19:00 · Hiša Stare trte. </description>
+  </item>
+  <item>
+    <title>Martinovanje v Mariboru — Hiša Stare trte</title>
+    <link>https://najstarejsatrta.si/dogodek-naslov/</link>
+    <guid isPermaLink="false">728ef21a08af7528</guid>
+    <pubDate>Sat, 18 Jul 2026 06:04:15 +0000</pubDate>
+    <description>2026-11-11 19:00 · Hiša Stare trte. </description>
+  </item>
+  <item>
     <title>Rok Škrlep — Klub KGB</title>
     <link>https://klub-kgb.si/dogodki/2026/sep/rok-skrlep</link>
     <guid isPermaLink="false">b83447185a4ecfcc</guid>
     <pubDate>Thu, 16 Jul 2026 17:08:55 +0000</pubDate>
     <description>2026-09-18 19:00 · Klub KGB. </description>
-  </item>
-  <item>
-    <title>Festival norosti 2026 — Muzej norosti</title>
-    <link>https://mladimaribor.si/dogodek/festival-norosti-2026/</link>
-    <guid isPermaLink="false">c9f923a300f98747</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 09:00 · Muzej norosti. Festival norosti – Tridnevni dogodek v Muzeju norosti v središče postavlja vprašanje odnosa, ki ga imamo kot družba do ljudi s težavami v duševnem zdravju.
-Strokovni posvet in pogovori, vodstva po Muz</description>
-  </item>
-  <item>
-    <title>LEGO delavnica – robotika za otroke — Mestna četrt Tabor, Metelkova ulica 63, Maribor</title>
-    <link>https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/</link>
-    <guid isPermaLink="false">ae04d6e736808090</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 09:00 · Mestna četrt Tabor, Metelkova ulica 63, Maribor. Na urah LEGO ustvarjanja se bomo srečali z zanimivimi načrti, poučnimi nalogami in super idejami. Naučili se bomo veliko s področja robotike in programiranja, se malce poigrali in ob tem neizmerno zab</description>
-  </item>
-  <item>
-    <title>KPŠ poletje: Tattoo Flash Day — Rozamunda Studio Maribor</title>
-    <link>https://mladimaribor.si/dogodek/kps-poletje-tattoo-flash-day/</link>
-    <guid isPermaLink="false">260036692d4bc1ec</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 12:00 · Rozamunda Studio Maribor. Ščeš meti tattoo, pa nejsi siguren, če bi rezervejro termin?
-Pridi na naš walk-in Flash Day in zberaj med pripravlenimi flash designi ali pa predlagaj svojo menšo idejo. Ob 17:00 pa se nan pridruži še</description>
-  </item>
-  <item>
-    <title>D&amp;D druženje — Kulturni inkubator</title>
-    <link>https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-10-18-00-00-2026-07-10-22-00-00-2/</link>
-    <guid isPermaLink="false">f7165a3044c2081b</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 18:00 · Kulturni inkubator. 
-
-
-
-
-Dungeons and dragons v Kulturnem inkubatorju
-D&amp;D DRUŽENJE
-Vsak petek v juliju 2026 // ob 18.00 // Kulturni inkubator.
-
-
-
-
-
-
-V Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantaz</description>
-  </item>
-  <item>
-    <title>Poletje v Minoritih: Domačica — Minoriti</title>
-    <link>https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/</link>
-    <guid isPermaLink="false">7f5d8ac7a775c735</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 20:00 · Minoriti. DOMAČICA prihaja v Minorite Pod hrastom!🍪
-Od največjih ex-YU hitov in rock klasik do najboljše slovenske glasbe ter izbranih sodobnih ritmov.
-Domačica združuje generacije, zgodbe in refrene, ki jih pr</description>
-  </item>
-  <item>
-    <title>Evita — SNG Maribor</title>
-    <link>https://www.sng-mb.si/event/evita/</link>
-    <guid isPermaLink="false">19e39bd2e7fd14c9</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-10 21:00 · SNG Maribor. Tim Rice, Andrew Lloyd Webber · Festival Ljubljana, Križanke</description>
   </item>
   <item>
     <title>Poletni Art kamp — Mestni park Maribor</title>
@@ -144,13 +170,6 @@ Program Art kampa nadaljujemo z  butičnimi vikend programi Pol</description>
     <guid isPermaLink="false">6e98b69d31966d3e</guid>
     <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
     <description>2026-07-12 10:30 · Glasbeni paviljon. Godba veteranov Štajerske Ervina Hartmana je bila na njegovo pobudo ustanovljena leta 2002 in deluje v okviru Kulturno-umetniškega društva Pošta Maribor. Ob 15-letnici delovanja se je na pobudo godben</description>
-  </item>
-  <item>
-    <title>Godba veteranov Štajerske Ervina Hartmana — Paviljon mestnega parka</title>
-    <link>https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/</link>
-    <guid isPermaLink="false">414795b01a4dde6c</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-12 10:30 · Paviljon mestnega parka. </description>
   </item>
   <item>
     <title>ANALOGNICE: Začetniško kvačkanje — Kulturni inkubator</title>
@@ -349,27 +368,6 @@ Osnove bonsajizma za mlade začetnike
 Tokratni mladinski družabni večer vabi na delavnico spoznavanja z bonsa</description>
   </item>
   <item>
-    <title>Poletje v Minoritih: Regi Kvak — Minoriti pod hrastom</title>
-    <link>https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak</link>
-    <guid isPermaLink="false">cf613186b1ee9414</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-16 20:00 · Minoriti pod hrastom. </description>
-  </item>
-  <item>
-    <title>Ustvarjalno varstvo na MARSu — Vetrinjski Dvor</title>
-    <link>https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/</link>
-    <guid isPermaLink="false">11921bc5ccada79b</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-17 07:30 · Vetrinjski Dvor. Veseli smo, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z n</description>
-  </item>
-  <item>
-    <title>Amir Husak – Oko gore — Trg revolucije 9</title>
-    <link>https://nd-mb.si/dogodek/amir-husak-oko-gore/</link>
-    <guid isPermaLink="false">7e42aab4d81ebc69</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-17 13:00 · Trg revolucije 9. V četrtek, 2. 7. 2026, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Ey</description>
-  </item>
-  <item>
     <title>D&amp;D druženje — Kulturni inkubator</title>
     <link>https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-17-18-00-00-2026-07-17-22-00-00-2/</link>
     <guid isPermaLink="false">c3d8829c8f45b26f</guid>
@@ -396,13 +394,6 @@ V Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantaz</descr
     <guid isPermaLink="false">8d67c85f6d140d9c</guid>
     <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
     <description>2026-07-17 20:00 · Letni avditorij LGM Minoriti, Maribor. Koala Voice v letu 2026, po tem, ko so lani zabeležili 15. obletnico delovanja in 10. od izdaje prvenca Kangaroo’s a neighbour, nadaljujejo koncertni pohod. Na odru nam bodo predstavili mešanico vseh </description>
-  </item>
-  <item>
-    <title>Koala Voice — Minoriti</title>
-    <link>https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice</link>
-    <guid isPermaLink="false">bbe1d6db1f32da46</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-17 20:00 · Minoriti. </description>
   </item>
   <item>
     <title>Poletni Art kamp • Svetlica — Mestni park</title>
@@ -462,13 +453,6 @@ Program Art kampa nadaljujemo z  butičnimi vikend programi Pol</description>
     <guid isPermaLink="false">ad52ce66ddd8bfbd</guid>
     <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
     <description>2026-07-19 10:30 · Glasbeni paviljon. Vokalna skupina Uriele je nastala leta 2019, ko so tri mlade pevke iz okolice Ptuja na željo dirigenta domačega tamburaškega orkestra združile glasove za en sam koncert. Želja po večglasnem petju jih </description>
-  </item>
-  <item>
-    <title>Vokalna skupina Uriele — Paviljon mestnega parka</title>
-    <link>https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/</link>
-    <guid isPermaLink="false">6dcd1bfeb0735a49</guid>
-    <pubDate>Thu, 16 Jul 2026 17:02:32 +0000</pubDate>
-    <description>2026-07-19 10:30 · Paviljon mestnega parka. </description>
   </item>
   <item>
     <title>ANALOGNICE: Kolaž — Kulturni inkubator</title>

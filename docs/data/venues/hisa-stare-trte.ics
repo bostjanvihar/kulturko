@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Hiša Stare trte — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2cc093118b7cef41@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T190000
+DTEND;TZID=Europe/Ljubljana:20260925T210000
+SUMMARY:Festival Najstarejše trte
+LOCATION:Hiša Stare trte
+DESCRIPTION: https://najstarejsatrta.si/vinski-vecer-z-vini-vracko-naslov/
+URL:https://najstarejsatrta.si/vinski-vecer-z-vini-vracko-naslov/
+END:VEVENT
+BEGIN:VEVENT
+UID:728ef21a08af7528@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T190000
+DTEND;TZID=Europe/Ljubljana:20261111T210000
+SUMMARY:Martinovanje v Mariboru
+LOCATION:Hiša Stare trte
+DESCRIPTION: https://najstarejsatrta.si/dogodek-naslov/
+URL:https://najstarejsatrta.si/dogodek-naslov/
+END:VEVENT
+END:VCALENDAR

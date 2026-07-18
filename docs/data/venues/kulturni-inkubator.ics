@@ -5,15 +5,6 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f7165a3044c2081b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T180000
-DTEND;TZID=Europe/Ljubljana:20260710T220000
-SUMMARY:D&D druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v juliju 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pripra https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-10-18-00-00-2026-07-10-22-00-00-2/
-URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-10-18-00-00-2026-07-10-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:3ac0edd89f434b03@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260712T160000
 DTEND;TZID=Europe/Ljubljana:20260712T190000
@@ -284,15 +275,6 @@ DESCRIPTION:\n\n\n\nJAZZ ‘MA MLADE 2026\nKONCERT ZASEDBE SKYLIT MOON\nPetek\, 
 URL:https://mladimaribor.si/dogodek/jazz-ma-mlade-2026-3-skylit-moon-2026-08-28-20-00-00-2026-08-28-22-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:96bc0fdfbc19144f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260828T200000
-DTEND;TZID=Europe/Ljubljana:20260828T220000
-SUMMARY:Jazz 'ma mlade 2026
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
-URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
-END:VEVENT
-BEGIN:VEVENT
 UID:9ad85af30b4cec0f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260830T170000
 DTEND;TZID=Europe/Ljubljana:20260830T200000
@@ -383,15 +365,6 @@ DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-23/
 END:VEVENT
 BEGIN:VEVENT
-UID:56fc44d5c4679f06@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T200000
-DTEND;TZID=Europe/Ljubljana:20260928T220000
-SUMMARY:Rock 'ma mlade: Fallen Division
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1821039128579322/1821039141912654/
-URL:https://www.facebook.com/events/1821039128579322/1821039141912654/
-END:VEVENT
-BEGIN:VEVENT
 UID:ba89e02863060ec9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260930T170000
 DTEND;TZID=Europe/Ljubljana:20260930T183000
@@ -417,15 +390,6 @@ SUMMARY:Podporne skupine za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
 URL:https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
-END:VEVENT
-BEGIN:VEVENT
-UID:a56f15943e6886bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T200000
-DTEND;TZID=Europe/Ljubljana:20261127T220000
-SUMMARY:Jazz 'ma mlade 2026
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
-URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
 END:VEVENT
 BEGIN:VEVENT
 UID:4001dd4926935921@kulturko

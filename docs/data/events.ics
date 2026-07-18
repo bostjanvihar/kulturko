@@ -5,60 +5,6 @@ X-WR-CALNAME:Kultura Maribor
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c9f923a300f98747@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T090000
-DTEND;TZID=Europe/Ljubljana:20260712T140000
-SUMMARY:Festival norosti 2026
-LOCATION:Muzej norosti
-DESCRIPTION:Festival norosti – Tridnevni dogodek v Muzeju norosti v središče postavlja vprašanje odnosa\, ki ga imamo kot družba do ljudi s težavami v duševnem zdravju.\nStrokovni posvet in pogovori\, vodstva po Muzeju norosti\, koncerti\, gledališče in razstave ki bodo udeleženke in udeležence spodbudili k temeljni https://mladimaribor.si/dogodek/festival-norosti-2026/
-URL:https://mladimaribor.si/dogodek/festival-norosti-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ae04d6e736808090@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T090000
-DTEND;TZID=Europe/Ljubljana:20260710T120000
-SUMMARY:LEGO delavnica – robotika za otroke
-LOCATION:Mestna četrt Tabor\, Metelkova ulica 63\, Maribor
-DESCRIPTION:Na urah LEGO ustvarjanja se bomo srečali z zanimivimi načrti\, poučnimi nalogami in super idejami. Naučili se bomo veliko s področja robotike in programiranja\, se malce poigrali in ob tem neizmerno zabavali.\nKdaj: 10.7.2026\; 9:00 – 12:00\nKje: Mestna četrt Tabor\, Metelkova ulica 63\, 2000 Maribor\nKaj:  https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
-URL:https://mladimaribor.si/dogodek/lego-delavnica-robotika-za-otroke/
-END:VEVENT
-BEGIN:VEVENT
-UID:260036692d4bc1ec@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T120000
-DTEND;TZID=Europe/Ljubljana:20260710T180000
-SUMMARY:KPŠ poletje: Tattoo Flash Day
-LOCATION:Rozamunda Studio Maribor
-DESCRIPTION:Ščeš meti tattoo\, pa nejsi siguren\, če bi rezervejro termin?\nPridi na naš walk-in Flash Day in zberaj med pripravlenimi flash designi ali pa predlagaj svojo menšo idejo. Ob 17:00 pa se nan pridruži še henna artistka za vse tiste\, ka bi radi probali nekaj začasnoga.\nČlani KPŠ majo 20% popust\, vsi ost https://mladimaribor.si/dogodek/kps-poletje-tattoo-flash-day/
-URL:https://mladimaribor.si/dogodek/kps-poletje-tattoo-flash-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:f7165a3044c2081b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T180000
-DTEND;TZID=Europe/Ljubljana:20260710T220000
-SUMMARY:D&D druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v juliju 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pripra https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-10-18-00-00-2026-07-10-22-00-00-2/
-URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-10-18-00-00-2026-07-10-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:7f5d8ac7a775c735@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T200000
-DTEND;TZID=Europe/Ljubljana:20260710T200000
-SUMMARY:Poletje v Minoritih: Domačica
-LOCATION:Minoriti
-DESCRIPTION:DOMAČICA prihaja v Minorite Pod hrastom!🍪\nOd največjih ex-YU hitov in rock klasik do najboljše slovenske glasbe ter izbranih sodobnih ritmov.\nDomačica združuje generacije\, zgodbe in refrene\, ki jih prepevamo že leta.\nV poletni noči Pod hrastom bomo skupaj prepletli nostalgijo in sedanjost\, jug in se https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
-URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-domacica/
-END:VEVENT
-BEGIN:VEVENT
-UID:19e39bd2e7fd14c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T210000
-DTEND;TZID=Europe/Ljubljana:20260710T230000
-SUMMARY:Evita
-LOCATION:SNG Maribor
-DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
-URL:https://www.sng-mb.si/event/evita/
-END:VEVENT
-BEGIN:VEVENT
 UID:d7736d4f25062f0d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260711T100000
 DTEND;TZID=Europe/Ljubljana:20260830T190000
@@ -137,15 +83,6 @@ DTEND;TZID=Europe/Ljubljana:20260712T123000
 SUMMARY:Godba veteranov Štajerske Ervina Hartmana
 LOCATION:Glasbeni paviljon
 DESCRIPTION:Godba veteranov Štajerske Ervina Hartmana je bila na njegovo pobudo ustanovljena leta 2002 in deluje v okviru Kulturno-umetniškega društva Pošta Maribor. Ob 15-letnici delovanja se je na pobudo godbenikov preimenovala v Godbo veteranov Štajerske Ervina Hartman.\n\nČeprav so nekateri člani še vedno d https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:414795b01a4dde6c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T103000
-DTEND;TZID=Europe/Ljubljana:20260712T123000
-SUMMARY:Godba veteranov Štajerske Ervina Hartmana
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
 URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -293,33 +230,6 @@ DESCRIPTION:\n\n\n\n\nMLADINSKI DRUŽABNI VEČER 7/2026\nOsnove bonsajizma za ml
 URL:https://mladimaribor.si/dogodek/osnove-bonsajizma-za-mlade-zacetnike-2026-07-16-19-00-00-2026-07-16-21-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:cf613186b1ee9414@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260716T200000
-DTEND;TZID=Europe/Ljubljana:20260716T220000
-SUMMARY:Poletje v Minoritih: Regi Kvak
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
-END:VEVENT
-BEGIN:VEVENT
-UID:11921bc5ccada79b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T073000
-DTEND;TZID=Europe/Ljubljana:20260717T093000
-SUMMARY:Ustvarjalno varstvo na MARSu
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Veseli smo\, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru\, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z namenom lažjega usklajevanja poklicnega in družinskega življenja 2026«\, ki ga financira Ministrstvo z https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
-URL:https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e42aab4d81ebc69@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T130000
-DTEND;TZID=Europe/Ljubljana:20260717T150000
-SUMMARY:Amir Husak – Oko gore
-LOCATION:Trg revolucije 9
-DESCRIPTION:V četrtek\, 2. 7. 2026\, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Eye of the Mountain).\n\nRazstava bo v OBRATU na ogled vsak delavnik med 13.00 in 18.00 do 31. 7. 2026 https://nd-mb.si/dogodek/amir-husak-oko-gore/
-URL:https://nd-mb.si/dogodek/amir-husak-oko-gore/
-END:VEVENT
-BEGIN:VEVENT
 UID:c3d8829c8f45b26f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260717T180000
 DTEND;TZID=Europe/Ljubljana:20260717T220000
@@ -336,15 +246,6 @@ SUMMARY:Poletje v Minoritih: KOALA VOICE
 LOCATION:Letni avditorij LGM Minoriti\, Maribor
 DESCRIPTION:Koala Voice v letu 2026\, po tem\, ko so lani zabeležili 15. obletnico delovanja in 10. od izdaje prvenca Kangaroo’s a neighbour\, nadaljujejo koncertni pohod. Na odru nam bodo predstavili mešanico vseh petih studijskih albumov vključno z zadnjim petim imenovanim – Auf Wiedersehen\, s katerega prepoznam https://mladimaribor.si/dogodek/poletje-v-minoritih-koala-voice/
 URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-koala-voice/
-END:VEVENT
-BEGIN:VEVENT
-UID:bbe1d6db1f32da46@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T200000
-DTEND;TZID=Europe/Ljubljana:20260717T220000
-SUMMARY:Koala Voice
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
 END:VEVENT
 BEGIN:VEVENT
 UID:6d55547cd015e88b@kulturko
@@ -410,15 +311,6 @@ DESCRIPTION:Vokalna skupina Uriele je nastala leta 2019\, ko so tri mlade pevke 
 URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:6dcd1bfeb0735a49@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T103000
-DTEND;TZID=Europe/Ljubljana:20260719T123000
-SUMMARY:Vokalna skupina Uriele
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:93eeaa09108f2285@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260719T170000
 DTEND;TZID=Europe/Ljubljana:20260719T200000
@@ -437,6 +329,15 @@ DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Teras
 URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
 END:VEVENT
 BEGIN:VEVENT
+UID:eafdcdb2a25a2f1d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260720T073000
+DTEND;TZID=Europe/Ljubljana:20260720T093000
+SUMMARY:Ustvarjalno varstvo na MARSu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Veseli smo\, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru\, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z namenom lažjega usklajevanja poklicnega in družinskega življenja 2026«\, ki ga financira Ministrstvo z https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+URL:https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+END:VEVENT
+BEGIN:VEVENT
 UID:cede206c98b8820c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260720T090000
 DTEND;TZID=Europe/Ljubljana:20260724T170000
@@ -444,6 +345,15 @@ SUMMARY:Počitnice v Mariboru\, 4. teden
 LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
 DESCRIPTION:Nov teden počitnic in nove dogodivščine z ZPM Maribor\nZPM Maribor – julij 2026\n[1]\nPozdravljeni prijatelji mladine!\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, tudi ta\nteden bo poln raziskovanja\, ustvarjanja i https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
 URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
+END:VEVENT
+BEGIN:VEVENT
+UID:41a3e959663edf38@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260720T130000
+DTEND;TZID=Europe/Ljubljana:20260720T150000
+SUMMARY:Amir Husak – Oko gore
+LOCATION:Trg revolucije 9
+DESCRIPTION:V četrtek\, 2. 7. 2026\, ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev razstave in performans rezidenčnega umetnika Amira Husaka (BA) z (delovnim) naslovom  Oko gore  (The Eye of the Mountain).\n\nRazstava bo v OBRATU na ogled vsak delavnik med 13.00 in 18.00 do 31. 7. 2026 https://nd-mb.si/dogodek/amir-husak-oko-gore/
+URL:https://nd-mb.si/dogodek/amir-husak-oko-gore/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d523312ef26d51e@kulturko
@@ -536,15 +446,6 @@ DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Indi
 URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-22/
 END:VEVENT
 BEGIN:VEVENT
-UID:72f6d3760a9c581c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T190000
-DTEND;TZID=Europe/Ljubljana:20260722T210000
-SUMMARY:Etno Histeria Floating Orchestra
-LOCATION:Drava Maribor
-DESCRIPTION: https://www.facebook.com/photo?fbid=1634693881990931&set=a.354872346639764
-URL:https://www.facebook.com/photo?fbid=1634693881990931&set=a.354872346639764
-END:VEVENT
-BEGIN:VEVENT
 UID:ab7af59b6ac61868@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260722T200000
 DTEND;TZID=Europe/Ljubljana:20260722T200000
@@ -552,24 +453,6 @@ SUMMARY:Poletje v Minoritih: Etno Histeria
 LOCATION:Avditorij Lutkovnega gledališča Maribor
 DESCRIPTION:Etno Histeria World Orchestra je mednarodni projekt\, ki že 20 let združuje vrhunske glasbenike s celega sveta. Po intenzivnem tednu vzajemnega učenja in ustvarjanja v slovenski Istri se v edinstveni zasedbi odpravi na turnejo in na petih koncertih postreže z okusno mineštro skladb iz vsega sveta\, ki https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
 URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
-END:VEVENT
-BEGIN:VEVENT
-UID:0fac184266683806@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T200000
-DTEND;TZID=Europe/Ljubljana:20260722T220000
-SUMMARY:Etno Histeria World Orchestra
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/etno-histeria
-URL:https://www.minoriti.si/dogodki/etno-histeria
-END:VEVENT
-BEGIN:VEVENT
-UID:0338de86d4874c8f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260723T200000
-DTEND;TZID=Europe/Ljubljana:20260723T220000
-SUMMARY:Poletje v Minoritih: Trio 울림 (Oollim)
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
 END:VEVENT
 BEGIN:VEVENT
 UID:0ed6476c4821a716@kulturko
@@ -662,15 +545,6 @@ DESCRIPTION:Teja Letonja Hajšek  je pevka\, avtorica\, vokalna mentorica\, glas
 URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
 END:VEVENT
 BEGIN:VEVENT
-UID:c5e3b149faaf6d65@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260726T103000
-DTEND;TZID=Europe/Ljubljana:20260726T123000
-SUMMARY:Glasbeni duet Teja Letonja Hajšek in Marko Zaletelj
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-END:VEVENT
-BEGIN:VEVENT
 UID:26569dbeed496695@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260726T170000
 DTEND;TZID=Europe/Ljubljana:20260726T200000
@@ -678,6 +552,15 @@ SUMMARY:ANALOGNICE: Zine
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\n\nPOLETNE USTVARJALNE NEDELJE\nANALOGNICE\nVsako nedeljo v juliju in avgustu // 17.00-20.00 // Kulturni inkubator\nPoletna šola Kreativarne bo nekoliko bolj analogna. Analognice so serija poletnih nedelj za ustvarjanje z rokami v organizaciji Mladinskega kulturnega centra Maribor in izvedbi Kreativa https://mladimaribor.si/dogodek/analognice-zine-2026-07-26-17-00-00-2026-07-26-20-00-00-2/
 URL:https://mladimaribor.si/dogodek/analognice-zine-2026-07-26-17-00-00-2026-07-26-20-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:522d0a08f365fbc1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260727T180000
+DTEND;TZID=Europe/Ljubljana:20260727T200000
+SUMMARY:Participativno gledališče kot orodje družbenih sprememb
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Preden zbežimo na zaslužene počitnice in odklop\, vabljene in vabljeni na julijski ZIZ dogodek\, kjer bomo govorile o participativnem gledališču kot orodju družbenih sprememb.\n\nZIZ že od samega začetka delovanja leta 2013 ustvarja predstave in raziskuje različne forme participativnega gledališča. V  https://nd-mb.si/dogodek/participativno-gledalisce-kot-orodje-druzbenih-sprememb/
+URL:https://nd-mb.si/dogodek/participativno-gledalisce-kot-orodje-druzbenih-sprememb/
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e99ac18b5d4aef@kulturko
@@ -752,13 +635,13 @@ DESCRIPTION:Vetrinjc ekipa gre na počitnice! Med 1. in 16. avgustom bomo vsi po
 URL:https://nd-mb.si/dogodek/poletne-karaoke-v-vetrinjcu/
 END:VEVENT
 BEGIN:VEVENT
-UID:a8a9f298ba3bd8e6@kulturko
+UID:9b6c85984e672869@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260730T200000
 DTEND;TZID=Europe/Ljubljana:20260730T220000
-SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.facebook.com/events/1401391262007620/
-URL:https://www.facebook.com/events/1401391262007620/
+SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-teo-collori-in-jaki-potezi
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-teo-collori-in-jaki-potezi
 END:VEVENT
 BEGIN:VEVENT
 UID:355c444a7509623c@kulturko
@@ -768,15 +651,6 @@ SUMMARY:D&D druženje
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v juliju 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pripra https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-31-18-00-00-2026-07-31-22-00-00-2/
 URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-31-18-00-00-2026-07-31-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:aa697070c120d935@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260731T200000
-DTEND;TZID=Europe/Ljubljana:20260731T220000
-SUMMARY:Poletje v Minoritih: Tetkine radosti
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/tetkine-radosti
-URL:https://www.minoriti.si/dogodki/tetkine-radosti
 END:VEVENT
 BEGIN:VEVENT
 UID:e8a71e7b4e2ea927@kulturko
@@ -848,15 +722,6 @@ DTEND;TZID=Europe/Ljubljana:20260802T123000
 SUMMARY:Glasbeni duet Zala Črešnik in Marko Zaletelj
 LOCATION:Mestni park
 DESCRIPTION:Zala Črešnik je pevka\, ki se uveljavlja na koroški glasbeni sceni kot pevka jazza\, ljudske glasbe in slovenske avtorske glasbe.  Sodeluje z uveljavljenimi koroškimi jazzovskimi glasbeniki ter se izobražuje na področju jazz vokala in jazz kitare.\n\nPrirejanje koncertov v mestnem parku ima bogato tra https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
-URL:https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
-END:VEVENT
-BEGIN:VEVENT
-UID:c43e18221ca19ffc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T103000
-DTEND;TZID=Europe/Ljubljana:20260802T123000
-SUMMARY:Glasbeni duet Zala Črešnik in Marko Zaletelj
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
 URL:https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
 END:VEVENT
 BEGIN:VEVENT
@@ -995,15 +860,6 @@ DESCRIPTION:Frajhajmska godba na pihala je ena izmed najstarejših godb v Sloven
 URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:f82b53faba9598ee@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T103000
-DTEND;TZID=Europe/Ljubljana:20260809T123000
-SUMMARY:Frajhajmska godba na pihala
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:d89b1938d05ff198@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260809T170000
 DTEND;TZID=Europe/Ljubljana:20260809T200000
@@ -1085,15 +941,6 @@ DESCRIPTION:Od leta 1990 Lutkovno gledališče Maribor organizira mednarodni fes
 URL:https://mladimaribor.si/dogodek/37-poletni-lutkovni-pristan/
 END:VEVENT
 BEGIN:VEVENT
-UID:c68ee2257d99aac3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T100000
-DTEND;TZID=Europe/Ljubljana:20260814T120000
-SUMMARY:37. Poletni lutkovni pristan
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/poletni-lutkovni-pristan/
-URL:https://www.lg-mb.si/poletni-lutkovni-pristan/
-END:VEVENT
-BEGIN:VEVENT
 UID:7eaee23f749a9ddf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T170000
 DTEND;TZID=Europe/Ljubljana:20260814T190000
@@ -1108,17 +955,8 @@ DTSTART;TZID=Europe/Ljubljana:20260814T193000
 DTEND;TZID=Europe/Ljubljana:20260814T213000
 SUMMARY:Solo
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/solo/
-URL:https://www.lg-mb.si/gostujoce-predstave/solo/
-END:VEVENT
-BEGIN:VEVENT
-UID:f533e8502cc0374f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T200000
-DTEND;TZID=Europe/Ljubljana:20260814T220000
-SUMMARY:Rambo Amadeus
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+DESCRIPTION: https://www.minoriti.si/dogodki/solo-36781
+URL:https://www.minoriti.si/dogodki/solo-36781
 END:VEVENT
 BEGIN:VEVENT
 UID:19a7f14e237a8740@kulturko
@@ -1144,8 +982,8 @@ DTSTART;TZID=Europe/Ljubljana:20260815T100000
 DTEND;TZID=Europe/Ljubljana:20260815T120000
 SUMMARY:Zverinice iz rezije
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/zverinice-iz-rezije-1-1/
-URL:https://www.lg-mb.si/gostujoce-predstave/zverinice-iz-rezije-1-1/
+DESCRIPTION: https://www.minoriti.si/dogodki/zveriniceizrezije-36842
+URL:https://www.minoriti.si/dogodki/zveriniceizrezije-36842
 END:VEVENT
 BEGIN:VEVENT
 UID:38c0a8e857dc522d@kulturko
@@ -1153,8 +991,8 @@ DTSTART;TZID=Europe/Ljubljana:20260815T110000
 DTEND;TZID=Europe/Ljubljana:20260815T130000
 SUMMARY:Ma Solitud
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ma-solitud/
-URL:https://www.lg-mb.si/gostujoce-predstave/ma-solitud/
+DESCRIPTION: https://www.minoriti.si/dogodki/masolitud-36787
+URL:https://www.minoriti.si/dogodki/masolitud-36787
 END:VEVENT
 BEGIN:VEVENT
 UID:12b394780f0718c0@kulturko
@@ -1162,17 +1000,8 @@ DTSTART;TZID=Europe/Ljubljana:20260815T193000
 DTEND;TZID=Europe/Ljubljana:20260815T213000
 SUMMARY:Solo
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/solo/
-URL:https://www.lg-mb.si/gostujoce-predstave/solo/
-END:VEVENT
-BEGIN:VEVENT
-UID:774320687942cf78@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260815T210000
-DTEND;TZID=Europe/Ljubljana:20260815T230000
-SUMMARY:Midva\, lutkarja
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/midva-lutkarja-2-2/
-URL:https://www.lg-mb.si/gostujoce-predstave/midva-lutkarja-2-2/
+DESCRIPTION: https://www.minoriti.si/dogodki/solo-36781
+URL:https://www.minoriti.si/dogodki/solo-36781
 END:VEVENT
 BEGIN:VEVENT
 UID:87e15f477761421b@kulturko
@@ -1184,13 +1013,22 @@ DESCRIPTION: https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
 URL:https://www.minoriti.si/dogodki/letni-kino-minoriti-midva-lutkarja
 END:VEVENT
 BEGIN:VEVENT
+UID:774320687942cf78@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T210000
+DTEND;TZID=Europe/Ljubljana:20260815T230000
+SUMMARY:Midva\, lutkarja
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/midvalutkarja-36845
+URL:https://www.minoriti.si/dogodki/midvalutkarja-36845
+END:VEVENT
+BEGIN:VEVENT
 UID:1bba4201ce8488f3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260816T093000
 DTEND;TZID=Europe/Ljubljana:20260816T113000
 SUMMARY:Ogrevanje pred zaveso
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
-URL:https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+DESCRIPTION: https://www.minoriti.si/dogodki/ogrevanjepredzaveso-36848
+URL:https://www.minoriti.si/dogodki/ogrevanjepredzaveso-36848
 END:VEVENT
 BEGIN:VEVENT
 UID:b898880cab305512@kulturko
@@ -1207,8 +1045,8 @@ DTSTART;TZID=Europe/Ljubljana:20260816T100000
 DTEND;TZID=Europe/Ljubljana:20260816T120000
 SUMMARY:O vrabčku\, mišku in palačinki
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/o-vrabcku-misku-in-palacinki-2/
-URL:https://www.lg-mb.si/gostujoce-predstave/o-vrabcku-misku-in-palacinki-2/
+DESCRIPTION: https://www.minoriti.si/dogodki/ovrabkumikuinpalainki-36797
+URL:https://www.minoriti.si/dogodki/ovrabkumikuinpalainki-36797
 END:VEVENT
 BEGIN:VEVENT
 UID:61664a5523c9adea@kulturko
@@ -1217,15 +1055,6 @@ DTEND;TZID=Europe/Ljubljana:20260816T123000
 SUMMARY:Pihalni orkester Gornja Radgona
 LOCATION:Mestni park
 DESCRIPTION:Prvi zapis o nastopanju godbe sega v leto 1911\, ko se Radgona prvič omenja kot trg. Takrat je bila godba prvič omenjena tudi v tedanjem časopisu. Kulturno društvo pihalni orkester Gornja Radgona se razvija v skladu z možnostmi in potrebami časa.\nOrkester se redno udeležuje revij in tekmovanj pihaln https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:e3b4833a55a3a02a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260816T103000
-DTEND;TZID=Europe/Ljubljana:20260816T123000
-SUMMARY:Pihalni orkester Gornja Radgona
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
 URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,8 +1117,8 @@ DTSTART;TZID=Europe/Ljubljana:20260820T170000
 DTEND;TZID=Europe/Ljubljana:20260820T190000
 SUMMARY:Coprnica Dragica
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/predstave/coprnica-dragica/
-URL:https://www.lg-mb.si/predstave/coprnica-dragica/
+DESCRIPTION: https://www.minoriti.si/dogodki/coprnicadragica-12937
+URL:https://www.minoriti.si/dogodki/coprnicadragica-12937
 END:VEVENT
 BEGIN:VEVENT
 UID:fe4c660c991399cb@kulturko
@@ -1306,8 +1135,8 @@ DTSTART;TZID=Europe/Ljubljana:20260820T180000
 DTEND;TZID=Europe/Ljubljana:20260820T200000
 SUMMARY:Huda mravljica iz UGM na coprniji v LGM
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/huda-mravljica-iz-ugm-na-coprniji-v-lgm/
-URL:https://www.lg-mb.si/gostujoce-predstave/huda-mravljica-iz-ugm-na-coprniji-v-lgm/
+DESCRIPTION: https://www.minoriti.si/dogodki/hudamravljicaizugmnacoprnijivlgm-36851
+URL:https://www.minoriti.si/dogodki/hudamravljicaizugmnacoprnijivlgm-36851
 END:VEVENT
 BEGIN:VEVENT
 UID:e1aa0d924d52f195@kulturko
@@ -1337,13 +1166,13 @@ DESCRIPTION: https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica
 URL:https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
 END:VEVENT
 BEGIN:VEVENT
-UID:d752c50220111523@kulturko
+UID:4923a85e56b41682@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260820T200000
 DTEND;TZID=Europe/Ljubljana:20260820T220000
-SUMMARY:Poletje v Minoritih: Adi Smolar
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.facebook.com/events/1465906888554743/
-URL:https://www.facebook.com/events/1465906888554743/
+SUMMARY:Poletje v Minoritih: ADI SMOLAR
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-adi-smolar
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-adi-smolar
 END:VEVENT
 BEGIN:VEVENT
 UID:96c2853ceb701163@kulturko
@@ -1364,22 +1193,13 @@ DESCRIPTION:Ker je pilates na trdnih tleh postal že čisto prelahek\, bomo tokr
 URL:https://mladimaribor.si/dogodek/pilates-na-splavu/
 END:VEVENT
 BEGIN:VEVENT
-UID:f9f495caff0f2ac7@kulturko
+UID:d78aa07854ba3930@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260821T180000
 DTEND;TZID=Europe/Ljubljana:20260821T200000
 SUMMARY:Odbite arktične zgodbe
-LOCATION:Velika dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/odbite-arkticne-zgodbe/
-URL:https://www.lg-mb.si/gostujoce-predstave/odbite-arkticne-zgodbe/
-END:VEVENT
-BEGIN:VEVENT
-UID:865d1b54da773b75@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T200000
-DTEND;TZID=Europe/Ljubljana:20260821T220000
-SUMMARY:Slon in Sadež
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/odbitearktinezgodbe-36800
+URL:https://www.minoriti.si/dogodki/odbitearktinezgodbe-36800
 END:VEVENT
 BEGIN:VEVENT
 UID:c4226494a9345f32@kulturko
@@ -1400,15 +1220,6 @@ DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na
 URL:https://nd-mb.si/dogodek/poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes/
 END:VEVENT
 BEGIN:VEVENT
-UID:e9c9bef2556b764b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T100000
-DTEND;TZID=Europe/Ljubljana:20260822T120000
-SUMMARY:Lesena Bitja
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
-URL:https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
-END:VEVENT
-BEGIN:VEVENT
 UID:820a4ccee89da73c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T100000
 DTEND;TZID=Europe/Ljubljana:20260822T120000
@@ -1416,6 +1227,15 @@ SUMMARY:Srčno
 LOCATION:Lutkovno gledališče Maribor
 DESCRIPTION: https://www.minoriti.si/dogodki/srno-36806
 URL:https://www.minoriti.si/dogodki/srno-36806
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c9bef2556b764b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T100000
+DTEND;TZID=Europe/Ljubljana:20260822T120000
+SUMMARY:Lesena Bitja
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/lesenabitja-36803
+URL:https://www.minoriti.si/dogodki/lesenabitja-36803
 END:VEVENT
 BEGIN:VEVENT
 UID:8d6f2dd25394ec55@kulturko
@@ -1432,17 +1252,17 @@ DTSTART;TZID=Europe/Ljubljana:20260822T110000
 DTEND;TZID=Europe/Ljubljana:20260822T130000
 SUMMARY:Lesena ustvarjalnica
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/lesena-ustvarjalnica/
-URL:https://www.lg-mb.si/gostujoce-predstave/lesena-ustvarjalnica/
+DESCRIPTION: https://www.minoriti.si/dogodki/lesenaustvarjalnica-36857
+URL:https://www.minoriti.si/dogodki/lesenaustvarjalnica-36857
 END:VEVENT
 BEGIN:VEVENT
-UID:24376468b630c2c8@kulturko
+UID:7fec0afea0b4be41@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T170000
 DTEND;TZID=Europe/Ljubljana:20260822T190000
 SUMMARY:Abežeda
-LOCATION:Mala dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
-URL:https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/abeeda-22021
+URL:https://www.minoriti.si/dogodki/abeeda-22021
 END:VEVENT
 BEGIN:VEVENT
 UID:a7b9806fda83b406@kulturko
@@ -1459,8 +1279,8 @@ DTSTART;TZID=Europe/Ljubljana:20260823T093000
 DTEND;TZID=Europe/Ljubljana:20260823T113000
 SUMMARY:Ogrevanje pred zaveso
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
-URL:https://www.lg-mb.si/gostujoce-predstave/ogrevanje-pred-zaveso/
+DESCRIPTION: https://www.minoriti.si/dogodki/ogrevanjepredzaveso-36848
+URL:https://www.minoriti.si/dogodki/ogrevanjepredzaveso-36848
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3064231c15ef08@kulturko
@@ -1468,8 +1288,8 @@ DTSTART;TZID=Europe/Ljubljana:20260823T100000
 DTEND;TZID=Europe/Ljubljana:20260823T120000
 SUMMARY:Očka
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/ocka/
-URL:https://www.lg-mb.si/gostujoce-predstave/ocka/
+DESCRIPTION: https://www.minoriti.si/dogodki/oka-36812
+URL:https://www.minoriti.si/dogodki/oka-36812
 END:VEVENT
 BEGIN:VEVENT
 UID:1eb8583377f6cf7f@kulturko
@@ -1478,15 +1298,6 @@ DTEND;TZID=Europe/Ljubljana:20260823T123000
 SUMMARY:Godba na pihala KUD Janko Živko Poljčane
 LOCATION:Mestni park
 DESCRIPTION:Godba na pihala spada med dejavnejše sekcije KUD-a. Po starosti članov se uvršča med mlajše zasedbe\, saj se je članstvo v zadnjih letih precej pomladilo in spremenilo. S tem se je razširil tudi repertoar\, ki poleg značilnih koračnic vključuje še priredbe drugih glasbenih zvrsti. Člani godbe so zelo  https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:b98a7a47fcb98e9e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T103000
-DTEND;TZID=Europe/Ljubljana:20260823T123000
-SUMMARY:Godba na pihala KUD Janko Živko Poljčane
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
 URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,15 +1364,6 @@ DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-z
 URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
 END:VEVENT
 BEGIN:VEVENT
-UID:ceadaff7d40a3fb7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T193000
-DTEND;TZID=Europe/Ljubljana:20260825T213000
-SUMMARY:V dobri družbi
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-END:VEVENT
-BEGIN:VEVENT
 UID:ed817ef0b0b00531@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260826T170000
 DTEND;TZID=Europe/Ljubljana:20260826T190000
@@ -1580,15 +1382,6 @@ DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-08-26/
 END:VEVENT
 BEGIN:VEVENT
-UID:742f8cb777c23841@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260826T191500
-DTEND;TZID=Europe/Ljubljana:20260826T211500
-SUMMARY:Zaupni pogovori
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-END:VEVENT
-BEGIN:VEVENT
 UID:c87ccc879ea3b05a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260826T200000
 DTEND;TZID=Europe/Ljubljana:20260826T220000
@@ -1605,15 +1398,6 @@ SUMMARY:Študijske urice
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nPOLETNE ŠTUDIJSKE URICE\n13. avgust – 3. september 2026 // vsak četrtek od 10.00 do 14.00 // Kulturni inkubator\nKulturni inkubator bo ob aktualnih razstavah in rednih dogodkih ponudil tudi prostor za učenje. Med 13. avgustom in 3. septembrom 2026\, se v Kulturnem inkubatorju začenjajo poletne štud https://mladimaribor.si/dogodek/studijske-urice-2026-08-13-10-00-00-2026-09-03-14-00-00-2/2026-08-27/
 URL:https://mladimaribor.si/dogodek/studijske-urice-2026-08-13-10-00-00-2026-09-03-14-00-00-2/2026-08-27/
-END:VEVENT
-BEGIN:VEVENT
-UID:df006c386bb2646d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260827T193000
-DTEND;TZID=Europe/Ljubljana:20260827T213000
-SUMMARY:Nasvidenje\, poletje
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
 END:VEVENT
 BEGIN:VEVENT
 UID:57ed0a7363c914d5@kulturko
@@ -1648,17 +1432,8 @@ DTSTART;TZID=Europe/Ljubljana:20260828T200000
 DTEND;TZID=Europe/Ljubljana:20260828T220000
 SUMMARY:Where is the beat
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
-URL:https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:96bc0fdfbc19144f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260828T200000
-DTEND;TZID=Europe/Ljubljana:20260828T220000
-SUMMARY:Jazz 'ma mlade 2026
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
-URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
+DESCRIPTION: https://www.minoriti.si/dogodki/whereisthebeat-36815
+URL:https://www.minoriti.si/dogodki/whereisthebeat-36815
 END:VEVENT
 BEGIN:VEVENT
 UID:76ddd467627755b6@kulturko
@@ -1666,8 +1441,8 @@ DTSTART;TZID=Europe/Ljubljana:20260828T210000
 DTEND;TZID=Europe/Ljubljana:20260828T230000
 SUMMARY:The Double Standard
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
-URL:https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
+DESCRIPTION: https://www.minoriti.si/dogodki/thedoublestandard-36836
+URL:https://www.minoriti.si/dogodki/thedoublestandard-36836
 END:VEVENT
 BEGIN:VEVENT
 UID:84659f1e5df017f7@kulturko
@@ -1684,35 +1459,26 @@ DTSTART;TZID=Europe/Ljubljana:20260829T100000
 DTEND;TZID=Europe/Ljubljana:20260829T120000
 SUMMARY:Dojenčki so super
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
-URL:https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
+DESCRIPTION: https://www.minoriti.si/dogodki/dojenkisosuper-36818
+URL:https://www.minoriti.si/dogodki/dojenkisosuper-36818
 END:VEVENT
 BEGIN:VEVENT
-UID:b187cfa2c593adb2@kulturko
+UID:aceb3b144774ddf4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T170000
 DTEND;TZID=Europe/Ljubljana:20260829T190000
 SUMMARY:Sladke besede
-LOCATION:Velika dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/sladke-besede/
-URL:https://www.lg-mb.si/gostujoce-predstave/sladke-besede/
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/sladkebesede-36821
+URL:https://www.minoriti.si/dogodki/sladkebesede-36821
 END:VEVENT
 BEGIN:VEVENT
-UID:b5309ab43c40eccd@kulturko
+UID:2644354e1ad05f72@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T180000
 DTEND;TZID=Europe/Ljubljana:20260829T200000
 SUMMARY:Blišč in breg
-LOCATION:Mala dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
-URL:https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
-END:VEVENT
-BEGIN:VEVENT
-UID:83e6cb08aa8329da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T000000
-DTEND;TZID=Europe/Ljubljana:20260830T020000
-SUMMARY:Platforma sodobnega plesa
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalplatforma.si/
-URL:http://www.festivalplatforma.si/
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/bliinbreg-36824
+URL:https://www.minoriti.si/dogodki/bliinbreg-36824
 END:VEVENT
 BEGIN:VEVENT
 UID:a1bf3c798b828e64@kulturko
@@ -1729,8 +1495,8 @@ DTSTART;TZID=Europe/Ljubljana:20260830T100000
 DTEND;TZID=Europe/Ljubljana:20260830T120000
 SUMMARY:Nagibanje
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/nagibanje/
-URL:https://www.lg-mb.si/gostujoce-predstave/nagibanje/
+DESCRIPTION: https://www.minoriti.si/dogodki/nagibanje-36827
+URL:https://www.minoriti.si/dogodki/nagibanje-36827
 END:VEVENT
 BEGIN:VEVENT
 UID:64235a2f7074ca03@kulturko
@@ -1739,15 +1505,6 @@ DTEND;TZID=Europe/Ljubljana:20260830T123000
 SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
 LOCATION:Mestni park
 DESCRIPTION:Začetki pihalnega orkestra MOL segajo v september leta 1992\, ko se je na prvi seji sestal upravni odbor društva MOL iz Lenarta. Takoj so začeli pridobivati člane\, med katerimi so bili predvsem učenci Glasbene šole Lenart\, pridružili pa so se jim tudi starejši ljubiteljski glasbeniki z območja nekdan https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-END:VEVENT
-BEGIN:VEVENT
-UID:f15311ea198c6c3d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T103000
-DTEND;TZID=Europe/Ljubljana:20260830T123000
-SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
 URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
 END:VEVENT
 BEGIN:VEVENT
@@ -1769,13 +1526,13 @@ DESCRIPTION: https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
 URL:https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
 END:VEVENT
 BEGIN:VEVENT
-UID:af1765f7a03b445e@kulturko
+UID:40606972918633aa@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260830T190000
 DTEND;TZID=Europe/Ljubljana:20260830T210000
 SUMMARY:Impostor
-LOCATION:Velika dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/impostor/
-URL:https://www.lg-mb.si/gostujoce-predstave/impostor/
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/impostor-36833
+URL:https://www.minoriti.si/dogodki/impostor-36833
 END:VEVENT
 BEGIN:VEVENT
 UID:ecffced8247b549a@kulturko
@@ -1832,15 +1589,6 @@ DESCRIPTION:Pihalni orkester Pošta Maribor je bil ustanovljen leta 1931. Danes 
 URL:https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:c8a1b402537a3946@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260906T103000
-DTEND;TZID=Europe/Ljubljana:20260906T123000
-SUMMARY:Pihalni orkester Pošta Maribor
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
-URL:https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:9464546521f6bfab@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260908T163000
 DTEND;TZID=Europe/Ljubljana:20260908T180000
@@ -1857,15 +1605,6 @@ SUMMARY:Podporne skupine za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-09/
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-09/
-END:VEVENT
-BEGIN:VEVENT
-UID:2b6bc58b942cb0cf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T000000
-DTEND;TZID=Europe/Ljubljana:20260910T020000
-SUMMARY:DOKUDOC mednarodni festival dokumentarnega filma
-LOCATION:Maribor
-DESCRIPTION: https://dokudoc.si
-URL:https://dokudoc.si
 END:VEVENT
 BEGIN:VEVENT
 UID:3204569eafc6100f@kulturko
@@ -1895,15 +1634,6 @@ DESCRIPTION:Bertolt Brecht · Dvorana Frana Žižka https://www.sng-mb.si/event/
 URL:https://www.sng-mb.si/event/malomescanska-svatba/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfb68c6c5df6cc05@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T220000
-SUMMARY:Unforgiven4 - Naturallica
-LOCATION:Klub KGB
-DESCRIPTION: https://www.facebook.com/events/1469637100877930/
-URL:https://www.facebook.com/events/1469637100877930/
-END:VEVENT
-BEGIN:VEVENT
 UID:f1d084e42f280993@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260912T190000
 DTEND;TZID=Europe/Ljubljana:20260912T220000
@@ -1911,33 +1641,6 @@ SUMMARY:Cikel ljudske glasbe #3
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nKONCERT KULTURNO UMETNIŠKEGA DRUŠTVA ŠTUDENT\nCIKEL LJUDSKE GLASBE #1\nSobota\, 12. september 2026 // ob 19.00 // Kulturni inkubator\nNa Ciklu ljudske glasbe v Kulturnem inkubatorju se bo s širokim repertoarjem ljudske glasbe predstavilo Kulturno umetniško društvo Študent.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOb Dnevu Mari https://mladimaribor.si/dogodek/cikel-ljudske-glasbe-3-2026-09-12-19-00-00-2026-09-12-22-00-00-2/
 URL:https://mladimaribor.si/dogodek/cikel-ljudske-glasbe-3-2026-09-12-19-00-00-2026-09-12-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:b7ceab1da1a76504@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260913T000000
-DTEND;TZID=Europe/Ljubljana:20260913T020000
-SUMMARY:Festival Pranger
-LOCATION:Maribor
-DESCRIPTION: http://www.pranger.si
-URL:http://www.pranger.si
-END:VEVENT
-BEGIN:VEVENT
-UID:04ecd0b5e64f4f0d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival fotografije Maribor
-LOCATION:Maribor
-DESCRIPTION: https://www.fotoklub-maribor.si/festival/
-URL:https://www.fotoklub-maribor.si/festival/
-END:VEVENT
-BEGIN:VEVENT
-UID:8fb0cff24a08b66a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival Maribor
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalmaribor.si
-URL:http://www.festivalmaribor.si
 END:VEVENT
 BEGIN:VEVENT
 UID:449652731578f6b3@kulturko
@@ -1983,33 +1686,6 @@ SUMMARY:Muza in pesnik
 LOCATION:Slovensko narodno gledališče Maribor
 DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert Simfoničnega cikla SNG Maribor 2026/2027 \n\nLucijan Marija Škerjanc:  Svečana uvertura  za orkester\nCamille Saint-Saëns:  Muza in pesnik\, op. 132 \, za violino\, violončelo in orkester\n(Maria Ioudenitch\, violina\, Tim Posner\, violončelo)\n***\nMax Bruch:  https://nd-mb.si/dogodek/muza-in-pesnik/
 URL:https://nd-mb.si/dogodek/muza-in-pesnik/
-END:VEVENT
-BEGIN:VEVENT
-UID:9691c39dd1d42992@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:1. Koncert simfoničnega cikla
-LOCATION:SNG Maribor: Dvorana Ondine Otta Klasinc
-DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
-URL:https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
-END:VEVENT
-BEGIN:VEVENT
-UID:028c6762f093843a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:SIMFONIČNI CIKEL
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-END:VEVENT
-BEGIN:VEVENT
-UID:324e7adf5106a138@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:OPERA IN SIMFONIKI
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
-URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
 END:VEVENT
 BEGIN:VEVENT
 UID:993ab11e51001046@kulturko
@@ -2165,15 +1841,6 @@ DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://ww
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
-UID:0f25df88945b16b3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T000000
-DTEND;TZID=Europe/Ljubljana:20260923T020000
-SUMMARY:Mednarodni filmski festival Stoptrik
-LOCATION:Maribor
-DESCRIPTION: https://www.stoptrik.com/
-URL:https://www.stoptrik.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:25a21aee4234b69d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260923T170000
 DTEND;TZID=Europe/Ljubljana:20260923T183000
@@ -2228,6 +1895,15 @@ DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https:
 URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
+UID:2cc093118b7cef41@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T190000
+DTEND;TZID=Europe/Ljubljana:20260925T210000
+SUMMARY:Festival Najstarejše trte
+LOCATION:Hiša Stare trte
+DESCRIPTION: https://najstarejsatrta.si/vinski-vecer-z-vini-vracko-naslov/
+URL:https://najstarejsatrta.si/vinski-vecer-z-vini-vracko-naslov/
+END:VEVENT
+BEGIN:VEVENT
 UID:c9ac341ce8512b80@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260925T200000
 DTEND;TZID=Europe/Ljubljana:20260925T220000
@@ -2271,15 +1947,6 @@ SUMMARY:»Lav iz in di er«
 LOCATION:SNG Maribor
 DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https://www.sng-mb.si/event/lav-iz-in-di-er/
 URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:56fc44d5c4679f06@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T200000
-DTEND;TZID=Europe/Ljubljana:20260928T220000
-SUMMARY:Rock 'ma mlade: Fallen Division
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1821039128579322/1821039141912654/
-URL:https://www.facebook.com/events/1821039128579322/1821039141912654/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e7d59439df7e4ef@kulturko
@@ -2327,15 +1994,6 @@ DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta K
 URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
 END:VEVENT
 BEGIN:VEVENT
-UID:1accd86c6eacf15d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T000000
-DTEND;TZID=Europe/Ljubljana:20261002T020000
-SUMMARY:Mednarodni festival računalniške umetnosti (MFRU)
-LOCATION:Maribor
-DESCRIPTION: http://www.mfru.org
-URL:http://www.mfru.org
-END:VEVENT
-BEGIN:VEVENT
 UID:330d68098c488bba@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261003T190000
 DTEND;TZID=Europe/Ljubljana:20261003T210000
@@ -2372,15 +2030,6 @@ DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TO
 URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
 END:VEVENT
 BEGIN:VEVENT
-UID:ee197e498277dc80@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Luka Basi
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/1506266044015747/
-URL:https://www.facebook.com/events/1506266044015747/
-END:VEVENT
-BEGIN:VEVENT
 UID:eba650cd47d4cc3a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261014T203000
 DTEND;TZID=Europe/Ljubljana:20261014T223000
@@ -2399,15 +2048,6 @@ DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/
 URL:https://www.sng-mb.si/event/tannhauser/
 END:VEVENT
 BEGIN:VEVENT
-UID:01962ac65ba65993@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:OPERA BALET PREMIERA
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
-END:VEVENT
-BEGIN:VEVENT
 UID:e7817aec25a1cb1e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261018T170000
 DTEND;TZID=Europe/Ljubljana:20261018T190000
@@ -2417,15 +2057,6 @@ DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/
 URL:https://www.sng-mb.si/event/tannhauser/
 END:VEVENT
 BEGIN:VEVENT
-UID:464b585012a582dd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T170000
-DTEND;TZID=Europe/Ljubljana:20261018T190000
-SUMMARY:OPERA BALET POPOLDANSKI
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
-END:VEVENT
-BEGIN:VEVENT
 UID:cab29663150ea5f1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T193000
 DTEND;TZID=Europe/Ljubljana:20261019T213000
@@ -2433,33 +2064,6 @@ SUMMARY:1. koncert cikla Carpe artem »Trije svetovi«
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
 URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
-END:VEVENT
-BEGIN:VEVENT
-UID:a6f8aa50e4576246@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:CIKEL CARPE ARTEM
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-END:VEVENT
-BEGIN:VEVENT
-UID:07d362e89cfb2bed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:1. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
-URL:https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
-END:VEVENT
-BEGIN:VEVENT
-UID:bd34e29bdce00bd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:Trije svetovi
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
 END:VEVENT
 BEGIN:VEVENT
 UID:761006c8717fd7fc@kulturko
@@ -2478,15 +2082,6 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:04d1581effb83f96@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T190000
-DTEND;TZID=Europe/Ljubljana:20261020T210000
-SUMMARY:OPERA BALET TOREK
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko
@@ -2514,24 +2109,6 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
-END:VEVENT
-BEGIN:VEVENT
-UID:671ff354f575808c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T190000
-DTEND;TZID=Europe/Ljubljana:20261024T210000
-SUMMARY:OPERA BALET SOBOTA
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
-URL:https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
-END:VEVENT
-BEGIN:VEVENT
-UID:9265e53afc630a2e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T200000
-DTEND;TZID=Europe/Ljubljana:20261024T220000
-SUMMARY:Tragom Olivera
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/1692643712078130/
-URL:https://www.facebook.com/events/1692643712078130/
 END:VEVENT
 BEGIN:VEVENT
 UID:f6cc004456f533c1@kulturko
@@ -2577,15 +2154,6 @@ SUMMARY:Filharmonični orkester iz Luksemburga
 LOCATION:Dvorana Union
 DESCRIPTION:1. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  FILHARMONIČNI ORKESTER IZ LUKSEMBURGA\nMartin Rajna  \, dirigent\n  Kirill Gerstein  \, klavir    \n\n \n\n Claude Debussy:    Preludij k favnovemu popoldnevu\, L 86\n   Béla Bartók:    Koncert za klavir in orkester št. 3 v E-duru\, Sz. 119\n   ***\n  L https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
 URL:https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
-END:VEVENT
-BEGIN:VEVENT
-UID:18424e995dbadd7f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T200000
-DTEND;TZID=Europe/Ljubljana:20261106T220000
-SUMMARY:Jakov Jozinović
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/2137008773539446/
-URL:https://www.facebook.com/events/2137008773539446/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbb5637cbcf973aa@kulturko
@@ -2642,15 +2210,6 @@ DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v n
 URL:https://vstopnice.stuk.org/izdelek/after-sk8-contest-electric-beats-2025-fgdghgfsdgfsdfgsgfs/
 END:VEVENT
 BEGIN:VEVENT
-UID:bca6cd2ca61d8824@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261110T000000
-DTEND;TZID=Europe/Ljubljana:20261110T020000
-SUMMARY:Enimation\, mednarodni festival otroškega in mladinskega filma
-LOCATION:Maribor
-DESCRIPTION: https://www.enimation.si
-URL:https://www.enimation.si
-END:VEVENT
-BEGIN:VEVENT
 UID:3855295d4c89bd25@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261110T193000
 DTEND;TZID=Europe/Ljubljana:20261110T213000
@@ -2669,6 +2228,15 @@ DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​
 URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
 END:VEVENT
 BEGIN:VEVENT
+UID:728ef21a08af7528@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T190000
+DTEND;TZID=Europe/Ljubljana:20261111T210000
+SUMMARY:Martinovanje v Mariboru
+LOCATION:Hiša Stare trte
+DESCRIPTION: https://najstarejsatrta.si/dogodek-naslov/
+URL:https://najstarejsatrta.si/dogodek-naslov/
+END:VEVENT
+BEGIN:VEVENT
 UID:c9c660e90457153d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261111T193000
 DTEND;TZID=Europe/Ljubljana:20261111T213000
@@ -2676,24 +2244,6 @@ SUMMARY:2. koncert cikla Carpe artem »Glasovi nove generacije«
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
 URL:https://www.sng-mb.si/event/2-koncert-cikla-carpe-artem-glasovi-nove-generacije/
-END:VEVENT
-BEGIN:VEVENT
-UID:b08d91dc51abb98c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T193000
-DTEND;TZID=Europe/Ljubljana:20261111T213000
-SUMMARY:2. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
-URL:https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ec339e72d6a02014@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T193000
-DTEND;TZID=Europe/Ljubljana:20261111T213000
-SUMMARY:Glasovi nove generacije
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
 END:VEVENT
 BEGIN:VEVENT
 UID:107302e695df0f84@kulturko
@@ -2723,15 +2273,6 @@ DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/e
 URL:https://www.sng-mb.si/event/bajadera/
 END:VEVENT
 BEGIN:VEVENT
-UID:6e1e69ed6edf744f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261114T200000
-DTEND;TZID=Europe/Ljubljana:20261114T220000
-SUMMARY:Željko Bebek
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slovenija/%C5%BEeljko-bebek-maribor-dvorana-tabor/1465541275123555/
-URL:https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slovenija/%C5%BEeljko-bebek-maribor-dvorana-tabor/1465541275123555/
-END:VEVENT
-BEGIN:VEVENT
 UID:f2e990d92c3f110a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261117T100000
 DTEND;TZID=Europe/Ljubljana:20261117T120000
@@ -2748,24 +2289,6 @@ SUMMARY:Mozart!
 LOCATION:Dvorana Union
 DESCRIPTION:2. koncert Komornega cikla 2026/2027 \n\n \n\n  Dejan Lazić  \, klavir  \n  Tom Owen  \, oboa\;   Tevž Kupljenik  \, oboa\;   Ognjen Popović  \, klarinet\;   Urška Zu  pan\, klarinet\;   Maximiliano Martín  \, basetni rog\;   Andraž Golob  \, basetni rog\;   Hanno Dönneweg  \, fagot\;   Eva Fritz  \, fagot\;   Boštj https://nd-mb.si/dogodek/mozart/
 URL:https://nd-mb.si/dogodek/mozart/
-END:VEVENT
-BEGIN:VEVENT
-UID:ad685f4b9c1cccf5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T200000
-DTEND;TZID=Europe/Ljubljana:20261120T220000
-SUMMARY:Dejan Vunjak
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
-URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
-END:VEVENT
-BEGIN:VEVENT
-UID:18178901e1c20a87@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T200000
-DTEND;TZID=Europe/Ljubljana:20261120T220000
-SUMMARY:40 let Brendijeve glasbe
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/965770649184332/
-URL:https://www.facebook.com/events/965770649184332/
 END:VEVENT
 BEGIN:VEVENT
 UID:abd641fcee32d426@kulturko
@@ -2804,24 +2327,6 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
 END:VEVENT
 BEGIN:VEVENT
-UID:4f64a91038b0bcd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:3. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
-URL:https://sngmb.mojekarte.si/si/3-koncert-cikla-carpe-artem/vstopnice-1213610.html
-END:VEVENT
-BEGIN:VEVENT
-UID:f81db5852209f20c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:Refleksije strun
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
-END:VEVENT
-BEGIN:VEVENT
 UID:f2db796b647eb184@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T200000
 DTEND;TZID=Europe/Ljubljana:20261126T220000
@@ -2838,15 +2343,6 @@ SUMMARY:Netopir
 LOCATION:SNG Maribor
 DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
 URL:https://www.sng-mb.si/event/netopir-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:a56f15943e6886bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T200000
-DTEND;TZID=Europe/Ljubljana:20261127T220000
-SUMMARY:Jazz 'ma mlade 2026
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
-URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
 END:VEVENT
 BEGIN:VEVENT
 UID:ce41daaa94fcca80@kulturko
@@ -2946,15 +2442,6 @@ SUMMARY:Božično-novoletni koncert
 LOCATION:SNG Maribor
 DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
 URL:https://www.sng-mb.si/event/bozicno-novoletni-koncert-5/
-END:VEVENT
-BEGIN:VEVENT
-UID:8a563cfb8b571b66@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261218T200000
-DTEND;TZID=Europe/Ljubljana:20261218T220000
-SUMMARY:Jakov Jozinović
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/1512537020909103/
-URL:https://www.facebook.com/events/1512537020909103/
 END:VEVENT
 BEGIN:VEVENT
 UID:2885413eecad9f3c@kulturko
