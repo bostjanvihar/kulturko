@@ -104,6 +104,24 @@ DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-si
 URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
 END:VEVENT
 BEGIN:VEVENT
+UID:028c6762f093843a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:SIMFONIČNI CIKEL
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+END:VEVENT
+BEGIN:VEVENT
+UID:324e7adf5106a138@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:OPERA IN SIMFONIKI
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+END:VEVENT
+BEGIN:VEVENT
 UID:993ab11e51001046@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260917T180000
 DTEND;TZID=Europe/Ljubljana:20260917T200000
@@ -212,6 +230,15 @@ DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/
 URL:https://www.sng-mb.si/event/tannhauser/
 END:VEVENT
 BEGIN:VEVENT
+UID:01962ac65ba65993@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T190000
+DTEND;TZID=Europe/Ljubljana:20261016T210000
+SUMMARY:OPERA BALET PREMIERA
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+END:VEVENT
+BEGIN:VEVENT
 UID:e7817aec25a1cb1e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261018T170000
 DTEND;TZID=Europe/Ljubljana:20261018T190000
@@ -219,6 +246,15 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:464b585012a582dd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261018T170000
+DTEND;TZID=Europe/Ljubljana:20261018T190000
+SUMMARY:OPERA BALET POPOLDANSKI
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cab29663150ea5f1@kulturko
@@ -230,6 +266,15 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
 END:VEVENT
 BEGIN:VEVENT
+UID:a6f8aa50e4576246@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:CIKEL CARPE ARTEM
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
+URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
+END:VEVENT
+BEGIN:VEVENT
 UID:3459e0360ca6cb26@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T190000
 DTEND;TZID=Europe/Ljubljana:20261020T210000
@@ -237,6 +282,15 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:04d1581effb83f96@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:OPERA BALET TOREK
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 END:VEVENT
 BEGIN:VEVENT
 UID:6f520a27f9c6edb0@kulturko
@@ -255,6 +309,15 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:671ff354f575808c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T190000
+DTEND;TZID=Europe/Ljubljana:20261024T210000
+SUMMARY:OPERA BALET SOBOTA
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
+URL:https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
 END:VEVENT
 BEGIN:VEVENT
 UID:346b95e608b34091@kulturko

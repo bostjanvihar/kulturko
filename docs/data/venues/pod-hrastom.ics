@@ -14,24 +14,6 @@ DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
 URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
 END:VEVENT
 BEGIN:VEVENT
-UID:9b6c85984e672869@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260730T200000
-DTEND;TZID=Europe/Ljubljana:20260730T220000
-SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-teo-collori-in-jaki-potezi
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-teo-collori-in-jaki-potezi
-END:VEVENT
-BEGIN:VEVENT
-UID:4923a85e56b41682@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260820T200000
-DTEND;TZID=Europe/Ljubljana:20260820T220000
-SUMMARY:Poletje v Minoritih: ADI SMOLAR
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-adi-smolar
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-adi-smolar
-END:VEVENT
-BEGIN:VEVENT
 UID:c4226494a9345f32@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260821T200000
 DTEND;TZID=Europe/Ljubljana:20260821T220000

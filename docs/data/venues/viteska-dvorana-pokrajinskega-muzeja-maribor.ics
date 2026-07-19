@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Viteška dvorana Pokrajinskega muzeja Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9a4c876718824430@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T110000
+DTEND;TZID=Europe/Ljubljana:20260919T130000
+SUMMARY:ND MB: V naročju pesmi
+LOCATION:Viteška dvorana Pokrajinskega muzeja Maribor
+DESCRIPTION: https://nd-mb.si/dogodek/v-narocju-pesmi/
+URL:https://nd-mb.si/dogodek/v-narocju-pesmi/
+END:VEVENT
+END:VCALENDAR

@@ -5,15 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6a7cd65e05c116af@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260711T100000
-DTEND;TZID=Europe/Ljubljana:20260711T120000
-SUMMARY:Poletni Art kamp • Vile v jami Vilenica
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-vile-v-jami-vilenica/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-vile-v-jami-vilenica/
-END:VEVENT
-BEGIN:VEVENT
 UID:a5a3582a46fbc860@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260712T100000
 DTEND;TZID=Europe/Ljubljana:20260712T120000

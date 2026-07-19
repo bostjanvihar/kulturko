@@ -22,13 +22,4 @@ LOCATION:SNG Maribor: Kazinska dvorana
 DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
 URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/glasovi-nove-generacije/
 END:VEVENT
-BEGIN:VEVENT
-UID:f81db5852209f20c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:Refleksije strun
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/refleksije-strun/
-END:VEVENT
 END:VCALENDAR

@@ -10,8 +10,8 @@ DTSTART;TZID=Europe/Ljubljana:20260814T193000
 DTEND;TZID=Europe/Ljubljana:20260814T213000
 SUMMARY:Solo
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/solo-36781
-URL:https://www.minoriti.si/dogodki/solo-36781
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/solo/
+URL:https://www.lg-mb.si/gostujoce-predstave/solo/
 END:VEVENT
 BEGIN:VEVENT
 UID:12b394780f0718c0@kulturko
@@ -19,8 +19,8 @@ DTSTART;TZID=Europe/Ljubljana:20260815T193000
 DTEND;TZID=Europe/Ljubljana:20260815T213000
 SUMMARY:Solo
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/solo-36781
-URL:https://www.minoriti.si/dogodki/solo-36781
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/solo/
+URL:https://www.lg-mb.si/gostujoce-predstave/solo/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9c9bef2556b764b@kulturko
@@ -28,8 +28,8 @@ DTSTART;TZID=Europe/Ljubljana:20260822T100000
 DTEND;TZID=Europe/Ljubljana:20260822T120000
 SUMMARY:Lesena Bitja
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/lesenabitja-36803
-URL:https://www.minoriti.si/dogodki/lesenabitja-36803
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
+URL:https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
 END:VEVENT
 BEGIN:VEVENT
 UID:9604eda5557a40ce@kulturko
@@ -37,7 +37,7 @@ DTSTART;TZID=Europe/Ljubljana:20260830T100000
 DTEND;TZID=Europe/Ljubljana:20260830T120000
 SUMMARY:Nagibanje
 LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/nagibanje-36827
-URL:https://www.minoriti.si/dogodki/nagibanje-36827
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/nagibanje/
+URL:https://www.lg-mb.si/gostujoce-predstave/nagibanje/
 END:VEVENT
 END:VCALENDAR
