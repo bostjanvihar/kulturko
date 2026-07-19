@@ -5,33 +5,6 @@ X-WR-CALNAME:Kultura Maribor
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a5a3582a46fbc860@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T100000
-DTEND;TZID=Europe/Ljubljana:20260712T120000
-SUMMARY:Poletni Art kamp • Začarani čajnik
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-zacarani-cajnik/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-zacarani-cajnik/
-END:VEVENT
-BEGIN:VEVENT
-UID:6e98b69d31966d3e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T103000
-DTEND;TZID=Europe/Ljubljana:20260712T123000
-SUMMARY:Godba veteranov Štajerske Ervina Hartmana
-LOCATION:Glasbeni paviljon
-DESCRIPTION:Godba veteranov Štajerske Ervina Hartmana je bila na njegovo pobudo ustanovljena leta 2002 in deluje v okviru Kulturno-umetniškega društva Pošta Maribor. Ob 15-letnici delovanja se je na pobudo godbenikov preimenovala v Godbo veteranov Štajerske Ervina Hartman.\n\nČeprav so nekateri člani še vedno d https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:414795b01a4dde6c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T103000
-DTEND;TZID=Europe/Ljubljana:20260712T123000
-SUMMARY:Godba veteranov Štajerske Ervina Hartmana
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:3ac0edd89f434b03@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260712T160000
 DTEND;TZID=Europe/Ljubljana:20260712T190000
@@ -579,6 +552,15 @@ SUMMARY:Besedne bilke
 LOCATION:Ob železnici 16\, 2000 Maribor\, Slovenija
 DESCRIPTION:\n\n\n\n\n\n\n\nvsak torek ob 16.30\, Pekarna Magdalenske mreže\nBesedne bilke\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMoč jezika za vključevanje v družbo\n\n\n\n\n\n\nOtroke in mlade s priseljenskim ozadjem vsak torek med 16.30 in 18.00 vabimo na sproščeno učenje in utrjevanje slovenščine skozi pogovore\, ustvarjalne in družabne igre. Spozna https://mladimaribor.si/dogodek/besedne-bilke-3/2026-07-28/
 URL:https://mladimaribor.si/dogodek/besedne-bilke-3/2026-07-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ed70f3d5dbf550@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260728T180000
+DTEND;TZID=Europe/Ljubljana:20260728T200000
+SUMMARY:PIAF KVIZ #84 - Torek\, 28. 7. 2026
+LOCATION:PIAF
+DESCRIPTION:Vroč kviz.\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po osebi. Rezervacije niso možne\, zato je modro\, če pridete kaj prej. Odgovarjali bomo na 40 vprašanj\, razdeljenih v 4 sklope po 10. Sklopi ima https://www.facebook.com/events/3088311608224943/
+URL:https://www.facebook.com/events/3088311608224943/
 END:VEVENT
 BEGIN:VEVENT
 UID:b88a4fad75b9fc0c@kulturko
@@ -1814,15 +1796,6 @@ DESCRIPTION: http://www.pranger.si
 URL:http://www.pranger.si
 END:VEVENT
 BEGIN:VEVENT
-UID:8fb0cff24a08b66a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival Maribor
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalmaribor.si
-URL:http://www.festivalmaribor.si
-END:VEVENT
-BEGIN:VEVENT
 UID:04ecd0b5e64f4f0d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260915T000000
 DTEND;TZID=Europe/Ljubljana:20260915T020000
@@ -1830,6 +1803,15 @@ SUMMARY:Festival fotografije Maribor
 LOCATION:Maribor
 DESCRIPTION: https://www.fotoklub-maribor.si/festival/
 URL:https://www.fotoklub-maribor.si/festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb0cff24a08b66a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T000000
+DTEND;TZID=Europe/Ljubljana:20260915T020000
+SUMMARY:Festival Maribor
+LOCATION:Maribor
+DESCRIPTION: http://www.festivalmaribor.si
+URL:http://www.festivalmaribor.si
 END:VEVENT
 BEGIN:VEVENT
 UID:449652731578f6b3@kulturko
@@ -1895,15 +1877,6 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnic
 URL:https://sngmb.mojekarte.si/si/1-koncert-simfonicnega-cikla/vstopnice-1213499.html
 END:VEVENT
 BEGIN:VEVENT
-UID:028c6762f093843a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:SIMFONIČNI CIKEL
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-END:VEVENT
-BEGIN:VEVENT
 UID:324e7adf5106a138@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T193000
 DTEND;TZID=Europe/Ljubljana:20260916T213000
@@ -1920,6 +1893,15 @@ SUMMARY:ND MB: Muza in pesnik
 LOCATION:SNG Maribor: Dvorana Ondine Otta Klasinc
 DESCRIPTION: https://nd-mb.si/dogodek/muza-in-pesnik/
 URL:https://nd-mb.si/dogodek/muza-in-pesnik/
+END:VEVENT
+BEGIN:VEVENT
+UID:028c6762f093843a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:SIMFONIČNI CIKEL
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
 END:VEVENT
 BEGIN:VEVENT
 UID:993ab11e51001046@kulturko
@@ -2399,15 +2381,6 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
 END:VEVENT
 BEGIN:VEVENT
-UID:bd34e29bdce00bd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:Trije svetovi
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-END:VEVENT
-BEGIN:VEVENT
 UID:07d362e89cfb2bed@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T193000
 DTEND;TZID=Europe/Ljubljana:20261019T213000
@@ -2424,6 +2397,15 @@ SUMMARY:CIKEL CARPE ARTEM
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
 URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bd34e29bdce00bd3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:Trije svetovi
+LOCATION:SNG Maribor: Kazinska dvorana
+DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
+URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
 END:VEVENT
 BEGIN:VEVENT
 UID:761006c8717fd7fc@kulturko
@@ -2723,15 +2705,6 @@ DESCRIPTION:2. koncert Komornega cikla 2026/2027 \n\n \n\n  Dejan Lazić  \,
 URL:https://nd-mb.si/dogodek/mozart/
 END:VEVENT
 BEGIN:VEVENT
-UID:18178901e1c20a87@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T200000
-DTEND;TZID=Europe/Ljubljana:20261120T220000
-SUMMARY:40 let Brendijeve glasbe
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/965770649184332/
-URL:https://www.facebook.com/events/965770649184332/
-END:VEVENT
-BEGIN:VEVENT
 UID:ad685f4b9c1cccf5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261120T200000
 DTEND;TZID=Europe/Ljubljana:20261120T220000
@@ -2739,6 +2712,15 @@ SUMMARY:Dejan Vunjak
 LOCATION:Dvorana Tabor
 DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
 URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+END:VEVENT
+BEGIN:VEVENT
+UID:18178901e1c20a87@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:40 let Brendijeve glasbe
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://www.facebook.com/events/965770649184332/
+URL:https://www.facebook.com/events/965770649184332/
 END:VEVENT
 BEGIN:VEVENT
 UID:abd641fcee32d426@kulturko

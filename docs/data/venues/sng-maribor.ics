@@ -104,15 +104,6 @@ DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-si
 URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
 END:VEVENT
 BEGIN:VEVENT
-UID:028c6762f093843a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:SIMFONIČNI CIKEL
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-END:VEVENT
-BEGIN:VEVENT
 UID:324e7adf5106a138@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T193000
 DTEND;TZID=Europe/Ljubljana:20260916T213000
@@ -120,6 +111,15 @@ SUMMARY:OPERA IN SIMFONIKI
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
 URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+END:VEVENT
+BEGIN:VEVENT
+UID:028c6762f093843a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:SIMFONIČNI CIKEL
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
 END:VEVENT
 BEGIN:VEVENT
 UID:993ab11e51001046@kulturko

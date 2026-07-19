@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:PIAF — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d7ed70f3d5dbf550@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260728T180000
+DTEND;TZID=Europe/Ljubljana:20260728T200000
+SUMMARY:PIAF KVIZ #84 - Torek\, 28. 7. 2026
+LOCATION:PIAF
+DESCRIPTION:Vroč kviz.\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po osebi. Rezervacije niso možne\, zato je modro\, če pridete kaj prej. Odgovarjali bomo na 40 vprašanj\, razdeljenih v 4 sklope po 10. Sklopi ima https://www.facebook.com/events/3088311608224943/
+URL:https://www.facebook.com/events/3088311608224943/
+END:VEVENT
+END:VCALENDAR
