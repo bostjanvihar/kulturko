@@ -32,15 +32,6 @@ DESCRIPTION: http://www.pranger.si
 URL:http://www.pranger.si
 END:VEVENT
 BEGIN:VEVENT
-UID:8fb0cff24a08b66a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival Maribor
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalmaribor.si
-URL:http://www.festivalmaribor.si
-END:VEVENT
-BEGIN:VEVENT
 UID:04ecd0b5e64f4f0d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260915T000000
 DTEND;TZID=Europe/Ljubljana:20260915T020000
@@ -48,6 +39,15 @@ SUMMARY:Festival fotografije Maribor
 LOCATION:Maribor
 DESCRIPTION: https://www.fotoklub-maribor.si/festival/
 URL:https://www.fotoklub-maribor.si/festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb0cff24a08b66a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T000000
+DTEND;TZID=Europe/Ljubljana:20260915T020000
+SUMMARY:Festival Maribor
+LOCATION:Maribor
+DESCRIPTION: http://www.festivalmaribor.si
+URL:http://www.festivalmaribor.si
 END:VEVENT
 BEGIN:VEVENT
 UID:0f25df88945b16b3@kulturko

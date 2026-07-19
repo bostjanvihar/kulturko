@@ -5,15 +5,6 @@ X-WR-CALNAME:Paviljon mestnega parka — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:414795b01a4dde6c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T103000
-DTEND;TZID=Europe/Ljubljana:20260712T123000
-SUMMARY:Godba veteranov Štajerske Ervina Hartmana
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:6dcd1bfeb0735a49@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260719T103000
 DTEND;TZID=Europe/Ljubljana:20260719T123000

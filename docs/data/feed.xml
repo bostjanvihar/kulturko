@@ -5,11 +5,13 @@
   <link>https://bostjanvihar.github.io/kulturko</link>
   <description>Newly announced cultural events in Maribor</description>
   <item>
-    <title>Godba veteranov Štajerske Ervina Hartmana — Paviljon mestnega parka</title>
-    <link>https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/</link>
-    <guid isPermaLink="false">414795b01a4dde6c</guid>
-    <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
-    <description>2026-07-12 10:30 · Paviljon mestnega parka. </description>
+    <title>PIAF KVIZ #84 - Torek, 28. 7. 2026 — PIAF</title>
+    <link>https://www.facebook.com/events/3088311608224943/</link>
+    <guid isPermaLink="false">d7ed70f3d5dbf550</guid>
+    <pubDate>Sun, 19 Jul 2026 14:03:09 +0000</pubDate>
+    <description>2026-07-28 18:00 · PIAF. Vroč kviz.
+
+Pravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem, prijavnina je 1 EUR po osebi. Rezervacije niso možne, zato je m</description>
   </item>
   <item>
     <title>Poletje v Minoritih: Regi Kvak — Minoriti pod hrastom</title>
@@ -236,16 +238,16 @@
     <description>2026-09-13 00:00 · Maribor. </description>
   </item>
   <item>
-    <title>Festival Maribor — Maribor</title>
-    <link>http://www.festivalmaribor.si</link>
-    <guid isPermaLink="false">8fb0cff24a08b66a</guid>
+    <title>Festival fotografije Maribor — Maribor</title>
+    <link>https://www.fotoklub-maribor.si/festival/</link>
+    <guid isPermaLink="false">04ecd0b5e64f4f0d</guid>
     <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
     <description>2026-09-15 00:00 · Maribor. </description>
   </item>
   <item>
-    <title>Festival fotografije Maribor — Maribor</title>
-    <link>https://www.fotoklub-maribor.si/festival/</link>
-    <guid isPermaLink="false">04ecd0b5e64f4f0d</guid>
+    <title>Festival Maribor — Maribor</title>
+    <link>http://www.festivalmaribor.si</link>
+    <guid isPermaLink="false">8fb0cff24a08b66a</guid>
     <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
     <description>2026-09-15 00:00 · Maribor. </description>
   </item>
@@ -264,13 +266,6 @@
     <description>2026-09-16 19:30 · SNG Maribor: Dvorana Ondine Otta Klasinc. </description>
   </item>
   <item>
-    <title>SIMFONIČNI CIKEL — SNG Maribor</title>
-    <link>https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html</link>
-    <guid isPermaLink="false">028c6762f093843a</guid>
-    <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
-    <description>2026-09-16 19:30 · SNG Maribor. </description>
-  </item>
-  <item>
     <title>OPERA IN SIMFONIKI — SNG Maribor</title>
     <link>https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html</link>
     <guid isPermaLink="false">324e7adf5106a138</guid>
@@ -283,6 +278,13 @@
     <guid isPermaLink="false">5393d52a0049989a</guid>
     <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
     <description>2026-09-16 19:30 · SNG Maribor: Dvorana Ondine Otta Klasinc. </description>
+  </item>
+  <item>
+    <title>SIMFONIČNI CIKEL — SNG Maribor</title>
+    <link>https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html</link>
+    <guid isPermaLink="false">028c6762f093843a</guid>
+    <pubDate>Sun, 19 Jul 2026 06:27:17 +0000</pubDate>
+    <description>2026-09-16 19:30 · SNG Maribor. </description>
   </item>
   <item>
     <title>ND MB: V naročju pesmi — Viteška dvorana Pokrajinskega muzeja Maribor</title>

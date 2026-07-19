@@ -5,15 +5,6 @@ X-WR-CALNAME:Glasbeni paviljon — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6e98b69d31966d3e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T103000
-DTEND;TZID=Europe/Ljubljana:20260712T123000
-SUMMARY:Godba veteranov Štajerske Ervina Hartmana
-LOCATION:Glasbeni paviljon
-DESCRIPTION:Godba veteranov Štajerske Ervina Hartmana je bila na njegovo pobudo ustanovljena leta 2002 in deluje v okviru Kulturno-umetniškega društva Pošta Maribor. Ob 15-letnici delovanja se je na pobudo godbenikov preimenovala v Godbo veteranov Štajerske Ervina Hartman.\n\nČeprav so nekateri člani še vedno d https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-URL:https://nd-mb.si/dogodek/godba-veteranov-stajerske-ervina-hartmana-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:ad52ce66ddd8bfbd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260719T103000
 DTEND;TZID=Europe/Ljubljana:20260719T123000
