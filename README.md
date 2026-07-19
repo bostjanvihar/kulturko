@@ -1,25 +1,27 @@
 # Kulturni zbiralnik — kulturni dogodki na enem mestu
 
-A self-updating aggregator of cultural events. Scrapes venue websites daily,
+A self-updating aggregator of cultural events. Scrapes venue websites weekly,
 deduplicates across sources, and publishes a filterable website, calendar
 feeds (Google Calendar sync), and an RSS feed of newly announced events.
 
-**No servers. No databases. No AI at runtime. $0/month.**
+**No servers. No databases. No AI at runtime.**
 
 ### What it covers
 
-Events are collected from venue websites and the Kulturnik aggregator.
-Facebook is **not** scraped directly — events announced only on Facebook
-make the list only when Kulturnik carries them (it does for GT22 and Klub
-KGB), so coverage of FB-only announcements is partial rather than
-guaranteed. See the source table below for what each venue contributes.
+Events are collected from venue websites, the Kulturnik aggregator, and
+Facebook for a selected list of venue pages (scraped via [Apify](https://apify.com);
+see the `apify` adapter and the `fb-*` sources in `sources.yaml`). Facebook
+covers only those explicitly listed pages, so an event announced only on a
+Facebook page that isn't in the list — and isn't picked up by Kulturnik —
+can still be missing. See the source table below for what each venue
+contributes.
 
 > The project is named *Kulturni zbiralnik*; the repository slug is still
 > `kulturko`, which keeps the Pages URL and every published `.ics`
 > subscription working. Only the display name changed.
 
 ```
-GitHub Actions (daily cron, 06:00 local)
+GitHub Actions (weekly cron, Mon 00:00 CEST)
   └─ python -m scraper.main
        ├─ runs one adapter per source (sources.yaml)
        ├─ deduplicates events across sources
@@ -35,9 +37,9 @@ GitHub Pages
    folder: `/docs`. Your site goes live at
    `https://YOUR-USERNAME.github.io/maribor-events/`.
 3. Edit `sources.yaml`: set `site_url` to that address.
-4. **Actions** tab → *Scrape events daily* → **Run workflow** to do the first
+4. **Actions** tab → *Scrape events weekly* → **Run workflow** to do the first
    real scrape (this replaces the demo data). It then runs automatically every
-   day at 04:00 UTC.
+   week, Monday 00:00 CEST (Sunday 22:00 UTC).
 5. **Settings → Actions → General** → Workflow permissions → *Read and write*
    (needed so the bot can commit updated data).
 
@@ -78,12 +80,13 @@ GitHub Pages
 | Klub KGB, Rozmarin, UGM | `html` | CSS-selector scrape. **Verify selectors if a site redesigns** — check the Actions log; a failing source is logged, never fatal. |
 | Najstarejša trta | `html` | Salient post grid; date is a custom field in `data-key="datum"` (the WP REST API does not expose it). Lists only the few big annual events (rez trte, festival, trgatev, martinovanje). |
 | Rajzefiber (Festival sprehodov) | `grouped_options` | The walks exist only as checkbox options in the signup form, grouped under a date heading. The festival runs once a year, so this legitimately returns 0 outside the signup window. |
+| Facebook pages (Hiša Stare trte, Poštna ulica, Piaf, Luft) | `apify` | Public Facebook event pages scraped through the [Apify](https://apify.com) Facebook Events Scraper actor. Needs the `APIFY_TOKEN` repo secret; add/remove venues via the `fb-*` entries in `sources.yaml`. Apify bills per result, so `max_events` is kept low. |
 | GT22 | disabled | Site no longer publishes a program; their Facebook events surface via Kulturnik. |
 | Visit Maribor | disabled | Client-side Angular app with no public JSON endpoint; largely covered by Kulturnik. |
-| Facebook pages | `facebook_graph` (disabled) | Facebook blocks anonymous scraping. Either rely on Kulturnik coverage, or get a Graph API token, add it as the `FB_TOKEN` repo secret, and enable a `facebook_graph` source with the page ID. |
+| Facebook pages you administer | `facebook_graph` (disabled) | Alternative to Apify for pages you own: get a Graph API token, add it as the `FB_TOKEN` repo secret, and enable a `facebook_graph` source with the page ID. |
 
 If a venue redesigns its site, only its entry in `sources.yaml` (selectors)
-needs updating — check the daily Action log for `FAILED` lines.
+needs updating — check the weekly Action log for `FAILED` lines.
 
 Scraping etiquette: one request per source per day, an identifying
 User-Agent, and public program pages only. Set your repo URL in the

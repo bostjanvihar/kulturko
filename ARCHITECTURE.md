@@ -17,7 +17,7 @@ into `docs/`. GitHub Pages serves `docs/`, and the browser app
 no database, no runtime AI — all parsing is deterministic.
 
 ```
-GitHub Actions (.github/workflows/scrape.yml, daily 04:00 UTC)
+GitHub Actions (.github/workflows/scrape.yml, weekly Mon 00:00 CEST)
   └─ python -m scraper.main
        ├─ load sources.yaml
        ├─ run one adapter per source          (scraper/adapters.py)
@@ -64,6 +64,7 @@ GitHub Pages → serves docs/ ; index.html fetches data/events.json
 | `grouped_options` | A sign-up **form** is the only listing: each event is a checkbox option ("16.00 - Title") inside a group whose heading carries the date ("PETEK, 20. 3. 2026"). Groups with no parsable date (name/e-mail fields) are skipped. | `selectors.{group,group_date,item}`, `item_re` (hour/minute/title groups), `strip_re` (drop a marker like "/ ZAPRTE PRIJAVE") |
 | `html` | Generic CSS-selector scrape. Honors `<base href>`. Options: `try_jsonld_first`, `year_from_url` (regex to pull the year from each event URL), `follow_detail` (fetch each event page and scan its body for a date when the listing has none, capped by `max_detail_fetches`). | `selectors.{item,title,url,date,venue}` |
 | `ics` | A plain `.ics` URL. | `url` |
+| `apify` | Public Facebook event pages via an [Apify](https://apify.com) actor (default `apify/facebook-events-scraper`). Starts an actor run, polls it, reads the dataset. Needs the `APIFY_TOKEN` secret; bills per result. Lives in its own module `scraper/adapter_apify.py`, self-registered on import. **The actor's `startUrls` is a list of URL *strings*, not `{"url":…}` objects** — a mismatch makes the run scrape nothing silently. | `page_url` (or `start_urls` / `search_queries`), `max_events`, optional `actor`, `actor_input` |
 | `facebook_graph` | Facebook Page events — needs `FB_TOKEN` secret. Disabled by default (FB blocks anon scraping). | `page_id` |
 
 `run_source()` catches all exceptions per source (never fatal), tries an
@@ -98,7 +99,7 @@ returns zero events (e.g. a venue on summer break) is logged as
   the site looks stale, check the Actions log for per-source counts.
 - **WAFs.** Some venue sites (gustaf.si) block requests lacking a browser
   `Accept` header (415/403) and throttle repeated hits. `fetch()` sends a
-  full browser-like header set. From the daily Action (clean IP, one
+  full browser-like header set. From the weekly Action (clean IP, one
   request) this is usually fine; hammering a site while developing will
   get you temporarily challenged/blocked.
 - **Encoding.** `requests` guesses ISO-8859-1 when the charset header is
@@ -130,7 +131,7 @@ returns zero events (e.g. a venue on summer break) is logged as
   subscription are built from. Renaming the GitHub repo silently kills
   existing calendar subscriptions.
 - **Scheduled Actions auto-disable** after ~60 days of repo inactivity.
-  If the daily update stops, re-enable "Scrape events daily" in the
+  If the weekly update stops, re-enable "Scrape events weekly" in the
   Actions tab.
 - **Dedup keeps the richer record's fields** but each event keeps its own
   `start`; when the same event comes from a clean feed (Kulturnik) and a
@@ -146,4 +147,4 @@ python -m http.server -d docs   # open http://localhost:8000
 
 The scraper is safe to run locally; it only reads remote sites and writes
 into `docs/data/`. Commit the regenerated `docs/data/` only if you intend
-to publish (the daily bot does this automatically).
+to publish (the weekly bot does this automatically).

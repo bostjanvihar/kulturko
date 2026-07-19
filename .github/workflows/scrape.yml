@@ -1,8 +1,10 @@
-name: Scrape events daily
+name: Scrape events weekly
 
 on:
   schedule:
-    - cron: "0 4 * * *"     # 04:00 UTC = 05:00/06:00 in Maribor
+    # Weekly, Monday 00:00 CEST (= Sunday 22:00 UTC). GitHub cron has no
+    # DST, so in winter (CET, UTC+1) this fires at 23:00 Sunday local.
+    - cron: "0 22 * * 0"
   workflow_dispatch: {}      # manual "Run workflow" button
 
 permissions:
@@ -27,5 +29,5 @@ jobs:
           git config user.name "kulturko-bot"
           git config user.email "actions@github.com"
           git add docs/data
-          git diff --cached --quiet || git commit -m "data: daily update $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "data: weekly update $(date -u +%F)"
           git push

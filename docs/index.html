@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kulturni zbiralnik — kulturni dogodki</title>
-<meta name="description" content="Kulturni dogodki v Mariboru zbrani s spletnih strani kulturnih ustanov, prizorišč in agregatorja Kulturnik; Facebooka ne pregledujemo neposredno.">
+<meta name="description" content="Kulturni dogodki v Mariboru, zbrani s spletnih strani kulturnih ustanov, agregatorja Kulturnik in Facebooka (za izbrana prizorišča). Osveženo tedensko.">
 <link rel="alternate" type="application/rss+xml" title="Novi dogodki" href="data/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -166,10 +166,10 @@ const seenKey = "kulturko-seen-ids";
 
 const I18N = {
  sl: {
-  kicker:"Kulturni program · dnevno osveženo",
+  kicker:"Kulturni program · tedensko osveženo",
   h1a:"Kaj se dogaja v", town: t => t==="Maribor" ? "Mariboru" : t,
   sub:"Dogodki kulturnih ustanov na enem mestu — gledališče, koncerti, razstave, klubi. Z enim klikom v tvoj koledar.",
-  coverage:"Dogodke zbiramo s spletnih strani prizorišč in iz agregatorja Kulturnik. Facebooka ne pregledujemo neposredno, zato dogodki, objavljeni samo tam, pridejo na seznam le, če jih zajame Kulturnik — nekaj jih zato lahko manjka.",
+  coverage:"Dogodke zbiramo s spletnih strani prizorišč, iz agregatorja Kulturnik in s Facebooka za izbrana prizorišča. Facebook pokriva le nekaj strani, zato kak dogodek, objavljen samo tam, lahko manjka. Seznam se osveži enkrat tedensko, ob ponedeljkih.",
   sync:"＋ Sinhroniziraj s koledarjem", notif:"🔔 Obvestila",
   notifOn:"🔔 Obvestila vklopljena", rss:"RSS novosti",
   tf:{today:"Danes",week:"Ta teden",month:"Ta mesec",all:"Vse"},
@@ -187,7 +187,7 @@ const I18N = {
   dlgVenue:v=>`Samo za izbrano prizorišče: `,
   dlgHint:"Namig: izberi eno prizorišče v filtrih, pa dobiš tudi koledar samo zanj.",
   dlgManual:"Ročno: v Google Koledarju izberi Drugi koledarji → ＋ → Iz URL-ja in prilepi:",
-  footer:"Kulturni zbiralnik · odprtokodni agregator · podatki se osvežijo vsak dan ob ~6.00",
+  footer:"Kulturni zbiralnik · odprtokodni agregator · podatki se osvežijo enkrat tedensko, ob ponedeljkih",
   sources:"Viri", srcCount:n=>` · ${n} vira`, addCal:"+ Koledar", newDot:"novo",
   cats:{music:"Glasba",theatre:"Gledališče",exhibition:"Razstave",film:"Film",
         kids:"Za otroke",literature:"Knjiga",education:"Izobraževanje",
@@ -197,10 +197,10 @@ const I18N = {
   today:"danes", locale:"sl-SI",
  },
  en: {
-  kicker:"Cultural programme · updated daily",
+  kicker:"Cultural programme · updated weekly",
   h1a:"What's on in", town: t => t,
   sub:"Cultural venues' events in one place — theatre, concerts, exhibitions, clubs. One click to your calendar.",
-  coverage:"Events are collected from venue websites and the Kulturnik aggregator. We don't scrape Facebook directly, so events announced only there make the list only if Kulturnik carries them — some may be missing.",
+  coverage:"Events are collected from venue websites, the Kulturnik aggregator, and Facebook for selected venues. Facebook covers only a few pages, so an event announced only there may be missing. The list refreshes once a week, on Mondays.",
   sync:"＋ Sync with calendar", notif:"🔔 Notifications",
   notifOn:"🔔 Notifications on", rss:"RSS of new events",
   tf:{today:"Today",week:"This week",month:"This month",all:"All"},
@@ -218,7 +218,7 @@ const I18N = {
   dlgVenue:v=>`Just the selected venue: `,
   dlgHint:"Tip: select a single venue in the filters to also get a calendar for that venue only.",
   dlgManual:"Manually: in Google Calendar choose Other calendars → ＋ → From URL and paste:",
-  footer:"Kulturni zbiralnik · open-source aggregator · data refreshes daily at ~6:00",
+  footer:"Kulturni zbiralnik · open-source aggregator · data refreshes weekly, on Mondays",
   sources:"Sources", srcCount:n=>` · ${n} sources`, addCal:"+ Calendar", newDot:"new",
   cats:{music:"Music",theatre:"Theatre",exhibition:"Exhibitions",film:"Film",
         kids:"For kids",literature:"Books",education:"Learning",

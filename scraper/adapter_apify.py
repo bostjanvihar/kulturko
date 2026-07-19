@@ -2,7 +2,7 @@
 
 Facebook blocks anonymous scraping, so this adapter delegates the dirty
 work to an Apify "actor" (a hosted headless-browser scraper) and reads
-back clean JSON. No AI at runtime; the daily GitHub Action just makes
+back clean JSON. No AI at runtime; the scheduled GitHub Action just makes
 HTTPS calls.
 
 Setup (once):
@@ -21,6 +21,14 @@ sources.yaml example:
     max_events: 20            # keep low; Apify bills per result
     # actor: "apify~facebook-events-scraper"   # override if needed
     # timezone: "Europe/Ljubljana"             # for other towns
+    # If page-events URLs return nothing, the default actor also accepts
+    # specific event URLs or free-text searches instead of page_url:
+    #   start_urls: ["https://www.facebook.com/events/1023978871819924"]
+    #   search_queries: ["Maribor koncert"]
+
+Note: the default actor (apify/facebook-events-scraper) declares
+`startUrls` as a list of URL *strings* (not {"url": ...} objects) — this
+adapter sends them in that shape.
 
 Registered automatically as adapter "apify" when this module is imported
 (see the import line in scraper/main.py).
@@ -106,11 +114,12 @@ def parse_apify_items(items: list, src: dict) -> list[Event]:
         end = _to_local(
             _first(it, "utcEndDate", "endTimestamp", "endDate",
                    "end_time", "endTime", default=None), tz)
-        url = str(_first(it, "url", "eventUrl", "link",
-                         default=src.get("page_url", "")))
+        url = str(_first(it, "url", "eventUrl", "link", default=""))
         eid = _first(it, "id", "eventId", default="")
-        if not url.startswith("http") and eid:
-            url = f"https://www.facebook.com/events/{eid}"
+        if not url.startswith("http"):
+            # prefer the specific event link; fall back to the page URL
+            url = (f"https://www.facebook.com/events/{eid}" if eid
+                   else src.get("page_url", ""))
         desc = str(_first(it, "description", "summary"))[:400]
         img = _first(it, "imageUrl", "image", "photo", default="")
         if isinstance(img, dict):
@@ -142,15 +151,22 @@ def adapter_apify(src: dict) -> list[Event]:
     token = os.environ.get("APIFY_TOKEN")
     if not token:
         raise RuntimeError("APIFY_TOKEN secret not set — skipping")
-    if not src.get("page_url"):
-        raise RuntimeError("source needs page_url (…facebook.com/PAGE/events)")
+    if not (src.get("page_url") or src.get("start_urls")
+            or src.get("search_queries")):
+        raise RuntimeError("source needs page_url, start_urls or search_queries")
 
     actor = src.get("actor", DEFAULT_ACTOR)
-    run_input = {
-        "startUrls": [{"url": src["page_url"]}],
-        "maxEvents": int(src.get("max_events", 20)),
-        **src.get("actor_input", {}),        # extra actor-specific options
-    }
+    # This actor's `startUrls` is a stringList — plain URL strings, NOT
+    # {"url": ...} objects. `searchQueries` is offered as an alternative
+    # input if a venue's page-events URL doesn't yield results.
+    start_urls = ([src["page_url"]] if src.get("page_url") else []) \
+        + list(src.get("start_urls", []))
+    run_input = {"maxEvents": int(src.get("max_events", 20))}
+    if start_urls:
+        run_input["startUrls"] = start_urls
+    if src.get("search_queries"):
+        run_input["searchQueries"] = list(src["search_queries"])
+    run_input.update(src.get("actor_input", {}))   # extra actor options
 
     run = _apify("POST", f"/acts/{actor}/runs", token,
                  json=run_input).json()["data"]

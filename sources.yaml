@@ -271,7 +271,7 @@ sources:
   # Facebook blocks anonymous scraping, so these run through the Apify
   # Facebook Events Scraper (adapter "apify" in scraper/adapter_apify.py).
   # Requires the APIFY_TOKEN repository secret. Keep max_events modest —
-  # the actor bills per result and one run per page happens daily.
+  # the actor bills per result and one run per page happens each week.
   # (The facebook_graph adapter also exists for pages you administer;
   # it needs the FB_TOKEN secret and a page_id.)
 
