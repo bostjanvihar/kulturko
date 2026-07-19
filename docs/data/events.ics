@@ -5,15 +5,6 @@ X-WR-CALNAME:Kultura Maribor
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3ac0edd89f434b03@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260712T160000
-DTEND;TZID=Europe/Ljubljana:20260712T190000
-SUMMARY:ANALOGNICE: Začetniško kvačkanje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nPOLETNE USTVARJALNE NEDELJE\nANALOGNICE\nVsako nedeljo v juliju in avgustu // 16.00-19.00 // Kulturni inkubator\nPoletna šola Kreativarne bo nekoliko bolj analogna. Analognice so serija poletnih nedelj za ustvarjanje z rokami v organizaciji Mladinskega kulturnega centra Maribor in izvedbi Kreativa https://mladimaribor.si/dogodek/analognice-zacetnisko-kvackanje-2026-07-12-16-00-00-2026-07-12-19-00-00-2/
-URL:https://mladimaribor.si/dogodek/analognice-zacetnisko-kvackanje-2026-07-12-16-00-00-2026-07-12-19-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:cd8f01e4c9e73527@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260713T080000
 DTEND;TZID=Europe/Ljubljana:20260717T170000
