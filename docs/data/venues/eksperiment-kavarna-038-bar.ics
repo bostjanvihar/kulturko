@@ -5,15 +5,6 @@ X-WR-CALNAME:Eksperiment Kavarna &#038\; Bar — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:12a59c1f76c2189c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260711T210000
-DTEND;TZID=Europe/Ljubljana:20260711T210000
-SUMMARY:Melodic Techno Night with SAM NICE
-LOCATION:Eksperiment Kavarna &#038\; Bar
-DESCRIPTION:Melodic Techno night incoming with SAM NICE from Ukraine see you on Saturday\, 11.07.2026 \n\nEksperiment bar\,Vetrinjska ulica 8\,2000 Maribor https://mladimaribor.si/dogodek/melodic-techno-night-with-sam-nice/
-URL:https://mladimaribor.si/dogodek/melodic-techno-night-with-sam-nice/
-END:VEVENT
-BEGIN:VEVENT
 UID:33f50bfd493c7ed4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260801T210000
 DTEND;TZID=Europe/Ljubljana:20260801T210000

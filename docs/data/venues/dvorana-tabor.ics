@@ -41,15 +41,6 @@ DESCRIPTION: https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slove
 URL:https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slovenija/%C5%BEeljko-bebek-maribor-dvorana-tabor/1465541275123555/
 END:VEVENT
 BEGIN:VEVENT
-UID:ad685f4b9c1cccf5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T200000
-DTEND;TZID=Europe/Ljubljana:20261120T220000
-SUMMARY:Dejan Vunjak
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
-URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
-END:VEVENT
-BEGIN:VEVENT
 UID:18178901e1c20a87@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261120T200000
 DTEND;TZID=Europe/Ljubljana:20261120T220000
@@ -57,6 +48,15 @@ SUMMARY:40 let Brendijeve glasbe
 LOCATION:Dvorana Tabor
 DESCRIPTION: https://www.facebook.com/events/965770649184332/
 URL:https://www.facebook.com/events/965770649184332/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad685f4b9c1cccf5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:Dejan Vunjak
+LOCATION:Dvorana Tabor
+DESCRIPTION: https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
+URL:https://www.eventim.si/event/40-let-brendijeve-glasbe-maribor-dvorana-tabor-21301615/
 END:VEVENT
 BEGIN:VEVENT
 UID:8a563cfb8b571b66@kulturko

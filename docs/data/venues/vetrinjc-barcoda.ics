@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjc-BarCoda — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:49c27909678c9ad6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260711T203000
-DTEND;TZID=Europe/Ljubljana:20260711T203000
-SUMMARY:Krokar v Vetrinjcu
-LOCATION:Vetrinjc-BarCoda
-DESCRIPTION:Krokar praznuje 10 let od prvega EP-ja z enkratnim koncertom 11. 7. 2026.\nDesetletje riffov\, razbitih struktur in koncertne energije se vrača na oder v prenovljeni obliki\; stari komadi\, nove razsežnosti in grajenje (požiganje? \;)) mostov med “takrat” in “zdaj”.\nNostalgični večer? Ne (le)\, temveč rea https://mladimaribor.si/dogodek/krokar-v-vetrinjcu/
-URL:https://mladimaribor.si/dogodek/krokar-v-vetrinjcu/
-END:VEVENT
-BEGIN:VEVENT
 UID:4fd229ad3b6dfe2b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260713T193000
 DTEND;TZID=Europe/Ljubljana:20260713T223000

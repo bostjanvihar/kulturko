@@ -5,15 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:19e39bd2e7fd14c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260710T210000
-DTEND;TZID=Europe/Ljubljana:20260710T230000
-SUMMARY:Evita
-LOCATION:SNG Maribor
-DESCRIPTION:Tim Rice\, Andrew Lloyd Webber · Festival Ljubljana\, Križanke https://www.sng-mb.si/event/evita/
-URL:https://www.sng-mb.si/event/evita/
-END:VEVENT
-BEGIN:VEVENT
 UID:e52b738a9524f710@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260713T210000
 DTEND;TZID=Europe/Ljubljana:20260713T230000
