@@ -23,7 +23,24 @@ jobs:
         env:
           FB_TOKEN: ${{ secrets.FB_TOKEN }}       # optional — Graph API, only for pages you admin
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }} # Apify — Facebook pages via the apify adapter
-        run: python -m scraper.main
+        run: |
+          set -o pipefail
+          python -m scraper.main 2>&1 | tee scrape.log
+      - name: Run summary            # renders in the run's "Summary" tab
+        if: always()
+        run: |
+          {
+            echo "## Scrape result"
+            echo ""
+            echo "### Facebook (Apify) sources"
+            echo '```'
+            grep -iE 'fb-|apify' scrape.log || echo "(no Facebook source lines — check APIFY_TOKEN)"
+            echo '```'
+            echo "### Per-source counts"
+            echo '```'
+            grep -E 'events|FAILED' scrape.log || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
       - name: Commit updated data
         run: |
           git config user.name "kulturko-bot"

@@ -105,6 +105,10 @@ def parse_apify_items(items: list, src: dict) -> list[Event]:
     for it in items:
         if not isinstance(it, dict):
             continue
+        # actor marks off cancelled events (field name varies by version)
+        if any(it.get(k) for k in
+               ("isCanceled", "isCancelled", "canceled", "cancelled")):
+            continue
         title = str(_first(it, "name", "title", "eventName")).strip()
         start = _to_local(
             _first(it, "utcStartDate", "startTimestamp", "startDate",
