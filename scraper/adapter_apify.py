@@ -38,7 +38,7 @@ from __future__ import annotations
 import logging
 import os
 import time
-from datetime import datetime, timezone as _tzutc
+from datetime import datetime, timedelta, timezone as _tzutc
 from zoneinfo import ZoneInfo
 
 import requests
@@ -51,7 +51,11 @@ log = logging.getLogger("kulturko")
 APIFY_BASE = "https://api.apify.com/v2"
 DEFAULT_ACTOR = "apify~facebook-events-scraper"
 POLL_EVERY = 10          # seconds
-MAX_WAIT = 360           # give the headless browser up to 6 minutes
+# On Apify's free plan a run often sits QUEUED for minutes before it starts,
+# so a short cap abandons runs that would have succeeded (the run still
+# finishes on Apify's side, showing events there but none here). Wait
+# generously; override per source with `max_wait` if needed.
+MAX_WAIT = 1200          # up to 20 minutes (queue + headless browser)
 
 
 # --------------------------------------------------------------- parsing
@@ -176,8 +180,9 @@ def adapter_apify(src: dict) -> list[Event]:
                  json=run_input).json()["data"]
     run_id = run["id"]
 
+    max_wait = int(src.get("max_wait", MAX_WAIT))
     waited = 0
-    while waited < MAX_WAIT:
+    while waited < max_wait:
         time.sleep(POLL_EVERY)
         waited += POLL_EVERY
         run = _apify("GET", f"/actor-runs/{run_id}", token).json()["data"]
@@ -187,12 +192,22 @@ def adapter_apify(src: dict) -> list[Event]:
         if status in ("FAILED", "ABORTED", "TIMED-OUT"):
             raise RuntimeError(f"Apify run {status}")
     else:
-        raise RuntimeError(f"Apify run still not done after {MAX_WAIT}s")
+        raise RuntimeError(f"Apify run still {run.get('status')} after "
+                           f"{max_wait}s (raise max_wait; free-plan queue)")
 
     items = _apify("GET", f"/datasets/{run['defaultDatasetId']}/items",
                    token, params={"clean": "true"}).json()
-    log.info("  %-24s apify returned %d items", src["id"], len(items))
-    return parse_apify_items(items, src)
+    events = parse_apify_items(items, src)
+    # one diagnostic line per source: how many the actor returned, how many
+    # parsed, and how many are upcoming (the rest get dropped by main.py's
+    # date window). Distinguishes "actor found nothing" / "all past" /
+    # "parse mismatch" without digging through Apify.
+    now = datetime.now()
+    upcoming = sum(1 for e in events
+                   if (e.start_dt or now) >= now - timedelta(days=1))
+    log.info("  %-24s apify: %d items -> %d parsed, %d upcoming",
+             src["id"], len(items), len(events), upcoming)
+    return events
 
 
 # self-register so main.py only needs `from . import adapter_apify`
