@@ -267,15 +267,38 @@ sources:
       url: "a"
       date: "time"                      # "7. 7. 26–25. 8. 26"
 
-  # --- Facebook -------------------------------------------------------
-  # Facebook actively blocks scraping and requires a logged-in session
-  # or a Graph API token, so direct FB scraping is intentionally NOT
-  # part of the daily pipeline. Options:
-  #   1. Most FB-announced Maribor events surface via Kulturnik (above).
-  #   2. If you obtain a Facebook Graph API token with page access, set
-  #      FB_TOKEN as a GitHub secret and enable a source like this:
-  # - id: fb-page-example
-  #   name: Some venue (Facebook)
-  #   adapter: facebook_graph
-  #   page_id: "PAGE_ID_HERE"
-  #   enabled: false
+  # --- Facebook (via Apify) -------------------------------------------
+  # Facebook blocks anonymous scraping, so these run through the Apify
+  # Facebook Events Scraper (adapter "apify" in scraper/adapter_apify.py).
+  # Requires the APIFY_TOKEN repository secret. Keep max_events modest —
+  # the actor bills per result and one run per page happens daily.
+  # (The facebook_graph adapter also exists for pages you administer;
+  # it needs the FB_TOKEN secret and a page_id.)
+
+  - id: fb-stara-trta
+    name: Hiša Stare trte (Facebook)
+    adapter: apify
+    page_url: "https://www.facebook.com/WorldsOldestGrapevine/events"
+    venue: Hiša Stare trte
+    max_events: 15
+
+  - id: fb-postna-ulica
+    name: Poštna ulica (Facebook)
+    adapter: apify
+    page_url: "https://www.facebook.com/PostnaUlicaMB/events"
+    venue: Poštna ulica
+    max_events: 15
+
+  - id: fb-piaf
+    name: Piaf (Facebook)
+    adapter: apify
+    page_url: "https://www.facebook.com/piaf.maribor/events"
+    venue: Piaf
+    max_events: 15
+
+  - id: fb-luft
+    name: Luft (Facebook)
+    adapter: apify
+    page_url: "https://www.facebook.com/luftmaribor/events"
+    venue: Luft
+    max_events: 15

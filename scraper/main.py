@@ -17,6 +17,7 @@ from pathlib import Path
 import yaml
 
 from .adapters import run_source
+from . import adapter_apify  # noqa: F401 — registers the "apify" adapter
 from .categories import assign_categories
 from .dedupe import dedupe
 from .outputs import write_outputs

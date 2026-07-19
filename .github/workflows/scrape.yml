@@ -19,7 +19,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Run scraper
         env:
-          FB_TOKEN: ${{ secrets.FB_TOKEN }}   # optional
+          FB_TOKEN: ${{ secrets.FB_TOKEN }}       # optional — Graph API, only for pages you admin
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }} # Apify — Facebook pages via the apify adapter
         run: python -m scraper.main
       - name: Commit updated data
         run: |
