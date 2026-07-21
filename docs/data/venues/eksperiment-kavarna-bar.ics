@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Eksperiment Kavarna &#038\; Bar — dogodki
+X-WR-CALNAME:Eksperiment Kavarna & Bar — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:33f50bfd493c7ed4@kulturko
+UID:c31b1db6674a1ab8@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260801T210000
 DTEND;TZID=Europe/Ljubljana:20260801T210000
 SUMMARY:CRASH – WARMUP
-LOCATION:Eksperiment Kavarna &#038\; Bar
+LOCATION:Eksperiment Kavarna & Bar
 DESCRIPTION:⚡️ CRASH • WARM UP ⚡️\nThe countdown to CRASH begins.\nBefore the main explosion on 29.08.2026 in Hilversum\, Netherlands\, we gather in Maribor\, Slovenia — Neothrope’s birthplace — for a special warm-up session loaded with heavy bass pressure and underground energy.\n🔥 NEOTHROPE [GER]\n🔥 REDLINE\n🔥 AVEHO\n https://mladimaribor.si/dogodek/crash-warmup/
 URL:https://mladimaribor.si/dogodek/crash-warmup/
 END:VEVENT

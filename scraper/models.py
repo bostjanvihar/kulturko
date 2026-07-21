@@ -36,6 +36,18 @@ def norm_venue(venue: str) -> str:
         "lutkovno gledalisce maribor": "minoriti",
         "minoritska cerkev": "minoriti",
         "stuk stajerski tednik": "stuk",
+        # same venue, different labels across feeds/ACF fields (often a
+        # differently-cased Slovene noun form the substring check misses)
+        "kgb maribor kulturno glasbeni brlog": "klub kgb",
+        "vetrinjc barcoda": "vetrinjski dvor",
+        "glasbeni paviljon": "mestni park",
+        "paviljon mestnega parka": "mestni park",
+        "viteska dvorana pokrajinskega muzeja maribor": "pokrajinski muzej maribor",
+        "vinagova klet": "vinag vinoteka v maribor",
+        "minoritska cerkev marijinega vnebovzetja s samostanom": "minoriti",
+        "oder pod hrastom kulturna cetrt minoriti": "minoriti pod hrastom",
+        "pod hrastom": "minoriti pod hrastom",
+        "lutkovno gledalisce maribor avditorij": "minoriti",
     }
     v = " ".join(v.split())
     return aliases.get(v, v)

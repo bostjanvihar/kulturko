@@ -5,15 +5,6 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c68ee2257d99aac3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T100000
-DTEND;TZID=Europe/Ljubljana:20260814T120000
-SUMMARY:37. Poletni lutkovni pristan
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/poletni-lutkovni-pristan/
-URL:https://www.lg-mb.si/poletni-lutkovni-pristan/
-END:VEVENT
-BEGIN:VEVENT
 UID:7531c96e59cc49fa@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T170000
 DTEND;TZID=Europe/Ljubljana:20260814T190000

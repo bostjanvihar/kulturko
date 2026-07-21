@@ -5,7 +5,7 @@ X-WR-CALNAME:Glasbeni paviljon — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ad52ce66ddd8bfbd@kulturko
+UID:4c204dd607a48155@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260719T103000
 DTEND;TZID=Europe/Ljubljana:20260719T123000
 SUMMARY:Vokalna skupina Uriele
@@ -14,7 +14,7 @@ DESCRIPTION:Vokalna skupina Uriele je nastala leta 2019\, ko so tri mlade pevke 
 URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8f4a2f8f7f1ab80@kulturko
+UID:6d26cac81646652f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260726T103000
 DTEND;TZID=Europe/Ljubljana:20260726T123000
 SUMMARY:Glasbeni duet  Teja Letonja Hajšek in Marko Zaletelj

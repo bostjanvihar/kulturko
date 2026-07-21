@@ -5,7 +5,7 @@ X-WR-CALNAME:oder Pod hrastom\, Kulturna četrt Minoriti — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:fd632a08ac53b161@kulturko
+UID:825533c481dcf530@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260715T190000
 DTEND;TZID=Europe/Ljubljana:20260715T190000
 SUMMARY:Filmska trivia s Filmologijo Vol.3
@@ -14,7 +14,7 @@ DESCRIPTION: Si ljubitelj ali ljubiteljica filmov? Obožuješ kvize?\nV sredo\, 
 URL:https://mladimaribor.si/dogodek/filmska-trivia-s-filmologijo-vol-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b6fef823514def0@kulturko
+UID:aa697070c120d935@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260731T210000
 DTEND;TZID=Europe/Ljubljana:20260731T210000
 SUMMARY:Poletje v Minoritih: Tetkine Radosti

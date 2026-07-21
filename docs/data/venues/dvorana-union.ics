@@ -14,15 +14,6 @@ DESCRIPTION:Otvoritveni koncert \n\nAntonio Vivaldi: Cum dederit iz uglasbitve
 URL:https://nd-mb.si/dogodek/flirt/
 END:VEVENT
 BEGIN:VEVENT
-UID:05116618576bd8d9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T193000
-DTEND;TZID=Europe/Ljubljana:20260915T213000
-SUMMARY:ND MB: Flirt
-LOCATION:Dvorana Union
-DESCRIPTION: https://nd-mb.si/dogodek/flirt/
-URL:https://nd-mb.si/dogodek/flirt/
-END:VEVENT
-BEGIN:VEVENT
 UID:e2e0e132360ed9bf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260922T100000
 DTEND;TZID=Europe/Ljubljana:20260922T120000
@@ -50,30 +41,12 @@ DESCRIPTION:1. koncert Komornega cikla 2026/2027 \n\n \n\n  Jonian Ilias Kad
 URL:https://nd-mb.si/dogodek/trio-gaspard/
 END:VEVENT
 BEGIN:VEVENT
-UID:dead5551684dd356@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T193000
-DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:ND MB: Viharna trojica
-LOCATION:Dvorana Union
-DESCRIPTION: https://nd-mb.si/dogodek/viharna-trojica/
-URL:https://nd-mb.si/dogodek/viharna-trojica/
-END:VEVENT
-BEGIN:VEVENT
 UID:0cf3cefa6f07ce41@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260927T193000
 DTEND;TZID=Europe/Ljubljana:20260927T213000
 SUMMARY:Romantični derbi
 LOCATION:Dvorana Union
 DESCRIPTION:Peter Iljič Čajkovski:\n»Kuda\, kuda\, kuda vi udalilis«\, arija Lenskega iz opere  Jevgenij Onjegin  (prir. Steven Loy)\n Serenada za godalni orkester v C-duru\, op. 4\n ***\nDonato Lovreglio:  Fantazija na Verdijevo opero Traviata \,  op. 45 \, za klarinet in orkester\nGiacomo Puccini:  Krizantema\n Ven https://nd-mb.si/dogodek/romanticni-derbi/
-URL:https://nd-mb.si/dogodek/romanticni-derbi/
-END:VEVENT
-BEGIN:VEVENT
-UID:92f19c0d0bafbd8b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260927T193000
-DTEND;TZID=Europe/Ljubljana:20260927T213000
-SUMMARY:ND MB: Romantični derbi
-LOCATION:Dvorana Union
-DESCRIPTION: https://nd-mb.si/dogodek/romanticni-derbi/
 URL:https://nd-mb.si/dogodek/romanticni-derbi/
 END:VEVENT
 BEGIN:VEVENT

@@ -194,7 +194,8 @@ def adapter_tribe(src: dict) -> list[Event]:
                 dt = datetime.fromisoformat(start)
             except ValueError:
                 continue
-            venue = (e.get("venue") or {}).get("venue", "") or src.get("venue", "")
+            venue = BeautifulSoup((e.get("venue") or {}).get("venue", ""),
+                                  "lxml").get_text() or src.get("venue", "")
             img = (e.get("image") or {})
             events.append(Event(
                 title=BeautifulSoup(e.get("title", ""), "lxml").get_text(),

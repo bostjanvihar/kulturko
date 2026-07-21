@@ -5,15 +5,6 @@ X-WR-CALNAME:Minoriti — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:bbe1d6db1f32da46@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T200000
-DTEND;TZID=Europe/Ljubljana:20260717T220000
-SUMMARY:Koala Voice
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-koala-voice
-END:VEVENT
-BEGIN:VEVENT
 UID:0fac184266683806@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260722T200000
 DTEND;TZID=Europe/Ljubljana:20260722T220000

@@ -9,11 +9,24 @@ When merging, the richer record wins field-by-field and every source link
 is preserved in `all_sources`.
 """
 from __future__ import annotations
+import re
 from difflib import SequenceMatcher
 
 from .models import Event, norm_title, norm_venue
 
 FUZZY = 0.85
+
+# Some aggregators prepend a venue/series label to the title (Kulturnik
+# prefixes Narodni dom events with "ND MB: ", Minoriti's summer program
+# with "Poletje v Minoritih: "), which drops the fuzzy-match ratio below
+# threshold against the same event from a source that doesn't. Stripped
+# only for this comparison — norm_title() (which feeds the event id and
+# ICS UID) is untouched, so ids/subscriptions aren't affected.
+_LABEL_PREFIX_RE = re.compile(r"^(nd mb|poletje v minoritih)\s*:\s*", re.I)
+
+
+def _fuzzy_title(title: str) -> str:
+    return norm_title(_LABEL_PREFIX_RE.sub("", title))
 
 
 def _venues_compatible(a: str, b: str) -> bool:
@@ -55,11 +68,11 @@ def dedupe(events: list[Event]) -> list[Event]:
             _merge(by_exact[exact_key], e)
             continue
         dup_of = None
-        nt = norm_title(e.title)
+        nt = _fuzzy_title(e.title)
         for other in by_day.get(day, []):
             if not _venues_compatible(e.venue, other.venue):
                 continue
-            if SequenceMatcher(None, nt, norm_title(other.title)).ratio() >= FUZZY:
+            if SequenceMatcher(None, nt, _fuzzy_title(other.title)).ratio() >= FUZZY:
                 dup_of = other
                 break
         if dup_of:

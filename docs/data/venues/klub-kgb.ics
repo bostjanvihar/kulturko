@@ -32,15 +32,6 @@ DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 END:VEVENT
 BEGIN:VEVENT
-UID:c2662dfd1db4a233@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T190000
-DTEND;TZID=Europe/Ljubljana:20260919T210000
-SUMMARY:Kameleonski poljub
-LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/kameleonski-poljub
-URL:https://klub-kgb.si/dogodki/2026/sep/kameleonski-poljub
-END:VEVENT
-BEGIN:VEVENT
 UID:330d68098c488bba@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261003T190000
 DTEND;TZID=Europe/Ljubljana:20261003T210000

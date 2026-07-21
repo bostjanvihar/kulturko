@@ -50,13 +50,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43495-letni-kino-minoriti-grda-polsestra-den-stygge-stes-steren
 END:VEVENT
 BEGIN:VEVENT
-UID:7583f44ae209cb5b@kulturko
+UID:19a7f14e237a8740@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T200000
 DTEND;TZID=Europe/Ljubljana:20260814T220000
 SUMMARY:Poletje v Minoritih: Rambo Amadeus
 LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43490-poletje-v-minoritih-rambo-amadeus
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43490-poletje-v-minoritih-rambo-amadeus
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
 END:VEVENT
 BEGIN:VEVENT
 UID:c91a362da8b6556c@kulturko

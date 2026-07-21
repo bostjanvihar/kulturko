@@ -1,16 +1,61 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vetrinjski dvor — dogodki
+X-WR-CALNAME:Vetrinjski Dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9692fb7fc44852c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260718T203000
-DTEND;TZID=Europe/Ljubljana:20260718T223000
-SUMMARY:NIRVANA SI Tribute Band v Vetrinjcu
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Cilj novonastale zasedbe je obuditi pravega duha in energijo skupine NIRVANA\, ki je v devetdesetih letih prejšnjega stoletja postavila velik mejnik v svetovni glasbi in uvedla nov žanr "GRUNGE".\n\n Peter Hudnik  (FrozenchilD\, RVR RIVER\, EX KiNG FOO...) in  Matic Ajdič  (San Di Ego\, Billysi...) sta  https://nd-mb.si/dogodek/nirvana-si-tribute-band-v-vetrinjcu-2/
-URL:https://nd-mb.si/dogodek/nirvana-si-tribute-band-v-vetrinjcu-2/
+UID:0e5ad5ad84688f18@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260722T073000
+DTEND;TZID=Europe/Ljubljana:20260722T093000
+SUMMARY:Ustvarjalno varstvo na MARSu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Veseli smo\, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru\, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z namenom lažjega usklajevanja poklicnega in družinskega življenja 2026«\, ki ga financira Ministrstvo z https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+URL:https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0187e75de7c61f6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260725T160000
+DTEND;TZID=Europe/Ljubljana:20260725T180000
+SUMMARY:House Jungle
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Poletno popoldne\, dobra družba in ritmi\, ki te ne pustijo pri miru. Začnemo ob 16:00 na letni terasi Vetrinjskega dvora!   \n  \n  \n   Line up in več informacij kmalu. \n  \n Unique funky beat\, that makes you move your feet! https://nd-mb.si/dogodek/house-jungle/
+URL:https://nd-mb.si/dogodek/house-jungle/
+END:VEVENT
+BEGIN:VEVENT
+UID:522d0a08f365fbc1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260727T180000
+DTEND;TZID=Europe/Ljubljana:20260727T200000
+SUMMARY:Participativno gledališče kot orodje družbenih sprememb
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Preden zbežimo na zaslužene počitnice in odklop\, vabljene in vabljeni na julijski ZIZ dogodek\, kjer bomo govorile o participativnem gledališču kot orodju družbenih sprememb.\n\nZIZ že od samega začetka delovanja leta 2013 ustvarja predstave in raziskuje različne forme participativnega gledališča. V  https://nd-mb.si/dogodek/participativno-gledalisce-kot-orodje-druzbenih-sprememb/
+URL:https://nd-mb.si/dogodek/participativno-gledalisce-kot-orodje-druzbenih-sprememb/
+END:VEVENT
+BEGIN:VEVENT
+UID:31d86e657781bc48@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260730T200000
+DTEND;TZID=Europe/Ljubljana:20260730T220000
+SUMMARY:Poletne karaoke v Vetrinjcu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Vetrinjc ekipa gre na počitnice! Med 1. in 16. avgustom bomo vsi pogrešali najboljši plac v mestu. Da bo slovo lažje\, na predzadnji večer\, legendarne karaoke\, poletna izvedba pod zvezdami z MC Mihom! To je tradicionalno en boljših žurov poletja in tako bo seveda tudi letos! https://nd-mb.si/dogodek/poletne-karaoke-v-vetrinjcu/
+URL:https://nd-mb.si/dogodek/poletne-karaoke-v-vetrinjcu/
+END:VEVENT
+BEGIN:VEVENT
+UID:1622c0574af3494f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260731T203000
+DTEND;TZID=Europe/Ljubljana:20260731T223000
+SUMMARY:Kaja Mikša & Julijan v Vetrinjcu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Kaja  in  Julijan \, nadobudna glasbenika iz okolice Maribora\, ki svojo skupno pot šele začenjata\, sta polna navdiha in želje po ustvarjanju. Njun akustični repertoar je sestavljen iz različnih priredb pop\, rock in jazz glasbe. V repertoarju različnih priredb pa se najde tudi kakšen avtorski komad\, k https://nd-mb.si/dogodek/kaja-miksa-julijan-v-vetrinjcu/
+URL:https://nd-mb.si/dogodek/kaja-miksa-julijan-v-vetrinjcu/
+END:VEVENT
+BEGIN:VEVENT
+UID:2be6322a927ef757@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260813T190000
+DTEND;TZID=Europe/Ljubljana:20260813T210000
+SUMMARY:Tango Orquesta Piazzolleky + milonga v Vetrinjcu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Čaka nas čaroben večer z edinim tango orkestrom v tem delu Evrope\, pridružili pa se bodo tudi ljubitelji tango plesa.\n\nNastopi Piazzollekov so vedno več kot koncert – so čustvena in energijska izkušnja\, kjer virtuoznost sreča strast\, preciznost pa ne izgubi čutnosti. Njihova glasba občinstvo prevz https://nd-mb.si/dogodek/tango-orquesta-piazzolleky-milonga-v-vetrinjcu/
+URL:https://nd-mb.si/dogodek/tango-orquesta-piazzolleky-milonga-v-vetrinjcu/
 END:VEVENT
 END:VCALENDAR
