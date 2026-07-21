@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Don Boskov Center Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:5153cc670d6ff8fe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260721T080000
-DTEND;TZID=Europe/Ljubljana:20260723T133000
-SUMMARY:Robotika in umetna inteligenca (za fante in dekleta)
-LOCATION:Don Boskov Center Maribor
-DESCRIPTION:BREZPLAČNE POČITNIŠKE  DELAVNICE V DON BOSKU MARIBOR\nRobotika in umetna inteligenca (za fante in dekleta)\n21.7.2026 do 23.7.2026\nod 8.00 do 13.30\nod 6 do 15 let\nOtroci bodo skozi delavnice spoznavali različna področja ustvarjanja in tehnologije. Pomemben del programa bo namenjen robotiki in programi https://mladimaribor.si/dogodek/robotika-in-umetna-inteligenca-za-fante-in-dekleta/
-URL:https://mladimaribor.si/dogodek/robotika-in-umetna-inteligenca-za-fante-in-dekleta/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Don Boskov Center Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5153cc670d6ff8fe@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260721T080000
+DTEND;TZID=Europe/Ljubljana:20260723T133000
+SUMMARY:Robotika in umetna inteligenca (za fante in dekleta)
+LOCATION:Don Boskov Center Maribor
+DESCRIPTION:BREZPLAČNE POČITNIŠKE  DELAVNICE V DON BOSKU MARIBOR\nRobotika in umetna inteligenca (za fante in dekleta)\n21.7.2026 do 23.7.2026\nod 8.00 do 13.30\nod 6 do 15 let\nOtroci bodo skozi delavnice spoznavali različna področja ustvarjanja in tehnologije. Pomemben del programa bo namenjen robotiki in programi https://mladimaribor.si/dogodek/robotika-in-umetna-inteligenca-za-fante-in-dekleta/
+URL:https://mladimaribor.si/dogodek/robotika-in-umetna-inteligenca-za-fante-in-dekleta/
+END:VEVENT
+END:VCALENDAR

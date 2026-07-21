@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Umetnostna galerija Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:7a2f634177efe3f0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260921T193000
-DTEND;TZID=Europe/Ljubljana:20260921T213000
-SUMMARY:Usodna privlačnost
-LOCATION:Umetnostna galerija Maribor
-DESCRIPTION:Leoš Janáček:  Godalni kvartet št. 1\,   »Kreutzerjeva sonata«\n ***\nLeoš Janáček:  Godalni kvartet št. 2\, »Intimna pisma« \n\n&nbsp\;\n\n»Stisnil sem te k sebi. Vsaj v svojih mislih.«*\n\nNajusodnejše ljubezni so tiste\, ki ostanejo neizpolnjene. Pustijo hrepenenje – sled\, močnejšo od spomina. Hrepen https://nd-mb.si/dogodek/usodna-privlacnost/
-URL:https://nd-mb.si/dogodek/usodna-privlacnost/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Umetnostna galerija Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:7a2f634177efe3f0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260921T193000
+DTEND;TZID=Europe/Ljubljana:20260921T213000
+SUMMARY:Usodna privlačnost
+LOCATION:Umetnostna galerija Maribor
+DESCRIPTION:Leoš Janáček:  Godalni kvartet št. 1\,   »Kreutzerjeva sonata«\n ***\nLeoš Janáček:  Godalni kvartet št. 2\, »Intimna pisma« \n\n&nbsp\;\n\n»Stisnil sem te k sebi. Vsaj v svojih mislih.«*\n\nNajusodnejše ljubezni so tiste\, ki ostanejo neizpolnjene. Pustijo hrepenenje – sled\, močnejšo od spomina. Hrepen https://nd-mb.si/dogodek/usodna-privlacnost/
+URL:https://nd-mb.si/dogodek/usodna-privlacnost/
+END:VEVENT
+END:VCALENDAR

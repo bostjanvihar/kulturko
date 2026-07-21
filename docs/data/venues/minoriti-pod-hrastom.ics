@@ -1,52 +1,52 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Minoriti pod hrastom — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:cf613186b1ee9414@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260716T200000
-DTEND;TZID=Europe/Ljubljana:20260716T220000
-SUMMARY:Poletje v Minoritih: Regi Kvak
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
-END:VEVENT
-BEGIN:VEVENT
-UID:0338de86d4874c8f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260723T200000
-DTEND;TZID=Europe/Ljubljana:20260723T220000
-SUMMARY:Poletje v Minoritih: Trio 울림 (Oollim)
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
-END:VEVENT
-BEGIN:VEVENT
-UID:a8a9f298ba3bd8e6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260730T200000
-DTEND;TZID=Europe/Ljubljana:20260730T220000
-SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.facebook.com/events/1401391262007620/
-URL:https://www.facebook.com/events/1401391262007620/
-END:VEVENT
-BEGIN:VEVENT
-UID:aa697070c120d935@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260731T200000
-DTEND;TZID=Europe/Ljubljana:20260731T220000
-SUMMARY:Poletje v Minoritih: Tetkine radosti
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/tetkine-radosti
-URL:https://www.minoriti.si/dogodki/tetkine-radosti
-END:VEVENT
-BEGIN:VEVENT
-UID:d752c50220111523@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260820T200000
-DTEND;TZID=Europe/Ljubljana:20260820T220000
-SUMMARY:Poletje v Minoritih: Adi Smolar
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.facebook.com/events/1465906888554743/
-URL:https://www.facebook.com/events/1465906888554743/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoriti pod hrastom — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cf613186b1ee9414@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260716T200000
+DTEND;TZID=Europe/Ljubljana:20260716T220000
+SUMMARY:Poletje v Minoritih: Regi Kvak
+LOCATION:Minoriti pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-regi-kvak
+END:VEVENT
+BEGIN:VEVENT
+UID:0338de86d4874c8f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260723T200000
+DTEND;TZID=Europe/Ljubljana:20260723T220000
+SUMMARY:Poletje v Minoritih: Trio 울림 (Oollim)
+LOCATION:Minoriti pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-oollim-trio
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a9f298ba3bd8e6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260730T200000
+DTEND;TZID=Europe/Ljubljana:20260730T220000
+SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
+LOCATION:Minoriti pod hrastom
+DESCRIPTION: https://www.facebook.com/events/1401391262007620/
+URL:https://www.facebook.com/events/1401391262007620/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa697070c120d935@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260731T200000
+DTEND;TZID=Europe/Ljubljana:20260731T220000
+SUMMARY:Poletje v Minoritih: Tetkine radosti
+LOCATION:Minoriti pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/tetkine-radosti
+URL:https://www.minoriti.si/dogodki/tetkine-radosti
+END:VEVENT
+BEGIN:VEVENT
+UID:d752c50220111523@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T200000
+DTEND;TZID=Europe/Ljubljana:20260820T220000
+SUMMARY:Poletje v Minoritih: Adi Smolar
+LOCATION:Minoriti pod hrastom
+DESCRIPTION: https://www.facebook.com/events/1465906888554743/
+URL:https://www.facebook.com/events/1465906888554743/
+END:VEVENT
+END:VCALENDAR

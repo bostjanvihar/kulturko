@@ -1,106 +1,106 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:ŠTUK — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:fa918fc357b3e3e8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T190000
-DTEND;TZID=Europe/Ljubljana:20260919T210000
-SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
-LOCATION:ŠTUK
-DESCRIPTION:📍 Lokacija: ŠTUK\, Maribor 📅 Datum: 19. 9. 2026 🕘 Za č etek programa: 21.00 Glasbena sinergija dveh svetov Ko se na istem odru srečata rock in rap\, nastane večer\, ki ga preprosto ne smeš zamuditi. Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že deset https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
-URL:https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
-END:VEVENT
-BEGIN:VEVENT
-UID:c2e0196e63b15fa6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261021T190000
-DTEND;TZID=Europe/Ljubljana:20261021T210000
-SUMMARY:Hushhush Boiler room edition night
-LOCATION:ŠTUK
-DESCRIPTION:KAJ: Brucovanje s Kingstoni | ŠS FKKT\, FGPA\, FS\, ŠSSŠD KDAJ: torek\, 21. oktober\, 22.00 Študenti\, mi smo ready! V torek\, 21. oktobra vas vabimo na brucovanje 3 fakultet (ŠS FGPA\, FS\, FKKT) in ŠSSŠD Vabljeni ste seveda vsi študenti\, žurali pa ga bomo na našem ŠTUK-u! Z nami bo do jutra žurala skupina  https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
-URL:https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
-END:VEVENT
-BEGIN:VEVENT
-UID:0925de500ed1692a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261104T190000
-DTEND;TZID=Europe/Ljubljana:20261104T210000
-SUMMARY:Ftrgatev 2025 || RANR\, MRFY\, MODRIJANI
-LOCATION:ŠTUK
-DESCRIPTION:Trk dveh svetov. En oder. Ena noč. En svet diši po domačem\, drugi brni z elektriko. A oba utripata v istem ritmu – ritmu (z)mešane Ftrgatve. To je kraj\, kjer je »mešano« kompliment\, in »zmešano« stanje\, v katerem si res ti. Kjer se polarnosti ne bojiš – ampak jo praznuješ. Rezerviraj si 4. november  https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
-URL:https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
-END:VEVENT
-BEGIN:VEVENT
-UID:97703e333cc74818@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T190000
-DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:FREE PIZZA
-LOCATION:ŠTUK
-DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-pica/
-URL:https://vstopnice.stuk.org/izdelek/free-pica/
-END:VEVENT
-BEGIN:VEVENT
-UID:99307a6b0b90984b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T190000
-DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:FREE DRINK
-LOCATION:ŠTUK
-DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-drink/
-URL:https://vstopnice.stuk.org/izdelek/free-drink/
-END:VEVENT
-BEGIN:VEVENT
-UID:14848e6b7ff2de53@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T190000
-DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:LITER – LITER
-LOCATION:ŠTUK
-DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/liter-liter/
-URL:https://vstopnice.stuk.org/izdelek/liter-liter/
-END:VEVENT
-BEGIN:VEVENT
-UID:1089986af7d1b9ab@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T190000
-DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:FREE PITCHER
-LOCATION:ŠTUK
-DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-pitcher/
-URL:https://vstopnice.stuk.org/izdelek/free-pitcher/
-END:VEVENT
-BEGIN:VEVENT
-UID:d9803ccbb06e0a2c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T190000
-DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:aFTeR/sk8 contest/electric beats 2025 || LEKKER\, ROTOR MOTOR\, LEANNE
-LOCATION:ŠTUK
-DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/after-sk8-contest-electric-beats-2025-fgdghgfsdgfsdfgsgfs/
-URL:https://vstopnice.stuk.org/izdelek/after-sk8-contest-electric-beats-2025-fgdghgfsdgfsdfgsgfs/
-END:VEVENT
-BEGIN:VEVENT
-UID:db61f36ee2373408@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T190000
-DTEND;TZID=Europe/Ljubljana:20261111T210000
-SUMMARY:Študentsko martinovanje || Dejan Vunjak & Brendijeve barabeì
-LOCATION:ŠTUK
-DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​Pripravljeni na nepozabno študentsko martinovanje na Štuku?🍷 Največji štajerski praznik se vrača na Štuk! Za pravo martinovo vzdušje bo poskrbela skupina Dejan Vunjak & Brendijeve barabe. Zabava\, ples in dobra družba – vse kar potrebujet https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
-URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
-END:VEVENT
-BEGIN:VEVENT
-UID:618666af8c25252b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261226T190000
-DTEND;TZID=Europe/Ljubljana:20261226T210000
-SUMMARY:Hushhush || Xmas edition
-LOCATION:ŠTUK
-DESCRIPTION:New event is officially here! Friday\, 26.12.! Another massive lineup incoming with @_boery_ and @_sorenga_ leading the charge as headliners! @smilemusicc returns to @stuk_klub\, and @dnox.techno joins us for the very first time! Tickets are now available on website ! Don’t wait! https://vstopnice.stuk.org/izdelek/sdfgsagdscvadfs/
-URL:https://vstopnice.stuk.org/izdelek/sdfgsagdscvadfs/
-END:VEVENT
-BEGIN:VEVENT
-UID:01b2cf06cc9677f2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270217T190000
-DTEND;TZID=Europe/Ljubljana:20270217T210000
-SUMMARY:PUSTOVANJE x KURENTANC || Ines Erbus
-LOCATION:ŠTUK
-DESCRIPTION:📅 torek\, 17. februar 🎉 PUSTOVANJE x KURENTANC 🎉 Izpitno obdobje je skoraj pri koncu! Za vse tiste\, ki ste izpite že opravili in tiste\, ki ste se od njih uspešno odjavili\, pripravljamo najbolj odbito pustno zabavo\, ki bo v torek\, 17. februarja\, na ŠTUK-u! Letos bo še posebej pestro\, saj sodelujemo s  https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
-URL:https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:ŠTUK — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fa918fc357b3e3e8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T190000
+DTEND;TZID=Europe/Ljubljana:20260919T210000
+SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
+LOCATION:ŠTUK
+DESCRIPTION:📍 Lokacija: ŠTUK\, Maribor 📅 Datum: 19. 9. 2026 🕘 Za č etek programa: 21.00 Glasbena sinergija dveh svetov Ko se na istem odru srečata rock in rap\, nastane večer\, ki ga preprosto ne smeš zamuditi. Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že deset https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
+URL:https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e0196e63b15fa6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T190000
+DTEND;TZID=Europe/Ljubljana:20261021T210000
+SUMMARY:Hushhush Boiler room edition night
+LOCATION:ŠTUK
+DESCRIPTION:KAJ: Brucovanje s Kingstoni | ŠS FKKT\, FGPA\, FS\, ŠSSŠD KDAJ: torek\, 21. oktober\, 22.00 Študenti\, mi smo ready! V torek\, 21. oktobra vas vabimo na brucovanje 3 fakultet (ŠS FGPA\, FS\, FKKT) in ŠSSŠD Vabljeni ste seveda vsi študenti\, žurali pa ga bomo na našem ŠTUK-u! Z nami bo do jutra žurala skupina  https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
+URL:https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:0925de500ed1692a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T190000
+DTEND;TZID=Europe/Ljubljana:20261104T210000
+SUMMARY:Ftrgatev 2025 || RANR\, MRFY\, MODRIJANI
+LOCATION:ŠTUK
+DESCRIPTION:Trk dveh svetov. En oder. Ena noč. En svet diši po domačem\, drugi brni z elektriko. A oba utripata v istem ritmu – ritmu (z)mešane Ftrgatve. To je kraj\, kjer je »mešano« kompliment\, in »zmešano« stanje\, v katerem si res ti. Kjer se polarnosti ne bojiš – ampak jo praznuješ. Rezerviraj si 4. november  https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
+URL:https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
+END:VEVENT
+BEGIN:VEVENT
+UID:97703e333cc74818@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T190000
+DTEND;TZID=Europe/Ljubljana:20261108T210000
+SUMMARY:FREE PIZZA
+LOCATION:ŠTUK
+DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-pica/
+URL:https://vstopnice.stuk.org/izdelek/free-pica/
+END:VEVENT
+BEGIN:VEVENT
+UID:99307a6b0b90984b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T190000
+DTEND;TZID=Europe/Ljubljana:20261108T210000
+SUMMARY:FREE DRINK
+LOCATION:ŠTUK
+DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-drink/
+URL:https://vstopnice.stuk.org/izdelek/free-drink/
+END:VEVENT
+BEGIN:VEVENT
+UID:14848e6b7ff2de53@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T190000
+DTEND;TZID=Europe/Ljubljana:20261108T210000
+SUMMARY:LITER – LITER
+LOCATION:ŠTUK
+DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/liter-liter/
+URL:https://vstopnice.stuk.org/izdelek/liter-liter/
+END:VEVENT
+BEGIN:VEVENT
+UID:1089986af7d1b9ab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T190000
+DTEND;TZID=Europe/Ljubljana:20261108T210000
+SUMMARY:FREE PITCHER
+LOCATION:ŠTUK
+DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/free-pitcher/
+URL:https://vstopnice.stuk.org/izdelek/free-pitcher/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9803ccbb06e0a2c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T190000
+DTEND;TZID=Europe/Ljubljana:20261108T210000
+SUMMARY:aFTeR/sk8 contest/electric beats 2025 || LEKKER\, ROTOR MOTOR\, LEANNE
+LOCATION:ŠTUK
+DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/after-sk8-contest-electric-beats-2025-fgdghgfsdgfsdfgsgfs/
+URL:https://vstopnice.stuk.org/izdelek/after-sk8-contest-electric-beats-2025-fgdghgfsdgfsdfgsgfs/
+END:VEVENT
+BEGIN:VEVENT
+UID:db61f36ee2373408@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T190000
+DTEND;TZID=Europe/Ljubljana:20261111T210000
+SUMMARY:Študentsko martinovanje || Dejan Vunjak & Brendijeve barabeì
+LOCATION:ŠTUK
+DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​Pripravljeni na nepozabno študentsko martinovanje na Štuku?🍷 Največji štajerski praznik se vrača na Štuk! Za pravo martinovo vzdušje bo poskrbela skupina Dejan Vunjak & Brendijeve barabe. Zabava\, ples in dobra družba – vse kar potrebujet https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
+URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
+END:VEVENT
+BEGIN:VEVENT
+UID:618666af8c25252b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261226T190000
+DTEND;TZID=Europe/Ljubljana:20261226T210000
+SUMMARY:Hushhush || Xmas edition
+LOCATION:ŠTUK
+DESCRIPTION:New event is officially here! Friday\, 26.12.! Another massive lineup incoming with @_boery_ and @_sorenga_ leading the charge as headliners! @smilemusicc returns to @stuk_klub\, and @dnox.techno joins us for the very first time! Tickets are now available on website ! Don’t wait! https://vstopnice.stuk.org/izdelek/sdfgsagdscvadfs/
+URL:https://vstopnice.stuk.org/izdelek/sdfgsagdscvadfs/
+END:VEVENT
+BEGIN:VEVENT
+UID:01b2cf06cc9677f2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270217T190000
+DTEND;TZID=Europe/Ljubljana:20270217T210000
+SUMMARY:PUSTOVANJE x KURENTANC || Ines Erbus
+LOCATION:ŠTUK
+DESCRIPTION:📅 torek\, 17. februar 🎉 PUSTOVANJE x KURENTANC 🎉 Izpitno obdobje je skoraj pri koncu! Za vse tiste\, ki ste izpite že opravili in tiste\, ki ste se od njih uspešno odjavili\, pripravljamo najbolj odbito pustno zabavo\, ki bo v torek\, 17. februarja\, na ŠTUK-u! Letos bo še posebej pestro\, saj sodelujemo s  https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
+URL:https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
+END:VEVENT
+END:VCALENDAR

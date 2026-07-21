@@ -1,25 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Kazinska dvorana Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:07d362e89cfb2bed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:1. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
-URL:https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
-END:VEVENT
-BEGIN:VEVENT
-UID:b08d91dc51abb98c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T193000
-DTEND;TZID=Europe/Ljubljana:20261111T213000
-SUMMARY:2. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
-URL:https://sngmb.mojekarte.si/si/2-koncert-cikla-carpe-artem/vstopnice-1213609.html
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kazinska dvorana Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:07d362e89cfb2bed@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:1. koncert cikla Carpe artem
+LOCATION:Kazinska dvorana Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
+URL:https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
+END:VEVENT
+END:VCALENDAR

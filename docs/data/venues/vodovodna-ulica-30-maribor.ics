@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vodovodna ulica 30\, Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:337d4cfbe812dab0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260721T080000
-DTEND;TZID=Europe/Ljubljana:20260721T170000
-SUMMARY:POLETNI TABOR Povezani v vrednotah\, športu in umetnosti
-LOCATION:Vodovodna ulica 30\, Maribor
-DESCRIPTION:Za otroke (5 do 15 let) smo pripravili tridnevni tabor (brez nočitev)\, kjer se bodo družili\, se marsičesa naučili in sklepali prijateljstva. Naši trenerji in učitelji jih bodo vodili skozi zelo zanimive igre in delavnice\, v katerih bodo vaši otroci športno aktivni po svojih zmožnostih\, v katerih bod https://mladimaribor.si/dogodek/poletni-tabor-povezani-v-vrednotah-sportu-in-umetnosti/
-URL:https://mladimaribor.si/dogodek/poletni-tabor-povezani-v-vrednotah-sportu-in-umetnosti/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vodovodna ulica 30\, Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:337d4cfbe812dab0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260721T080000
+DTEND;TZID=Europe/Ljubljana:20260721T170000
+SUMMARY:POLETNI TABOR Povezani v vrednotah\, športu in umetnosti
+LOCATION:Vodovodna ulica 30\, Maribor
+DESCRIPTION:Za otroke (5 do 15 let) smo pripravili tridnevni tabor (brez nočitev)\, kjer se bodo družili\, se marsičesa naučili in sklepali prijateljstva. Naši trenerji in učitelji jih bodo vodili skozi zelo zanimive igre in delavnice\, v katerih bodo vaši otroci športno aktivni po svojih zmožnostih\, v katerih bod https://mladimaribor.si/dogodek/poletni-tabor-povezani-v-vrednotah-sportu-in-umetnosti/
+URL:https://mladimaribor.si/dogodek/poletni-tabor-povezani-v-vrednotah-sportu-in-umetnosti/
+END:VEVENT
+END:VCALENDAR

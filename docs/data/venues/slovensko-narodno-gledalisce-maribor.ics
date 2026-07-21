@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Slovensko narodno gledališče Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:bb161e787ab3e863@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:Muza in pesnik
-LOCATION:Slovensko narodno gledališče Maribor
-DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert Simfoničnega cikla SNG Maribor 2026/2027 \n\nLucijan Marija Škerjanc:  Svečana uvertura  za orkester\nCamille Saint-Saëns:  Muza in pesnik\, op. 132 \, za violino\, violončelo in orkester\n(Maria Ioudenitch\, violina\, Tim Posner\, violončelo)\n***\nMax Bruch:  https://nd-mb.si/dogodek/muza-in-pesnik/
-URL:https://nd-mb.si/dogodek/muza-in-pesnik/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Slovensko narodno gledališče Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bb161e787ab3e863@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:Muza in pesnik
+LOCATION:Slovensko narodno gledališče Maribor
+DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert Simfoničnega cikla SNG Maribor 2026/2027 \n\nLucijan Marija Škerjanc:  Svečana uvertura  za orkester\nCamille Saint-Saëns:  Muza in pesnik\, op. 132 \, za violino\, violončelo in orkester\n(Maria Ioudenitch\, violina\, Tim Posner\, violončelo)\n***\nMax Bruch:  https://nd-mb.si/dogodek/muza-in-pesnik/
+URL:https://nd-mb.si/dogodek/muza-in-pesnik/
+END:VEVENT
+END:VCALENDAR

@@ -1,25 +1,25 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Minoriti &#8211\; Avditorij LGM — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:c7ff5ebc17d69099@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260718T210000
-DTEND;TZID=Europe/Ljubljana:20260718T210000
-SUMMARY:Letni kino Minoriti: Preklinjam
-LOCATION:Minoriti &#8211\; Avditorij LGM
-DESCRIPTION:Navdihujoča resnična zgodba o pogumnem Johnu\, ki je Britancem razbil predsodke o Tourettovem sindromu.\nKirk Jones / Velika Britanija / 2025 / 121 min / angleščina s slo. podnapisi\n2019.\nBritanska kraljica je tik na tem\, da podeli medaljo za posebne zasluge\, ko se iz dvorane zasliši: »Fuck the Queen! https://mladimaribor.si/dogodek/letni-kino-minoriti-preklinjam/
-URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-preklinjam/
-END:VEVENT
-BEGIN:VEVENT
-UID:d3ca79a4bbe22f8f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260725T210000
-DTEND;TZID=Europe/Ljubljana:20260725T210000
-SUMMARY:Letni kino Minoriti: DJ Ahmet
-LOCATION:Minoriti &#8211\; Avditorij LGM
-DESCRIPTION:Z nalezljivimi ritmi in ljubeznijo do svobode prepojena topla komična drama o odraščajočem pastirju iz odmaknjene makedonske vasice.\nGeorgi M. Unkovski / Severna Makedonija\, Srbija\, Hrvaška\, Češka / 2025 / 99 min / turščina\, makedonščina s slo. in ang. podnapisi\nAhmet je petnajstleten fant iz odročn https://mladimaribor.si/dogodek/letni-kino-minoriti-dj-ahmet/
-URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-dj-ahmet/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoriti &#8211\; Avditorij LGM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c7ff5ebc17d69099@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260718T210000
+DTEND;TZID=Europe/Ljubljana:20260718T210000
+SUMMARY:Letni kino Minoriti: Preklinjam
+LOCATION:Minoriti &#8211\; Avditorij LGM
+DESCRIPTION:Navdihujoča resnična zgodba o pogumnem Johnu\, ki je Britancem razbil predsodke o Tourettovem sindromu.\nKirk Jones / Velika Britanija / 2025 / 121 min / angleščina s slo. podnapisi\n2019.\nBritanska kraljica je tik na tem\, da podeli medaljo za posebne zasluge\, ko se iz dvorane zasliši: »Fuck the Queen! https://mladimaribor.si/dogodek/letni-kino-minoriti-preklinjam/
+URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-preklinjam/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ca79a4bbe22f8f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260725T210000
+DTEND;TZID=Europe/Ljubljana:20260725T210000
+SUMMARY:Letni kino Minoriti: DJ Ahmet
+LOCATION:Minoriti &#8211\; Avditorij LGM
+DESCRIPTION:Z nalezljivimi ritmi in ljubeznijo do svobode prepojena topla komična drama o odraščajočem pastirju iz odmaknjene makedonske vasice.\nGeorgi M. Unkovski / Severna Makedonija\, Srbija\, Hrvaška\, Češka / 2025 / 99 min / turščina\, makedonščina s slo. in ang. podnapisi\nAhmet je petnajstleten fant iz odročn https://mladimaribor.si/dogodek/letni-kino-minoriti-dj-ahmet/
+URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-dj-ahmet/
+END:VEVENT
+END:VCALENDAR

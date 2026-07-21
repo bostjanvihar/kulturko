@@ -1,25 +1,25 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Mala dvorana — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:24376468b630c2c8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T170000
-DTEND;TZID=Europe/Ljubljana:20260822T190000
-SUMMARY:Abežeda
-LOCATION:Mala dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
-URL:https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
-END:VEVENT
-BEGIN:VEVENT
-UID:b5309ab43c40eccd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T180000
-DTEND;TZID=Europe/Ljubljana:20260829T200000
-SUMMARY:Blišč in breg
-LOCATION:Mala dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
-URL:https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mala dvorana — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:24376468b630c2c8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T170000
+DTEND;TZID=Europe/Ljubljana:20260822T190000
+SUMMARY:Abežeda
+LOCATION:Mala dvorana
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
+URL:https://www.lg-mb.si/gostujoce-predstave/abezeda_1/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5309ab43c40eccd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T180000
+DTEND;TZID=Europe/Ljubljana:20260829T200000
+SUMMARY:Blišč in breg
+LOCATION:Mala dvorana
+DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
+URL:https://www.lg-mb.si/gostujoce-predstave/blisc-in-breg/
+END:VEVENT
+END:VCALENDAR

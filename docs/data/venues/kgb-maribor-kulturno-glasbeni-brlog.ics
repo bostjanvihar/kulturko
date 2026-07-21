@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:KGB Maribor Kulturno Glasbeni Brlog — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:702247342bb46b60@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T200000
-DTEND;TZID=Europe/Ljubljana:20260919T220000
-SUMMARY:Kameleonski poljub
-LOCATION:KGB Maribor Kulturno Glasbeni Brlog
-DESCRIPTION:V psihologiji obstaja fenomen\, imenovan »učinek kameleona«. Gre za pojav\, ki ga pogosto opažamo v vsakdanjem življenju: par si z leti postaja podoben. Osebi se začneta podobno gibati in govoriti\, razvijata iste interese in včasih se celo oblačita zelo podobno. Čeprav se opazovalcu ta pojav lahko zdi https://nd-mb.si/dogodek/kameleonski-poljub/
-URL:https://nd-mb.si/dogodek/kameleonski-poljub/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:KGB Maribor Kulturno Glasbeni Brlog — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:702247342bb46b60@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T200000
+DTEND;TZID=Europe/Ljubljana:20260919T220000
+SUMMARY:Kameleonski poljub
+LOCATION:KGB Maribor Kulturno Glasbeni Brlog
+DESCRIPTION:V psihologiji obstaja fenomen\, imenovan »učinek kameleona«. Gre za pojav\, ki ga pogosto opažamo v vsakdanjem življenju: par si z leti postaja podoben. Osebi se začneta podobno gibati in govoriti\, razvijata iste interese in včasih se celo oblačita zelo podobno. Čeprav se opazovalcu ta pojav lahko zdi https://nd-mb.si/dogodek/kameleonski-poljub/
+URL:https://nd-mb.si/dogodek/kameleonski-poljub/
+END:VEVENT
+END:VCALENDAR

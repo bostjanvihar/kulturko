@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Botanični vrt — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:985b44487d1063cc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T170000
+DTEND;TZID=Europe/Ljubljana:20260828T190000
+SUMMARY:Počitniški ‘Lov na zaklad’
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=pocitniski-lov-na-zaklad
+URL:https://botanicnivrt.um.si/?ajde_events=pocitniski-lov-na-zaklad
+END:VEVENT
+END:VCALENDAR

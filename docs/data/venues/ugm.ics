@@ -1,88 +1,88 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:UGM — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:8acff04f39a5164f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260721T190000
-DTEND;TZID=Europe/Ljubljana:20260721T210000
-SUMMARY:Torkova ustvarjalnica / Gibljive skulpture
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-gibljive-skulpture
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-gibljive-skulpture
-END:VEVENT
-BEGIN:VEVENT
-UID:b88a4fad75b9fc0c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260728T190000
-DTEND;TZID=Europe/Ljubljana:20260728T210000
-SUMMARY:Torkova ustvarjalnica / Veččutna skulptura
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-veccutna-skulptura
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-veccutna-skulptura
-END:VEVENT
-BEGIN:VEVENT
-UID:77897189966248dc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260804T190000
-DTEND;TZID=Europe/Ljubljana:20260804T210000
-SUMMARY:Torkova ustvarjalnica / Domišljijski kolaž
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-domisljijski-kolaz
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-domisljijski-kolaz
-END:VEVENT
-BEGIN:VEVENT
-UID:a66b2bf79dd25117@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260805T190000
-DTEND;TZID=Europe/Ljubljana:20260805T210000
-SUMMARY:Risanje in slikanje v galeriji / Ustvarjalnica za odrasle
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
-URL:https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
-END:VEVENT
-BEGIN:VEVENT
-UID:61f234fa2a48b67f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260811T190000
-DTEND;TZID=Europe/Ljubljana:20260811T210000
-SUMMARY:Torkova ustvarjalnica / Risanje po prostoru
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
-END:VEVENT
-BEGIN:VEVENT
-UID:ac62d8f1c9cd80cb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260818T190000
-DTEND;TZID=Europe/Ljubljana:20260818T210000
-SUMMARY:Torkova ustvarjalnica / Ustvarjanje z glino
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
-END:VEVENT
-BEGIN:VEVENT
-UID:73b65dd3e977aabe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260820T190000
-DTEND;TZID=Europe/Ljubljana:20260820T210000
-SUMMARY:Ustvarjalno poletje v UGM / Huda mravljica iz UGM na coprniji v LGM
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
-URL:https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
-END:VEVENT
-BEGIN:VEVENT
-UID:f1c7c01304ee4daa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T190000
-DTEND;TZID=Europe/Ljubljana:20260823T210000
-SUMMARY:Lutkovni pristan – postavljanka / Ustvarjalna delavnica
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
-URL:https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
-END:VEVENT
-BEGIN:VEVENT
-UID:d50a078cca16b285@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T190000
-DTEND;TZID=Europe/Ljubljana:20260825T210000
-SUMMARY:Torkova ustvarjalnica / Škatla s sončnim zahodom
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:UGM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:8acff04f39a5164f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260721T190000
+DTEND;TZID=Europe/Ljubljana:20260721T210000
+SUMMARY:Torkova ustvarjalnica / Gibljive skulpture
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-gibljive-skulpture
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-gibljive-skulpture
+END:VEVENT
+BEGIN:VEVENT
+UID:b88a4fad75b9fc0c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260728T190000
+DTEND;TZID=Europe/Ljubljana:20260728T210000
+SUMMARY:Torkova ustvarjalnica / Veččutna skulptura
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-veccutna-skulptura
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-veccutna-skulptura
+END:VEVENT
+BEGIN:VEVENT
+UID:77897189966248dc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260804T190000
+DTEND;TZID=Europe/Ljubljana:20260804T210000
+SUMMARY:Torkova ustvarjalnica / Domišljijski kolaž
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-domisljijski-kolaz
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-domisljijski-kolaz
+END:VEVENT
+BEGIN:VEVENT
+UID:a66b2bf79dd25117@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260805T190000
+DTEND;TZID=Europe/Ljubljana:20260805T210000
+SUMMARY:Risanje in slikanje v galeriji / Ustvarjalnica za odrasle
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
+URL:https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
+END:VEVENT
+BEGIN:VEVENT
+UID:61f234fa2a48b67f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260811T190000
+DTEND;TZID=Europe/Ljubljana:20260811T210000
+SUMMARY:Torkova ustvarjalnica / Risanje po prostoru
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
+END:VEVENT
+BEGIN:VEVENT
+UID:ac62d8f1c9cd80cb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260818T190000
+DTEND;TZID=Europe/Ljubljana:20260818T210000
+SUMMARY:Torkova ustvarjalnica / Ustvarjanje z glino
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
+END:VEVENT
+BEGIN:VEVENT
+UID:73b65dd3e977aabe@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T190000
+DTEND;TZID=Europe/Ljubljana:20260820T210000
+SUMMARY:Ustvarjalno poletje v UGM / Huda mravljica iz UGM na coprniji v LGM
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
+URL:https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c7c01304ee4daa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T190000
+DTEND;TZID=Europe/Ljubljana:20260823T210000
+SUMMARY:Lutkovni pristan – postavljanka / Ustvarjalna delavnica
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
+URL:https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
+END:VEVENT
+BEGIN:VEVENT
+UID:d50a078cca16b285@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260825T190000
+DTEND;TZID=Europe/Ljubljana:20260825T210000
+SUMMARY:Torkova ustvarjalnica / Škatla s sončnim zahodom
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
+URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
+END:VEVENT
+END:VCALENDAR

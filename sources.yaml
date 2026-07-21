@@ -33,6 +33,8 @@ horizon_days: 365
 #   data_attr    — event list embedded as JSON in an HTML data-* attribute
 #   grouped_options — sign-up form where each event is a checkbox option
 #                  under a group heading that carries the date
+#   jsvar        — client-templated listing whose full dataset is embedded
+#                  as a JS array assigned to a page-global variable
 #   html         — generic CSS-selector scraper (configure selectors below)
 #   ics          — a plain .ics calendar URL
 #
@@ -85,13 +87,30 @@ sources:
 
   - id: visitmaribor
     name: Visit Maribor
+    adapter: jsvar
+    url: "https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/"
+    var_prefix: "jsonData_"
+    notes: >
+      The rendered HTML only has mustache placeholders (Angular templating),
+      but the full ~200-event dataset is embedded server-side as a
+      `jsonData_<guid>` JS array (Umbraco's catalogueList widget) — parsed
+      directly, no browser needed. `Dates` gives machine-readable
+      [[YYYYMMDD, YYYYMMDD]] pairs. Broad city "what to do" catalogue, not
+      venue-specific, so it overlaps a lot with the per-venue sources below
+      (dedup merges those); it uniquely covers festivals/one-offs
+      (MariCon, Radgonsko poletje, etc) that don't have their own source.
+
+  - id: eventim-maribor
+    name: Eventim (Maribor)
     enabled: false
     adapter: html
-    url: "https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/"
+    url: "https://www.eventim.si/city/maribor-5754/"
     notes: >
-      Client-side Angular app (Umbraco backend) — the event list is not in
-      the HTML and there is no public JSON endpoint. Most of its content
-      is covered by Kulturnik anyway.
+      Not added: the site sits behind Akamai Bot Manager (JS sensor/
+      challenge endpoints, plain HTTP requests just hang) — reliably
+      scraping it would mean deliberately working around bot detection,
+      which this project won't do. No public partner/affiliate API found.
+      Most touring-act listings overlap with Kulturnik anyway.
 
   # --- Individual venues ---------------------------------------------
   - id: narodni-dom
@@ -266,6 +285,27 @@ sources:
       title: "h5"
       url: "a"
       date: "time"                      # "7. 7. 26–25. 8. 26"
+
+  - id: botanicni-vrt
+    name: Botanični vrt Univerze v Mariboru
+    adapter: wp_v2
+    url: "https://botanicnivrt.um.si"
+    venue: Botanični vrt
+    rest_base: ajde_events     # EventON plugin's custom post type
+    rest_style: query          # pretty permalinks are off; needs ?rest_route=
+    orderby: modified
+    per_page: 30
+    max_pages: 1
+    date_path: ""              # EventON's real date isn't exposed via REST/meta
+    gcal_detail: true           # so read it off each event's own page instead
+    max_detail_fetches: 30
+    notes: >
+      The ajde_events REST objects expose title/content but not the actual
+      event date (EventON's postmeta isn't registered for REST). Each
+      event's single page renders an "Add to Google Calendar" link with a
+      clean UTC dates=YYYYMMDDTHHMMSSZ/... param — gcal_detail reads that
+      instead of scanning the body text, which has Slovene month names in
+      declined case forms (e.g. "avgustom") the date parser doesn't cover.
 
   # --- Facebook (via Apify) -------------------------------------------
   # Facebook blocks anonymous scraping, so these run through the Apify

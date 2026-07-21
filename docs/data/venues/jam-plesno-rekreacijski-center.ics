@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:JAM plesno rekreacijski center — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:ea314084339ab316@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260716T163000
-DTEND;TZID=Europe/Ljubljana:20260716T163000
-SUMMARY:Poletna delavnica
-LOCATION:JAM plesno rekreacijski center
-DESCRIPTION:Poletne delavnice Zvezdice plesalke v Juliju 2026. https://mladimaribor.si/dogodek/poletna-delavnica/
-URL:https://mladimaribor.si/dogodek/poletna-delavnica/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:JAM plesno rekreacijski center — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ea314084339ab316@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260716T163000
+DTEND;TZID=Europe/Ljubljana:20260716T163000
+SUMMARY:Poletna delavnica
+LOCATION:JAM plesno rekreacijski center
+DESCRIPTION:Poletne delavnice Zvezdice plesalke v Juliju 2026. https://mladimaribor.si/dogodek/poletna-delavnica/
+URL:https://mladimaribor.si/dogodek/poletna-delavnica/
+END:VEVENT
+END:VCALENDAR

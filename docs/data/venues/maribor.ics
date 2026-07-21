@@ -1,79 +1,79 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Maribor — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:83e6cb08aa8329da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T000000
-DTEND;TZID=Europe/Ljubljana:20260830T020000
-SUMMARY:Platforma sodobnega plesa
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalplatforma.si/
-URL:http://www.festivalplatforma.si/
-END:VEVENT
-BEGIN:VEVENT
-UID:2b6bc58b942cb0cf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T000000
-DTEND;TZID=Europe/Ljubljana:20260910T020000
-SUMMARY:DOKUDOC mednarodni festival dokumentarnega filma
-LOCATION:Maribor
-DESCRIPTION: https://dokudoc.si
-URL:https://dokudoc.si
-END:VEVENT
-BEGIN:VEVENT
-UID:b7ceab1da1a76504@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260913T000000
-DTEND;TZID=Europe/Ljubljana:20260913T020000
-SUMMARY:Festival Pranger
-LOCATION:Maribor
-DESCRIPTION: http://www.pranger.si
-URL:http://www.pranger.si
-END:VEVENT
-BEGIN:VEVENT
-UID:04ecd0b5e64f4f0d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival fotografije Maribor
-LOCATION:Maribor
-DESCRIPTION: https://www.fotoklub-maribor.si/festival/
-URL:https://www.fotoklub-maribor.si/festival/
-END:VEVENT
-BEGIN:VEVENT
-UID:8fb0cff24a08b66a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T000000
-DTEND;TZID=Europe/Ljubljana:20260915T020000
-SUMMARY:Festival Maribor
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalmaribor.si
-URL:http://www.festivalmaribor.si
-END:VEVENT
-BEGIN:VEVENT
-UID:0f25df88945b16b3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T000000
-DTEND;TZID=Europe/Ljubljana:20260923T020000
-SUMMARY:Mednarodni filmski festival Stoptrik
-LOCATION:Maribor
-DESCRIPTION: https://www.stoptrik.com/
-URL:https://www.stoptrik.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:1accd86c6eacf15d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T000000
-DTEND;TZID=Europe/Ljubljana:20261002T020000
-SUMMARY:Mednarodni festival računalniške umetnosti (MFRU)
-LOCATION:Maribor
-DESCRIPTION: http://www.mfru.org
-URL:http://www.mfru.org
-END:VEVENT
-BEGIN:VEVENT
-UID:bca6cd2ca61d8824@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261110T000000
-DTEND;TZID=Europe/Ljubljana:20261110T020000
-SUMMARY:Enimation\, mednarodni festival otroškega in mladinskega filma
-LOCATION:Maribor
-DESCRIPTION: https://www.enimation.si
-URL:https://www.enimation.si
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:83e6cb08aa8329da@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T000000
+DTEND;TZID=Europe/Ljubljana:20260830T020000
+SUMMARY:Platforma sodobnega plesa
+LOCATION:Maribor
+DESCRIPTION: http://www.festivalplatforma.si/
+URL:http://www.festivalplatforma.si/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6bc58b942cb0cf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260910T000000
+DTEND;TZID=Europe/Ljubljana:20260910T020000
+SUMMARY:DOKUDOC mednarodni festival dokumentarnega filma
+LOCATION:Maribor
+DESCRIPTION: https://dokudoc.si
+URL:https://dokudoc.si
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ceab1da1a76504@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T000000
+DTEND;TZID=Europe/Ljubljana:20260913T020000
+SUMMARY:Festival Pranger
+LOCATION:Maribor
+DESCRIPTION: http://www.pranger.si
+URL:http://www.pranger.si
+END:VEVENT
+BEGIN:VEVENT
+UID:04ecd0b5e64f4f0d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T000000
+DTEND;TZID=Europe/Ljubljana:20260915T020000
+SUMMARY:Festival fotografije Maribor
+LOCATION:Maribor
+DESCRIPTION: https://www.fotoklub-maribor.si/festival/
+URL:https://www.fotoklub-maribor.si/festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb0cff24a08b66a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T000000
+DTEND;TZID=Europe/Ljubljana:20260915T020000
+SUMMARY:Festival Maribor
+LOCATION:Maribor
+DESCRIPTION: http://www.festivalmaribor.si
+URL:http://www.festivalmaribor.si
+END:VEVENT
+BEGIN:VEVENT
+UID:0f25df88945b16b3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T000000
+DTEND;TZID=Europe/Ljubljana:20260923T020000
+SUMMARY:Mednarodni filmski festival Stoptrik
+LOCATION:Maribor
+DESCRIPTION: https://www.stoptrik.com/
+URL:https://www.stoptrik.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:1accd86c6eacf15d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T000000
+DTEND;TZID=Europe/Ljubljana:20261002T020000
+SUMMARY:Mednarodni festival računalniške umetnosti (MFRU)
+LOCATION:Maribor
+DESCRIPTION: http://www.mfru.org
+URL:http://www.mfru.org
+END:VEVENT
+BEGIN:VEVENT
+UID:bca6cd2ca61d8824@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261110T000000
+DTEND;TZID=Europe/Ljubljana:20261110T020000
+SUMMARY:Enimation\, mednarodni festival otroškega in mladinskega filma
+LOCATION:Maribor
+DESCRIPTION: https://www.enimation.si
+URL:https://www.enimation.si
+END:VEVENT
+END:VCALENDAR

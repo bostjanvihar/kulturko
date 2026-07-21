@@ -1,34 +1,34 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Mestni park Maribor &#8211\; Paviljon — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:d069ba26d3be4933@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260715T170000
-DTEND;TZID=Europe/Ljubljana:20260729T170000
-SUMMARY:Frontrunners all inclusive walking/runing club
-LOCATION:Mestni park Maribor &#8211\; Paviljon
-DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-15/
-URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-15/
-END:VEVENT
-BEGIN:VEVENT
-UID:57b1119ea9683a6e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T170000
-DTEND;TZID=Europe/Ljubljana:20260805T170000
-SUMMARY:Frontrunners all inclusive walking/runing club
-LOCATION:Mestni park Maribor &#8211\; Paviljon
-DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-22/
-URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-22/
-END:VEVENT
-BEGIN:VEVENT
-UID:b7812f1265211664@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260729T170000
-DTEND;TZID=Europe/Ljubljana:20260812T170000
-SUMMARY:Frontrunners all inclusive walking/runing club
-LOCATION:Mestni park Maribor &#8211\; Paviljon
-DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-29/
-URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-29/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mestni park Maribor &#8211\; Paviljon — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d069ba26d3be4933@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T170000
+DTEND;TZID=Europe/Ljubljana:20260729T170000
+SUMMARY:Frontrunners all inclusive walking/runing club
+LOCATION:Mestni park Maribor &#8211\; Paviljon
+DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-15/
+URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:57b1119ea9683a6e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260722T170000
+DTEND;TZID=Europe/Ljubljana:20260805T170000
+SUMMARY:Frontrunners all inclusive walking/runing club
+LOCATION:Mestni park Maribor &#8211\; Paviljon
+DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-22/
+URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7812f1265211664@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260729T170000
+DTEND;TZID=Europe/Ljubljana:20260812T170000
+SUMMARY:Frontrunners all inclusive walking/runing club
+LOCATION:Mestni park Maribor &#8211\; Paviljon
+DESCRIPTION:Running and walking club for the LGBTQIA+ community and allies. Individuals of all athletic abilities\, ages\, gender identities\, sexual orientations and nationalities are welcome!\n\nJoin us for the next short walk in Maribor city park. We look forward to meet you this Wednesday at 17:00 right outside  https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-29/
+URL:https://mladimaribor.si/dogodek/frontrunners-all-inclusive-walking-runing-club/2026-07-29/
+END:VEVENT
+END:VCALENDAR

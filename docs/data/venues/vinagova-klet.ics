@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vinagova klet — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:c0eb53921f733c33@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T193000
-DTEND;TZID=Europe/Ljubljana:20260923T213000
-SUMMARY:ND MB: Zbogom\, Dunaj\, servus\, Hollywood!
-LOCATION:Vinagova klet
-DESCRIPTION: https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
-URL:https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vinagova klet — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c0eb53921f733c33@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T193000
+DTEND;TZID=Europe/Ljubljana:20260923T213000
+SUMMARY:ND MB: Zbogom\, Dunaj\, servus\, Hollywood!
+LOCATION:Vinagova klet
+DESCRIPTION: https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
+URL:https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/
+END:VEVENT
+END:VCALENDAR

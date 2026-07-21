@@ -53,7 +53,7 @@ GitHub Pages → serves docs/ ; index.html fetches data/events.json
 | adapter | Use when | Key config |
 |---|---|---|
 | `rss` | Any RSS/Atom feed. Reads dates from `<ical:dtstart>`/`<ev:startdate>` **namespace-agnostically**, venue from `<ical:location>`. | `url`, optional `venue` |
-| `wp_v2` | WordPress site exposing events as a custom post type at `/wp-json/wp/v2/<rest_base>`. Reads date/venue from ACF fields via dot-paths. | `rest_base`, `date_path`, `venue_path`, `desc_path`, `orderby` |
+| `wp_v2` | WordPress site exposing events as a custom post type at `/wp-json/wp/v2/<rest_base>`. Reads date/venue from ACF fields via dot-paths. `rest_style: query` switches to the `?rest_route=/wp/v2/<rest_base>` URL form for sites with pretty permalinks off. If the post type doesn't expose a usable date at all (e.g. EventON's custom fields aren't in REST), set `date_path: ""` + `gcal_detail: true` to fetch each event's own page and read the UTC date off its "Add to Google Calendar" link instead. | `rest_base`, `date_path`, `venue_path`, `desc_path`, `orderby`, `rest_style`, `gcal_detail`, `max_detail_fetches` |
 | `tribe` | WordPress "The Events Calendar" plugin (`/wp-json/tribe/events/v1/events`). | `url` (site root) |
 | `squarespace` | Squarespace event collection — append `?format=json`. Dates are epoch-ms. | `url` (the collection, e.g. `/koledar`) |
 | `nuxt_payload` | Nuxt 3 sites — parses the `__NUXT_DATA__` devalue payload (inline or `data-src`). | `url` |
@@ -61,6 +61,7 @@ GitHub Pages → serves docs/ ; index.html fetches data/events.json
 | `jsonld` | Pages with schema.org Event JSON-LD. | `url` |
 | `woo_store` | WooCommerce ticket shop — public Store API (`/wp-json/wc/store/products`); date parsed from product description text. | `url` (shop root) |
 | `data_attr` | Event list embedded as JSON in an HTML attribute (e.g. SNG's `data-events`). | `selectors.item`, `data_attr`, `event_url_prefix` |
+| `jsvar` | Client-templated listing (mustache placeholders in the HTML) whose full dataset is embedded server-side as a JS array assigned to a page-global variable, e.g. visitmaribor.si's Umbraco `catalogueList` widget (`var jsonData_<guid> = [...]`). | `var_prefix` |
 | `grouped_options` | A sign-up **form** is the only listing: each event is a checkbox option ("16.00 - Title") inside a group whose heading carries the date ("PETEK, 20. 3. 2026"). Groups with no parsable date (name/e-mail fields) are skipped. | `selectors.{group,group_date,item}`, `item_re` (hour/minute/title groups), `strip_re` (drop a marker like "/ ZAPRTE PRIJAVE") |
 | `html` | Generic CSS-selector scrape. Honors `<base href>`. Options: `try_jsonld_first`, `year_from_url` (regex to pull the year from each event URL), `follow_detail` (fetch each event page and scan its body for a date when the listing has none, capped by `max_detail_fetches`). | `selectors.{item,title,url,date,venue}` |
 | `ics` | A plain `.ics` URL. | `url` |
@@ -105,6 +106,18 @@ returns zero events (e.g. a venue on summer break) is logged as
 - **Encoding.** `requests` guesses ISO-8859-1 when the charset header is
   missing; `fetch()` forces UTF-8 in that case (fixed mojibake on
   klub-kgb.si).
+- **"Client-side app, no JSON" isn't always true.** visitmaribor.si looked
+  like a dead end (Angular templating, mustache placeholders in the raw
+  HTML) until checking the page source turned up the whole dataset
+  server-rendered into a `jsonData_<guid>` JS variable — see the `jsvar`
+  adapter. Always grep the HTML for an inline data blob before writing a
+  site off as JS-only.
+- **Real anti-bot systems are a hard stop, not a scraping challenge.**
+  eventim.si sits behind Akamai Bot Manager — plain `requests` calls hang
+  indefinitely and the network tab shows obfuscated JS sensor/challenge
+  endpoints. This project does not try to work around bot detection;
+  `eventim-maribor` is `enabled: false` with a note explaining why. Don't
+  re-attempt it with a headless browser or stealth plugins.
 - **Date/time parsing is the fragile part.** Times are often split by HTML
   spans ("21 :00") or embedded next to date fragments ("18.3.2023" can be
   misread as 3:20). The parser prefers an `ob HH[:MM]` phrase and guards

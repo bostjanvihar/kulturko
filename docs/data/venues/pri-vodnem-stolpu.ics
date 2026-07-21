@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Pri vodnem stolpu — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:cf4cbb5da2af9313@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260715T190000
-DTEND;TZID=Europe/Ljubljana:20260826T200000
-SUMMARY:Brezplačna joga/pilates na Lentu
-LOCATION:Pri vodnem stolpu
-DESCRIPTION:Naj bodo poletni večeri priložnost za gibanje\, sprostitev in polnjenje energije. Pridružite se nam na brezplačni vadbi ob Vodnem stolpu.☀️Telovadili bomo:\n• 𝐯𝐬𝐚𝐤𝐨 𝐬𝐫𝐞𝐝𝐨 𝐨𝐛 𝟏𝟗.𝟎𝟎\n• 𝐯𝐬𝐚𝐤𝐨 𝐬𝐨𝐛𝐨𝐭𝐨 𝐨𝐛 𝟖.𝟎𝟎\nVadba je brezplačna\, primerna za vse generacije in vse stopnje pripravljenosti.\n🧘 𝐒 𝐬𝐞𝐛𝐨𝐣 𝐩𝐫𝐢𝐧𝐞𝐬𝐢𝐭𝐞 https://mladimaribor.si/dogodek/brezplacna-joga-pilates-na-lentu/2026-07-15/
-URL:https://mladimaribor.si/dogodek/brezplacna-joga-pilates-na-lentu/2026-07-15/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pri vodnem stolpu — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cf4cbb5da2af9313@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T190000
+DTEND;TZID=Europe/Ljubljana:20260826T200000
+SUMMARY:Brezplačna joga/pilates na Lentu
+LOCATION:Pri vodnem stolpu
+DESCRIPTION:Naj bodo poletni večeri priložnost za gibanje\, sprostitev in polnjenje energije. Pridružite se nam na brezplačni vadbi ob Vodnem stolpu.☀️Telovadili bomo:\n• 𝐯𝐬𝐚𝐤𝐨 𝐬𝐫𝐞𝐝𝐨 𝐨𝐛 𝟏𝟗.𝟎𝟎\n• 𝐯𝐬𝐚𝐤𝐨 𝐬𝐨𝐛𝐨𝐭𝐨 𝐨𝐛 𝟖.𝟎𝟎\nVadba je brezplačna\, primerna za vse generacije in vse stopnje pripravljenosti.\n🧘 𝐒 𝐬𝐞𝐛𝐨𝐣 𝐩𝐫𝐢𝐧𝐞𝐬𝐢𝐭𝐞 https://mladimaribor.si/dogodek/brezplacna-joga-pilates-na-lentu/2026-07-15/
+URL:https://mladimaribor.si/dogodek/brezplacna-joga-pilates-na-lentu/2026-07-15/
+END:VEVENT
+END:VCALENDAR

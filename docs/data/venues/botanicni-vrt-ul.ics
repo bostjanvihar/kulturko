@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Botanični vrt UL — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:48d89b8076f6233a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260906T160000
+DTEND;TZID=Europe/Ljubljana:20260906T180000
+SUMMARY:Sneguljčica
+LOCATION:Botanični vrt UL
+DESCRIPTION: https://www.mojekarte.si/si/sneguljcica-glasbeno-plesna-predstava/vstopnice-1235028.html
+URL:https://www.mojekarte.si/si/sneguljcica-glasbeno-plesna-predstava/vstopnice-1235028.html
+END:VEVENT
+END:VCALENDAR

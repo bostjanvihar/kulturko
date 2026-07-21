@@ -1,25 +1,25 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:oder Pod hrastom\, Kulturna četrt Minoriti — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:fd632a08ac53b161@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260715T190000
-DTEND;TZID=Europe/Ljubljana:20260715T190000
-SUMMARY:Filmska trivia s Filmologijo Vol.3
-LOCATION:oder Pod hrastom\, Kulturna četrt Minoriti
-DESCRIPTION: Si ljubitelj ali ljubiteljica filmov? Obožuješ kvize?\nV sredo\, 15. julija\, vas pod hrastom v Minoritih čaka že 3. filmska trivia\, kjer boste lahko preizkusili svoje filmsko znanje in se pomerili z drugimi filmoljubi.\nZberite ekipo 2–5 članov in pokažite\, kdo je pravi filmski poznavalec. Poleg dobre https://mladimaribor.si/dogodek/filmska-trivia-s-filmologijo-vol-3/
-URL:https://mladimaribor.si/dogodek/filmska-trivia-s-filmologijo-vol-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:4b6fef823514def0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260731T210000
-DTEND;TZID=Europe/Ljubljana:20260731T210000
-SUMMARY:Poletje v Minoritih: Tetkine Radosti
-LOCATION:oder Pod hrastom\, Kulturna četrt Minoriti
-DESCRIPTION:Projekt Tetkine radosti se je začel leta 2007\, ko je nastal prvi mikstejp muzike naše bivše domovine nekje od 60. do 80. let\, s poudarkom na funku\, soulu\, beatu\, discu\, synth popu in prog rocku. Bakto\, Borka in Woo-D so brskali po second hand ploščarnah in iz najdenega materiala zmiksali trodelni ko https://mladimaribor.si/dogodek/poletje-v-minoritih-tetkine-radosti/
-URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-tetkine-radosti/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:oder Pod hrastom\, Kulturna četrt Minoriti — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fd632a08ac53b161@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260715T190000
+DTEND;TZID=Europe/Ljubljana:20260715T190000
+SUMMARY:Filmska trivia s Filmologijo Vol.3
+LOCATION:oder Pod hrastom\, Kulturna četrt Minoriti
+DESCRIPTION: Si ljubitelj ali ljubiteljica filmov? Obožuješ kvize?\nV sredo\, 15. julija\, vas pod hrastom v Minoritih čaka že 3. filmska trivia\, kjer boste lahko preizkusili svoje filmsko znanje in se pomerili z drugimi filmoljubi.\nZberite ekipo 2–5 članov in pokažite\, kdo je pravi filmski poznavalec. Poleg dobre https://mladimaribor.si/dogodek/filmska-trivia-s-filmologijo-vol-3/
+URL:https://mladimaribor.si/dogodek/filmska-trivia-s-filmologijo-vol-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b6fef823514def0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260731T210000
+DTEND;TZID=Europe/Ljubljana:20260731T210000
+SUMMARY:Poletje v Minoritih: Tetkine Radosti
+LOCATION:oder Pod hrastom\, Kulturna četrt Minoriti
+DESCRIPTION:Projekt Tetkine radosti se je začel leta 2007\, ko je nastal prvi mikstejp muzike naše bivše domovine nekje od 60. do 80. let\, s poudarkom na funku\, soulu\, beatu\, discu\, synth popu in prog rocku. Bakto\, Borka in Woo-D so brskali po second hand ploščarnah in iz najdenega materiala zmiksali trodelni ko https://mladimaribor.si/dogodek/poletje-v-minoritih-tetkine-radosti/
+URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-tetkine-radosti/
+END:VEVENT
+END:VCALENDAR

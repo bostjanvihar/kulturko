@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Minoritska cerkev Marijinega vnebovzetja s samostanom — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:65289024da97e1c2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T193000
-DTEND;TZID=Europe/Ljubljana:20260926T213000
-SUMMARY:Z Balkana z ljubeznijo
-LOCATION:Minoritska cerkev Marijinega vnebovzetja s samostanom
-DESCRIPTION:Ljubezenske pesmi Balkana\n\n&nbsp\;\n\nDa je ljubezen gibalo sveta\, se najbrž vsi strinjamo. Da je med vsemi umetnostmi prav glasba tista\, ki je z ljubeznijo najbolj organsko prepletena\, priča o njeni intenzivnosti\, neizrekljivosti in prodorni moči\, ki se najočitneje razodeva ravno skozi tone. Da se https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoritska cerkev Marijinega vnebovzetja s samostanom — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:65289024da97e1c2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T193000
+DTEND;TZID=Europe/Ljubljana:20260926T213000
+SUMMARY:Z Balkana z ljubeznijo
+LOCATION:Minoritska cerkev Marijinega vnebovzetja s samostanom
+DESCRIPTION:Ljubezenske pesmi Balkana\n\n&nbsp\;\n\nDa je ljubezen gibalo sveta\, se najbrž vsi strinjamo. Da je med vsemi umetnostmi prav glasba tista\, ki je z ljubeznijo najbolj organsko prepletena\, priča o njeni intenzivnosti\, neizrekljivosti in prodorni moči\, ki se najočitneje razodeva ravno skozi tone. Da se https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+END:VEVENT
+END:VCALENDAR

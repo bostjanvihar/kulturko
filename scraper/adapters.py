@@ -11,7 +11,7 @@ import logging
 import os
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
@@ -52,6 +52,24 @@ def fetch(url: str, **kw) -> requests.Response:
     if "charset" not in ct and (r.encoding or "").lower() in ("iso-8859-1", ""):
         r.encoding = "utf-8"
     return r
+
+
+# ---------------------------------------------- "Add to Google Calendar"
+# Many event plugins (e.g. EventON) render a Google Calendar link on the
+# event's own page with a clean UTC dates=<start>/<end> param — far more
+# reliable than scanning free text for a Slovene date when the site's own
+# structured fields (ACF/REST meta) don't expose the event date.
+_GCAL_DATES_RE = re.compile(
+    r"google\.com/calendar/event\?[^\"'>]*?dates=(\d{8}T\d{6}Z)(?:%2F|/)?(\d{8}T\d{6}Z)?")
+
+
+def _extract_gcal_dt(html: str, tz_name: str = "Europe/Ljubljana"):
+    m = _GCAL_DATES_RE.search(html)
+    if not m:
+        return None
+    start_utc = datetime.strptime(m.group(1), "%Y%m%dT%H%M%SZ") \
+        .replace(tzinfo=timezone.utc)
+    return start_utc.astimezone(ZoneInfo(tz_name)).replace(tzinfo=None)
 
 
 # ---------------------------------------------------------------- RSS
@@ -333,22 +351,46 @@ def adapter_wp_v2(src: dict) -> list[Event]:
     """Standard WP REST API (/wp-json/wp/v2/<rest_base>) for sites that
     expose events as a custom post type (e.g. Narodni dom's 'dogodek').
     Event date/venue live in ACF fields — configure dot-paths in the source.
+
+    Some sites disable pretty permalinks, so /wp-json/... 404s; set
+    `rest_style: query` to use the `?rest_route=/wp/v2/<rest_base>` form
+    instead (auto-discoverable via the page's <link rel="https://api.w.org/">).
+
+    If the post type doesn't expose its event date via REST at all (e.g.
+    EventON's custom fields aren't registered for REST), set `date_path: ""`
+    and `gcal_detail: true` to fetch each event's own page and read the
+    UTC date off its "Add to Google Calendar" link instead — capped by
+    `max_detail_fetches`.
     """
     base = src["url"].rstrip("/")
     rest = src.get("rest_base", "posts")
     per = int(src.get("per_page", 100))
     max_pages = int(src.get("max_pages", 4))
     orderby = src.get("orderby", "modified")
+    query_style = src.get("rest_style") == "query"
+    detail_budget = int(src.get("max_detail_fetches", 20))
     events = []
     for page in range(1, max_pages + 1):
-        r = fetch(f"{base}/wp-json/wp/v2/{rest}"
-                  f"?per_page={per}&page={page}&orderby={orderby}&order=desc")
+        if query_style:
+            url = (f"{base}/index.php?rest_route=/wp/v2/{rest}"
+                   f"&per_page={per}&page={page}&orderby={orderby}&order=desc")
+        else:
+            url = (f"{base}/wp-json/wp/v2/{rest}"
+                   f"?per_page={per}&page={page}&orderby={orderby}&order=desc")
+        r = fetch(url)
         data = r.json()
         if not isinstance(data, list) or not data:
             break
         for e in data:
             raw_date = str(_dot_get(e, src.get("date_path", "date")))
             dt = parse_sl_datetime(raw_date)
+            if dt is None and src.get("gcal_detail") and detail_budget > 0 \
+                    and e.get("link"):
+                detail_budget -= 1
+                try:
+                    dt = _extract_gcal_dt(fetch(e["link"]).text)
+                except requests.RequestException:
+                    dt = None
             if dt is None:
                 continue
             title = BeautifulSoup(str(_dot_get(e, "title.rendered")),
@@ -367,6 +409,58 @@ def adapter_wp_v2(src: dict) -> list[Event]:
                 source=src["id"], source_name=src["name"]))
         if len(data) < per:
             break
+    return events
+
+
+# ------------------------------------ JSON embedded in a JS <script> var
+_JSVAR_TIME_RE = re.compile(r",\s*(\d{1,2})[:.](\d{2})")
+
+
+def adapter_jsvar(src: dict) -> list[Event]:
+    """Sites whose event list is client-templated (mustache-style
+    placeholders in the HTML) but whose full dataset is embedded
+    server-side as a plain JS array assigned to a variable, e.g.
+    visitmaribor.si's Umbraco 'catalogueList' widget:
+        var jsonData_<guid> = [ {"Title": "...", "DateFrom": "...",
+                                  "Dates": "[[20260715, 20260822]]", ...}, ... ];
+    `var_prefix` matches the variable name up to its (CMS-instance-specific)
+    suffix. `Dates` holds machine-readable [[start_yyyymmdd, end_yyyymmdd]]
+    pairs; a time after a comma in `DatesAsString` (e.g. "..., 18:00 → 21:00")
+    is used as the start time when present.
+    """
+    html = fetch(src["url"]).text
+    prefix = src.get("var_prefix", "jsonData_")
+    m = re.search(rf"var\s+{re.escape(prefix)}\w+\s*=\s*(\[.*?\]);", html, re.S)
+    if not m:
+        raise RuntimeError(f"no {prefix}* variable found")
+    data = json.loads(m.group(1))
+    events, seen = [], set()
+    for d in data:
+        title = (d.get("Title") or "").strip()
+        if not title:
+            continue
+        try:
+            ymd = json.loads(d.get("Dates") or "[]")[0][0]
+            y, mo, day = ymd // 10000, (ymd // 100) % 100, ymd % 100
+        except (IndexError, TypeError, ValueError, json.JSONDecodeError):
+            continue
+        hh, mm = 19, 0
+        tm = _JSVAR_TIME_RE.search(d.get("DatesAsString") or "")
+        if tm:
+            hh, mm = int(tm.group(1)), int(tm.group(2))
+        try:
+            dt = datetime(y, mo, day, hh, mm)
+        except ValueError:
+            continue
+        key = (title, dt.isoformat())
+        if key in seen:
+            continue
+        seen.add(key)
+        events.append(Event(
+            title=title, start=dt.isoformat(), venue=src.get("venue", ""),
+            url=d.get("LinkMore") or src["url"],
+            image=urljoin(src["url"], d["Image"]) if d.get("Image") else "",
+            source=src["id"], source_name=src["name"]))
     return events
 
 
@@ -708,6 +802,7 @@ ADAPTERS = {
     "woo_store": adapter_woo_store,
     "data_attr": adapter_data_attr,
     "grouped_options": adapter_grouped_options,
+    "jsvar": adapter_jsvar,
     "html": adapter_html,
     "ics": adapter_ics,
     "facebook_graph": adapter_facebook_graph,

@@ -1,25 +1,25 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Glasbeni paviljon — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:ad52ce66ddd8bfbd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T103000
-DTEND;TZID=Europe/Ljubljana:20260719T123000
-SUMMARY:Vokalna skupina Uriele
-LOCATION:Glasbeni paviljon
-DESCRIPTION:Vokalna skupina Uriele je nastala leta 2019\, ko so tri mlade pevke iz okolice Ptuja na željo dirigenta domačega tamburaškega orkestra združile glasove za en sam koncert. Želja po večglasnem petju jih je kmalu povezala v vokalni trio\, ki danes s svojimi nastopi navdušuje različno občinstvo. Njihovo p https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:e8f4a2f8f7f1ab80@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260726T103000
-DTEND;TZID=Europe/Ljubljana:20260726T123000
-SUMMARY:Glasbeni duet  Teja Letonja Hajšek in Marko Zaletelj
-LOCATION:Glasbeni paviljon
-DESCRIPTION:Teja Letonja Hajšek  je pevka\, avtorica\, vokalna mentorica\, glasbena aranžerka in producentka. Leta 2009 jo je Občina Ptuj nagradila z nazivom mlada glasbenica leta. Deset let je bila sopranistka vokalnega kvarteta Vox Arsana\, s katerim je sodelovala tudi z zasedbo New York Voices. Leta 2015 je kot  https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Glasbeni paviljon — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ad52ce66ddd8bfbd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260719T103000
+DTEND;TZID=Europe/Ljubljana:20260719T123000
+SUMMARY:Vokalna skupina Uriele
+LOCATION:Glasbeni paviljon
+DESCRIPTION:Vokalna skupina Uriele je nastala leta 2019\, ko so tri mlade pevke iz okolice Ptuja na željo dirigenta domačega tamburaškega orkestra združile glasove za en sam koncert. Želja po večglasnem petju jih je kmalu povezala v vokalni trio\, ki danes s svojimi nastopi navdušuje različno občinstvo. Njihovo p https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
+URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f4a2f8f7f1ab80@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260726T103000
+DTEND;TZID=Europe/Ljubljana:20260726T123000
+SUMMARY:Glasbeni duet  Teja Letonja Hajšek in Marko Zaletelj
+LOCATION:Glasbeni paviljon
+DESCRIPTION:Teja Letonja Hajšek  je pevka\, avtorica\, vokalna mentorica\, glasbena aranžerka in producentka. Leta 2009 jo je Občina Ptuj nagradila z nazivom mlada glasbenica leta. Deset let je bila sopranistka vokalnega kvarteta Vox Arsana\, s katerim je sodelovala tudi z zasedbo New York Voices. Leta 2015 je kot  https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
+URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
+END:VEVENT
+END:VCALENDAR
