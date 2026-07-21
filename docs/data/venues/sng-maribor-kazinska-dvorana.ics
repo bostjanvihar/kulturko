@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:SNG Maribor: Kazinska dvorana — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:bd34e29bdce00bd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:Trije svetovi
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:SNG Maribor: Kazinska dvorana — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bd34e29bdce00bd3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T193000
+DTEND;TZID=Europe/Ljubljana:20261019T213000
+SUMMARY:Trije svetovi
+LOCATION:SNG Maribor: Kazinska dvorana
+DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
+URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
+END:VEVENT
+END:VCALENDAR

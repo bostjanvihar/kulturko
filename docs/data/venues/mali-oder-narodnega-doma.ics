@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Mali oder Narodnega doma — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:b08cf33814de451a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261205T203000
-DTEND;TZID=Europe/Ljubljana:20261205T223000
-SUMMARY:30 let Foltin
-LOCATION:Mali oder Narodnega doma
-DESCRIPTION:Leta 2026 skupina Foltin praznuje 30 let ustvarjalnosti\, glasbene svobode in neprekinjenega dialoga z občinstvom. Ob tej posebni obletnici se vrača v Slovenijo z jubilejnim koncertom v okviru regionalne turneje 30 let Foltin.\n\nFoltin se po več letih vračajo v Maribor. Nastopili bodo v sklopu progr https://nd-mb.si/dogodek/30-let-foltin/
-URL:https://nd-mb.si/dogodek/30-let-foltin/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mali oder Narodnega doma — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:b08cf33814de451a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T203000
+DTEND;TZID=Europe/Ljubljana:20261205T223000
+SUMMARY:30 let Foltin
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:Leta 2026 skupina Foltin praznuje 30 let ustvarjalnosti\, glasbene svobode in neprekinjenega dialoga z občinstvom. Ob tej posebni obletnici se vrača v Slovenijo z jubilejnim koncertom v okviru regionalne turneje 30 let Foltin.\n\nFoltin se po več letih vračajo v Maribor. Nastopili bodo v sklopu progr https://nd-mb.si/dogodek/30-let-foltin/
+URL:https://nd-mb.si/dogodek/30-let-foltin/
+END:VEVENT
+END:VCALENDAR

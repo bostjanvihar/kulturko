@@ -1,79 +1,79 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Paviljon mestnega parka — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:6dcd1bfeb0735a49@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T103000
-DTEND;TZID=Europe/Ljubljana:20260719T123000
-SUMMARY:Vokalna skupina Uriele
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:c5e3b149faaf6d65@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260726T103000
-DTEND;TZID=Europe/Ljubljana:20260726T123000
-SUMMARY:Glasbeni duet Teja Letonja Hajšek in Marko Zaletelj
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
-END:VEVENT
-BEGIN:VEVENT
-UID:c43e18221ca19ffc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T103000
-DTEND;TZID=Europe/Ljubljana:20260802T123000
-SUMMARY:Glasbeni duet Zala Črešnik in Marko Zaletelj
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
-URL:https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
-END:VEVENT
-BEGIN:VEVENT
-UID:f82b53faba9598ee@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T103000
-DTEND;TZID=Europe/Ljubljana:20260809T123000
-SUMMARY:Frajhajmska godba na pihala
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:e3b4833a55a3a02a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260816T103000
-DTEND;TZID=Europe/Ljubljana:20260816T123000
-SUMMARY:Pihalni orkester Gornja Radgona
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:b98a7a47fcb98e9e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T103000
-DTEND;TZID=Europe/Ljubljana:20260823T123000
-SUMMARY:Godba na pihala KUD Janko Živko Poljčane
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:f15311ea198c6c3d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T103000
-DTEND;TZID=Europe/Ljubljana:20260830T123000
-SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-END:VEVENT
-BEGIN:VEVENT
-UID:c8a1b402537a3946@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260906T103000
-DTEND;TZID=Europe/Ljubljana:20260906T123000
-SUMMARY:Pihalni orkester Pošta Maribor
-LOCATION:Paviljon mestnega parka
-DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
-URL:https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Paviljon mestnega parka — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6dcd1bfeb0735a49@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260719T103000
+DTEND;TZID=Europe/Ljubljana:20260719T123000
+SUMMARY:Vokalna skupina Uriele
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
+URL:https://nd-mb.si/dogodek/vokalna-skupina-uriele-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e3b149faaf6d65@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260726T103000
+DTEND;TZID=Europe/Ljubljana:20260726T123000
+SUMMARY:Glasbeni duet Teja Letonja Hajšek in Marko Zaletelj
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
+URL:https://nd-mb.si/dogodek/glasbeni-duet-teja-letonja-hajsek-in-marko-zaletelj/
+END:VEVENT
+BEGIN:VEVENT
+UID:c43e18221ca19ffc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260802T103000
+DTEND;TZID=Europe/Ljubljana:20260802T123000
+SUMMARY:Glasbeni duet Zala Črešnik in Marko Zaletelj
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
+URL:https://nd-mb.si/dogodek/glasbeni-duet-zala-cresnik-in-marko-zaletelj/
+END:VEVENT
+BEGIN:VEVENT
+UID:f82b53faba9598ee@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T103000
+DTEND;TZID=Europe/Ljubljana:20260809T123000
+SUMMARY:Frajhajmska godba na pihala
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
+URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b4833a55a3a02a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T103000
+DTEND;TZID=Europe/Ljubljana:20260816T123000
+SUMMARY:Pihalni orkester Gornja Radgona
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
+URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:b98a7a47fcb98e9e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T103000
+DTEND;TZID=Europe/Ljubljana:20260823T123000
+SUMMARY:Godba na pihala KUD Janko Živko Poljčane
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
+URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:f15311ea198c6c3d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T103000
+DTEND;TZID=Europe/Ljubljana:20260830T123000
+SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
+URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a1b402537a3946@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260906T103000
+DTEND;TZID=Europe/Ljubljana:20260906T123000
+SUMMARY:Pihalni orkester Pošta Maribor
+LOCATION:Paviljon mestnega parka
+DESCRIPTION: https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
+URL:https://nd-mb.si/dogodek/pihalni-orkester-posta-maribor-3/
+END:VEVENT
+END:VCALENDAR
