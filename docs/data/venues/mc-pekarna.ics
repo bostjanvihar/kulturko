@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:MC Pekarna — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:be8ba4e8220c3f7e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T210000
-DTEND;TZID=Europe/Ljubljana:20260919T230000
-SUMMARY:TRYGLAV + support
-LOCATION:MC Pekarna
-DESCRIPTION:\nBrezkompromisen\, atmosferičen in vizualno dodelan\, Tryglav stopa med vodilna imena nove generacije evropskega ekstremnega metala.\n[embedded content]\nTryglav je hrvaški black metal projekt\, ki ga je leta 2018 ustanovil multiinstrumentalist Boris Behara. Po letih delovanja v skupinah\, ki niso imele e https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
-URL:https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:MC Pekarna — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:be8ba4e8220c3f7e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T210000
+DTEND;TZID=Europe/Ljubljana:20260919T230000
+SUMMARY:TRYGLAV + support
+LOCATION:MC Pekarna
+DESCRIPTION:\nBrezkompromisen\, atmosferičen in vizualno dodelan\, Tryglav stopa med vodilna imena nove generacije evropskega ekstremnega metala.\n[embedded content]\nTryglav je hrvaški black metal projekt\, ki ga je leta 2018 ustanovil multiinstrumentalist Boris Behara. Po letih delovanja v skupinah\, ki niso imele e https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
+END:VEVENT
+END:VCALENDAR

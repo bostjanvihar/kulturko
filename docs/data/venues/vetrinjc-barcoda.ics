@@ -1,16 +1,16 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vetrinjc - BarCoda — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:371f02a05a5f6fa5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260724T203000
-DTEND;TZID=Europe/Ljubljana:20260724T223000
-SUMMARY:Tin Vele kvartet
-LOCATION:Vetrinjc - BarCoda
-DESCRIPTION: https://www.facebook.com/events/960876686966538/
-URL:https://www.facebook.com/events/960876686966538/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vetrinjc - BarCoda — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:371f02a05a5f6fa5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260724T203000
+DTEND;TZID=Europe/Ljubljana:20260724T223000
+SUMMARY:Tin Vele kvartet
+LOCATION:Vetrinjc - BarCoda
+DESCRIPTION: https://www.facebook.com/events/960876686966538/
+URL:https://www.facebook.com/events/960876686966538/
+END:VEVENT
+END:VCALENDAR

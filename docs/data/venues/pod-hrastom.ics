@@ -1,34 +1,34 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Pod hrastom — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:a23b65f0864ad90c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260723T200000
-DTEND;TZID=Europe/Ljubljana:20260723T220000
-SUMMARY:Poletje v Minoritih: 울림 (oollim) trio
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
-END:VEVENT
-BEGIN:VEVENT
-UID:8c6e01a36a7d3c00@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260724T200000
-DTEND;TZID=Europe/Ljubljana:20260724T220000
-SUMMARY:Poletje v Minoritih: ABBA Night
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
-END:VEVENT
-BEGIN:VEVENT
-UID:f3ea244e9eaf24b9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T200000
-DTEND;TZID=Europe/Ljubljana:20260821T220000
-SUMMARY:Poletje v Minoritih: SLON IN SADEŽ
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43491-poletje-v-minoritih-slon-in-sadez
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43491-poletje-v-minoritih-slon-in-sadez
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pod hrastom — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a23b65f0864ad90c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260723T200000
+DTEND;TZID=Europe/Ljubljana:20260723T220000
+SUMMARY:Poletje v Minoritih: 울림 (oollim) trio
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6e01a36a7d3c00@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260724T200000
+DTEND;TZID=Europe/Ljubljana:20260724T220000
+SUMMARY:Poletje v Minoritih: ABBA Night
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ea244e9eaf24b9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T200000
+DTEND;TZID=Europe/Ljubljana:20260821T220000
+SUMMARY:Poletje v Minoritih: SLON IN SADEŽ
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43491-poletje-v-minoritih-slon-in-sadez
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43491-poletje-v-minoritih-slon-in-sadez
+END:VEVENT
+END:VCALENDAR

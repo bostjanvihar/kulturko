@@ -1,43 +1,43 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Minoritska cerkev — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:ceadaff7d40a3fb7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T193000
-DTEND;TZID=Europe/Ljubljana:20260825T213000
-SUMMARY:V dobri družbi
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-END:VEVENT
-BEGIN:VEVENT
-UID:742f8cb777c23841@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260826T191500
-DTEND;TZID=Europe/Ljubljana:20260826T211500
-SUMMARY:Zaupni pogovori
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-END:VEVENT
-BEGIN:VEVENT
-UID:df006c386bb2646d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260827T193000
-DTEND;TZID=Europe/Ljubljana:20260827T213000
-SUMMARY:Nasvidenje\, poletje
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
-END:VEVENT
-BEGIN:VEVENT
-UID:4eb8fa02c10bb249@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T193000
-DTEND;TZID=Europe/Ljubljana:20260926T213000
-SUMMARY:ND MB: Z Balkana z ljubeznijo
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoritska cerkev — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ceadaff7d40a3fb7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260825T193000
+DTEND;TZID=Europe/Ljubljana:20260825T213000
+SUMMARY:V dobri družbi
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
+URL:https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
+END:VEVENT
+BEGIN:VEVENT
+UID:742f8cb777c23841@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T191500
+DTEND;TZID=Europe/Ljubljana:20260826T211500
+SUMMARY:Zaupni pogovori
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
+URL:https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
+END:VEVENT
+BEGIN:VEVENT
+UID:df006c386bb2646d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260827T193000
+DTEND;TZID=Europe/Ljubljana:20260827T213000
+SUMMARY:Nasvidenje\, poletje
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
+URL:https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb8fa02c10bb249@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T193000
+DTEND;TZID=Europe/Ljubljana:20260926T213000
+SUMMARY:ND MB: Z Balkana z ljubeznijo
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+END:VEVENT
+END:VCALENDAR
