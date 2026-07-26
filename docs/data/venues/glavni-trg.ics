@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Glavni trg — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e54de811d7dc6b0c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T200000
+DTEND;TZID=Europe/Ljubljana:20260904T220000
+SUMMARY:Balet pod zvezdami
+LOCATION:Glavni trg
+DESCRIPTION:Balet pod zvezdami  nastaja v koprodukciji Opere in Baleta Slovenskega narodnega gledališča Maribor\, Narodnega doma Maribor\, Društva EZL EK in Zavoda za turizem Maribor pod častnim pokroviteljstvom Mestne občine Maribor\, ki želijo ob začetku nove gledališke sezone meščankam in meščanom podariti nepo https://nd-mb.si/dogodek/balet-pod-zvezdami/
+URL:https://nd-mb.si/dogodek/balet-pod-zvezdami/
+END:VEVENT
+END:VCALENDAR

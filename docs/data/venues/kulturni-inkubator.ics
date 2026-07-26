@@ -5,51 +5,6 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5996cc1a2ba86b1d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260715T170000
-DTEND;TZID=Europe/Ljubljana:20260715T183000
-SUMMARY:Podporne skupine za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-07-15/
-URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-07-15/
-END:VEVENT
-BEGIN:VEVENT
-UID:6e75e954c99d205c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260716T180000
-DTEND;TZID=Europe/Ljubljana:20260716T220000
-SUMMARY:Druženje ob barvanju 3D figuric in namiznih igrah
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDELAVNICA\nMi barvamo [3d tiskane figurice] + namizne igre\nČetrtek\, 16. julij 2026 // 18.00-22.00 // Kulturni inkubator\nMKC Maribor vabi v Kulturni inkubator na brezplačno delavnico\, na kateri bodo udeleženci lahko barvali 3D tiskane figurice\, igrali namizne igre\, se pogovarjali o 3D tisku in pr https://mladimaribor.si/dogodek/druzenje-ob-barvanju-3d-figuric-in-namiznih-igrah-2026-07-16-18-00-00-2026-07-16-22-00-00-2/
-URL:https://mladimaribor.si/dogodek/druzenje-ob-barvanju-3d-figuric-in-namiznih-igrah-2026-07-16-18-00-00-2026-07-16-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:d465c548fddff430@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260716T190000
-DTEND;TZID=Europe/Ljubljana:20260716T210000
-SUMMARY:Mladinski družabni večer: Osnove bonsajizma za mlade začetnike
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nMLADINSKI DRUŽABNI VEČER 7/2026\nOsnove bonsajizma za mlade začetnike\nČetrtek\, 16. julij 2026 // 19:00 // Kulturni inkubator\nTokratni mladinski družabni večer vabi na delavnico spoznavanja z bonsaji in Nino\, ki bo v četetek\, 16. julija 2026\, ob 19. uri v Kulturnem inkubatorju.\nAli veš\, da “bonsa https://mladimaribor.si/dogodek/osnove-bonsajizma-za-mlade-zacetnike-2026-07-16-19-00-00-2026-07-16-21-00-00-2/
-URL:https://mladimaribor.si/dogodek/osnove-bonsajizma-za-mlade-zacetnike-2026-07-16-19-00-00-2026-07-16-21-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:c3d8829c8f45b26f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260717T180000
-DTEND;TZID=Europe/Ljubljana:20260717T220000
-SUMMARY:D&D druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v juliju 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pripra https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-17-18-00-00-2026-07-17-22-00-00-2/
-URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-07-17-18-00-00-2026-07-17-22-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:93eeaa09108f2285@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T170000
-DTEND;TZID=Europe/Ljubljana:20260719T200000
-SUMMARY:ANALOGNICE: Kolaž
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nPOLETNE USTVARJALNE NEDELJE\nANALOGNICE\nVsako nedeljo v juliju in avgustu // 17.00-20.00 // Kulturni inkubator\nPoletna šola Kreativarne bo nekoliko bolj analogna. Analognice so serija poletnih nedelj za ustvarjanje z rokami v organizaciji Mladinskega kulturnega centra Maribor in izvedbi Kreativa https://mladimaribor.si/dogodek/analognice-kolaz-2026-07-19-17-00-00-2026-07-19-20-00-00-2/
-URL:https://mladimaribor.si/dogodek/analognice-kolaz-2026-07-19-17-00-00-2026-07-19-20-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ad2cd5152c7e20bc@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260720T170000
 DTEND;TZID=Europe/Ljubljana:20260724T200000

@@ -5,24 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6d55547cd015e88b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260718T100000
-DTEND;TZID=Europe/Ljubljana:20260718T120000
-SUMMARY:Poletni Art kamp • Svetlica
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-svetlica/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-svetlica/
-END:VEVENT
-BEGIN:VEVENT
-UID:0fe490d0b44f664f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T100000
-DTEND;TZID=Europe/Ljubljana:20260719T120000
-SUMMARY:Poletni Art kamp • Zvočna kuhna
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-zvocna-kuhna/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-zvocna-kuhna/
-END:VEVENT
-BEGIN:VEVENT
 UID:3802e682333b1c96@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260725T100000
 DTEND;TZID=Europe/Ljubljana:20260725T120000

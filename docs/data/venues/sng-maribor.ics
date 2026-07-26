@@ -5,24 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:d1c48ff11ab5d682@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260718T213000
-DTEND;TZID=Europe/Ljubljana:20260718T233000
-SUMMARY:Svatba in Posvetitev pomladi
-LOCATION:SNG Maribor
-DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-END:VEVENT
-BEGIN:VEVENT
-UID:7311f9c49af51cfa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260719T213000
-DTEND;TZID=Europe/Ljubljana:20260719T233000
-SUMMARY:Svatba in Posvetitev pomladi
-LOCATION:SNG Maribor
-DESCRIPTION:Edward Clug\, Igor Stravinski · 77. Dubrovačke ljetne igre\, Terasa trdnjave Revelin\, Dubrovnik https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-URL:https://www.sng-mb.si/event/svatba-posvetitev-pomladi/
-END:VEVENT
-BEGIN:VEVENT
 UID:1d24b28a16e02bba@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260807T213000
 DTEND;TZID=Europe/Ljubljana:20260807T233000
@@ -95,15 +77,6 @@ DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-si
 URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
 END:VEVENT
 BEGIN:VEVENT
-UID:028c6762f093843a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260916T193000
-DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:SIMFONIČNI CIKEL
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
-END:VEVENT
-BEGIN:VEVENT
 UID:324e7adf5106a138@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T193000
 DTEND;TZID=Europe/Ljubljana:20260916T213000
@@ -111,6 +84,15 @@ SUMMARY:OPERA IN SIMFONIKI
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
 URL:https://sngmb.mojekarte.si/si/opera-in-simfoniki/paketi-1213183.html
+END:VEVENT
+BEGIN:VEVENT
+UID:028c6762f093843a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T193000
+DTEND;TZID=Europe/Ljubljana:20260916T213000
+SUMMARY:SIMFONIČNI CIKEL
+LOCATION:SNG Maribor
+DESCRIPTION: https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
+URL:https://sngmb.mojekarte.si/si/simfonicni-cikel/paketi-1213182.html
 END:VEVENT
 BEGIN:VEVENT
 UID:993ab11e51001046@kulturko

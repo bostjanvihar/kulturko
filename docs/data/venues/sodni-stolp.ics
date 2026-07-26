@@ -5,15 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:78825267f68f51a9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260723T180000
-DTEND;TZID=Europe/Ljubljana:20260723T200000
-SUMMARY:Otvoritev razstave • Špela Ambrož: Med sistemom in svobodo
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/otvoritev-razstave-spela-ambroz-med-sistemom-in-svobodo
-URL:https://www.minoriti.si/dogodki/otvoritev-razstave-spela-ambroz-med-sistemom-in-svobodo
-END:VEVENT
-BEGIN:VEVENT
 UID:504505957f0823cd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T193000
 DTEND;TZID=Europe/Ljubljana:20260814T213000

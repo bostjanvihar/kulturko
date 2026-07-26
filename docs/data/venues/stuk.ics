@@ -5,6 +5,15 @@ X-WR-CALNAME:ŠTUK — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:c88b681270f45085@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T180000
+DTEND;TZID=Europe/Ljubljana:20260814T200000
+SUMMARY:KMŠ X NORD SPLAV
+LOCATION:ŠTUK
+DESCRIPTION:Ker očitno en ni bil dovolj\, gremo (za ziher) spet na splav! 😝🌊 KMŠ x Nord splav se avgusta vrača na Dravsko nabrežje. 🔥 Za vse\, kar rabi uspešen splav\, bo poskrbljeno. Za pit? Nord. 💦 Za raztur? Rotor Motor. 🔥 Za vprašljive življenjske odločitve? To pa je na tebi. Po po po pristanku pa zabave še ne https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
+URL:https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
+END:VEVENT
+BEGIN:VEVENT
 UID:fa918fc357b3e3e8@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260919T190000
 DTEND;TZID=Europe/Ljubljana:20260919T210000

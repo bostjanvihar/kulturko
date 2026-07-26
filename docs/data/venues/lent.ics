@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Lent — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fe1d7e344285dc12@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T180000
+DTEND;TZID=Europe/Ljubljana:20260814T193000
+SUMMARY:KMŠ X NORD SPLAV
+LOCATION:Lent
+DESCRIPTION:Ker očitno en ni bil dovolj\, gremo (za ziher) spet na splav! 😝🌊\nKMŠ x Nord splav se avgusta vrača na Dravsko nabrežje. 🔥\nZa vse\, kar rabi uspešen splav\, bo poskrbljeno. Za pit? Nord. 💦 Za raztur? Rotor Motor. 🔥 Za vprašljive življenjske odločitve? To pa je na tebi.\nPo po po pristanku pa zabave še ne https://mladimaribor.si/dogodek/kms-x-nord-splav-2026-08-14-00-00-00/
+URL:https://mladimaribor.si/dogodek/kms-x-nord-splav-2026-08-14-00-00-00/
+END:VEVENT
+END:VCALENDAR
