@@ -13,4 +13,13 @@ LOCATION:Botanični vrt
 DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=pocitniski-lov-na-zaklad
 URL:https://botanicnivrt.um.si/?ajde_events=pocitniski-lov-na-zaklad
 END:VEVENT
+BEGIN:VEVENT
+UID:0c04d74b01805366@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260906T160000
+DTEND;TZID=Europe/Ljubljana:20260906T180000
+SUMMARY:Sneguljčica – glasbeno plesna pravljica
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=sneguljcica-glasbeno-plesna-pravljica
+URL:https://botanicnivrt.um.si/?ajde_events=sneguljcica-glasbeno-plesna-pravljica
+END:VEVENT
 END:VCALENDAR

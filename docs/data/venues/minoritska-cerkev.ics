@@ -32,6 +32,15 @@ DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
 URL:https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
 END:VEVENT
 BEGIN:VEVENT
+UID:42a1f4265ff94ac7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T191500
+DTEND;TZID=Europe/Ljubljana:20260826T211500
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Zaupni pogovori
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zaupni-pogovori
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zaupni-pogovori
+END:VEVENT
+BEGIN:VEVENT
 UID:df006c386bb2646d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260827T193000
 DTEND;TZID=Europe/Ljubljana:20260827T213000
@@ -39,5 +48,23 @@ SUMMARY:Nasvidenje\, poletje
 LOCATION:Minoritska cerkev
 DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
 URL:https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
+END:VEVENT
+BEGIN:VEVENT
+UID:114fd14f165fb0fd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260827T193000
+DTEND;TZID=Europe/Ljubljana:20260827T213000
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Zaključni večer: Nasvidenje\, poletje
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb8fa02c10bb249@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T193000
+DTEND;TZID=Europe/Ljubljana:20260926T213000
+SUMMARY:ND MB: Z Balkana z ljubeznijo
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
 END:VEVENT
 END:VCALENDAR

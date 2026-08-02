@@ -5,15 +5,6 @@ X-WR-CALNAME:Minoriti — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0fac184266683806@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T200000
-DTEND;TZID=Europe/Ljubljana:20260722T220000
-SUMMARY:Etno Histeria World Orchestra
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/etno-histeria
-URL:https://www.minoriti.si/dogodki/etno-histeria
-END:VEVENT
-BEGIN:VEVENT
 UID:f533e8502cc0374f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T200000
 DTEND;TZID=Europe/Ljubljana:20260814T220000

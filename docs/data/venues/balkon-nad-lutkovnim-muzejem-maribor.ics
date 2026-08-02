@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Balkon nad Lutkovnim muzejem Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bec66e2fbb723097@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260825T210000
+DTEND;TZID=Europe/Ljubljana:20260825T230000
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Nočni utrinki
+LOCATION:Balkon nad Lutkovnim muzejem Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-nocni-utrinki
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-nocni-utrinki
+END:VEVENT
+END:VCALENDAR

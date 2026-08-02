@@ -1,25 +1,34 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Pod hrastom — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:a23b65f0864ad90c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260723T200000
-DTEND;TZID=Europe/Ljubljana:20260723T220000
-SUMMARY:Poletje v Minoritih: 울림 (oollim) trio
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43481-poletje-v-minoritih-oollim-trio
-END:VEVENT
-BEGIN:VEVENT
-UID:072b27646ca75765@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260724T200000
-DTEND;TZID=Europe/Ljubljana:20260724T220000
-SUMMARY:Poletje v Minoritih: ABBA Night
-LOCATION:Pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-abba-night
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pod hrastom — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e84c2559cd4378f2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260807T200000
+DTEND;TZID=Europe/Ljubljana:20260807T220000
+SUMMARY:Poletje v Minoritih: I LOVE 80's
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-i-love-80s
+URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-i-love-80s
+END:VEVENT
+BEGIN:VEVENT
+UID:56c4b88f147b77fc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T180000
+DTEND;TZID=Europe/Ljubljana:20260826T200000
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Za velike in male (družinski koncert)
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-za-velike-in-male-druzinski-koncert
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-za-velike-in-male-druzinski-koncert
+END:VEVENT
+BEGIN:VEVENT
+UID:5198ba3845832afe@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T200000
+DTEND;TZID=Europe/Ljubljana:20260829T220000
+SUMMARY:Poletje v Minoritih: JUGOSLOVENKA
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/jugoslovenka
+URL:https://www.minoriti.si/dogodki/jugoslovenka
+END:VEVENT
+END:VCALENDAR

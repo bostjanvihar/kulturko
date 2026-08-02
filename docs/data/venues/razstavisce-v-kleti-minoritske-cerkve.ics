@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Razstavišče v kleti Minoritske cerkve — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:b049beb3816d7ba1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T200000
+DTEND;TZID=Europe/Ljubljana:20260826T220000
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Razstava in predstavitev nosilcev zvoka
+LOCATION:Razstavišče v kleti Minoritske cerkve
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-razstava-in-predstavitev-nosilcev-zvok
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-razstava-in-predstavitev-nosilcev-zvok
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ea48aa4d8544a0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T203000
+DTEND;TZID=Europe/Ljubljana:20260826T223000
+SUMMARY:Festival komorne glasbe Odmev poletja 2026 • Sam v sobi
+LOCATION:Razstavišče v kleti Minoritske cerkve
+DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-sam-v-sobi
+URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-sam-v-sobi
+END:VEVENT
+END:VCALENDAR

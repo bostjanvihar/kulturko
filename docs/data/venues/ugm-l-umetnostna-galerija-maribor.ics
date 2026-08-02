@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:UGM l Umetnostna galerija Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c91b684135f5eaea@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260921T193000
+DTEND;TZID=Europe/Ljubljana:20260921T213000
+SUMMARY:ND MB: Usodna privlačnost
+LOCATION:UGM l Umetnostna galerija Maribor
+DESCRIPTION: https://nd-mb.si/dogodek/usodna-privlacnost/
+URL:https://nd-mb.si/dogodek/usodna-privlacnost/
+END:VEVENT
+END:VCALENDAR
