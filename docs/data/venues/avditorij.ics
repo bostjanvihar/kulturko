@@ -5,33 +5,6 @@ X-WR-CALNAME:Avditorij — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6b0d48b075deb979@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260805T210000
-DTEND;TZID=Europe/Ljubljana:20260805T230000
-SUMMARY:Letni kino Minoriti: Junakinja (Heldin)
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43546-letni-kino-minoriti-junakinja-heldin
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43546-letni-kino-minoriti-junakinja-heldin
-END:VEVENT
-BEGIN:VEVENT
-UID:7c9cb25d570b5e9e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T210000
-DTEND;TZID=Europe/Ljubljana:20260808T230000
-SUMMARY:Letni kino Minoriti: Palestina 36 (Palestine 36)
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43493-letni-kino-minoriti-palestina-36-palestine-36
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43493-letni-kino-minoriti-palestina-36-palestine-36
-END:VEVENT
-BEGIN:VEVENT
-UID:9bffe7cfa6f41daa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260812T210000
-DTEND;TZID=Europe/Ljubljana:20260812T230000
-SUMMARY:Letni kino Minoriti: Grda polsestra (Den stygge stesøsteren)
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43495-letni-kino-minoriti-grda-polsestra-den-stygge-stes-steren
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43495-letni-kino-minoriti-grda-polsestra-den-stygge-stes-steren
-END:VEVENT
-BEGIN:VEVENT
 UID:19a7f14e237a8740@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T200000
 DTEND;TZID=Europe/Ljubljana:20260814T220000

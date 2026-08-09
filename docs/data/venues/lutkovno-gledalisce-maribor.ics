@@ -5,22 +5,13 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c68ee2257d99aac3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T100000
-DTEND;TZID=Europe/Ljubljana:20260814T120000
-SUMMARY:37. Poletni lutkovni pristan
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/poletni-lutkovni-pristan/
-URL:https://www.lg-mb.si/poletni-lutkovni-pristan/
-END:VEVENT
-BEGIN:VEVENT
-UID:7531c96e59cc49fa@kulturko
+UID:7eaee23f749a9ddf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T170000
 DTEND;TZID=Europe/Ljubljana:20260814T190000
 SUMMARY:Ustvarjalnica na otoku - Zverinice iz Rezije
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43557-ustvarjalnica-na-otoku-zverinice-iz-rezije
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43557-ustvarjalnica-na-otoku-zverinice-iz-rezije
+DESCRIPTION: https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
+URL:https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
 END:VEVENT
 BEGIN:VEVENT
 UID:893171ea0f76637d@kulturko

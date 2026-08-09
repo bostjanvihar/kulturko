@@ -10,8 +10,17 @@ DTSTART;TZID=Europe/Ljubljana:20260807T210000
 DTEND;TZID=Europe/Ljubljana:20260807T230000
 SUMMARY:peKARAOKE
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/pekaraoke-7.8.2026/
-URL:https://www.pekarna.net/napovednik/pekaraoke-7.8.2026/
+DESCRIPTION:\n\nNekatere stvari se preprosto ne spreminjajo. In prav je tako.\nEnkrat na mesec se v MC Pekarna zbere dobra družba\, prižgejo se reflektorji\, mikrofon začne krožiti in večer dobi svoj ritem. Nekdo odpre z legendarno klasiko\, drugi preseneti z nepričakovanim hitom\, tretji pa poskrbi za nastop\, o kater https://mladimaribor.si/dogodek/pekaraoke-2026-08-07-21-00-00-2026-08-07-23-00-00/
+URL:https://mladimaribor.si/dogodek/pekaraoke-2026-08-07-21-00-00-2026-08-07-23-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:31e8c4ff0bea19ac@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T200000
+DTEND;TZID=Europe/Ljubljana:20260918T220000
+SUMMARY:GUILTY OF JOY + Match! + Šesti
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/guilty-of-joy-match-sesti/
+URL:https://www.pekarna.net/napovednik/guilty-of-joy-match-sesti/
 END:VEVENT
 BEGIN:VEVENT
 UID:be8ba4e8220c3f7e@kulturko
@@ -19,7 +28,34 @@ DTSTART;TZID=Europe/Ljubljana:20260919T210000
 DTEND;TZID=Europe/Ljubljana:20260919T230000
 SUMMARY:TRYGLAV + support
 LOCATION:MC Pekarna
+DESCRIPTION:\nBrezkompromisen\, atmosferičen in vizualno dodelan\, Tryglav stopa med vodilna imena nove generacije evropskega ekstremnega metala.\n[embedded content]\nTryglav je hrvaški black metal projekt\, ki ga je leta 2018 ustanovil multiinstrumentalist Boris Behara. Po letih delovanja v skupinah\, ki niso imele e https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:42a359df991dd48c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T210000
+DTEND;TZID=Europe/Ljubljana:20260919T230000
+SUMMARY:TRYGLAV + Kresnik + Morywa
+LOCATION:MC Pekarna
 DESCRIPTION: https://www.pekarna.net/napovednik/tryglav-support-2026/
 URL:https://www.pekarna.net/napovednik/tryglav-support-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:503fed48e3267853@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261009T200000
+DTEND;TZID=Europe/Ljubljana:20261009T220000
+SUMMARY:YAWNING MAN (US)\, Hrmülja (HR)\, A Gram trip (HR)
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/yawning-man-us-hrmulja-hr-a-gram-trip-hr/
+URL:https://www.pekarna.net/napovednik/yawning-man-us-hrmulja-hr-a-gram-trip-hr/
+END:VEVENT
+BEGIN:VEVENT
+UID:158334077a07843d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T210000
+DTEND;TZID=Europe/Ljubljana:20261016T230000
+SUMMARY:KRANKŠVESTER
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/kranksvester/
+URL:https://www.pekarna.net/napovednik/kranksvester/
 END:VEVENT
 END:VCALENDAR

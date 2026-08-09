@@ -1,52 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vetrinjski dvor — dogodki
+X-WR-CALNAME:Vetrinjski Dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9260da591e431140@kulturko
+UID:e19707590f507e16@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260810T073000
+DTEND;TZID=Europe/Ljubljana:20260810T093000
+SUMMARY:Ustvarjalno varstvo na MARSu
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Veseli smo\, da vas lahko ponovno povabimo k brezplačnemu poletnemu varstvu v Mariboru\, ki ga za vaše otroke organiziramo v sklopu projekta »Aktivnosti kvalitetnega preživljanja prostega časa otrok z namenom lažjega usklajevanja poklicnega in družinskega življenja 2026«\, ki ga financira Ministrstvo z https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+URL:https://nd-mb.si/dogodek/ustvarjalno-varstvo-na-marsu/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1f49d21279470d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260813T190000
 DTEND;TZID=Europe/Ljubljana:20260813T210000
-SUMMARY:Koncert Piazzolleky Tango Orquesta + milonga
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Doživite nepozabno strast\, virtuoznost in nostalgijo argentinskega tanga z vrhunskim kvintetom Piazzolleky. Pridružite se nam na čustveni glasbeni izkušnji\, kjer tradicija sreča sodobnost na najvišji ravni.\nNastopi Piazzollekov so vedno več kot koncert – so čustvena in energijska izkušnja\, kjer virt https://mladimaribor.si/dogodek/koncert-piazzolleky-tango-orquesta-milonga/
-URL:https://mladimaribor.si/dogodek/koncert-piazzolleky-tango-orquesta-milonga/
-END:VEVENT
-BEGIN:VEVENT
-UID:82158d1b6270dff6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T200000
-DTEND;TZID=Europe/Ljubljana:20260829T213000
-SUMMARY:Koncert Maribor Music Society (MMS)
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Odkrijte sveže in edinstvogene glasbene svetove ter nenavadne zasedbe v izvedbi inovativnega kolektiva MMS. Pridružite se nam na navdihujočem večeru raziskovanja redko slišanih kompozicij in vrhunske klasične ustvarjalnosti.\nGlasbeniki\, sploh tisti bolj radovedni\, se pogosto soočajo tudi s težavo iz https://mladimaribor.si/dogodek/koncert-maribor-music-society-mms/
-URL:https://mladimaribor.si/dogodek/koncert-maribor-music-society-mms/
-END:VEVENT
-BEGIN:VEVENT
-UID:13bf6a0c9dc64b22@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T200000
-DTEND;TZID=Europe/Ljubljana:20260922T213000
-SUMMARY:Razjasnitve samoodtujevanja – Tilen Lebar
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Prepustite se eksperimentalnemu zvočnemu raziskovanju ter meji izvedljivega na edinstvenem solo večeru prepariranega saksofona in elektroakustike. Doživite preobrazbo inštrumenta\, ki skozi spektralni pristop in filozofski navdih ustvarja popolnoma nove zvočne svetove.\nPosvečanje različnim preparacij https://mladimaribor.si/dogodek/razjasnitve-samoodtujevanja-tilen-lebar/
-URL:https://mladimaribor.si/dogodek/razjasnitve-samoodtujevanja-tilen-lebar/
-END:VEVENT
-BEGIN:VEVENT
-UID:1bb7c5450c38e137@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T200000
-DTEND;TZID=Europe/Ljubljana:20261023T213000
-SUMMARY:Koncert Tria Tacet
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Raziščite bogastvo stare glasbe ter baročne elegancije v navdihujoči izvedbi uveljavljenega ansambla Tacet Ensemble. Pridružite se nam na čudovitem glasbenem potovanju\, kjer zgodovinska izvajalska praksa in vrhunska umetniška dediščina oživita na sodobnem odru.\nZasedba Tacet Ensemble želi s svojim d https://mladimaribor.si/dogodek/koncert-tria-tacet/
-URL:https://mladimaribor.si/dogodek/koncert-tria-tacet/
-END:VEVENT
-BEGIN:VEVENT
-UID:41612e7733695733@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261121T200000
-DTEND;TZID=Europe/Ljubljana:20261121T213000
-SUMMARY:Koncert Tria Firšt
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Doživite nepozaben preplet virtuoznosti\, džezovske invencije in glasbenega humorja v edinstveni izvedbi dinamičnega Tria Firšt. Pridružite se nam na zabavnem in navdihujočem glasbeno-gledališkem sprehodu\, kjer klasična tradicija sreča elemente stand-upa.\nNastopi tria Firšt navdušujejo občinstva v Sl https://mladimaribor.si/dogodek/koncert-tria-first/
-URL:https://mladimaribor.si/dogodek/koncert-tria-first/
+SUMMARY:Klasika! Tango Orquesta Piazzolleky + milonga
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Čaka nas čaroben večer z edinim tango orkestrom v tem delu Evrope\, pridružili pa se bodo tudi ljubitelji tango plesa.\n\nNastopi Piazzollekov so vedno več kot koncert – so čustvena in energijska izkušnja\, kjer virtuoznost sreča strast\, preciznost pa ne izgubi čutnosti. Njihova glasba občinstvo prevz https://nd-mb.si/dogodek/tango-orquesta-piazzolleky-milonga-v-vetrinjcu/
+URL:https://nd-mb.si/dogodek/tango-orquesta-piazzolleky-milonga-v-vetrinjcu/
 END:VEVENT
 END:VCALENDAR

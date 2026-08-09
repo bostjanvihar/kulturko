@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vetrinjc - BarCoda — dogodki
+X-WR-CALNAME:Vetrinjc-BarCoda — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:968696a8de51696b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260724T203000
-DTEND;TZID=Europe/Ljubljana:20260724T223000
-SUMMARY:Tin Vele kvartet
-LOCATION:Vetrinjc - BarCoda
-DESCRIPTION: https://www.facebook.com/events/960876686966538/
-URL:https://www.facebook.com/events/960876686966538/
+UID:9ca94b796380c0a1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260808T140000
+DTEND;TZID=Europe/Ljubljana:20260808T235900
+SUMMARY:10-urna milonga Vetrinjc
+LOCATION:Vetrinjc-BarCoda
+DESCRIPTION:Toplo vabljeni na drugo izdajo 10-urne Mariborske maratonske milonge\n⭐️10 ur plesa\n🎶2 dj-a\n🥂pijača in prigrizki\n2 DJ seta:\n14:00-19:00 TBA\n19:00-24:00 TBA\nPlešemo v dvorani s parketom in odlično akustiko.\n📍velika dvorana Vetrinjskega Dvora\, Vetrinjska ulica 30\, Maribor\n(čez dvorišče in po stopnicah  https://mladimaribor.si/dogodek/10-urna-milonga-vetrinjc/
+URL:https://mladimaribor.si/dogodek/10-urna-milonga-vetrinjc/
 END:VEVENT
 END:VCALENDAR

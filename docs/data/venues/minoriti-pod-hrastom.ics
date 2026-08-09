@@ -5,24 +5,6 @@ X-WR-CALNAME:Minoriti pod hrastom — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a8a9f298ba3bd8e6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260730T200000
-DTEND;TZID=Europe/Ljubljana:20260730T220000
-SUMMARY:Poletje v Minoritih: Teo Collori & Jaki Potezi
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.facebook.com/events/1401391262007620/
-URL:https://www.facebook.com/events/1401391262007620/
-END:VEVENT
-BEGIN:VEVENT
-UID:aa697070c120d935@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260731T200000
-DTEND;TZID=Europe/Ljubljana:20260731T220000
-SUMMARY:Poletje v Minoritih: Tetkine radosti
-LOCATION:Minoriti pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/tetkine-radosti
-URL:https://www.minoriti.si/dogodki/tetkine-radosti
-END:VEVENT
-BEGIN:VEVENT
 UID:d752c50220111523@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260820T200000
 DTEND;TZID=Europe/Ljubljana:20260820T220000

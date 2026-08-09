@@ -5,12 +5,21 @@ X-WR-CALNAME:Avditorij Lutkovnega gledališča Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ab7af59b6ac61868@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260722T200000
-DTEND;TZID=Europe/Ljubljana:20260722T200000
-SUMMARY:Poletje v Minoritih: Etno Histeria
+UID:c1476fbca89e2242@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260812T210000
+DTEND;TZID=Europe/Ljubljana:20260812T210000
+SUMMARY:Letni kino Minoriti: Grda polsestra (Den stygge stesøsteren)
 LOCATION:Avditorij Lutkovnega gledališča Maribor
-DESCRIPTION:Etno Histeria World Orchestra je mednarodni projekt\, ki že 20 let združuje vrhunske glasbenike s celega sveta. Po intenzivnem tednu vzajemnega učenja in ustvarjanja v slovenski Istri se v edinstveni zasedbi odpravi na turnejo in na petih koncertih postreže z okusno mineštro skladb iz vsega sveta\, ki https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
-URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-etno-histeria/
+DESCRIPTION:Lucidna grozljivka\, ki pravljico o Pepelki postavi na glavo: lepota je bolečina.\nEmilie Blichfeldt / Norveška / 2025 / 109 min / norveščina\, poljščina in švedščina s slo. in ang. podnapisi\nMariborska premiera\nGrda polsestra je temačen preobrat klasične zgodbe o Pepelki. Sledi Elviri\, ki je pripravlj https://mladimaribor.si/dogodek/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren/
+URL:https://mladimaribor.si/dogodek/letni-kino-minoriti-grda-polsestra-den-stygge-stesosteren/
+END:VEVENT
+BEGIN:VEVENT
+UID:2397d3690cff1e5a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T100000
+DTEND;TZID=Europe/Ljubljana:20260815T100000
+SUMMARY:Zverinice iz rezije
+LOCATION:Avditorij Lutkovnega gledališča Maribor
+DESCRIPTION:Zgodovinsko-spominski dan\, posvečen Tinetu Varlu\, bomo začeli s projekcijo dveh delov lutkovne televizijske nanizanke z naslovoma Grdina v lisičji hišici in Volk\, petelin in botra lisičica. Slavne Zverinice iz Rezije so se zapisale v spomin številnih generacij otrok\, danes že odraslih\, saj jih vse o https://mladimaribor.si/dogodek/zverinice-iz-rezije/
+URL:https://mladimaribor.si/dogodek/zverinice-iz-rezije/
 END:VEVENT
 END:VCALENDAR

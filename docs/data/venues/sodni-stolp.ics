@@ -5,6 +5,15 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:c921e4a317f87bb4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T180000
+DTEND;TZID=Europe/Ljubljana:20260814T200000
+SUMMARY:Razstava - FLOAT2GAZA
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44085-razstava-float2gaza
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44085-razstava-float2gaza
+END:VEVENT
+BEGIN:VEVENT
 UID:504505957f0823cd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T193000
 DTEND;TZID=Europe/Ljubljana:20260814T213000

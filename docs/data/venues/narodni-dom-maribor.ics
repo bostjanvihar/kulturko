@@ -5,6 +5,42 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:0d0e328cdf309b58@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260817T100000
+DTEND;TZID=Europe/Ljubljana:20260817T120000
+SUMMARY:Soutripanje
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Slikarstvo kot učenje vračanja v tiho središče.\n\n In morda je tudi zato slikanje zdravilno in oživljajoče. \n\nNa razstavi v Vetrinjskem dvoru svoja dela predstavlja skupina šestnajstih ljubiteljskih slikark in slikar\, vsi so člani Kulturnega društva Studenci-Maribor\, Sekcije Zarja. Radost slikars https://nd-mb.si/dogodek/soutripanje/
+URL:https://nd-mb.si/dogodek/soutripanje/
+END:VEVENT
+BEGIN:VEVENT
+UID:af682230976a4996@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T200000
+DTEND;TZID=Europe/Ljubljana:20260829T220000
+SUMMARY:Klasika! Maribor Music Society
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Čaka nas edinstven večer radovednosti in odkrivanja klasične glasbe v sproščenem vzdušju. \n  \n Glasbeniki\, sploh tisti bolj radovedni\, se pogosto soočajo s težavo izvajanja kompozicij\, napisanih za manj tradicionalne sestave. Klarinetist najde imenitno skladbo za klarinet\, rog in čelo. Skladba je  https://nd-mb.si/dogodek/klasika-maribor-music-society/
+URL:https://nd-mb.si/dogodek/klasika-maribor-music-society/
+END:VEVENT
+BEGIN:VEVENT
+UID:4850c519660ba7c3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T190000
+DTEND;TZID=Europe/Ljubljana:20260904T210000
+SUMMARY:Soutripanje – zatvoritev!
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Vabljeni na slovesno zatvoritev razstave Soutripanja!\nSekcija Zarja KUD Studenci je v avgustu predstavljala dela svojih članic in člana - predstavili so se  Jadranka Golob\, Nadica Iskra\, Marka Hostnik\, Nada Jemenšek\, Anka Kante\, Boža Korbar\, Tinca Lešnik\, Nada Namestnik\, Rozika Ogorevc\, Mateja Ogor https://nd-mb.si/dogodek/soutripanje-zatvoritev/
+URL:https://nd-mb.si/dogodek/soutripanje-zatvoritev/
+END:VEVENT
+BEGIN:VEVENT
+UID:f131b5a009bb8918@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T200000
+DTEND;TZID=Europe/Ljubljana:20260922T220000
+SUMMARY:Klasika! Tilen Lebar: Razjasnitve samoodtujevanja
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Posvečanje različnim preparacijam saksofona in s tem širjenju ali tako imenovanim odtujevanjem zvoka samega inštrumenta mi je v zadnjem desetletju razjasnilo dvoje\; da lahko tako imenovano zvočno sintezo\, ki občasno referira na zunaj - kontekstualne asociacije (npr. tračna žaga za kovino\, delo na gr https://nd-mb.si/dogodek/klasika-tilen-lebar-razjasnitve-samoodtujevanja/
+URL:https://nd-mb.si/dogodek/klasika-tilen-lebar-razjasnitve-samoodtujevanja/
+END:VEVENT
+BEGIN:VEVENT
 UID:9c96443a530d5654@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T150000
 DTEND;TZID=Europe/Ljubljana:20261008T170000
@@ -12,5 +48,23 @@ SUMMARY:Tolkala od blizu
 LOCATION:Narodni dom Maribor
 DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Tolkala so glasbila\, na katera igramo tako\, da z roko ali s paličastimi pripravami (tolkalci) udarjamo nanje. To poimenovanje izhaja iz načina igranja na te inštrumente\, sicer pa  https://nd-mb.si/dogodek/tolkala-od-blizu/
 URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ebef889b2aeb19@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T220000
+SUMMARY:Klasika! Trio Tacet
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Zasedba  Tacet Ensemble  želi s svojim delom predstaviti bogastvo stare glasbe slovenski publiki\, še posebej mlajši generaciji. Z znanjem o historični izvajalski praksi raziskujejo zvok\, različne instrumentacije in ustvarjajo priredbe za različne zasedbe. Zasedba v slovenskem prostoru deluje od leta https://nd-mb.si/dogodek/klasika-trio-tacet/
+URL:https://nd-mb.si/dogodek/klasika-trio-tacet/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a4499e44b9f3b88@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T200000
+DTEND;TZID=Europe/Ljubljana:20261121T220000
+SUMMARY:Klasika!  Trio Firšt
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Nastopi tria Firšt navdušujejo občinstva v Sloveniji\, Srbiji in na Hrvaškem z glasbeno-gledališkim sprehodom čez eklektičen koncertni spored\, ki postavlja nove mejnike tehnične virtuoznosti in džezovske invencije\, norčavo predeluje znane napeve iz repertoarja evropske klasične glasbe in jih povezuje https://nd-mb.si/dogodek/klasika-trio-first/
+URL:https://nd-mb.si/dogodek/klasika-trio-first/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Eksperiment bar — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f5ec9284dc849fae@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T210000
+DTEND;TZID=Europe/Ljubljana:20260815T230000
+SUMMARY:Zoxxan / DJ Mathias / Miss Terious
+LOCATION:Eksperiment bar
+DESCRIPTION: https://www.facebook.com/events/993561477055066/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism
+URL:https://www.facebook.com/events/993561477055066/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism
+END:VEVENT
+END:VCALENDAR

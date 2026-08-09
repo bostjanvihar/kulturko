@@ -5,13 +5,13 @@ X-WR-CALNAME:Pod hrastom — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e84c2559cd4378f2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260807T200000
-DTEND;TZID=Europe/Ljubljana:20260807T220000
-SUMMARY:Poletje v Minoritih: I LOVE 80's
+UID:1b2d1107741528a7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260812T190000
+DTEND;TZID=Europe/Ljubljana:20260812T210000
+SUMMARY:Filmska trivia s Filmologijo VOL. 4
 LOCATION:Pod hrastom
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-i-love-80s
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-i-love-80s
+DESCRIPTION: https://www.minoriti.si/dogodki/filmska-trivia-s-filmologijo-vol-4
+URL:https://www.minoriti.si/dogodki/filmska-trivia-s-filmologijo-vol-4
 END:VEVENT
 BEGIN:VEVENT
 UID:56c4b88f147b77fc@kulturko

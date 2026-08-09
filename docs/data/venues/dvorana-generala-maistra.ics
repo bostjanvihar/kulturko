@@ -5,6 +5,33 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:64d187d80e811958@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260910T180000
+DTEND;TZID=Europe/Ljubljana:20260910T200000
+SUMMARY:Večer v živo: Dejan Sotirov
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nDejan Sotirov\, ustanovitelj društva Mavrični bojevniki\n\n Novi otroci\, novi časi \n\nDejan Sotirov je človek tisočerih talentov\, ki z inovativnimi pristopi pomaga mladim in njihovim dr https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
+URL:https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
+END:VEVENT
+BEGIN:VEVENT
+UID:51d01d0adaa0c021@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260930T180000
+DTEND;TZID=Europe/Ljubljana:20260930T200000
+SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Pripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z Venere po vsem svetu\, je nestrpno čakalo nadaljevanje. Drugi del komedije je končno tu! Povsem nova zgodba\, izvirna\, še  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7610bcc7ae87a7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261007T180000
+DTEND;TZID=Europe/Ljubljana:20261007T200000
+SUMMARY:Večer v živo: Vili Ravnjak
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nVili Ravnjak\, učitelj meditacije in duhovne modrosti\n\n Prebujanje v svetlobo \n\nVili Ravnjak je znani učitelj meditacije in duhovnih znanj. Je dramaturg in avtor več knjig o duhovnos https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
+URL:https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
+END:VEVENT
+BEGIN:VEVENT
 UID:eba650cd47d4cc3a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261014T203000
 DTEND;TZID=Europe/Ljubljana:20261014T223000
@@ -14,6 +41,15 @@ DESCRIPTION:Zasedba Barcelona Gipsy BalKan Orchestra (BGKO) se je po štirinajst
 URL:https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
 END:VEVENT
 BEGIN:VEVENT
+UID:4dd334666d0a38e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T200000
+DTEND;TZID=Europe/Ljubljana:20261027T220000
+SUMMARY:Slovenka
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Zavod "Zimske urice". \n\n \n\nPozor\, prihaja SLOVENKA!\n\nPo dolgih letih življenja na sončni strani Alp je Salome dobila še uradni žig: postala je Slovenka. In ker si tako pomembna prelomnica zasluži  https://nd-mb.si/dogodek/slovenka/
+URL:https://nd-mb.si/dogodek/slovenka/
+END:VEVENT
+BEGIN:VEVENT
 UID:abd641fcee32d426@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261123T190000
 DTEND;TZID=Europe/Ljubljana:20261123T210000
@@ -21,5 +57,14 @@ SUMMARY:Penziči
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Na mladih svet stoji\, »penziči« so ga pa zgradil.\n\nJaka Šraufciger oz. Vinko Šimek se vrača na slovenske odre\, Boris Kobal tudi\, Franci Kek bo prvič nastopil kot stand-up komik\, Boštjan Meglič – Peška pa je poštarsko uniformo za nekaj časa obesil v omaro. Štiri ikone slovenske komedije\, ki že dese https://nd-mb.si/dogodek/penzici-3/
 URL:https://nd-mb.si/dogodek/penzici-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:45f586d88513ae13@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T200000
+DTEND;TZID=Europe/Ljubljana:20261126T220000
+SUMMARY:Trio Vivere
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nMatjaž Robavs\, Aljaž Farasin in Rok Ferenčak – so izjemni vokalisti s profesionalno izobrazbo in dolgoletnimi izkušnjami v svetu operne\, koncertne in zabavne glasbe. Izvajajo lastne avt https://nd-mb.si/dogodek/trio-vivere-2/
+URL:https://nd-mb.si/dogodek/trio-vivere-2/
 END:VEVENT
 END:VCALENDAR

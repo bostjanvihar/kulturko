@@ -5,13 +5,13 @@ X-WR-CALNAME:Dom ustvarjalnosti mladih (DUM) Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cede206c98b8820c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260720T090000
-DTEND;TZID=Europe/Ljubljana:20260724T170000
-SUMMARY:Počitnice v Mariboru\, 4. teden
+UID:aada9e001294e1a2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260803T080000
+DTEND;TZID=Europe/Ljubljana:20260807T170000
+SUMMARY:Počitnice v Mariboru\, 6. teden
 LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Nov teden počitnic in nove dogodivščine z ZPM Maribor\nZPM Maribor – julij 2026\n[1]\nPozdravljeni prijatelji mladine!\nCeloten program poletnih počitnic je objavljen na naši spletni strani\,\nv nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, tudi ta\nteden bo poln raziskovanja\, ustvarjanja i https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
-URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-4-teden/
+DESCRIPTION:\n\n\n\n\n\n\n\n\n\nPozdravljeni prijatelji mladine!\nSmo na polovici počitniških dni\, avgust je pred vrati\, prav tako zanimive aktivnosti!\nPreden pokukamo v program prihajajočega tedna\, sporočamo\, da so za 6. izmeno letovanja v VIRC Poreč še na voljo prosta mesta. Če želite otroku omogočiti nepozabne počitnic https://mladimaribor.si/dogodek/pocitnice-v-mariboru-5-teden/
+URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-5-teden/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e7d59439df7e4ef@kulturko

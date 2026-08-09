@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kulturna četrt Židovska — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:562dfbf502eb21e0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T150000
+DTEND;TZID=Europe/Ljubljana:20260823T180000
+SUMMARY:Pridi na BALKON
+LOCATION:Kulturna četrt Židovska
+DESCRIPTION:\n\n\n\n\nSKUPNI DOGODEK KULTURNE ČETRTI ŽIDOVSKA\nPRIDI NA BALKON\nNedelja\, 23. avgust 2026 // 15.00-18.00 // Kulturna četrt Židovska\nV nedeljo\, 23. avgusta 2026\, organizacije\, družene v Kulturno četrt Židovska vabimo na popoldansko druženje na Židovski trg\, kjer vabimo na ogled razstav in ustvarjalne del https://mladimaribor.si/dogodek/pridi-na-balkon-2026-08-23-15-00-00-2026-08-23-18-00-00/
+URL:https://mladimaribor.si/dogodek/pridi-na-balkon-2026-08-23-15-00-00-2026-08-23-18-00-00/
+END:VEVENT
+END:VCALENDAR

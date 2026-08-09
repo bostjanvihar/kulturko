@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:AGD Gustaf — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:556b0792bfe2fc9d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260804T210000
+DTEND;TZID=Europe/Ljubljana:20260804T230000
+SUMMARY:Tapage & Guro Kverndokk / Soul Sangam
+LOCATION:AGD Gustaf
+DESCRIPTION: https://www.facebook.com/events/1013501497983880/
+URL:https://www.facebook.com/events/1013501497983880/
+END:VEVENT
+END:VCALENDAR

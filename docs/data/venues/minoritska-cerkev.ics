@@ -58,13 +58,4 @@ LOCATION:Minoritska cerkev
 DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
 URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
 END:VEVENT
-BEGIN:VEVENT
-UID:4eb8fa02c10bb249@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T193000
-DTEND;TZID=Europe/Ljubljana:20260926T213000
-SUMMARY:ND MB: Z Balkana z ljubeznijo
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
-END:VEVENT
 END:VCALENDAR

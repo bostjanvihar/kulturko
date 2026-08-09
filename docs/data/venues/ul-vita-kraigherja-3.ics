@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Ul. Vita Kraigherja 3 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6abd57ca6824a3a1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T190000
+DTEND;TZID=Europe/Ljubljana:20260829T210000
+SUMMARY:ELEVATE with ALIAS & MIKE VALE - 29.8. @ Luftarca
+LOCATION:Ul. Vita Kraigherja 3
+DESCRIPTION:ELEVATE. je nov koncept dogodkov\, zgrajen okoli odlične glasbe\, sproščenega vzdušja in edinstvene strešne lokacije.\n\nPrva edicija prinaša sončni zahod nad Mariborom\, skrbno izbran glasbeni program in ambient\, kjer glasba vedno pride na prvo mesto.\n\nPridruži se nam 29. avgusta in doživi ELEVATE.\n\n\n📍  https://www.facebook.com/events/1033093849466333/
+URL:https://www.facebook.com/events/1033093849466333/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kopališče Mariborski otok — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9f2d53bab94e8c28@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T170000
+DTEND;TZID=Europe/Ljubljana:20260814T170000
+SUMMARY:Ustvarjalnica na otoku – Zverinice iz Rezije
+LOCATION:Kopališče Mariborski otok
+DESCRIPTION:3+\n60 min\nPoletna lutkovna pustolovščina na Mariborskem otoku je posvečena raziskovanju sveta lutkovne umetnosti in ustvarjanju lutk po navdihu legendarne televizijske lutkovne serije Zverinice iz Rezije.\nVodi: Karen Erdelji https://mladimaribor.si/dogodek/ustvarjalnica-na-otoku-zverinice-iz-rezije/
+URL:https://mladimaribor.si/dogodek/ustvarjalnica-na-otoku-zverinice-iz-rezije/
+END:VEVENT
+END:VCALENDAR

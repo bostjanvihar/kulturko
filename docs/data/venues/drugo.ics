@@ -5,67 +5,22 @@ X-WR-CALNAME:Drugo — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:8d3bd76e2964a573@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260727T190000
-DTEND;TZID=Europe/Ljubljana:20260727T210000
-SUMMARY:Poletje na Mariborskem otoku: od 27. julija do 2. avgusta
+UID:587095f01ccaf082@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260803T190000
+DTEND;TZID=Europe/Ljubljana:20260803T210000
+SUMMARY:Poletje na Mariborskem otoku: od 3. do 9. avgusta
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43957-poletje-na-mariborskem-otoku-od-27-julija-do-2-avgusta
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43957-poletje-na-mariborskem-otoku-od-27-julija-do-2-avgusta
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44093-poletje-na-mariborskem-otoku-od-3-do-9-avgusta
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44093-poletje-na-mariborskem-otoku-od-3-do-9-avgusta
 END:VEVENT
 BEGIN:VEVENT
-UID:0d94626877449e92@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260731T190000
-DTEND;TZID=Europe/Ljubljana:20260731T210000
-SUMMARY:Zorbing adrenalin
+UID:55bf5536af6bbe0a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260804T100000
+DTEND;TZID=Europe/Ljubljana:20260804T120000
+SUMMARY:DiA Rebeka Golob: »Mediterranea«
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43995-zorbing-adrenalin
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43995-zorbing-adrenalin
-END:VEVENT
-BEGIN:VEVENT
-UID:1cf9e8205e255ceb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T090000
-DTEND;TZID=Europe/Ljubljana:20260802T110000
-SUMMARY:Brezplačne vadbe na trikotni jasi
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43955-brezplacne-vadbe-na-trikotni-jasi
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43955-brezplacne-vadbe-na-trikotni-jasi
-END:VEVENT
-BEGIN:VEVENT
-UID:4c36358128704e1d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T100000
-DTEND;TZID=Europe/Ljubljana:20260802T120000
-SUMMARY:Poletni Art kamp • Nesem sončnico na rami
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43435-poletni-art-kamp-nesem-soncnico-na-rami
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43435-poletni-art-kamp-nesem-soncnico-na-rami
-END:VEVENT
-BEGIN:VEVENT
-UID:b065185006053faf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T190000
-DTEND;TZID=Europe/Ljubljana:20260802T210000
-SUMMARY:Brezplačna vadba\, joga in pilates v Mariboru in okolici
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43954-brezplacna-vadba-joga-in-pilates-v-mariboru-in-okolici
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43954-brezplacna-vadba-joga-in-pilates-v-mariboru-in-okolici
-END:VEVENT
-BEGIN:VEVENT
-UID:948563545b77a8b7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T190000
-DTEND;TZID=Europe/Ljubljana:20260802T210000
-SUMMARY:Poletne nedelje s pridihom kulture
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43805-poletne-nedelje-s-pridihom-kulture
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43805-poletne-nedelje-s-pridihom-kulture
-END:VEVENT
-BEGIN:VEVENT
-UID:c725d0347575deb9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260802T190000
-DTEND;TZID=Europe/Ljubljana:20260802T210000
-SUMMARY:Snežničina 2026
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43850-sneznicina-2026
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43850-sneznicina-2026
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44088-dia-rebeka-golob-mediterranea
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44088-dia-rebeka-golob-mediterranea
 END:VEVENT
 BEGIN:VEVENT
 UID:890aa9676c193365@kulturko
@@ -77,60 +32,6 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43451-eva-bozic-v-objemu-cvetov
 END:VEVENT
 BEGIN:VEVENT
-UID:2c6dd8cbbe84b7c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260806T200000
-DTEND;TZID=Europe/Ljubljana:20260806T220000
-SUMMARY:Poletje pri Najstarejši trti #5
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43813-poletje-pri-najstarejsi-trti-5
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43813-poletje-pri-najstarejsi-trti-5
-END:VEVENT
-BEGIN:VEVENT
-UID:fd802542a5406e32@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260807T190000
-DTEND;TZID=Europe/Ljubljana:20260807T210000
-SUMMARY:Otvoritev slikarske razstave Lepota barv narave
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43742-otvoritev-slikarske-razstave-lepota-barv-narave
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43742-otvoritev-slikarske-razstave-lepota-barv-narave
-END:VEVENT
-BEGIN:VEVENT
-UID:f05ebe1043d110b8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T090000
-DTEND;TZID=Europe/Ljubljana:20260808T110000
-SUMMARY:Najdaljša zdravica na svetu
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43952-najdaljsa-zdravica-na-svetu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43952-najdaljsa-zdravica-na-svetu
-END:VEVENT
-BEGIN:VEVENT
-UID:c210863ea8d25f90@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T100000
-DTEND;TZID=Europe/Ljubljana:20260808T120000
-SUMMARY:Poletni Art kamp • Radovednica iz čebelnjaka
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43434-poletni-art-kamp-radovednica-iz-cebelnjaka
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43434-poletni-art-kamp-radovednica-iz-cebelnjaka
-END:VEVENT
-BEGIN:VEVENT
-UID:44d9ea7d4e470e42@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T130000
-DTEND;TZID=Europe/Ljubljana:20260808T150000
-SUMMARY:Dan odprtih kleti Jarenina
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43673-dan-odprtih-kleti-jarenina
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43673-dan-odprtih-kleti-jarenina
-END:VEVENT
-BEGIN:VEVENT
-UID:9f78e3c1f17c29b4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T190000
-DTEND;TZID=Europe/Ljubljana:20260808T210000
-SUMMARY:Novi pilates v Mariboru
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43945-novi-pilates-v-mariboru
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43945-novi-pilates-v-mariboru
-END:VEVENT
-BEGIN:VEVENT
 UID:b78d27f0bff8197e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260809T093000
 DTEND;TZID=Europe/Ljubljana:20260809T113000
@@ -140,15 +41,6 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43892-urice-z-zivalmi-za-najmlajse
 END:VEVENT
 BEGIN:VEVENT
-UID:c29b9ccef7a6700b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T180000
-DTEND;TZID=Europe/Ljubljana:20260809T200000
-SUMMARY:Poletni Art kamp • Gusar Berto
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43433-poletni-art-kamp-gusar-berto
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43433-poletni-art-kamp-gusar-berto
-END:VEVENT
-BEGIN:VEVENT
 UID:447ab4bd6be07dc6@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260809T190000
 DTEND;TZID=Europe/Ljubljana:20260809T210000
@@ -156,6 +48,24 @@ SUMMARY:Postani zeliščar za en dan\, butično doživetje
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43508-postani-zeliscar-za-en-dan-buticno-dozivetje
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43508-postani-zeliscar-za-en-dan-buticno-dozivetje
+END:VEVENT
+BEGIN:VEVENT
+UID:2255dc063041f4e3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T190000
+DTEND;TZID=Europe/Ljubljana:20260809T210000
+SUMMARY:Poletne nedelje s pridihom kulture
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43805-poletne-nedelje-s-pridihom-kulture
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43805-poletne-nedelje-s-pridihom-kulture
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9b19176370189d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260809T190000
+DTEND;TZID=Europe/Ljubljana:20260809T210000
+SUMMARY:Harmonija gongov z zeliščnim prologom
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44130-harmonija-gongov-z-zeliscnim-prologom
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44130-harmonija-gongov-z-zeliscnim-prologom
 END:VEVENT
 BEGIN:VEVENT
 UID:fa576341b6d1c1b3@kulturko
@@ -176,6 +86,15 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43684-loncarska-delavnica-pocitnice-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:d4bca917b5921e75@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260813T090000
+DTEND;TZID=Europe/Ljubljana:20260813T110000
+SUMMARY:Likovna kolonija v okviru festivala Letni oder Ruše
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44025-likovna-kolonija-v-okviru-festivala-letni-oder-ruse
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44025-likovna-kolonija-v-okviru-festivala-letni-oder-ruse
+END:VEVENT
+BEGIN:VEVENT
 UID:828c54eadb565ef5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260813T190000
 DTEND;TZID=Europe/Ljubljana:20260813T210000
@@ -194,6 +113,42 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43817-poletje-pri-najstarejsi-trti-6
 END:VEVENT
 BEGIN:VEVENT
+UID:32c8b9bfd3687b72@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T180000
+DTEND;TZID=Europe/Ljubljana:20260814T200000
+SUMMARY:ROCK TRŽNICA: Plac spominov in nostalgije ob glasbi z vinilk  (DJ Pala)
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44027-rock-trznica-plac-spominov-in-nostalgije-ob-glasbi-z-vinilk-dj-pala
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44027-rock-trznica-plac-spominov-in-nostalgije-ob-glasbi-z-vinilk-dj-pala
+END:VEVENT
+BEGIN:VEVENT
+UID:68f70b7d8b39217a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T190000
+DTEND;TZID=Europe/Ljubljana:20260814T210000
+SUMMARY:Letni oder Ruše 2026
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44126-letni-oder-ruse-2026
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44126-letni-oder-ruse-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:07e365d10648bdfb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T190000
+DTEND;TZID=Europe/Ljubljana:20260814T210000
+SUMMARY:ŽELODEC NA POVODEC\, kulinarična ponudba
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44029-zelodec-na-povodec-kulinaricna-ponudba
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44029-zelodec-na-povodec-kulinaricna-ponudba
+END:VEVENT
+BEGIN:VEVENT
+UID:20b9cc179c21ab20@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T193000
+DTEND;TZID=Europe/Ljubljana:20260814T213000
+SUMMARY:Letni oder Ruše: 24. KANTFEST International - 8 izbranih lovi nagradne Kante
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44032-letni-oder-ruse-24-kantfest-international-8-izbranih-lovi-nagradne-kante
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44032-letni-oder-ruse-24-kantfest-international-8-izbranih-lovi-nagradne-kante
+END:VEVENT
+BEGIN:VEVENT
 UID:1b7978ef81351ce2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260814T203000
 DTEND;TZID=Europe/Ljubljana:20260814T223000
@@ -203,22 +158,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/39630-poletni-glasbeni-veceri-v-zicki-kartuziji-goran-bojcevski-kvartet
 END:VEVENT
 BEGIN:VEVENT
-UID:39a57c89e509a1aa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T203000
-DTEND;TZID=Europe/Ljubljana:20260814T223000
-SUMMARY:Poletni glasbeni večeri v Žički kartuziji: Šank Rock akustika
+UID:281664847a85c1e5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260814T210000
+DTEND;TZID=Europe/Ljubljana:20260814T210000
+SUMMARY:Poletna Balkanijada
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/39631-poletni-glasbeni-veceri-v-zicki-kartuziji-sank-rock-akustika
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/39631-poletni-glasbeni-veceri-v-zicki-kartuziji-sank-rock-akustika
-END:VEVENT
-BEGIN:VEVENT
-UID:dd8d9091e0740570@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260815T100000
-DTEND;TZID=Europe/Ljubljana:20260815T120000
-SUMMARY:Poletni Art kamp • Kovčekteta na obisku
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43541-poletni-art-kamp-kovcekteta-na-obisku
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43541-poletni-art-kamp-kovcekteta-na-obisku
+DESCRIPTION:Poletje zaključujemo tako\, kot se spodobi – glasneje\, bolj divje in z največjimi balkanskimi hiti! 💥\nV petek\, 14. 8.\, Niagara ponovno postane prostor\, kjer se poje na ves glas\, nazdravlja do jutra in ustvarjajo spomini\, o katerih se govori še dolgo po koncu poletja. 🌴🍸\nZa vzdušje bo skrbel @dj_renx_ https://mladimaribor.si/dogodek/poletna-balkanijada/
+URL:https://mladimaribor.si/dogodek/poletna-balkanijada/
 END:VEVENT
 BEGIN:VEVENT
 UID:311c8a4841a15ee3@kulturko
@@ -230,6 +176,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43910-brezplacen-voden-ogled-maribora-s-kolesi-mbajk-z-mbajk-om-in-nlb-po-mariboru
 END:VEVENT
 BEGIN:VEVENT
+UID:d81051903c7e3e45@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T190000
+DTEND;TZID=Europe/Ljubljana:20260815T210000
+SUMMARY:Novi pilates v Mariboru
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43945-novi-pilates-v-mariboru
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43945-novi-pilates-v-mariboru
+END:VEVENT
+BEGIN:VEVENT
+UID:e141213b7c0524fb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T193000
+DTEND;TZID=Europe/Ljubljana:20260815T213000
+SUMMARY:24. KANTFEST International: nastop nagrajencev
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44033-24-kantfest-international-nastop-nagrajencev
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44033-24-kantfest-international-nastop-nagrajencev
+END:VEVENT
+BEGIN:VEVENT
 UID:c88161d42c806156@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260816T100000
 DTEND;TZID=Europe/Ljubljana:20260816T120000
@@ -239,13 +203,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43412-poletno-dozivetje-v-gradu-race-in-grilovi-etnoloski-zbirki
 END:VEVENT
 BEGIN:VEVENT
-UID:272941295a32be15@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260816T100000
-DTEND;TZID=Europe/Ljubljana:20260816T120000
-SUMMARY:Poletni Art kamp • Fuj\, gosenica!
+UID:014fc4e9d5ac6226@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260816T180000
+DTEND;TZID=Europe/Ljubljana:20260816T200000
+SUMMARY:Koncert Leonart
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43540-poletni-art-kamp-fuj-gosenica
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43540-poletni-art-kamp-fuj-gosenica
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44036-koncert-leonart
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44036-koncert-leonart
 END:VEVENT
 BEGIN:VEVENT
 UID:776def895d3a61f2@kulturko
@@ -257,6 +221,114 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43414-poletno-dozivetje-v-rimski-gomili
 END:VEVENT
 BEGIN:VEVENT
+UID:32f74a7cbab4161b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260817T163000
+DTEND;TZID=Europe/Ljubljana:20260817T183000
+SUMMARY:LUČKIN ODER: 15. POHORSKA PRAVLJICA: Pravljici o malem in medvedu in o tovarni besed (Lilijana Klemenčič)
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44038-luckin-oder-15-pohorska-pravljica-pravljici-o-malem-in-medvedu-in-o-tovarni-besed-lilijana-klemencic
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44038-luckin-oder-15-pohorska-pravljica-pravljici-o-malem-in-medvedu-in-o-tovarni-besed-lilijana-klemencic
+END:VEVENT
+BEGIN:VEVENT
+UID:ac971a1c4a960c3a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260817T173000
+DTEND;TZID=Europe/Ljubljana:20260817T193000
+SUMMARY:Lučkin oder:  Kako objeti ježa
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44040-luckin-oder-kako-objeti-jeza
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44040-luckin-oder-kako-objeti-jeza
+END:VEVENT
+BEGIN:VEVENT
+UID:0898ce59eaf83c73@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260817T190000
+DTEND;TZID=Europe/Ljubljana:20260817T210000
+SUMMARY:Skupina Dogma
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44042-skupina-dogma
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44042-skupina-dogma
+END:VEVENT
+BEGIN:VEVENT
+UID:d56342a1df0f37a0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260818T163000
+DTEND;TZID=Europe/Ljubljana:20260818T183000
+SUMMARY:LUČKIN ODER: 15. POHORSKA PRAVLJICA: Ringaraja z violino in kitaro
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44044-luckin-oder-15-pohorska-pravljica-ringaraja-z-violino-in-kitaro
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44044-luckin-oder-15-pohorska-pravljica-ringaraja-z-violino-in-kitaro
+END:VEVENT
+BEGIN:VEVENT
+UID:66964f549963a8ce@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260818T173000
+DTEND;TZID=Europe/Ljubljana:20260818T193000
+SUMMARY:LUČKIN ODER: Leonardo\, nerodna pošast
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44045-luckin-oder-leonardo-nerodna-posast
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44045-luckin-oder-leonardo-nerodna-posast
+END:VEVENT
+BEGIN:VEVENT
+UID:8f958117a5899ac5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260818T183000
+DTEND;TZID=Europe/Ljubljana:20260818T203000
+SUMMARY:Koncert : No Name Blues Band
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44048-koncert-no-name-blues-band
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44048-koncert-no-name-blues-band
+END:VEVENT
+BEGIN:VEVENT
+UID:90d00e21152f12eb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260818T200000
+DTEND;TZID=Europe/Ljubljana:20260818T220000
+SUMMARY:Večer muzikala (Only Jams)
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44051-vecer-muzikala-only-jams
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44051-vecer-muzikala-only-jams
+END:VEVENT
+BEGIN:VEVENT
+UID:75c778b876282c84@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T163000
+DTEND;TZID=Europe/Ljubljana:20260819T183000
+SUMMARY:LUČKIN ODER: 15. POHORSKA PRAVLJICA: Agica\, mala čarovnica
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44052-luckin-oder-15-pohorska-pravljica-agica-mala-carovnica
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44052-luckin-oder-15-pohorska-pravljica-agica-mala-carovnica
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd453848066fa70@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T173000
+DTEND;TZID=Europe/Ljubljana:20260819T193000
+SUMMARY:LUČKIN ODER: Poletna pustolovščina merjasca in jazbeca
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44054-luckin-oder-poletna-pustolovscina-merjasca-in-jazbeca
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44054-luckin-oder-poletna-pustolovscina-merjasca-in-jazbeca
+END:VEVENT
+BEGIN:VEVENT
+UID:2f56a58e1a0ebcc6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T200000
+DTEND;TZID=Europe/Ljubljana:20260819T220000
+SUMMARY:Kino na prostem: 107 dni Alp
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44090-kino-na-prostem-107-dni-alp
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44090-kino-na-prostem-107-dni-alp
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec25d9fc0a09fb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T200000
+DTEND;TZID=Europe/Ljubljana:20260819T220000
+SUMMARY:Mama je umrla dvakrat
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44091-mama-je-umrla-dvakrat
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44091-mama-je-umrla-dvakrat
+END:VEVENT
+BEGIN:VEVENT
+UID:b24c9d7d57249c47@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T220000
+DTEND;TZID=Europe/Ljubljana:20260820T000000
+SUMMARY:Adi Smolar
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44096-adi-smolar
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44096-adi-smolar
+END:VEVENT
+BEGIN:VEVENT
 UID:180f24d643c33d94@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260820T180000
 DTEND;TZID=Europe/Ljubljana:20260820T200000
@@ -264,6 +336,15 @@ SUMMARY:Predstavitev knjige: Robert in Urška Kereži - Od pekla do raja
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43720-predstavitev-knjige-robert-in-urska-kerezi-od-pekla-do-raja
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43720-predstavitev-knjige-robert-in-urska-kerezi-od-pekla-do-raja
+END:VEVENT
+BEGIN:VEVENT
+UID:886a66ae6fef9e40@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T180000
+DTEND;TZID=Europe/Ljubljana:20260820T200000
+SUMMARY:Patrik Prelec & Band
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44098-patrik-prelec-band
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44098-patrik-prelec-band
 END:VEVENT
 BEGIN:VEVENT
 UID:fcddabdc197c6975@kulturko
@@ -293,6 +374,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43819-poletje-pri-najstarejsi-trti-7
 END:VEVENT
 BEGIN:VEVENT
+UID:fedea6f4140fa7a2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T200000
+DTEND;TZID=Europe/Ljubljana:20260820T220000
+SUMMARY:Norišnica - predpremiera
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44099-norisnica-predpremiera
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44099-norisnica-predpremiera
+END:VEVENT
+BEGIN:VEVENT
+UID:ca2713633d3b7361@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T220000
+DTEND;TZID=Europe/Ljubljana:20260821T000000
+SUMMARY:DJ Battle
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44101-dj-battle
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44101-dj-battle
+END:VEVENT
+BEGIN:VEVENT
 UID:f9949aa5cac4ae06@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260821T070000
 DTEND;TZID=Europe/Ljubljana:20260821T090000
@@ -309,6 +408,15 @@ SUMMARY:Ustvarjalna delavnica: Vezenje l mömax Maribor
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43635-ustvarjalna-delavnica-vezenje-l-momax-maribor
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43635-ustvarjalna-delavnica-vezenje-l-momax-maribor
+END:VEVENT
+BEGIN:VEVENT
+UID:8619eeb0d987fb46@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T180000
+DTEND;TZID=Europe/Ljubljana:20260821T200000
+SUMMARY:Martina Ipša: Best of
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44103-martina-ipsa-best-of
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44103-martina-ipsa-best-of
 END:VEVENT
 BEGIN:VEVENT
 UID:0b969f99eaa2ac6b@kulturko
@@ -347,6 +455,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43745-bistriski-festival-plezanja-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:581a52e4e2efe36f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T210000
+DTEND;TZID=Europe/Ljubljana:20260821T230000
+SUMMARY:Plavi Orkestar
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44104-plavi-orkestar
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44104-plavi-orkestar
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca56385775548f5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T230000
+DTEND;TZID=Europe/Ljubljana:20260822T010000
+SUMMARY:Lauženki
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44106-lauzenki
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44106-lauzenki
+END:VEVENT
+BEGIN:VEVENT
 UID:ae085622dd51c244@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T090000
 DTEND;TZID=Europe/Ljubljana:20260822T110000
@@ -354,15 +480,6 @@ SUMMARY:Haloze Trail
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/40395-haloze-trail
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/40395-haloze-trail
-END:VEVENT
-BEGIN:VEVENT
-UID:fb74baa33e9492ba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T100000
-DTEND;TZID=Europe/Ljubljana:20260822T120000
-SUMMARY:Poletni Art kamp • Vsem ljudem nikoli ne ustežeš
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43539-poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43539-poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes
 END:VEVENT
 BEGIN:VEVENT
 UID:489b9c592c2ffdf0@kulturko
@@ -392,6 +509,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43510-3-podzemni-vinski-festival-v-vinagovi-kleti
 END:VEVENT
 BEGIN:VEVENT
+UID:ca14f4bce2a0a9d8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T170000
+DTEND;TZID=Europe/Ljubljana:20260822T190000
+SUMMARY:Akustični orgazem
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44109-akusticni-orgazem
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44109-akusticni-orgazem
+END:VEVENT
+BEGIN:VEVENT
+UID:6718372f0074e09a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T190000
+DTEND;TZID=Europe/Ljubljana:20260822T210000
+SUMMARY:Karneoli
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44111-karneoli
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44111-karneoli
+END:VEVENT
+BEGIN:VEVENT
 UID:1d70d03155a2791d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T200000
 DTEND;TZID=Europe/Ljubljana:20260822T220000
@@ -401,13 +536,85 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42259-radgonska-noc-2026-vlado-kreslin-in-mali-bogovi
 END:VEVENT
 BEGIN:VEVENT
-UID:7ed3fb73337cc5d9@kulturko
+UID:99197f9ce6b61de4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T200000
+DTEND;TZID=Europe/Ljubljana:20260822T220000
+SUMMARY:STAND UP: Tadej Toš
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44127-stand-up-tadej-tos
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44127-stand-up-tadej-tos
+END:VEVENT
+BEGIN:VEVENT
+UID:4801d2e8cb68672b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T210000
+DTEND;TZID=Europe/Ljubljana:20260822T230000
+SUMMARY:Predstavlja se FILM SMOOTHIE
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44015-predstavlja-se-film-smoothie
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44015-predstavlja-se-film-smoothie
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1a413ee71da7e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T210000
+DTEND;TZID=Europe/Ljubljana:20260822T230000
+SUMMARY:Big Foot Mama
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44114-big-foot-mama
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44114-big-foot-mama
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2253061332a8c6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T230000
+DTEND;TZID=Europe/Ljubljana:20260823T010000
+SUMMARY:Burjana&Band
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44116-burjana-band
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44116-burjana-band
+END:VEVENT
+BEGIN:VEVENT
+UID:be66190aa6fdddf2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T083000
+DTEND;TZID=Europe/Ljubljana:20260823T103000
+SUMMARY:Gozdna terapija
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44140-gozdna-terapija
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44140-gozdna-terapija
+END:VEVENT
+BEGIN:VEVENT
+UID:4871803761c1f718@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T100000
+DTEND;TZID=Europe/Ljubljana:20260823T120000
+SUMMARY:Razstava ustvarjalcev likovne kolonije v okviru festivala Letni oder Ruše
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44118-razstava-ustvarjalcev-likovne-kolonije-v-okviru-festivala-letni-oder-ruse
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44118-razstava-ustvarjalcev-likovne-kolonije-v-okviru-festivala-letni-oder-ruse
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6cfefd6d2cb780@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260823T180000
 DTEND;TZID=Europe/Ljubljana:20260823T200000
-SUMMARY:Poletni Art kamp • Srčno
+SUMMARY:Klapa za dušo
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43538-poletni-art-kamp-srcno
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43538-poletni-art-kamp-srcno
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44120-klapa-za-duso
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44120-klapa-za-duso
+END:VEVENT
+BEGIN:VEVENT
+UID:1373677732bf5427@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T200000
+DTEND;TZID=Europe/Ljubljana:20260823T220000
+SUMMARY:Klapa Sebenico
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44122-klapa-sebenico
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44122-klapa-sebenico
+END:VEVENT
+BEGIN:VEVENT
+UID:2759816536780899@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T220000
+DTEND;TZID=Europe/Ljubljana:20260824T000000
+SUMMARY:Zaključek festivala Letni oder Ruše na ROCK TRŽNICI
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44124-zakljucek-festivala-letni-oder-ruse-na-rock-trznici
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44124-zakljucek-festivala-letni-oder-ruse-na-rock-trznici
 END:VEVENT
 BEGIN:VEVENT
 UID:2f968f117c1717e8@kulturko
@@ -437,6 +644,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43418-baronov-poletni-vecer-na-eko-idili-na-pohorju
 END:VEVENT
 BEGIN:VEVENT
+UID:e17b949cde5b187b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T190000
+DTEND;TZID=Europe/Ljubljana:20260828T210000
+SUMMARY:Konec poletja: Adi Šoše in Bruno Rački Open Air koncert
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43997-konec-poletja-adi-sose-in-bruno-racki-open-air-koncert
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43997-konec-poletja-adi-sose-in-bruno-racki-open-air-koncert
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f9504d203e7aab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T190000
+DTEND;TZID=Europe/Ljubljana:20260828T210000
+SUMMARY:Lončarsko-slikarski vikend v Žički kartuziji
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44142-loncarsko-slikarski-vikend-v-zicki-kartuziji
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44142-loncarsko-slikarski-vikend-v-zicki-kartuziji
+END:VEVENT
+BEGIN:VEVENT
 UID:c877bb782a38aa03@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260828T200000
 DTEND;TZID=Europe/Ljubljana:20260828T220000
@@ -455,13 +680,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43529-matilda-s-jazz-kvartet
 END:VEVENT
 BEGIN:VEVENT
-UID:6ef2992bbfc9234a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T100000
-DTEND;TZID=Europe/Ljubljana:20260829T120000
-SUMMARY:Poletni Art kamp • V ~ DIH ~ IZ ~ DIH ~ OD ~ DIH
+UID:784eb3ef4950c921@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T090000
+DTEND;TZID=Europe/Ljubljana:20260829T110000
+SUMMARY:Slow Saturday: joga na travniku & seasonal sharing brunch @HKoncept
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43537-poletni-art-kamp-v-dih-iz-dih-od-dih
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43537-poletni-art-kamp-v-dih-iz-dih-od-dih
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44022-slow-saturday-joga-na-travniku-seasonal-sharing-brunch-hkoncept
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44022-slow-saturday-joga-na-travniku-seasonal-sharing-brunch-hkoncept
 END:VEVENT
 BEGIN:VEVENT
 UID:e819195ca5e59bcc@kulturko
@@ -471,6 +696,15 @@ SUMMARY:17. Srednjeveški dan na gradu Vurberk
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43810-17-srednjeveski-dan-na-gradu-vurberk
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43810-17-srednjeveski-dan-na-gradu-vurberk
+END:VEVENT
+BEGIN:VEVENT
+UID:e79acbe7d5b5c845@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T170000
+DTEND;TZID=Europe/Ljubljana:20260829T190000
+SUMMARY:Predavanje o lončarstvu
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44141-predavanje-o-loncarstvu
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44141-predavanje-o-loncarstvu
 END:VEVENT
 BEGIN:VEVENT
 UID:9efd1bfcb491e5c9@kulturko
@@ -491,13 +725,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42291-radgonsko-poletje-zmelkoow-ukulada
 END:VEVENT
 BEGIN:VEVENT
-UID:5655829e0d109100@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T180000
-DTEND;TZID=Europe/Ljubljana:20260830T200000
-SUMMARY:Poletni Art kamp • Krog v kvadratnem mestu
+UID:7d5815d41d9fb698@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T210000
+DTEND;TZID=Europe/Ljubljana:20260829T230000
+SUMMARY:Osvežitev s FilmFreš I
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43534-poletni-art-kamp-krog-v-kvadratnem-mestu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43534-poletni-art-kamp-krog-v-kvadratnem-mestu
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44016-osvezitev-s-filmfres-i
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44016-osvezitev-s-filmfres-i
 END:VEVENT
 BEGIN:VEVENT
 UID:5e5060b2f99486e6@kulturko
@@ -518,6 +752,15 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42260-penina-fejst-2026-na-gradu-negova
 END:VEVENT
 BEGIN:VEVENT
+UID:422ac835a4e6086d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T170000
+DTEND;TZID=Europe/Ljubljana:20260904T190000
+SUMMARY:Izmenjevalnica knjig in druženje
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44147-izmenjevalnica-knjig-in-druzenje
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44147-izmenjevalnica-knjig-in-druzenje
+END:VEVENT
+BEGIN:VEVENT
 UID:0feb1fef17544735@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260904T180000
 DTEND;TZID=Europe/Ljubljana:20260904T200000
@@ -525,6 +768,15 @@ SUMMARY:Večerja v gozdu
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42174-vecerja-v-gozdu
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42174-vecerja-v-gozdu
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb083a752945955@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T180000
+DTEND;TZID=Europe/Ljubljana:20260904T200000
+SUMMARY:Single & Mingle | Dogodek za samske 30+
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44128-single-mingle-dogodek-za-samske-30
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44128-single-mingle-dogodek-za-samske-30
 END:VEVENT
 BEGIN:VEVENT
 UID:6f81bd7f18ab6ba1@kulturko
@@ -545,13 +797,22 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43718-vrtnarsko-knjiznicna-dogodivscina
 END:VEVENT
 BEGIN:VEVENT
-UID:8c113ad73555869e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T180000
-DTEND;TZID=Europe/Ljubljana:20260905T200000
-SUMMARY:Večerja v gozdu
+UID:f46955ddd96ba5ab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260906T180000
+DTEND;TZID=Europe/Ljubljana:20260906T200000
+SUMMARY:Harmonija gongov z zeliščnim prologom
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42175-vecerja-v-gozdu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42175-vecerja-v-gozdu
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44149-harmonija-gongov-z-zeliscnim-prologom
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44149-harmonija-gongov-z-zeliscnim-prologom
+END:VEVENT
+BEGIN:VEVENT
+UID:413db796e2c53b52@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T173000
+DTEND;TZID=Europe/Ljubljana:20260911T193000
+SUMMARY:POMIRJUJOČA VEČERNA JOGA V UGM
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44018-pomirjujoca-vecerna-joga-v-ugm
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44018-pomirjujoca-vecerna-joga-v-ugm
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6400e2dce4a334@kulturko
@@ -563,13 +824,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43743-otvoritev-slikarske-razstave-organi-prehoda
 END:VEVENT
 BEGIN:VEVENT
-UID:d30085987aaff878@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T170000
-DTEND;TZID=Europe/Ljubljana:20260918T190000
-SUMMARY:Predvečer v Malečniku
+UID:c53df169be4f386e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T100000
+DTEND;TZID=Europe/Ljubljana:20260913T120000
+SUMMARY:Otroški festival Minimanija
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42394-predvecer-v-malecniku
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42394-predvecer-v-malecniku
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44129-otroski-festival-minimanija
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44129-otroski-festival-minimanija
 END:VEVENT
 BEGIN:VEVENT
 UID:196cdaba9c42ab24@kulturko
@@ -581,13 +842,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/40193-pivo-fest-maribor
 END:VEVENT
 BEGIN:VEVENT
-UID:d9f21be76cbd65f8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T193000
-DTEND;TZID=Europe/Ljubljana:20260918T213000
-SUMMARY:Čisto
+UID:e0ce7ba1dd108c5a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T200000
+DTEND;TZID=Europe/Ljubljana:20260918T220000
+SUMMARY:Nina Badrić na Terasi Maribox
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42392-cisto
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42392-cisto
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44059-nina-badric-na-terasi-maribox
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44059-nina-badric-na-terasi-maribox
 END:VEVENT
 BEGIN:VEVENT
 UID:43e359861bc41bb5@kulturko
@@ -597,6 +858,15 @@ SUMMARY:FIT MARIBOR 2026
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43840-fit-maribor-2026
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43840-fit-maribor-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:39f5dee2d14ffe8c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260920T084500
+DTEND;TZID=Europe/Ljubljana:20260920T104500
+SUMMARY:PREBUJAJOČA JUTRANJA JOGA IN PRANAJAMA V UGM
+LOCATION:
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44020-prebujajoca-jutranja-joga-in-pranajama-v-ugm
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44020-prebujajoca-jutranja-joga-in-pranajama-v-ugm
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfc1840860123e1@kulturko
@@ -617,13 +887,13 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/28597-festival-najstarejse-trte
 END:VEVENT
 BEGIN:VEVENT
-UID:6b01298f2cd5dc52@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T193000
-DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:Trio Gaspard
+UID:082c3ade95a44ebb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T150000
+DTEND;TZID=Europe/Ljubljana:20260926T170000
+SUMMARY:Veslaška regata študentskih osmercev
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41989-trio-gaspard
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41989-trio-gaspard
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44133-veslaska-regata-studentskih-osmercev
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44133-veslaska-regata-studentskih-osmercev
 END:VEVENT
 BEGIN:VEVENT
 UID:1c2eeff8d659d6f0@kulturko
@@ -635,15 +905,6 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43669-vivasfera-konferenca-o-zdravju-dobrem-pocutju-in-odnosih-v-peri-menopavzi
 END:VEVENT
 BEGIN:VEVENT
-UID:accd368b488cdf9c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T100000
-DTEND;TZID=Europe/Ljubljana:20261001T120000
-SUMMARY:Med svetlobo in transcendenco
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42170-med-svetlobo-in-transcendenco
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42170-med-svetlobo-in-transcendenco
-END:VEVENT
-BEGIN:VEVENT
 UID:74b8ca33656309e7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261002T140000
 DTEND;TZID=Europe/Ljubljana:20261002T160000
@@ -651,24 +912,6 @@ SUMMARY:Makeup Mastery Slovenija
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43422-makeup-mastery-slovenija
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43422-makeup-mastery-slovenija
-END:VEVENT
-BEGIN:VEVENT
-UID:ec2ed93ea5887449@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T100000
-DTEND;TZID=Europe/Ljubljana:20261006T120000
-SUMMARY:Tolkala za radovedneže
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41984-tolkala-za-radovedneze
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41984-tolkala-za-radovedneze
-END:VEVENT
-BEGIN:VEVENT
-UID:8e6b4d5568d35316@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T150000
-DTEND;TZID=Europe/Ljubljana:20261008T170000
-SUMMARY:Tolkala od blizu
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41996-tolkala-od-blizu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41996-tolkala-od-blizu
 END:VEVENT
 BEGIN:VEVENT
 UID:15ff96a7883a0dcf@kulturko
@@ -680,15 +923,6 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/33390-16-nocni-tek-na-kalvarijo
 END:VEVENT
 BEGIN:VEVENT
-UID:27a4fcb0feb022c8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261014T203000
-DTEND;TZID=Europe/Ljubljana:20261014T223000
-SUMMARY:Barcelona Gipsy balKan Orchestra
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42122-barcelona-gipsy-balkan-orchestra
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42122-barcelona-gipsy-balkan-orchestra
-END:VEVENT
-BEGIN:VEVENT
 UID:f0299990a95b6572@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T200000
 DTEND;TZID=Europe/Ljubljana:20261024T220000
@@ -696,33 +930,6 @@ SUMMARY:TRAGOM OLIVERA - Koncert v spomin Oliverju Dragojeviću
 LOCATION:
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42407-tragom-olivera-koncert-v-spomin-oliverju-dragojevicu
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42407-tragom-olivera-koncert-v-spomin-oliverju-dragojevicu
-END:VEVENT
-BEGIN:VEVENT
-UID:b479b942dda5598a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T193000
-DTEND;TZID=Europe/Ljubljana:20261106T213000
-SUMMARY:Filharmonični orkester iz Luksemburga
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41992-filharmonicni-orkester-iz-luksemburga
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41992-filharmonicni-orkester-iz-luksemburga
-END:VEVENT
-BEGIN:VEVENT
-UID:ad9273f5b3cf21ed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261111T190000
-DTEND;TZID=Europe/Ljubljana:20261111T210000
-SUMMARY:Martinovanje v Mariboru
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/5927-martinovanje-v-mariboru
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/5927-martinovanje-v-mariboru
-END:VEVENT
-BEGIN:VEVENT
-UID:eb19e11fb4fc8d3e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261118T193000
-DTEND;TZID=Europe/Ljubljana:20261118T213000
-SUMMARY:Mozart!
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41990-mozart
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41990-mozart
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4c844d070985b3@kulturko
@@ -734,111 +941,12 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41985-klasicno-marimba
 END:VEVENT
 BEGIN:VEVENT
-UID:ec5a8ce5fec69d10@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261123T190000
-DTEND;TZID=Europe/Ljubljana:20261123T210000
-SUMMARY:Penziči
+UID:bf03bf3ed0954da2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T140000
+DTEND;TZID=Europe/Ljubljana:20261120T160000
+SUMMARY:Jesenska razbremenitev: 3-dnevni oddih na Pohorju (za ženske)
 LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42158-penzici
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42158-penzici
-END:VEVENT
-BEGIN:VEVENT
-UID:fabbd147d842c554@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261203T193000
-DTEND;TZID=Europe/Ljubljana:20261203T213000
-SUMMARY:Beneški baročni orkester
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41993-beneski-barocni-orkester
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41993-beneski-barocni-orkester
-END:VEVENT
-BEGIN:VEVENT
-UID:74104855d8c778dc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261205T203000
-DTEND;TZID=Europe/Ljubljana:20261205T223000
-SUMMARY:30 let Foltin
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43814-30-let-foltin
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43814-30-let-foltin
-END:VEVENT
-BEGIN:VEVENT
-UID:0574a0586d4a301e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270113T110000
-DTEND;TZID=Europe/Ljubljana:20270113T130000
-SUMMARY:Zvonki odmevi: Metalofon
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41983-zvonki-odmevi-metalofon
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41983-zvonki-odmevi-metalofon
-END:VEVENT
-BEGIN:VEVENT
-UID:48515b53b91c854f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270130T193000
-DTEND;TZID=Europe/Ljubljana:20270130T213000
-SUMMARY:Angleški komorni orkester
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41994-angleski-komorni-orkester
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41994-angleski-komorni-orkester
-END:VEVENT
-BEGIN:VEVENT
-UID:ac84920f9c567e05@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270210T193000
-DTEND;TZID=Europe/Ljubljana:20270210T213000
-SUMMARY:Nuška Drašček in Trio Podlesek Pečar Serdar
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41988-nuska-drascek-in-trio-podlesek-pecar-serdar
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41988-nuska-drascek-in-trio-podlesek-pecar-serdar
-END:VEVENT
-BEGIN:VEVENT
-UID:6bc8da7e8260ebad@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270304T150000
-DTEND;TZID=Europe/Ljubljana:20270304T170000
-SUMMARY:Harmonije violončela in klavirja
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41982-harmonije-violoncela-in-klavirja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41982-harmonije-violoncela-in-klavirja
-END:VEVENT
-BEGIN:VEVENT
-UID:ac1804e3a9e44e7c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270313T180000
-DTEND;TZID=Europe/Ljubljana:20270313T200000
-SUMMARY:Komorni zbor Megaron in Baročni orkester Megaron
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41987-komorni-zbor-megaron-in-barocni-orkester-megaron
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41987-komorni-zbor-megaron-in-barocni-orkester-megaron
-END:VEVENT
-BEGIN:VEVENT
-UID:bcc66c08db8fac35@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270317T193000
-DTEND;TZID=Europe/Ljubljana:20270317T213000
-SUMMARY:Komorni orkester iz Stuttgarta
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41995-komorni-orkester-iz-stuttgarta
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41995-komorni-orkester-iz-stuttgarta
-END:VEVENT
-BEGIN:VEVENT
-UID:05f18dbe9e34048e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270408T150000
-DTEND;TZID=Europe/Ljubljana:20270408T170000
-SUMMARY:Klasični Artač
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41981-klasicni-artac
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41981-klasicni-artac
-END:VEVENT
-BEGIN:VEVENT
-UID:bfd2aba8c84bb757@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270506T193000
-DTEND;TZID=Europe/Ljubljana:20270506T213000
-SUMMARY:Orkester Leonore
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41991-orkester-leonore
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41991-orkester-leonore
-END:VEVENT
-BEGIN:VEVENT
-UID:6e8ee0480e46f37d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270518T193000
-DTEND;TZID=Europe/Ljubljana:20270518T213000
-SUMMARY:Stockholm Chamber Brass
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41986-stockholm-chamber-brass
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41986-stockholm-chamber-brass
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44023-jesenska-razbremenitev-3-dnevni-oddih-na-pohorju-za-zenske
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44023-jesenska-razbremenitev-3-dnevni-oddih-na-pohorju-za-zenske
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Partizanska ulica 12\, 2. nadstropje — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e1a245b4a588fa22@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260830T210000
+DTEND;TZID=Europe/Ljubljana:20260830T223000
+SUMMARY:Osvežitev s FilmFreš II
+LOCATION:Partizanska ulica 12\, 2. nadstropje
+DESCRIPTION:Filmi z Marsa so serija mladinskih filmskih večerov\, predstavitev mladih avtorjev in spoznavanje filmskih priložnosti za mlade v Mariboru.\nNa Zemlji je dolgčas\, dobimo se na Marsu.\nTokrat predstavljamo izbor filmov s festivala Film Freš – festivala mladinske filmske ustvarjalnosti.\nOglej si sveže kr https://mladimaribor.si/dogodek/osvezitev-s-filmfres-ii/
+URL:https://mladimaribor.si/dogodek/osvezitev-s-filmfres-ii/
+END:VEVENT
+END:VCALENDAR
