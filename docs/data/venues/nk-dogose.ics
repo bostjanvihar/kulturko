@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:NK dogoše — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:000458cea980e340@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260817T070000
+DTEND;TZID=Europe/Ljubljana:20260821T170000
+SUMMARY:Nogometne počitnice NK Dogoše
+LOCATION:NK dogoše
+DESCRIPTION:Letos v NK Dogoše prvič organiziramo Nogometne počitnice NK Dogoše — teden poln športa\, zabave\, druženja in nepozabnih poletnih trenutkov! \n\nNogometne počitnice so namenjene vsem otrokom rojenim med 2014 in 2021\, ki si želijo aktivno\, sproščeno in zabavno preživeti poletne dni v športnem okolju.\n\nOt https://mladimaribor.si/dogodek/nogometne-pocitnice-nk-dogose/
+URL:https://mladimaribor.si/dogodek/nogometne-pocitnice-nk-dogose/
+END:VEVENT
+END:VCALENDAR

@@ -41,6 +41,15 @@ DESCRIPTION:Zasedba Barcelona Gipsy BalKan Orchestra (BGKO) se je po štirinajst
 URL:https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
 END:VEVENT
 BEGIN:VEVENT
+UID:1572a101f4457db0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Dediščina
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Domen Valič\, Iztok Valič in Vid Valič bodo končno stali skupaj na odru\, če se ne bodo prej skregali.\n\nJabolko ne pade daleč od drevesa\, razen\, če drevo stoji na klancu. V primeru igralske družine Valič je drevo stalo v kraški vrtači\, zato je bilo sledeče neizbežno. Oče in sinova bodo prvič nastopi https://nd-mb.si/dogodek/dediscina/
+URL:https://nd-mb.si/dogodek/dediscina/
+END:VEVENT
+BEGIN:VEVENT
 UID:4dd334666d0a38e2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261027T200000
 DTEND;TZID=Europe/Ljubljana:20261027T220000
@@ -48,6 +57,15 @@ SUMMARY:Slovenka
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Zavod "Zimske urice". \n\n \n\nPozor\, prihaja SLOVENKA!\n\nPo dolgih letih življenja na sončni strani Alp je Salome dobila še uradni žig: postala je Slovenka. In ker si tako pomembna prelomnica zasluži  https://nd-mb.si/dogodek/slovenka/
 URL:https://nd-mb.si/dogodek/slovenka/
+END:VEVENT
+BEGIN:VEVENT
+UID:61ad56649ba80725@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261119T190000
+DTEND;TZID=Europe/Ljubljana:20261119T210000
+SUMMARY:TV Poper v živo
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Tv Poper je nazaj!  \n\nŠe bolj aktualen\, še bolj drzen in še bolj v živo\, ker bo dejansko v živo. Prvaki družbene in politične satire\, so se po 20ih letih ponovno zbrali\, da nas spet nasmejijo s svojimi pogledi in komentarji na današnji svet. Boris Kobal\, Gojc Lešnjak\, Nataša Tič Ralijan\, Boris Dev https://nd-mb.si/dogodek/tv-poper-v-zivo/
+URL:https://nd-mb.si/dogodek/tv-poper-v-zivo/
 END:VEVENT
 BEGIN:VEVENT
 UID:abd641fcee32d426@kulturko

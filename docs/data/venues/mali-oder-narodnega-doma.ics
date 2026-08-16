@@ -5,6 +5,15 @@ X-WR-CALNAME:Mali oder Narodnega doma — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:fd9d019255ee0f26@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T190000
+DTEND;TZID=Europe/Ljubljana:20260911T210000
+SUMMARY:Guru Zdravko in njegov joga tečaj duhovnega razsvetljenja
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:V osrčju vašega mesta se nahaja nova oaza sprostitve\, zdravja in dobrega počutja! V njej vas nestrpno pričakuje guru Zdravko\, ki vas bo popeljal na joga potovanje\, s katerega se ne boste želeli vrniti. Guru Zdravko je trenutno na svetovni turneji\, na kateri s pomočjo svojega učenca in asistenta Juri https://nd-mb.si/dogodek/guru-zdravko-in-njegov-joga-tecaj-duhovnega-razsvetljenja/
+URL:https://nd-mb.si/dogodek/guru-zdravko-in-njegov-joga-tecaj-duhovnega-razsvetljenja/
+END:VEVENT
+BEGIN:VEVENT
 UID:b08cf33814de451a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261205T200000
 DTEND;TZID=Europe/Ljubljana:20261205T220000

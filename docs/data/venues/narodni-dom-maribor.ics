@@ -5,15 +5,6 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0d0e328cdf309b58@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260817T100000
-DTEND;TZID=Europe/Ljubljana:20260817T120000
-SUMMARY:Soutripanje
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Slikarstvo kot učenje vračanja v tiho središče.\n\n In morda je tudi zato slikanje zdravilno in oživljajoče. \n\nNa razstavi v Vetrinjskem dvoru svoja dela predstavlja skupina šestnajstih ljubiteljskih slikark in slikar\, vsi so člani Kulturnega društva Studenci-Maribor\, Sekcije Zarja. Radost slikars https://nd-mb.si/dogodek/soutripanje/
-URL:https://nd-mb.si/dogodek/soutripanje/
-END:VEVENT
-BEGIN:VEVENT
 UID:af682230976a4996@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T200000
 DTEND;TZID=Europe/Ljubljana:20260829T220000

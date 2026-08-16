@@ -5,12 +5,21 @@ X-WR-CALNAME:Eksperiment Kavarna & Bar — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c31b1db6674a1ab8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260801T210000
-DTEND;TZID=Europe/Ljubljana:20260801T210000
-SUMMARY:CRASH – WARMUP
+UID:201195511e45dcdd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260815T210000
+DTEND;TZID=Europe/Ljubljana:20260816T040000
+SUMMARY:Techno night: Zoxxan / DJ Mathias / Miss Terious
 LOCATION:Eksperiment Kavarna & Bar
-DESCRIPTION:⚡️ CRASH • WARM UP ⚡️\nThe countdown to CRASH begins.\nBefore the main explosion on 29.08.2026 in Hilversum\, Netherlands\, we gather in Maribor\, Slovenia — Neothrope’s birthplace — for a special warm-up session loaded with heavy bass pressure and underground energy.\n🔥 NEOTHROPE [GER]\n🔥 REDLINE\n🔥 AVEHO\n https://mladimaribor.si/dogodek/crash-warmup/
-URL:https://mladimaribor.si/dogodek/crash-warmup/
+DESCRIPTION:Tudi poleti dogaja v naši hladni kleti  Pridite na Techno večer v soboto 15.08.\, tokrat kar do 04.\n\nLine up:ZoxxanDJ MathiasMiss Terious\n\nEksperiment bar\, Vetrinjska ulica 8 https://mladimaribor.si/dogodek/techno-night-zoxxan-dj-mathias-miss-terious/
+URL:https://mladimaribor.si/dogodek/techno-night-zoxxan-dj-mathias-miss-terious/
+END:VEVENT
+BEGIN:VEVENT
+UID:21f7fe41e3b8238c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260821T210000
+DTEND;TZID=Europe/Ljubljana:20260821T233000
+SUMMARY:Koncert: Kratki stik & Kismet
+LOCATION:Eksperiment Kavarna & Bar
+DESCRIPTION:Punk špil v Maribori!! Petek 21. avgust\, dva benda\, ena noc. Tresli nas bodo Kratki stik in Kismet!\n\nVstopnine ni. Izgovorov tudi ne. https://mladimaribor.si/dogodek/koncert-kratki-stik-kismet/
+URL:https://mladimaribor.si/dogodek/koncert-kratki-stik-kismet/
 END:VEVENT
 END:VCALENDAR

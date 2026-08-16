@@ -5,15 +5,6 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6beb5a6ce71a491a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260807T210000
-DTEND;TZID=Europe/Ljubljana:20260807T230000
-SUMMARY:peKARAOKE
-LOCATION:MC Pekarna
-DESCRIPTION:\n\nNekatere stvari se preprosto ne spreminjajo. In prav je tako.\nEnkrat na mesec se v MC Pekarna zbere dobra družba\, prižgejo se reflektorji\, mikrofon začne krožiti in večer dobi svoj ritem. Nekdo odpre z legendarno klasiko\, drugi preseneti z nepričakovanim hitom\, tretji pa poskrbi za nastop\, o kater https://mladimaribor.si/dogodek/pekaraoke-2026-08-07-21-00-00-2026-08-07-23-00-00/
-URL:https://mladimaribor.si/dogodek/pekaraoke-2026-08-07-21-00-00-2026-08-07-23-00-00/
-END:VEVENT
-BEGIN:VEVENT
 UID:31e8c4ff0bea19ac@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260918T200000
 DTEND;TZID=Europe/Ljubljana:20260918T220000

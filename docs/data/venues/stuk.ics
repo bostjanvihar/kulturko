@@ -5,22 +5,13 @@ X-WR-CALNAME:ŠTUK — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c88b681270f45085@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T180000
-DTEND;TZID=Europe/Ljubljana:20260814T200000
-SUMMARY:KMŠ X NORD SPLAV
-LOCATION:ŠTUK
-DESCRIPTION:Ker očitno en ni bil dovolj\, gremo (za ziher) spet na splav! 😝🌊 KMŠ x Nord splav se avgusta vrača na Dravsko nabrežje. 🔥 Za vse\, kar rabi uspešen splav\, bo poskrbljeno. Za pit? Nord. 💦 Za raztur? Rotor Motor. 🔥 Za vprašljive življenjske odločitve? To pa je na tebi. Po po po pristanku pa zabave še ne https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
-URL:https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
-END:VEVENT
-BEGIN:VEVENT
 UID:fa918fc357b3e3e8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T190000
-DTEND;TZID=Europe/Ljubljana:20260919T210000
+DTSTART;TZID=Europe/Ljubljana:20260919T210000
+DTEND;TZID=Europe/Ljubljana:20260919T233000
 SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
 LOCATION:ŠTUK
-DESCRIPTION:📍 Lokacija: ŠTUK\, Maribor 📅 Datum: 19. 9. 2026 🕘 Za č etek programa: 21.00 Glasbena sinergija dveh svetov Ko se na istem odru srečata rock in rap\, nastane večer\, ki ga preprosto ne smeš zamuditi. Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že deset https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
-URL:https://vstopnice.stuk.org/izdelek/sank-rock-6pack-cukur-rapnroll-koncert/
+DESCRIPTION:Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že desetletja\, ter z repertoarjem večnih uspešnic in novejših skladb\, ki dokazujejo\, da ostajajo ena najmočnejših koncertnih skupin pri nas.\nNa oder bo stopil tudi 6pack Čukur\, ki letos obeležuje 25 let o https://mladimaribor.si/dogodek/sank-rock-6pack-cukur-rap-n-roll-koncert-2026-09-19-00-00-00/
+URL:https://mladimaribor.si/dogodek/sank-rock-6pack-cukur-rap-n-roll-koncert-2026-09-19-00-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko
@@ -30,6 +21,15 @@ SUMMARY:Hushhush Boiler room edition night
 LOCATION:ŠTUK
 DESCRIPTION:KAJ: Brucovanje s Kingstoni | ŠS FKKT\, FGPA\, FS\, ŠSSŠD KDAJ: torek\, 21. oktober\, 22.00 Študenti\, mi smo ready! V torek\, 21. oktobra vas vabimo na brucovanje 3 fakultet (ŠS FGPA\, FS\, FKKT) in ŠSSŠD Vabljeni ste seveda vsi študenti\, žurali pa ga bomo na našem ŠTUK-u! Z nami bo do jutra žurala skupina  https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
 URL:https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:9086f3a67c708eb8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T190000
+DTEND;TZID=Europe/Ljubljana:20261024T210000
+SUMMARY:CRVENA JABUKA || koncert
+LOCATION:ŠTUK
+DESCRIPTION:📅 Sobota\, 24. oktober 2026 🕘 21.00 📍 ŠTUK\, Maribor Legendarna skupina\, brezčasne uspešnice in večer\, poln nostalgije\, emocij ter pesmi\, ki jih poznajo generacije. Tugo\, nesrećo\, Bježi kišo s prozora\, Dirlija\, Ima nešto od srca do srca in številne druge bomo tokrat prepevali skupaj na ŠTUK-u. Priprav https://vstopnice.stuk.org/izdelek/crvena-jabuka-koncert/
+URL:https://vstopnice.stuk.org/izdelek/crvena-jabuka-koncert/
 END:VEVENT
 BEGIN:VEVENT
 UID:0925de500ed1692a@kulturko
@@ -111,5 +111,14 @@ SUMMARY:PUSTOVANJE x KURENTANC || Ines Erbus
 LOCATION:ŠTUK
 DESCRIPTION:📅 torek\, 17. februar 🎉 PUSTOVANJE x KURENTANC 🎉 Izpitno obdobje je skoraj pri koncu! Za vse tiste\, ki ste izpite že opravili in tiste\, ki ste se od njih uspešno odjavili\, pripravljamo najbolj odbito pustno zabavo\, ki bo v torek\, 17. februarja\, na ŠTUK-u! Letos bo še posebej pestro\, saj sodelujemo s  https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
 URL:https://vstopnice.stuk.org/izdelek/pustovanje-x-kurentanc-ines-erbus/
+END:VEVENT
+BEGIN:VEVENT
+UID:d076d68cb5d130cc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270814T180000
+DTEND;TZID=Europe/Ljubljana:20270814T200000
+SUMMARY:KMŠ X NORD SPLAV
+LOCATION:ŠTUK
+DESCRIPTION:Ker očitno en ni bil dovolj\, gremo (za ziher) spet na splav! 😝🌊 KMŠ x Nord splav se avgusta vrača na Dravsko nabrežje. 🔥 Za vse\, kar rabi uspešen splav\, bo poskrbljeno. Za pit? Nord. 💦 Za raztur? Rotor Motor. 🔥 Za vprašljive življenjske odločitve? To pa je na tebi. Po po po pristanku pa zabave še ne https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
+URL:https://vstopnice.stuk.org/izdelek/kms-x-nord-splav/
 END:VEVENT
 END:VCALENDAR

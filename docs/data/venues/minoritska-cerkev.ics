@@ -43,11 +43,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df006c386bb2646d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260827T193000
-DTEND;TZID=Europe/Ljubljana:20260827T213000
+DTEND;TZID=Europe/Ljubljana:20260827T193000
 SUMMARY:Nasvidenje\, poletje
 LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/nasvidenje-poletje/
+DESCRIPTION:Gioachino Rossini: Godalni kvartet št. 1 v D-duru\nHector Villa Lobos: Jet Whistle\nLuigi Boccherini: Kvartet za flavto št. 3 v d-molu https://mladimaribor.si/dogodek/nasvidenje-poletje/
+URL:https://mladimaribor.si/dogodek/nasvidenje-poletje/
 END:VEVENT
 BEGIN:VEVENT
 UID:114fd14f165fb0fd@kulturko

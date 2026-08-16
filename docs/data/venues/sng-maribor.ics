@@ -5,33 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:1d24b28a16e02bba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260807T213000
-DTEND;TZID=Europe/Ljubljana:20260807T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
-UID:65cb2af617f7026c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T213000
-DTEND;TZID=Europe/Ljubljana:20260808T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
-UID:9d09a0164887349d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T213000
-DTEND;TZID=Europe/Ljubljana:20260809T233000
-SUMMARY:Medeja
-LOCATION:SNG Maribor
-DESCRIPTION:Simon Stone\, Heiner Müller · Trdnjava Lovrijenac Dubrovnik\, Hrvaška https://www.sng-mb.si/event/stone_muller_medeja/
-URL:https://www.sng-mb.si/event/stone_muller_medeja/
-END:VEVENT
-BEGIN:VEVENT
 UID:6ecb520bf5c464de@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260904T200000
 DTEND;TZID=Europe/Ljubljana:20260904T220000

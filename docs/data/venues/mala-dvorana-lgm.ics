@@ -1,25 +1,34 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Mala dvorana LGM — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:33e85c05b1e76060@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T170000
-DTEND;TZID=Europe/Ljubljana:20260822T190000
-SUMMARY:Abežeda
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43524-abezeda
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43524-abezeda
-END:VEVENT
-BEGIN:VEVENT
-UID:3776313c1b2ed1c5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T180000
-DTEND;TZID=Europe/Ljubljana:20260829T200000
-SUMMARY:Blišč in breg
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43532-blisc-in-breg
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43532-blisc-in-breg
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mala dvorana LGM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ca0520ce8f43e910@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260908T100000
+DTEND;TZID=Europe/Ljubljana:20260908T120000
+SUMMARY:Čarobne sence
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/arobnesence-35762
+URL:https://www.minoriti.si/dogodki/arobnesence-35762
+END:VEVENT
+BEGIN:VEVENT
+UID:20d80a13260933b2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T170000
+DTEND;TZID=Europe/Ljubljana:20260911T190000
+SUMMARY:Nekje drugje
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44229-nekje-drugje
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44229-nekje-drugje
+END:VEVENT
+BEGIN:VEVENT
+UID:de3f0c0305fc0689@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T100000
+DTEND;TZID=Europe/Ljubljana:20260912T120000
+SUMMARY:Nekje drugje
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/nekjedrugje-19857
+URL:https://www.minoriti.si/dogodki/nekjedrugje-19857
+END:VEVENT
+END:VCALENDAR

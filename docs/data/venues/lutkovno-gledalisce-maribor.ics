@@ -5,15 +5,6 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:7eaee23f749a9ddf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T170000
-DTEND;TZID=Europe/Ljubljana:20260814T190000
-SUMMARY:Ustvarjalnica na otoku - Zverinice iz Rezije
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
-URL:https://www.minoriti.si/dogodki/ustvarjalnicanaotokuzveriniceizrezije-36839
-END:VEVENT
-BEGIN:VEVENT
 UID:893171ea0f76637d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260815T100000
 DTEND;TZID=Europe/Ljubljana:20260815T120000

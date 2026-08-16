@@ -15,12 +15,12 @@ URL:https://nd-mb.si/dogodek/flirt/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2e0e132360ed9bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T100000
-DTEND;TZID=Europe/Ljubljana:20260922T120000
+DTSTART;TZID=Europe/Ljubljana:20260922T170000
+DTEND;TZID=Europe/Ljubljana:20260922T190000
 SUMMARY:Karneval. In dinozavri!
 LOCATION:Dvorana Union
-DESCRIPTION:Zaključena predstava za Kulturni dnevnik \n\nGuillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet \nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, https://nd-mb.si/dogodek/karneval-in-dinozavri-2/
-URL:https://nd-mb.si/dogodek/karneval-in-dinozavri-2/
+DESCRIPTION:Guillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet \nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti\, ki se imamo za odrasle. Koncert https://nd-mb.si/dogodek/karneval-in-dinozavri/
+URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
 END:VEVENT
 BEGIN:VEVENT
 UID:302d9b66de612a5a@kulturko

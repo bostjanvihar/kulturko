@@ -1,34 +1,43 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Velika dvorana LGM — dogodki
-X-WR-TIMEZONE:Europe/Ljubljana
-X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:0067ccd7e0a12468@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T180000
-DTEND;TZID=Europe/Ljubljana:20260821T200000
-SUMMARY:Odbite arktične zgodbe
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43520-odbite-arkticne-zgodbe
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43520-odbite-arkticne-zgodbe
-END:VEVENT
-BEGIN:VEVENT
-UID:f80e2653f4192293@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T171000
-DTEND;TZID=Europe/Ljubljana:20260829T191000
-SUMMARY:Sladke besede
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43531-sladke-besede
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43531-sladke-besede
-END:VEVENT
-BEGIN:VEVENT
-UID:f19e10dd57d58313@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T190000
-DTEND;TZID=Europe/Ljubljana:20260830T210000
-SUMMARY:Impostor
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43535-impostor
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43535-impostor
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Velika dvorana LGM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e3abc9372928a6a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T090000
+DTEND;TZID=Europe/Ljubljana:20260916T110000
+SUMMARY:Zvezdica Zaspanka
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+URL:https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2082b465101985@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260917T103000
+DTEND;TZID=Europe/Ljubljana:20260917T123000
+SUMMARY:Zvezdica Zaspanka
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+URL:https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4515fc86bf1c4c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T103000
+DTEND;TZID=Europe/Ljubljana:20260918T123000
+SUMMARY:Zvezdica Zaspanka
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+URL:https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+END:VEVENT
+BEGIN:VEVENT
+UID:18ded637dd44055e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T100000
+DTEND;TZID=Europe/Ljubljana:20260919T120000
+SUMMARY:Zvezdica Zaspanka
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+URL:https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+END:VEVENT
+END:VCALENDAR

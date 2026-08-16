@@ -5,33 +5,6 @@ X-WR-CALNAME:Avditorij — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:19a7f14e237a8740@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T200000
-DTEND;TZID=Europe/Ljubljana:20260814T220000
-SUMMARY:Poletje v Minoritih: Rambo Amadeus
-LOCATION:Avditorij
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
-END:VEVENT
-BEGIN:VEVENT
-UID:c91a362da8b6556c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260815T210000
-DTEND;TZID=Europe/Ljubljana:20260815T230000
-SUMMARY:Letni kino Minoriti: Midva\, lutkarja
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43498-letni-kino-minoriti-midva-lutkarja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43498-letni-kino-minoriti-midva-lutkarja
-END:VEVENT
-BEGIN:VEVENT
-UID:8f84578a4c54aa1e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260819T210000
-DTEND;TZID=Europe/Ljubljana:20260819T230000
-SUMMARY:Letni kino Minoriti: Drežniška koza in njeni ljudje & Na drugi strani plinovoda
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43500-letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-na-drugi-strani-plinovoda
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43500-letni-kino-minoriti-drezniska-koza-in-njeni-ljudje-na-drugi-strani-plinovoda
-END:VEVENT
-BEGIN:VEVENT
 UID:ee08093c544289ba@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T210000
 DTEND;TZID=Europe/Ljubljana:20260822T230000

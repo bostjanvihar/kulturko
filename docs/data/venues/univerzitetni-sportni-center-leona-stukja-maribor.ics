@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Univerzitetni športni center Leona Štukja Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:829926aaf3e5d280@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260905T090000
+DTEND;TZID=Europe/Ljubljana:20260905T090000
+SUMMARY:Hišni ljubljenčki v živo
+LOCATION:Univerzitetni športni center Leona Štukja Maribor
+DESCRIPTION:Živali nas učijo zvestobe\, potrpežljivosti\, odgovornosti in brezpogojne ljubezni. Zato pripravljamo dan\, posvečen vsem\, ki si življenja brez hišnih ljubljenčkov ne predstavljajo – in tudi tistim\, ki o novem kosmatem družinskem članu šele razmišljajo.\nNa dogodku Hišni ljubljenčki v živo boste lahko s https://mladimaribor.si/dogodek/hisni-ljubljencki-v-zivo/
+URL:https://mladimaribor.si/dogodek/hisni-ljubljencki-v-zivo/
+END:VEVENT
+END:VCALENDAR

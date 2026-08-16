@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mariborski center — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:407db85f18b45e2a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T180000
+DTEND;TZID=Europe/Ljubljana:20260829T180000
+SUMMARY:Mariborski mestni tek
+LOCATION:Mariborski center
+DESCRIPTION:Tek za vsakogar. Scenska krožna trasa po desnem in levem bregu reke Drave s fantastičnimi razgledi. Tecite za najboljši čas ali za dušo\, odločitev je vaša.\nDATUM: SOBOTA\, 29. AVGUST 2026\nSTART IN CILJ NA LENTU OB DRAVI\nTRASA DOLŽINE 4\,4 KM ali 8\,8 KM\nPrijava na tek: https://protime.si/dogodek/maribo https://mladimaribor.si/dogodek/mariborski-mestni-tek/
+URL:https://mladimaribor.si/dogodek/mariborski-mestni-tek/
+END:VEVENT
+END:VCALENDAR

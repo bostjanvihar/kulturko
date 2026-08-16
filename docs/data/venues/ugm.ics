@@ -5,33 +5,6 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a66b2bf79dd25117@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260805T190000
-DTEND;TZID=Europe/Ljubljana:20260805T210000
-SUMMARY:Risanje in slikanje v galeriji / Ustvarjalnica za odrasle
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
-URL:https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji-ustvarjalnica-za-odrasle
-END:VEVENT
-BEGIN:VEVENT
-UID:61f234fa2a48b67f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260811T190000
-DTEND;TZID=Europe/Ljubljana:20260811T210000
-SUMMARY:Torkova ustvarjalnica / Risanje po prostoru
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-risanje-po-prostoru
-END:VEVENT
-BEGIN:VEVENT
-UID:1c6d9b72f0888fc7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260812T190000
-DTEND;TZID=Europe/Ljubljana:20260812T210000
-SUMMARY:»Walk in flash day« / Tetoviranje z Doro Benčevič
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/»walk-in-flash-day«-tetoviranje-z-doro-bencevic
-URL:https://www.ugm.si/dogodki/»walk-in-flash-day«-tetoviranje-z-doro-bencevic
-END:VEVENT
-BEGIN:VEVENT
 UID:ac62d8f1c9cd80cb@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260818T190000
 DTEND;TZID=Europe/Ljubljana:20260818T210000

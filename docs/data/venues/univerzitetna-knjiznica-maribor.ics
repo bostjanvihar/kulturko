@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Univerzitetna knjižnica Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5d959706675b63ec@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260910T090000
+DTEND;TZID=Europe/Ljubljana:20260910T090000
+SUMMARY:UMETNA INTELIGENCA V RAZISKOVANJU: Etika\, avtorske pravice GDPR in odgovorna raba
+LOCATION:Univerzitetna knjižnica Maribor
+DESCRIPTION:Univerzitetna knjižnica Maribor vabi na strokovno delavnico z naslovom Umetna inteligenca v raziskovanju – etika\, avtorske pravice\, GDPR in odgovorna raba\, ki bo potekala v četrtek\, 10. septembra 2026\, ob 9. uri v Glazerjevi dvorani Univerzitetne knjižnice Maribor.\nDogodek je namenjen obravnavi aktu https://mladimaribor.si/dogodek/umetna-inteligenca-v-raziskovanju-etika-avtorske-pravice-gdpr-in-odgovorna-raba/
+URL:https://mladimaribor.si/dogodek/umetna-inteligenca-v-raziskovanju-etika-avtorske-pravice-gdpr-in-odgovorna-raba/
+END:VEVENT
+END:VCALENDAR

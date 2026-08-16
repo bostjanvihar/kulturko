@@ -13,13 +13,4 @@ LOCATION:Minoriti
 DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
 URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-rambo-amadeus
 END:VEVENT
-BEGIN:VEVENT
-UID:865d1b54da773b75@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T200000
-DTEND;TZID=Europe/Ljubljana:20260821T220000
-SUMMARY:Slon in Sadež
-LOCATION:Minoriti
-DESCRIPTION: https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
-URL:https://www.minoriti.si/dogodki/poletje-v-minoritih-slon-in-sadez
-END:VEVENT
 END:VCALENDAR

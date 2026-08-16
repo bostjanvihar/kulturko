@@ -5,12 +5,21 @@ X-WR-CALNAME:Vetrinjc-BarCoda — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9ca94b796380c0a1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T140000
-DTEND;TZID=Europe/Ljubljana:20260808T235900
-SUMMARY:10-urna milonga Vetrinjc
+UID:0e3155b77600ae0f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260819T210000
+DTEND;TZID=Europe/Ljubljana:20260819T210000
+SUMMARY:Poletne karaoke v Vetrinjcu
 LOCATION:Vetrinjc-BarCoda
-DESCRIPTION:Toplo vabljeni na drugo izdajo 10-urne Mariborske maratonske milonge\n⭐️10 ur plesa\n🎶2 dj-a\n🥂pijača in prigrizki\n2 DJ seta:\n14:00-19:00 TBA\n19:00-24:00 TBA\nPlešemo v dvorani s parketom in odlično akustiko.\n📍velika dvorana Vetrinjskega Dvora\, Vetrinjska ulica 30\, Maribor\n(čez dvorišče in po stopnicah  https://mladimaribor.si/dogodek/10-urna-milonga-vetrinjc/
-URL:https://mladimaribor.si/dogodek/10-urna-milonga-vetrinjc/
+DESCRIPTION:Dobrodošli nazaj v Vetrinjca! Prvo sredo\, ki je tradicionalno pevska\, po kratki pavzi začnemo tako\, kot smo končali – s karaokami!\nZaloge bodo spet napolnjene\, vabljeni\, da se nam pridružite tudi tokrat\, ko bo z nami ponovno tudi MC Šošo https://mladimaribor.si/dogodek/poletne-karaoke-v-vetrinjcu/
+URL:https://mladimaribor.si/dogodek/poletne-karaoke-v-vetrinjcu/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9bb247981142772@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T200000
+DTEND;TZID=Europe/Ljubljana:20260820T230000
+SUMMARY:Poletni jazz jam v Vetrinjcu: Blaž Švagan – Absolute Condor
+LOCATION:Vetrinjc-BarCoda
+DESCRIPTION:Leto 2026 smo v Vetrinjcu začeli z rednimi jazz jami na pobudo in v izvedbi Blaža Švagana. Namen večera je ustvariti odprt prostor za srečevanje glasbenikov\, izmenjavo idej in sproščeno glasbeno improvizacijo.\nPo krajšem uvodnem programu so na oder vabljeni vsi glasbeniki\, ne glede na izkušnje\, ki s https://mladimaribor.si/dogodek/poletni-jazz-jam-v-vetrinjcu-blaz-svagan-absolute-condor/
+URL:https://mladimaribor.si/dogodek/poletni-jazz-jam-v-vetrinjcu-blaz-svagan-absolute-condor/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mestna četrt Tezno — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6920c2bb743fa2e0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T160000
+DTEND;TZID=Europe/Ljubljana:20260912T200000
+SUMMARY:TEZNO BATTLE
+LOCATION:Mestna četrt Tezno
+DESCRIPTION: https://mkc.si/koledar/2026/9/12/tezno-battle
+URL:https://mkc.si/koledar/2026/9/12/tezno-battle
+END:VEVENT
+END:VCALENDAR

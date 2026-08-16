@@ -5,33 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:577146f7493f867e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260808T100000
-DTEND;TZID=Europe/Ljubljana:20260808T120000
-SUMMARY:Poletni Art kamp • Radovednica iz čebelnjaka
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-radovednica-iz-cebelnjaka/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-radovednica-iz-cebelnjaka/
-END:VEVENT
-BEGIN:VEVENT
-UID:d7a6c89aa3f54626@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T100000
-DTEND;TZID=Europe/Ljubljana:20260809T120000
-SUMMARY:Poletni Art kamp • Gusar Berto
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-gusar-berto/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-gusar-berto/
-END:VEVENT
-BEGIN:VEVENT
-UID:d45d647523cc7df2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260809T103000
-DTEND;TZID=Europe/Ljubljana:20260809T123000
-SUMMARY:Frajhajmska godba na pihala
-LOCATION:Mestni park
-DESCRIPTION:Frajhajmska godba na pihala je ena izmed najstarejših godb v Sloveniji\, prihodnje leto pa bo praznovala dvestoto obletnico delovanja.\n\nNjeni začetki so povezani z glažutarstvom na Pohorju. Ko je podjetnik Hieronim Gürtler ustanovil Staro Glažuto\, je med delavci z Dunaja zaposlil tudi Simona Juriča https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-URL:https://nd-mb.si/dogodek/frajhajmska-godba-na-pihala-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:efe0962793e76ecd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260815T100000
 DTEND;TZID=Europe/Ljubljana:20260815T120000

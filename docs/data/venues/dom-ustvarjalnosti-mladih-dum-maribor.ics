@@ -5,15 +5,6 @@ X-WR-CALNAME:Dom ustvarjalnosti mladih (DUM) Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:aada9e001294e1a2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260803T080000
-DTEND;TZID=Europe/Ljubljana:20260807T170000
-SUMMARY:Počitnice v Mariboru\, 6. teden
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:\n\n\n\n\n\n\n\n\n\nPozdravljeni prijatelji mladine!\nSmo na polovici počitniških dni\, avgust je pred vrati\, prav tako zanimive aktivnosti!\nPreden pokukamo v program prihajajočega tedna\, sporočamo\, da so za 6. izmeno letovanja v VIRC Poreč še na voljo prosta mesta. Če želite otroku omogočiti nepozabne počitnic https://mladimaribor.si/dogodek/pocitnice-v-mariboru-5-teden/
-URL:https://mladimaribor.si/dogodek/pocitnice-v-mariboru-5-teden/
-END:VEVENT
-BEGIN:VEVENT
 UID:7e7d59439df7e4ef@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260929T170000
 DTEND;TZID=Europe/Ljubljana:20260929T190000

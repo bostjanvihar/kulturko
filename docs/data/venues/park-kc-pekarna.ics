@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Park KC Pekarna — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:663a73816b0aba73@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260827T190000
+DTEND;TZID=Europe/Ljubljana:20260827T233000
+SUMMARY:Zgodba Farhke in pomen internacionalizma
+LOCATION:Park KC Pekarna
+DESCRIPTION:\n\n\n\n\n\n\n 27. 8. 2026 ob 19.00\, park KC Pekarna\nZgodba Farhke in pomen internacionalizma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredstavljena bo zgodba vasi Farkha – prve ekološke vasi v Palestini\, ki leži na Zahodnem bregu\, blizu mestaV četrtek\, 27. 8. 2026\, te ob 19.00 vabimo v park KC Pekarna na predstavitev\, pogovor\, proj https://mladimaribor.si/dogodek/zgodba-farhke-in-pomen-internacionalizma/
+URL:https://mladimaribor.si/dogodek/zgodba-farhke-in-pomen-internacionalizma/
+END:VEVENT
+END:VCALENDAR

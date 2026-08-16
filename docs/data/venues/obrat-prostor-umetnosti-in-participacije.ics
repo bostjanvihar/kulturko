@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:OBRAT – prostor umetnosti in participacije — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9419077050dcd185@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260820T190000
+DTEND;TZID=Europe/Ljubljana:20260820T200000
+SUMMARY:SobaZaGosteMaribor: Sam Eadington »Rabim samo malo prostora«
+LOCATION:OBRAT – prostor umetnosti in participacije
+DESCRIPTION:\n\n\n\n\n\n\n 20. 8. 2026 ob 19.00\, OBRAT\nSobaZaGosteMaribor: Sam Eadington »Rabim samo malo prostora«\nV četrtek\, 20. 8. 2026\, te ob 19.00 vabimo v OBRAT – prostor umetnosti in participacije na otvoritev rezidenta Sama Eadingtona z naslovom Rabim samo malo prostora.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRastava bo v OBRATu na og https://mladimaribor.si/dogodek/sobazagostemaribor-sam-eadington-rabim-samo-malo-prostora/
+URL:https://mladimaribor.si/dogodek/sobazagostemaribor-sam-eadington-rabim-samo-malo-prostora/
+END:VEVENT
+END:VCALENDAR
