@@ -14,6 +14,15 @@ DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/naturallica
 URL:https://klub-kgb.si/dogodki/2026/sep/naturallica
 END:VEVENT
 BEGIN:VEVENT
+UID:55796f3654ad7375@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T200000
+DTEND;TZID=Europe/Ljubljana:20260911T200000
+SUMMARY:KGB: Unforgiven4 – NATURALLICA – An Acoustic Tribute to Metallica
+LOCATION:Klub KGB
+DESCRIPTION:Po letih glasnega in energičnega poustvarjanja največjih Metallica klasik bo slovenski Metallica tribute kvartet letos septembra ponovno predstavil tudi svoj akustični koncertni koncept. V Ljubljani in Mariboru bosta tako potekala dva ekskluzivna intimna koncertna večera\, na katerih bo skupina legen https://mladimaribor.si/dogodek/kgb-unforgiven4-naturallica-an-acoustic-tribute-to-metallica/
+URL:https://mladimaribor.si/dogodek/kgb-unforgiven4-naturallica-an-acoustic-tribute-to-metallica/
+END:VEVENT
+BEGIN:VEVENT
 UID:dfb68c6c5df6cc05@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T200000
 DTEND;TZID=Europe/Ljubljana:20260911T220000

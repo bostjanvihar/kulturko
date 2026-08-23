@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Loška ulica 13\, 2000 Maribor\, Slovenia — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f75d307f1de7aedd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T100000
+DTEND;TZID=Europe/Ljubljana:20260823T140000
+SUMMARY:Minimanija
+LOCATION:Loška ulica 13\, 2000 Maribor\, Slovenia
+DESCRIPTION:V nedeljo\, 23. 8.\, med 10:00 in 14:00 vas na terasi Minimanije Maribox čaka dopoldne ustvarjanja in odličnih ugodnosti.\n\n Samo na dan dogodka boste lahko kupili JOLLY Šolski paket za samo 30 € namesto 65 €.\n\nPoleg mega popusta vas čaka tudi: brezplačna ustvarjalna delavnica za otroke\, preizkušanje k https://mladimaribor.si/dogodek/minimanija/
+URL:https://mladimaribor.si/dogodek/minimanija/
+END:VEVENT
+END:VCALENDAR

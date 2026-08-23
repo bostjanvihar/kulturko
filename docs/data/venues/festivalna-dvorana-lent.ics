@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Festivalna dvorana Lent — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:305b42fb8fd6e3bd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T220000
+DTEND;TZID=Europe/Ljubljana:20261114T220000
+SUMMARY:Techno.
+LOCATION:Festivalna dvorana Lent
+DESCRIPTION:𝗧𝗘𝗖𝗛𝗡𝗢.\n\nA night of raw energy\, relentless rhythms and hypnotic hard techno\, where time loses meaning and the crowd moves as one. Expect a dark atmosphere\, powerful visuals and sets that will keep you moving until morning.\n Dvorana Lent\, Maribor November 14\, 2026 AGE LIMIT: 18+\n\n𝗟𝗜𝗡𝗘𝗨𝗣\n\n• JUNKIE KID https://mladimaribor.si/dogodek/techno/
+URL:https://mladimaribor.si/dogodek/techno/
+END:VEVENT
+END:VCALENDAR

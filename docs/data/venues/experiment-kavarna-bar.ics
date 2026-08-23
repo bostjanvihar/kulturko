@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Experiment kavarna & bar — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:777be1fc9c2a1cbc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260829T210000
+DTEND;TZID=Europe/Ljubljana:20260829T210000
+SUMMARY:DaCloth & Anarhitekt present: Rigs – 🏰”Castles & Cloth tour”🏰 + Thelonious Coltrane
+LOCATION:Experiment kavarna & bar
+DESCRIPTION:   Premierno v Evropi   \nVelikan sodobne underground hip hop scene preko luže – RIGS (ex. Rigz)\, član supertalentiranega kolektiva Da Cloth\, s sedežem v Rochesteru\, NY prihaja prvič oblegat evropske odre. Svojo premierno turnejo na stari celini pa začenja pri nas\, in sicer v mestu upora – Mariboru.\n https://mladimaribor.si/dogodek/dacloth-anarhitekt-present-rigs-%f0%9f%8f%b0castles-cloth-tour%f0%9f%8f%b0-thelonious-coltrane/
+URL:https://mladimaribor.si/dogodek/dacloth-anarhitekt-present-rigs-%f0%9f%8f%b0castles-cloth-tour%f0%9f%8f%b0-thelonious-coltrane/
+END:VEVENT
+BEGIN:VEVENT
+UID:8794c83a19738419@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T210000
+DTEND;TZID=Europe/Ljubljana:20260904T210000
+SUMMARY:Sonic Resistance
+LOCATION:Experiment kavarna & bar
+DESCRIPTION:Mild ‘N Minty – Sonic ResistanceFriday\, 4 September 202621:00 – 04:00\n\nEksperiment\, Maribor\n\nA night built around progression.\nMild ‘N Minty – Sonic Resistance brings three different perspectives of techno together in one continuous night\, gradually moving from melodic atmosphere through classic tec https://mladimaribor.si/dogodek/sonic-resistance/
+URL:https://mladimaribor.si/dogodek/sonic-resistance/
+END:VEVENT
+END:VCALENDAR

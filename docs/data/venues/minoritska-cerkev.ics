@@ -58,4 +58,22 @@ LOCATION:Minoritska cerkev
 DESCRIPTION: https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
 URL:https://www.minoriti.si/dogodki/festival-komorne-glasbe-odmev-poletja-2026-zakljucni-vecer-nasvidenje-poletje
 END:VEVENT
+BEGIN:VEVENT
+UID:45ca4ff05be608e5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260901T200000
+DTEND;TZID=Europe/Ljubljana:20260901T220000
+SUMMARY:BARŽUN 442 Hz
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.minoriti.si/dogodki/barzun-442-hz
+URL:https://www.minoriti.si/dogodki/barzun-442-hz
+END:VEVENT
+BEGIN:VEVENT
+UID:d0707f398c9a6f9f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T120000
+DTEND;TZID=Europe/Ljubljana:20260904T140000
+SUMMARY:RAZKRITI TRENUTKI
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.minoriti.si/dogodki/razkriti-trenutki
+URL:https://www.minoriti.si/dogodki/razkriti-trenutki
+END:VEVENT
 END:VCALENDAR

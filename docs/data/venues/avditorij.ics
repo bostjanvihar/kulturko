@@ -5,15 +5,6 @@ X-WR-CALNAME:Avditorij — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ee08093c544289ba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T210000
-DTEND;TZID=Europe/Ljubljana:20260822T230000
-SUMMARY:Letni kino Minoriti: Ples življenja
-LOCATION:Avditorij
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43502-letni-kino-minoriti-ples-zivljenja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43502-letni-kino-minoriti-ples-zivljenja
-END:VEVENT
-BEGIN:VEVENT
 UID:c87ccc879ea3b05a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260826T200000
 DTEND;TZID=Europe/Ljubljana:20260826T220000

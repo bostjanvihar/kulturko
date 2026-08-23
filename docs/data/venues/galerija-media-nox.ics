@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Galerija Media Nox — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5cc9073973db969f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T180000
+DTEND;TZID=Europe/Ljubljana:20261020T180000
+SUMMARY:[Galerija Media Nox] Fragmenti prisotnosti
+LOCATION:Galerija Media Nox
+DESCRIPTION:\n\n\n\n\n FESTIVAL FOTOGRAFIJE MARIBOR\nFRAGMENTI PRISOTNOSTI\nSKUPINSKA RAZSTAVA\nOtvoritev: Sobota\, 12. september 2026 // 18.00 // Galerija Media Nox\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFotografija je sled nečesa\, kar je bilo prisotno: trenutka\, pogleda\, telesa\, prostora\, dogodka. Toda vsaka sled je nepopolna. Nekaj razkr https://mladimaribor.si/dogodek/galerija-media-nox-fragmenti-prisotnosti-2026-09-12-18-00-00-2026-10-20-18-00-00/
+URL:https://mladimaribor.si/dogodek/galerija-media-nox-fragmenti-prisotnosti-2026-09-12-18-00-00-2026-10-20-18-00-00/
+END:VEVENT
+END:VCALENDAR

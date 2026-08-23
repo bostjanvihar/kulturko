@@ -22,4 +22,13 @@ LOCATION:Pod hrastom
 DESCRIPTION: https://www.minoriti.si/dogodki/jugoslovenka
 URL:https://www.minoriti.si/dogodki/jugoslovenka
 END:VEVENT
+BEGIN:VEVENT
+UID:7d69007d1bb1e94e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T200000
+DTEND;TZID=Europe/Ljubljana:20260919T220000
+SUMMARY:DISKO FINALE • ROTORMOTOR
+LOCATION:Pod hrastom
+DESCRIPTION: https://www.minoriti.si/dogodki/disko-finale-rotormotor
+URL:https://www.minoriti.si/dogodki/disko-finale-rotormotor
+END:VEVENT
 END:VCALENDAR

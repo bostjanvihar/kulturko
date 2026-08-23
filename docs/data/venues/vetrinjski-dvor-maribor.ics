@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vetrinjski dvor\, Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:dc3dc2f7d5c33206@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260825T203000
+DTEND;TZID=Europe/Ljubljana:20260913T220000
+SUMMARY:Polifonija prostora: Vetrinjski dvor v dialogu arhitekture in umetnosti
+LOCATION:Vetrinjski dvor\, Maribor
+DESCRIPTION:Datum in ura začetka: 25. 8. 2026 ob 20:30\nDatum in ura konca: 13. 9. 2026 ob 22:00\nKraj: Vetrinjski dvor\, Maribor\n\nOpis dogodka:\nNa atriju mariborskega Vetrinjskega dvora se letos odvija interdisciplinarni 4 letni umetniški projekt Polifonija prostora\, ki skozi sinergijo različnih umetniških izrazo https://mladimaribor.si/dogodek/polifonija-prostora-vetrinjski-dvor-v-dialogu-arhitekture-in-umetnosti-2026-08-25-20-30-00-2026-09-13-22-00-00/
+URL:https://mladimaribor.si/dogodek/polifonija-prostora-vetrinjski-dvor-v-dialogu-arhitekture-in-umetnosti-2026-08-25-20-30-00-2026-09-13-22-00-00/
+END:VEVENT
+END:VCALENDAR

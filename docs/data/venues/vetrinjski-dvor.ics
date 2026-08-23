@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9260da591e431140@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260813T190000
-DTEND;TZID=Europe/Ljubljana:20260813T210000
-SUMMARY:Koncert Piazzolleky Tango Orquesta + milonga
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Doživite nepozabno strast\, virtuoznost in nostalgijo argentinskega tanga z vrhunskim kvintetom Piazzolleky. Pridružite se nam na čustveni glasbeni izkušnji\, kjer tradicija sreča sodobnost na najvišji ravni.\nNastopi Piazzollekov so vedno več kot koncert – so čustvena in energijska izkušnja\, kjer virt https://mladimaribor.si/dogodek/koncert-piazzolleky-tango-orquesta-milonga/
-URL:https://mladimaribor.si/dogodek/koncert-piazzolleky-tango-orquesta-milonga/
-END:VEVENT
-BEGIN:VEVENT
 UID:82158d1b6270dff6@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T200000
 DTEND;TZID=Europe/Ljubljana:20260829T213000

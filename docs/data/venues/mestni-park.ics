@@ -5,33 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:efe0962793e76ecd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260815T100000
-DTEND;TZID=Europe/Ljubljana:20260815T120000
-SUMMARY:Poletni Art kamp • Kovčekteta na obisku
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-kovcekteta-na-obisku/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-kovcekteta-na-obisku/
-END:VEVENT
-BEGIN:VEVENT
-UID:b898880cab305512@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260816T100000
-DTEND;TZID=Europe/Ljubljana:20260816T120000
-SUMMARY:Poletni Art kamp • Fuj\, gosenica!
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-fuj-gosenica/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-fuj-gosenica/
-END:VEVENT
-BEGIN:VEVENT
-UID:61664a5523c9adea@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260816T103000
-DTEND;TZID=Europe/Ljubljana:20260816T123000
-SUMMARY:Pihalni orkester Gornja Radgona
-LOCATION:Mestni park
-DESCRIPTION:Prvi zapis o nastopanju godbe sega v leto 1911\, ko se Radgona prvič omenja kot trg. Takrat je bila godba prvič omenjena tudi v tedanjem časopisu. Kulturno društvo pihalni orkester Gornja Radgona se razvija v skladu z možnostmi in potrebami časa.\nOrkester se redno udeležuje revij in tekmovanj pihaln https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-URL:https://nd-mb.si/dogodek/pihalni-orkester-gornja-radgona-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:b25fbc43df5527c9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260822T100000
 DTEND;TZID=Europe/Ljubljana:20260822T120000

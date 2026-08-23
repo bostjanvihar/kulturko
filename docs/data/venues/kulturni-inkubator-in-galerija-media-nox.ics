@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kulturni inkubator in Galerija Media Nox — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f396efd406437f57@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T170000
+DTEND;TZID=Europe/Ljubljana:20260918T210000
+SUMMARY:Art Walk v Galeriji Media Nox in Kulturnem inkubatorju
+LOCATION:Kulturni inkubator in Galerija Media Nox
+DESCRIPTION:\n\n\n\n\nMARIBOR ART WALK 2026\nRazstavi Galerije Media Nox in Kulturnega inkubatorja\nPetek\, 18. september 2026 // 17.00-21.00 // Galerija Media Nox in Kulturni inkubator\nMladinski kulturni center Maribor se pridružuje dogodku Art Walk\, ki bo v petek\, 18. septembra 2026. Med 17. in 21. uro bosta ta dan o https://mladimaribor.si/dogodek/art-walk-v-galeriji-media-nox-in-kulturnem-inkubatorju-2026-09-18-17-00-00-2026-09-18-21-00-00/
+URL:https://mladimaribor.si/dogodek/art-walk-v-galeriji-media-nox-in-kulturnem-inkubatorju-2026-09-18-17-00-00-2026-09-18-21-00-00/
+END:VEVENT
+END:VCALENDAR

@@ -5,15 +5,6 @@ X-WR-CALNAME:Zavod Mars — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0f49eb518378c07d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T210000
-DTEND;TZID=Europe/Ljubljana:20260822T210000
-SUMMARY:Filmi z MARSa: Predstavlja se FILM SMOOTHIE
-LOCATION:Zavod Mars
-DESCRIPTION:Na Zemlji je dolgčas. Dobimo se na Marsu.\nTokrat je na vrsti Film Smoothie – večer kratkih filmov\, ki so nastali na mladinskih filmskih delavnicah.\nKaj nastane\, ko zmešaš dobro idejo\, kamero\, ustvarjalnost in ekipo mladih filmarjev? Pridi pogledat izbor svežih\, drznih in iskrenih filmskih zgodb ter  https://mladimaribor.si/dogodek/filmi-z-marsa-predstavlja-se-film-smoothie/
-URL:https://mladimaribor.si/dogodek/filmi-z-marsa-predstavlja-se-film-smoothie/
-END:VEVENT
-BEGIN:VEVENT
 UID:ad00455b06ae2403@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T210000
 DTEND;TZID=Europe/Ljubljana:20260829T210000

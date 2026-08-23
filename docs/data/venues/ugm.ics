@@ -5,33 +5,6 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ac62d8f1c9cd80cb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260818T190000
-DTEND;TZID=Europe/Ljubljana:20260818T210000
-SUMMARY:Torkova ustvarjalnica / Ustvarjanje z glino
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-ustvarjanje-z-glino
-END:VEVENT
-BEGIN:VEVENT
-UID:73b65dd3e977aabe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260820T190000
-DTEND;TZID=Europe/Ljubljana:20260820T210000
-SUMMARY:Ustvarjalno poletje v UGM / Huda mravljica iz UGM na coprniji v LGM
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
-URL:https://www.ugm.si/dogodki/ustvarjalno-poletje-v-ugm-huda-mravljica-iz-ugm-na-coprniji-v-lgm
-END:VEVENT
-BEGIN:VEVENT
-UID:f1c7c01304ee4daa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T190000
-DTEND;TZID=Europe/Ljubljana:20260823T210000
-SUMMARY:Lutkovni pristan – postavljanka / Ustvarjalna delavnica
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
-URL:https://www.ugm.si/dogodki/lutkovni-pristan-postavljanka
-END:VEVENT
-BEGIN:VEVENT
 UID:d50a078cca16b285@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260825T190000
 DTEND;TZID=Europe/Ljubljana:20260825T210000
@@ -39,5 +12,23 @@ SUMMARY:Torkova ustvarjalnica / Škatla s sončnim zahodom
 LOCATION:UGM
 DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
 URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
+END:VEVENT
+BEGIN:VEVENT
+UID:46c5bf86862910b9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T190000
+DTEND;TZID=Europe/Ljubljana:20260911T210000
+SUMMARY:Večerna in jutranja joga v UGM
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/vecerna-in-jutranja-joga-v-ugm
+URL:https://www.ugm.si/dogodki/vecerna-in-jutranja-joga-v-ugm
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1510c5e075e96c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T190000
+DTEND;TZID=Europe/Ljubljana:20261008T210000
+SUMMARY:Predstavitev projekta ReCITYing na arhitekturnem bienalu Beta v Temišvaru
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/predstavitev-projekta-recitying-na-arhitekturnem-bienalu-beta-v-temisvaru
+URL:https://www.ugm.si/dogodki/predstavitev-projekta-recitying-na-arhitekturnem-bienalu-beta-v-temisvaru
 END:VEVENT
 END:VCALENDAR

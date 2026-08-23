@@ -14,6 +14,15 @@ DESCRIPTION:\n\n\n\n\nDruštvo Legebitra v okviru programa Odziv na hiv izvaja t
 URL:https://mladimaribor.si/dogodek/testiranja-na-spolno-prenosljive-okuzbe-za-moske-ki-imajo-spolne-odnose-z-moskimi-2026-08-26-17-00-00-2026-08-26-19-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:7abaa8aa2cf033a2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T090000
+DTEND;TZID=Europe/Ljubljana:20260916T100000
+SUMMARY:Usposabljanje na področju škode zaradi iger na srečo
+LOCATION:MKC Maribor
+DESCRIPTION:\n\n\n\n\nUSPOSABLJANJE STROKOVNIH DELAVCEV NA PODROČJU ŠKODE ZARADI IGER NA SREČO\n16. september in 14. oktober 2026 // 9.00-10.00 // MKC Maribor\nV sodelovanju z Zavodom Etnika in programom Mladi hazarder bomo izvedli strokovno usposabljanje\, namenjeno zaposlenim\, ki se pri svojem delu srečujejo z mladim https://mladimaribor.si/dogodek/usposabljanje-na-podrocju-skode-zaradi-iger-na-sreco-2026-09-16-09-00-00-2026-09-16-10-00-00/
+URL:https://mladimaribor.si/dogodek/usposabljanje-na-podrocju-skode-zaradi-iger-na-sreco-2026-09-16-09-00-00-2026-09-16-10-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:5d783b7ca990cd86@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260930T170000
 DTEND;TZID=Europe/Ljubljana:20260930T190000
@@ -21,6 +30,15 @@ SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odn
 LOCATION:MKC Maribor
 DESCRIPTION:\n\n\n\n\nDruštvo Legebitra v okviru programa Odziv na hiv izvaja terenska testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi.\nTestiranje je zaupno in brezplačno\, za udeležbo ni potrebno imeti zdravstvene kartice. V prostorih MKC Maribor poteka vsako zadnjo sredo v mesecu  https://mladimaribor.si/dogodek/testiranja-na-spolno-prenosljive-okuzbe-za-moske-ki-imajo-spolne-odnose-z-moskimi-2026-09-30-17-00-00-2026-09-30-19-00-00-2/
 URL:https://mladimaribor.si/dogodek/testiranja-na-spolno-prenosljive-okuzbe-za-moske-ki-imajo-spolne-odnose-z-moskimi-2026-09-30-17-00-00-2026-09-30-19-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fe63096757406a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261014T090000
+DTEND;TZID=Europe/Ljubljana:20261014T100000
+SUMMARY:Usposabljanje na področju škode zaradi iger na srečo
+LOCATION:MKC Maribor
+DESCRIPTION: https://mkc.si/koledar/2026/10/14/usposabljanje-na-podrocju-iger-na-sreco
+URL:https://mkc.si/koledar/2026/10/14/usposabljanje-na-podrocju-iger-na-sreco
 END:VEVENT
 BEGIN:VEVENT
 UID:f6cc004456f533c1@kulturko

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mariborski mestni park na Poletnem art kampu — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e64e964570c37282@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260822T100000
+DTEND;TZID=Europe/Ljubljana:20260822T130000
+SUMMARY:Ustvarjalna preventiva za duševno zdravje družin
+LOCATION:Mariborski mestni park na Poletnem art kampu
+DESCRIPTION:Datum in ura začetka: 22. 8. 2026 ob 10:00\nDatum in ura konca: 22. 8. 2026 ob 13:00\nKraj: Mariborski mestni park na Poletnem art kampu\n\nOpis dogodka:\nVabljeni na ustvarjalno druženje za družine\, kjer bomo skozi delavnico\, igro\, ustvarjanje raziskovanje čustev spoznali metode za boljši povezanost med https://mladimaribor.si/dogodek/ustvarjalna-preventiva-za-dusevno-zdravje-druzin-2026-08-22-10-00-00-2026-08-22-13-00-00/
+URL:https://mladimaribor.si/dogodek/ustvarjalna-preventiva-za-dusevno-zdravje-druzin-2026-08-22-10-00-00-2026-08-22-13-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbc09726ebfda86@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260823T100000
+DTEND;TZID=Europe/Ljubljana:20260823T130000
+SUMMARY:Ustvarjalna preventiva za duševno zdravje družin
+LOCATION:Mariborski mestni park na Poletnem art kampu
+DESCRIPTION:Datum in ura začetka: 23. 8. 2026 ob 10:00\nDatum in ura konca: 23. 8. 2026 ob 13:00\nKraj: Mariborski mestni park na Poletnem art kampu\n\nOpis dogodka:\nVabljeni na ustvarjalno druženje za družine\, kjer bomo skozi delavnico\, igro\, ustvarjanje raziskovanje čustev spoznali metode za boljši povezanost med https://mladimaribor.si/dogodek/ustvarjalna-preventiva-za-dusevno-zdravje-druzin-2026-08-23-10-00-00-2026-08-23-13-00-00/
+URL:https://mladimaribor.si/dogodek/ustvarjalna-preventiva-za-dusevno-zdravje-druzin-2026-08-23-10-00-00-2026-08-23-13-00-00/
+END:VEVENT
+END:VCALENDAR

@@ -5,6 +5,15 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:41442e014b8cb561@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T200000
+DTEND;TZID=Europe/Ljubljana:20260918T200000
+SUMMARY:GUILTY OF JOY + Match! + Šesti / 18. 9. 2026 / Maribor\, MC Pekarna
+LOCATION:MC Pekarna
+DESCRIPTION:Pripravite se na eksplozijo dobrega avtorskega rocka izkušenih glasbenikov. Pustite se presenetiti in preprosto uživajte.\nGUILTY OF JOY \nso energični grunge rockerji iz Kranja. V letih glasbenih izkušenj so razvili kvalitetno glasbo in odlično odrsko prezenco\, kar dokazujejo z zmagami na mednarodnih https://mladimaribor.si/dogodek/guilty-of-joy-match-sesti-18-9-2026-maribor-mc-pekarna/
+URL:https://mladimaribor.si/dogodek/guilty-of-joy-match-sesti-18-9-2026-maribor-mc-pekarna/
+END:VEVENT
+BEGIN:VEVENT
 UID:31e8c4ff0bea19ac@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260918T200000
 DTEND;TZID=Europe/Ljubljana:20260918T220000

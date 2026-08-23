@@ -23,22 +23,22 @@ DESCRIPTION:Guillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatu
 URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
 END:VEVENT
 BEGIN:VEVENT
-UID:302d9b66de612a5a@kulturko
+UID:db5d361c6fa6eca1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260924T193000
 DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:Viharna trojica
+SUMMARY:Trio Gaspard: Viharna trojica
 LOCATION:Dvorana Union
-DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert Komornega cikla 2026/2027 \n\n \n\n Joseph Haydn:    Trio za violino\, violončelo in klavir št. 11 v E-duru\, Hob. XV:34\n   Giovanni Sollima:    Hide in Trio    (novo delo)\n  Johannes Brahms:    Trio za violino\, violončelo in klavir št. 3 v c-molu\, op. 10 https://nd-mb.si/dogodek/viharna-trojica/
+DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert  Komornega cikla 2026/2027  \n\n \n\n Joseph Haydn:    Trio za violino\, violončelo in klavir št. 11 v E-duru\, Hob. XV:34\n   Giovanni Sollima:    Hide in Trio    (novo delo)\n  Johannes Brahms:    Trio za violino\, violončelo in klavir št. 3 v c-molu\, op.  https://nd-mb.si/dogodek/viharna-trojica/
 URL:https://nd-mb.si/dogodek/viharna-trojica/
 END:VEVENT
 BEGIN:VEVENT
-UID:3373e5556c4e2106@kulturko
+UID:dead5551684dd356@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260924T193000
 DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:Trio Gaspard
+SUMMARY:ND MB: Viharna trojica
 LOCATION:Dvorana Union
-DESCRIPTION:1. koncert Komornega cikla 2026/2027 \n\n \n\n  Jonian Ilias Kadesha  \, violina\n  Vashti Hunter\,   violončelo\n  Nicholas Rimmer\,   klavir  \n\n \n\n Joseph Haydn:    Trio za violino\, violončelo in klavir št. 11 v E-duru\, Hob. XV:34\n   Giovanni Sollima:    Hide in Trio    (novo delo)\n  Johannes B https://nd-mb.si/dogodek/trio-gaspard/
-URL:https://nd-mb.si/dogodek/trio-gaspard/
+DESCRIPTION: https://nd-mb.si/dogodek/viharna-trojica/
+URL:https://nd-mb.si/dogodek/viharna-trojica/
 END:VEVENT
 BEGIN:VEVENT
 UID:0cf3cefa6f07ce41@kulturko
