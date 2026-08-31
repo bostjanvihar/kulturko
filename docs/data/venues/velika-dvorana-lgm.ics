@@ -59,6 +59,114 @@ DESCRIPTION: https://www.minoriti.si/dogodki/shizenna
 URL:https://www.minoriti.si/dogodki/shizenna
 END:VEVENT
 BEGIN:VEVENT
+UID:f1c2455b06e36192@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260910T193000
+DTEND;TZID=Europe/Ljubljana:20260910T213000
+SUMMARY:DOKUDOC: Ko pridem ven
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-ko-pridem-ven
+URL:https://www.minoriti.si/dogodki/dokudoc-ko-pridem-ven
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cf20dfcc236916@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T160000
+DTEND;TZID=Europe/Ljubljana:20260911T180000
+SUMMARY:DOKUDOC: Fotograf
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-fotograf
+URL:https://www.minoriti.si/dogodki/dokudoc-fotograf
+END:VEVENT
+BEGIN:VEVENT
+UID:bc604118716971b7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T200000
+DTEND;TZID=Europe/Ljubljana:20260911T220000
+SUMMARY:DOKUDOC:  Kar je treba storiti
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-kar-je-treba-storiti
+URL:https://www.minoriti.si/dogodki/dokudoc-kar-je-treba-storiti
+END:VEVENT
+BEGIN:VEVENT
+UID:6c404ec534b69192@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T220000
+DTEND;TZID=Europe/Ljubljana:20260912T000000
+SUMMARY:DOKUDOC: VIRTUALNO DEKLE
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-virtualno-dekle
+URL:https://www.minoriti.si/dogodki/dokudoc-virtualno-dekle
+END:VEVENT
+BEGIN:VEVENT
+UID:26600a885d98b5db@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T110000
+DTEND;TZID=Europe/Ljubljana:20260912T130000
+SUMMARY:DOKUDOC: Začasni nomad
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-zacasni-nomad
+URL:https://www.minoriti.si/dogodki/dokudoc-zacasni-nomad
+END:VEVENT
+BEGIN:VEVENT
+UID:ad46d2362e0cfbff@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T160000
+DTEND;TZID=Europe/Ljubljana:20260912T180000
+SUMMARY:DOKUDOC: Kdor ne skače
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-kdor-ne-skace
+URL:https://www.minoriti.si/dogodki/dokudoc-kdor-ne-skace
+END:VEVENT
+BEGIN:VEVENT
+UID:3e070e1a67c3fe9a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T180000
+DTEND;TZID=Europe/Ljubljana:20260912T200000
+SUMMARY:DOKUDOC: Ples življenja
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-ples-zivljenja
+URL:https://www.minoriti.si/dogodki/dokudoc-ples-zivljenja
+END:VEVENT
+BEGIN:VEVENT
+UID:c2d80fd9294021cd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T220000
+DTEND;TZID=Europe/Ljubljana:20260913T000000
+SUMMARY:DOKUDOC: MIROVNIK / MIROTVORAC
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-mirovnik-mirotvorac
+URL:https://www.minoriti.si/dogodki/dokudoc-mirovnik-mirotvorac
+END:VEVENT
+BEGIN:VEVENT
+UID:a08720268f12d016@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T130000
+DTEND;TZID=Europe/Ljubljana:20260913T150000
+SUMMARY:DOKUDOC: MOJA PRIJATELJICA SELY
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-moja-prijateljica-sely
+URL:https://www.minoriti.si/dogodki/dokudoc-moja-prijateljica-sely
+END:VEVENT
+BEGIN:VEVENT
+UID:f0500325c4f4b2fd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T160000
+DTEND;TZID=Europe/Ljubljana:20260913T180000
+SUMMARY:DOKUDOC: NE POZABI ME
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-ne-pozabi-me
+URL:https://www.minoriti.si/dogodki/dokudoc-ne-pozabi-me
+END:VEVENT
+BEGIN:VEVENT
+UID:2a223342a03c3f4c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T180000
+DTEND;TZID=Europe/Ljubljana:20260913T200000
+SUMMARY:DOKUDOC: Mož s tisoč obrazi
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-moz-s-tisoc-obrazi
+URL:https://www.minoriti.si/dogodki/dokudoc-moz-s-tisoc-obrazi
+END:VEVENT
+BEGIN:VEVENT
+UID:1bdbf2015f2c794f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T210000
+DTEND;TZID=Europe/Ljubljana:20260913T230000
+SUMMARY:DOKUDOC: Yugo gre v Ameriko
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-yugo-gre-v-ameriko
+URL:https://www.minoriti.si/dogodki/dokudoc-yugo-gre-v-ameriko
+END:VEVENT
+BEGIN:VEVENT
 UID:e3abc9372928a6a5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T090000
 DTEND;TZID=Europe/Ljubljana:20260916T110000
@@ -93,5 +201,32 @@ SUMMARY:Zvezdica Zaspanka
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
 URL:https://www.minoriti.si/dogodki/zvezdicazaspanka-31302
+END:VEVENT
+BEGIN:VEVENT
+UID:47ed44424f775d4d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T180000
+DTEND;TZID=Europe/Ljubljana:20260923T200000
+SUMMARY:Transport: Pripnite pasove!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44317-transport-pripnite-pasove
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44317-transport-pripnite-pasove
+END:VEVENT
+BEGIN:VEVENT
+UID:c9414e005680a9af@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T190000
+DTEND;TZID=Europe/Ljubljana:20260923T210000
+SUMMARY:Transport: Povezovalni leti
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44318-transport-povezovalni-leti
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44318-transport-povezovalni-leti
+END:VEVENT
+BEGIN:VEVENT
+UID:f22a36000f0b368d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T180000
+DTEND;TZID=Europe/Ljubljana:20260924T200000
+SUMMARY:Transport: Prelomna točka
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45345-transport-prelomna-tocka
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45345-transport-prelomna-tocka
 END:VEVENT
 END:VCALENDAR

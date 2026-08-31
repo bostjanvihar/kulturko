@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Zgornja ploščad na Mariborski tržnici — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:67e0b89bb1153028@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T180000
+DTEND;TZID=Europe/Ljubljana:20261019T180000
+SUMMARY:PivoFest 2026
+LOCATION:Zgornja ploščad na Mariborski tržnici
+DESCRIPTION:Pivo\, preste\, klobasice\, dirndrli in Oktoberfest štimunga … Se sliši kot pivska nebesa?\nTo je 𝐏𝐈𝐕𝐎 𝐅𝐄𝐒𝐓!\nFestival ponuja edinstveno priložnost za odkrivanje in okušanje pivskih klasik ter najnovejših trendov v pivovarstvu. Ne glede na to\, ali ste ljubitelj osvežilnih hmeljnih napitkov ali pa raje ra https://mladimaribor.si/dogodek/pivofest-2026/
+URL:https://mladimaribor.si/dogodek/pivofest-2026/
+END:VEVENT
+END:VCALENDAR

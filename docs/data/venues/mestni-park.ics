@@ -5,33 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b25fbc43df5527c9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T100000
-DTEND;TZID=Europe/Ljubljana:20260822T120000
-SUMMARY:Poletni Art kamp • Vsem ljudem nikoli ne ustežeš
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-vsem-ljudem-nikoli-ne-ustezes/
-END:VEVENT
-BEGIN:VEVENT
-UID:1eb8583377f6cf7f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T103000
-DTEND;TZID=Europe/Ljubljana:20260823T123000
-SUMMARY:Godba na pihala KUD Janko Živko Poljčane
-LOCATION:Mestni park
-DESCRIPTION:Godba na pihala spada med dejavnejše sekcije KUD-a. Po starosti članov se uvršča med mlajše zasedbe\, saj se je članstvo v zadnjih letih precej pomladilo in spremenilo. S tem se je razširil tudi repertoar\, ki poleg značilnih koračnic vključuje še priredbe drugih glasbenih zvrsti. Člani godbe so zelo  https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-URL:https://nd-mb.si/dogodek/godba-na-pihala-kud-janko-zivko-poljcane-3/
-END:VEVENT
-BEGIN:VEVENT
-UID:b1eb08dbd65924ed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260823T180000
-DTEND;TZID=Europe/Ljubljana:20260823T200000
-SUMMARY:Poletni Art kamp • Srčno
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-srcno/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-srcno/
-END:VEVENT
-BEGIN:VEVENT
 UID:84659f1e5df017f7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T100000
 DTEND;TZID=Europe/Ljubljana:20260829T120000

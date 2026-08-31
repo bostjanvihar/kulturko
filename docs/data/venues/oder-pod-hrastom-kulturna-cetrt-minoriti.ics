@@ -5,15 +5,6 @@ X-WR-CALNAME:oder Pod hrastom\, Kulturna četrt Minoriti — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:af41d9c05584797c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T210000
-DTEND;TZID=Europe/Ljubljana:20260821T210000
-SUMMARY:Poletje v Minoritih: Slon in Sadež
-LOCATION:oder Pod hrastom\, Kulturna četrt Minoriti
-DESCRIPTION:Slon in Sadež oz. po domače Jure Karas in Igor Bračič\, skupaj ustvarjata od daljnega leta 2001. Ime sta si nadela po čudni in nerazumljivi angleški šali\, zato se je zdelo edino primerno\, da je tudi glasba\, ki sta jo takrat pričela ustvarjati\, takšna. Kljub prošnjam glasbenih poznavalcev sta do danes https://mladimaribor.si/dogodek/poletje-v-minoritih-slon-in-sadez/
-URL:https://mladimaribor.si/dogodek/poletje-v-minoritih-slon-in-sadez/
-END:VEVENT
-BEGIN:VEVENT
 UID:e783dde9a3ffbec5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260927T100000
 DTEND;TZID=Europe/Ljubljana:20260927T100000

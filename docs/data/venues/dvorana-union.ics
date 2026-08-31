@@ -5,6 +5,15 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:95b3ea01bf1e5ab1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T080000
+DTEND;TZID=Europe/Ljubljana:20260927T170000
+SUMMARY:Festival Maribor 2026
+LOCATION:Dvorana Union
+DESCRIPTION:Jesenski Festival Maribor je festival kakovostne klasične glasbe z vrhunskim naborom mednarodno uveljavljenih glasbenih umetnikov in poznavalskim izborom mladih talentov.\n\n\nFestival Maribor stremi k širjenju poslušalstva in razbijanju mitov o klasični glasbi. S pestro ponudbo koncertov\, ki segajo od https://mladimaribor.si/dogodek/festival-maribor-2026/
+URL:https://mladimaribor.si/dogodek/festival-maribor-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:449652731578f6b3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260915T193000
 DTEND;TZID=Europe/Ljubljana:20260915T213000
@@ -19,7 +28,7 @@ DTSTART;TZID=Europe/Ljubljana:20260922T170000
 DTEND;TZID=Europe/Ljubljana:20260922T190000
 SUMMARY:Karneval. In dinozavri!
 LOCATION:Dvorana Union
-DESCRIPTION:Guillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet \nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti\, ki se imamo za odrasle. Koncert https://nd-mb.si/dogodek/karneval-in-dinozavri/
+DESCRIPTION:Guillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur  za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet\nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti\, ki se imamo za odrasle. Koncert https://nd-mb.si/dogodek/karneval-in-dinozavri/
 URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
 END:VEVENT
 BEGIN:VEVENT
@@ -77,6 +86,24 @@ DESCRIPTION:1. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  FILHARMONIČN
 URL:https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
 END:VEVENT
 BEGIN:VEVENT
+UID:a6977c328154d0d5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T180000
+DTEND;TZID=Europe/Ljubljana:20261113T200000
+SUMMARY:Candlelight: Predstavljamo Štiri letne čase Vivaldija in še več
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-predstavljamo-stiri-letne-case-vivaldija-in-se-vec/
+URL:https://nd-mb.si/dogodek/candlelight-predstavljamo-stiri-letne-case-vivaldija-in-se-vec/
+END:VEVENT
+BEGIN:VEVENT
+UID:5743e7c8b760f671@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T203000
+DTEND;TZID=Europe/Ljubljana:20261113T223000
+SUMMARY:Candlelight: Coldplay in Imagine Dragons
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti    Candlelight    prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prej https://nd-mb.si/dogodek/candlelight-coldplay-in-imagine-dragons/
+URL:https://nd-mb.si/dogodek/candlelight-coldplay-in-imagine-dragons/
+END:VEVENT
+BEGIN:VEVENT
 UID:f2e990d92c3f110a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261117T100000
 DTEND;TZID=Europe/Ljubljana:20261117T120000
@@ -102,6 +129,24 @@ SUMMARY:Beneški baročni orkester
 LOCATION:Dvorana Union
 DESCRIPTION:2. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  BENEŠKI BAROČNI ORKESTER\n  Andrea Marcon  \, vodja\n  Chouchane Siranossian  \, violina  \n\n \n\n  DVOBOJ GODAL  \n\n Antonio Vivaldi:    Sinfonia v G-duru za godalni orkester in basso continuo\, RV 149\n   Antonio Vivaldi:    Koncert za dva violonče https://nd-mb.si/dogodek/beneski-barocni-orkester/
 URL:https://nd-mb.si/dogodek/beneski-barocni-orkester/
+END:VEVENT
+BEGIN:VEVENT
+UID:d326e3dc6c39ab4f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261211T203000
+DTEND;TZID=Europe/Ljubljana:20261211T223000
+SUMMARY:Candlelight: Queen vs. ABBA
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
+URL:https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
+END:VEVENT
+BEGIN:VEVENT
+UID:782144920679151b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270107T203000
+DTEND;TZID=Europe/Ljubljana:20270107T223000
+SUMMARY:Candlelight: Največje uspešnice Hansa Zimmerja
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-najvecje-uspesnice-hansa-zimmerja/
+URL:https://nd-mb.si/dogodek/candlelight-najvecje-uspesnice-hansa-zimmerja/
 END:VEVENT
 BEGIN:VEVENT
 UID:be8d467b184d059d@kulturko

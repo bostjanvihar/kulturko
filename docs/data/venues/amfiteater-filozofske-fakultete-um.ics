@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Amfiteater Filozofske fakultete UM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:47d283c4afe716c6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260826T080000
+DTEND;TZID=Europe/Ljubljana:20260826T170000
+SUMMARY:8. strokovna konferenca Centra Šteker
+LOCATION:Amfiteater Filozofske fakultete UM
+DESCRIPTION:Center Šteker v torek\, 15. septembra 2026\, organizira 8. strokovno konferenco na temo rabe zaslonskih tehnologij med mladimi. Konferenca se prične ob 9. uri in bo potekala v amfiteatru Filozofske fakultete Univerze v Mariboru. Obvezne so predhodne prijave\, udeležba pa je brezplačna.\nKonferenca je na https://mladimaribor.si/dogodek/8-strokovna-konferenca-centra-steker/
+URL:https://mladimaribor.si/dogodek/8-strokovna-konferenca-centra-steker/
+END:VEVENT
+END:VCALENDAR

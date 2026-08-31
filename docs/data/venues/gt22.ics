@@ -5,12 +5,12 @@ X-WR-CALNAME:GT22 — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:21fde0adb7823ba9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260714T180000
-DTEND;TZID=Europe/Ljubljana:20260714T200000
-SUMMARY:[demo] Odprtje razstave
+UID:651d1ce8063a0510@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270709T190000
+DTEND;TZID=Europe/Ljubljana:20270709T210000
+SUMMARY:Človek v morju
 LOCATION:GT22
-DESCRIPTION:Demo vnos. https://gt22.si/program/
-URL:https://gt22.si/program/
+DESCRIPTION: https://gt22.si/clovek-v-morju/
+URL:https://gt22.si/clovek-v-morju/
 END:VEVENT
 END:VCALENDAR

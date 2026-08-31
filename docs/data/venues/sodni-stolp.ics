@@ -5,15 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e9c9bef2556b764b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260822T100000
-DTEND;TZID=Europe/Ljubljana:20260822T120000
-SUMMARY:Lesena Bitja
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
-URL:https://www.lg-mb.si/gostujoce-predstave/lesena-bitja/
-END:VEVENT
-BEGIN:VEVENT
 UID:9604eda5557a40ce@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260830T100000
 DTEND;TZID=Europe/Ljubljana:20260830T120000
@@ -41,6 +32,15 @@ DESCRIPTION: https://www.minoriti.si/dogodki/sanjaj-ljuba-moja
 URL:https://www.minoriti.si/dogodki/sanjaj-ljuba-moja
 END:VEVENT
 BEGIN:VEVENT
+UID:39e30af27de7297b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T110000
+DTEND;TZID=Europe/Ljubljana:20260913T130000
+SUMMARY:DOKUDOC MASTERCLASS
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-masterclass
+URL:https://www.minoriti.si/dogodki/dokudoc-masterclass
+END:VEVENT
+BEGIN:VEVENT
 UID:8f2b80547e396bf3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260917T100000
 DTEND;TZID=Europe/Ljubljana:20260917T120000
@@ -57,5 +57,23 @@ SUMMARY:Skrinjica sinjega maka
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
 URL:https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1245d6177c291e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T180000
+DTEND;TZID=Europe/Ljubljana:20260922T200000
+SUMMARY:Transport: Tovor
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transporttovor-33109
+URL:https://www.minoriti.si/dogodki/transporttovor-33109
+END:VEVENT
+BEGIN:VEVENT
+UID:919f08b477b88751@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T190000
+DTEND;TZID=Europe/Ljubljana:20260922T210000
+SUMMARY:Transport: Odhod
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transportodhod-35135
+URL:https://www.minoriti.si/dogodki/transportodhod-35135
 END:VEVENT
 END:VCALENDAR

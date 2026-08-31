@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Veslaški klub Bresternica — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:effb6afd13a00c5e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T090000
+DTEND;TZID=Europe/Ljubljana:20260904T120000
+SUMMARY:🎨 LIKOVNA KOLONIJA »ŽIVLJENJE OB DRAVI« Z DOBRODELNO NOTO
+LOCATION:Veslaški klub Bresternica
+DESCRIPTION:Posebno mesto v letošnjem programu ima tudi likovna kolonija »Življenje ob Dravi«\, ki bo potekala v petek\, 4. septembra 2026\, od 9. do 12. ure pri Veslaškem klubu Bresternica.\nK sodelovanju so vabljeni ljubiteljski ustvarjalci\, ki bodo svojo ustvarjalnost povezali z naravo\, reko Dravo in življenjem  https://mladimaribor.si/dogodek/%f0%9f%8e%a8-likovna-kolonija-zivljenje-ob-dravi-z-dobrodelno-noto/
+URL:https://mladimaribor.si/dogodek/%f0%9f%8e%a8-likovna-kolonija-zivljenje-ob-dravi-z-dobrodelno-noto/
+END:VEVENT
+END:VCALENDAR

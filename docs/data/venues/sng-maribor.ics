@@ -41,10 +41,10 @@ DESCRIPTION:Janja Vidmar\, Maja Borin · Dvorana Frana Žižka  https://www.sng-
 URL:https://www.sng-mb.si/event/elvis-skorc-genialni-stor/
 END:VEVENT
 BEGIN:VEVENT
-UID:24d7aa761add721a@kulturko
+UID:3fc0fa5de903e087@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T193000
 DTEND;TZID=Europe/Ljubljana:20260916T213000
-SUMMARY:1. koncert simfoničnega cikla: »Od glasbenega slavja\, glasbene poezije do junaške silovitosti simfonične pripovedi«
+SUMMARY:1. koncert simfoničnega cikla: »Muza in pesnik«
 LOCATION:SNG Maribor
 DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
 URL:https://www.sng-mb.si/event/1-koncert-simfonicnega-cikla-od-glasbenega-slavja-glasbene-poezije-do-junaske-silovitosti-simfonicne-pripovedi/
@@ -82,7 +82,7 @@ DTSTART;TZID=Europe/Ljubljana:20260917T200000
 DTEND;TZID=Europe/Ljubljana:20260917T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +91,7 @@ DTSTART;TZID=Europe/Ljubljana:20260918T200000
 DTEND;TZID=Europe/Ljubljana:20260918T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -100,7 +100,7 @@ DTSTART;TZID=Europe/Ljubljana:20260919T200000
 DTEND;TZID=Europe/Ljubljana:20260919T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +109,7 @@ DTSTART;TZID=Europe/Ljubljana:20260922T200000
 DTEND;TZID=Europe/Ljubljana:20260922T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +118,7 @@ DTSTART;TZID=Europe/Ljubljana:20260923T200000
 DTEND;TZID=Europe/Ljubljana:20260923T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +127,7 @@ DTSTART;TZID=Europe/Ljubljana:20260924T200000
 DTEND;TZID=Europe/Ljubljana:20260924T220000
 SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Dvorana Frana Žižka https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +136,7 @@ DTSTART;TZID=Europe/Ljubljana:20260925T200000
 DTEND;TZID=Europe/Ljubljana:20260925T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ DTSTART;TZID=Europe/Ljubljana:20260926T200000
 DTEND;TZID=Europe/Ljubljana:20260926T220000
 SUMMARY:Boji in preobrazbe neke ženske
 LOCATION:SNG Maribor
-DESCRIPTION:Po avtobiografski pripovedi Édouarda Louisa · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
@@ -167,6 +167,24 @@ DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta K
 URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
 END:VEVENT
 BEGIN:VEVENT
+UID:9e3876c6bb60d4e1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T200000
+DTEND;TZID=Europe/Ljubljana:20261002T220000
+SUMMARY:Strah in upanje
+LOCATION:SNG Maribor
+DESCRIPTION:Franz Xaver Kroetz · Dvorana Frana Žižka https://www.sng-mb.si/event/strah-in-upanje/
+URL:https://www.sng-mb.si/event/strah-in-upanje/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c623616fb5e501c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261003T200000
+DTEND;TZID=Europe/Ljubljana:20261003T220000
+SUMMARY:Moj termin
+LOCATION:SNG Maribor
+DESCRIPTION: Vicente Villanueva\, Laurent Baffie · Mali oder https://www.sng-mb.si/event/moj-termin/
+URL:https://www.sng-mb.si/event/moj-termin/
+END:VEVENT
+BEGIN:VEVENT
 UID:ab8b10c1936a0d17@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T190000
 DTEND;TZID=Europe/Ljubljana:20261016T210000
@@ -183,6 +201,15 @@ SUMMARY:OPERA BALET PREMIERA
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
 URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bb87f366429bb3cb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T200000
+DTEND;TZID=Europe/Ljubljana:20261017T220000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7817aec25a1cb1e@kulturko

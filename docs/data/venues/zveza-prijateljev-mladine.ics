@@ -5,15 +5,6 @@ X-WR-CALNAME:Zveza prijateljev mladine — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9c9b0623ead574b7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260817T090000
-DTEND;TZID=Europe/Ljubljana:20260821T120000
-SUMMARY:POČITNICE S PRIJATELJI 8.teden
-LOCATION:Zveza prijateljev mladine
-DESCRIPTION:\n\n\n\n\nPozdravljeni prijatelji mladine!\nPrehajamo v zadnjo četrtino počitnic\, preverite kaj bomo počeli in kje se bomo potepali.\nCeloten program poletnih počitnic v Mariboru je objavljen na naši spletni strani\, v nadaljevanju pa izpostavljamo aktivnosti prihajajočega tedna\, ki prinaša nova doživetja\,  https://mladimaribor.si/dogodek/pocitnice-s-prijatelji-8-teden/
-URL:https://mladimaribor.si/dogodek/pocitnice-s-prijatelji-8-teden/
-END:VEVENT
-BEGIN:VEVENT
 UID:b9f88cf269f370be@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260824T090000
 DTEND;TZID=Europe/Ljubljana:20260828T170000

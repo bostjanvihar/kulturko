@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kulturna četrt Minoriti  — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f3755726f24d26bb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T220000
+DTEND;TZID=Europe/Ljubljana:20260913T000000
+SUMMARY:DOKUDOC ZAKLJUČNA ZABAVA: BRANE RONČEL
+LOCATION:Kulturna četrt Minoriti 
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-zakljucna-zabava-brane-roncel
+URL:https://www.minoriti.si/dogodki/dokudoc-zakljucna-zabava-brane-roncel
+END:VEVENT
+END:VCALENDAR

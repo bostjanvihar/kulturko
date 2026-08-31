@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:ArtKIT — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:7b7ef4dea9e272a8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T190000
+DTEND;TZID=Europe/Ljubljana:20260828T190000
+SUMMARY:Apolonija Simon: ODSEVI
+LOCATION:ArtKIT
+DESCRIPTION:Odprtje samostojne razstave: Apolonija Simon: ODSEVI\nVabljeni na odprtje samostojne razstave slikarke Apolonije Simon ODSEVI\, ki bo v petek\, 28. avgusta 2026\, ob 19. uri v razstavišču artKIT.\nSlikarstvo Apolonije Simon zaznamuje posebno občutje časa. Njene slike so kakor tihi pristani\, v katere vsto https://mladimaribor.si/dogodek/apolonija-simon-odsevi/
+URL:https://mladimaribor.si/dogodek/apolonija-simon-odsevi/
+END:VEVENT
+END:VCALENDAR

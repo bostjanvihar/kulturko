@@ -5,6 +5,24 @@ X-WR-CALNAME:Klub KGB — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:dab833294a12a17a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T190000
+DTEND;TZID=Europe/Ljubljana:20260904T210000
+SUMMARY:VAKUM - Absynthesizer
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/vakum-absynthesizer
+URL:https://klub-kgb.si/dogodki/2026/sep/vakum-absynthesizer
+END:VEVENT
+BEGIN:VEVENT
+UID:329985023ff6db9a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260905T190000
+DTEND;TZID=Europe/Ljubljana:20260905T210000
+SUMMARY:Karamela
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/karamela
+URL:https://klub-kgb.si/dogodki/2026/sep/karamela
+END:VEVENT
+BEGIN:VEVENT
 UID:3204569eafc6100f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T190000
 DTEND;TZID=Europe/Ljubljana:20260911T210000
@@ -32,6 +50,15 @@ DESCRIPTION: https://www.facebook.com/events/1469637100877930/
 URL:https://www.facebook.com/events/1469637100877930/
 END:VEVENT
 BEGIN:VEVENT
+UID:d9b486dedc7fcbd3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T190000
+DTEND;TZID=Europe/Ljubljana:20260918T210000
+SUMMARY:Rok Škrlep - Recept za srečo
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
+URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
+END:VEVENT
+BEGIN:VEVENT
 UID:b83447185a4ecfcc@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260918T190000
 DTEND;TZID=Europe/Ljubljana:20260918T210000
@@ -39,6 +66,15 @@ SUMMARY:Rok Škrlep
 LOCATION:Klub KGB
 DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
+END:VEVENT
+BEGIN:VEVENT
+UID:13412fe415796064@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T190000
+DTEND;TZID=Europe/Ljubljana:20261002T210000
+SUMMARY:5. Festivanje ali Sedmina za pedrovo bivšo ženo
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/5-festivanje-ali-sedmina-za-pedrovo-bivso-zeno
+URL:https://klub-kgb.si/dogodki/2026/okt/5-festivanje-ali-sedmina-za-pedrovo-bivso-zeno
 END:VEVENT
 BEGIN:VEVENT
 UID:330d68098c488bba@kulturko

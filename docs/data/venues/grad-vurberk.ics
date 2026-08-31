@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Grad Vurberk — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:45aee06a5ba07ac9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T200000
+DTEND;TZID=Europe/Ljubljana:20260904T200000
+SUMMARY:Liza’sHood Hip Hop: Mrigs & Ghet
+LOCATION:Grad Vurberk
+DESCRIPTION:Kot vsako leto tudi letos pride ra5tek poslastica…tokrat z nami velenjska pioonirja slovenske rap scene… Mrigs & Ghet!\nTudi letos imamo open mic sesh…mladi nadobudneži se nam javite (pokliči ali piši)….da pokažete rime..skille…in suknje iz činčile…\nKarte (15e) na voljo pri Lizi ali preko spleta….see https://mladimaribor.si/dogodek/lizashood-hip-hop-mrigs-ghet/
+URL:https://mladimaribor.si/dogodek/lizashood-hip-hop-mrigs-ghet/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e656736a2a32fbb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T203000
+DTEND;TZID=Europe/Ljubljana:20260912T203000
+SUMMARY:Mi2
+LOCATION:Grad Vurberk
+DESCRIPTION:𝗠𝗶𝟮 𝗡𝗮𝘁𝘂𝗿(𝗶) – 𝗠𝗮𝗻𝗷 𝗱𝗲𝗰𝗶𝗯𝗲𝗹𝗼𝘃\, 𝘃𝗲𝗰̌ 𝘇𝗴𝗼𝗱𝗯! 🤘\nPo izjemnem letu\, v katerem je skupina Mi2 praznovala 30. obletnico delovanja in katerega vrhunec je predstavljal razprodani koncert v dvorani Stožice\, njeni člani svojo zgodbo nadaljujejo v malce bolj intimni\, akustični preobleki. Z Mi2 Natur bomo dožive https://mladimaribor.si/dogodek/mi2/
+URL:https://mladimaribor.si/dogodek/mi2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:OBRAT — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:463ee2da7d590a7d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260908T180000
+DTEND;TZID=Europe/Ljubljana:20260908T180000
+SUMMARY:Cikel Filmski pogled: Petra Meterc – Četrto obdobje palestinskega filma
+LOCATION:OBRAT
+DESCRIPTION:8. septembra 2026\, ob 18. uri v OBRAT-u\, prostoru umetnosti in participacije\, Trg revolucije 8\nPogovor po predavanju bo vodila Maja Pan. \n\nPetra Meterc je diplomirana anglistka in polonistka\, deluje pa kot filmska kritičarka in prevajalka. Več let je o filmu in literaturi pisala za Radio Študent. Bi https://mladimaribor.si/dogodek/cikel-filmski-pogled-petra-meterc-cetrto-obdobje-palestinskega-filma/
+URL:https://mladimaribor.si/dogodek/cikel-filmski-pogled-petra-meterc-cetrto-obdobje-palestinskega-filma/
+END:VEVENT
+END:VCALENDAR

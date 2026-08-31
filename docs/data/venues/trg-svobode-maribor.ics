@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Trg svobode Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5bd3c1daa9cffa25@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T090000
+DTEND;TZID=Europe/Ljubljana:20260828T090000
+SUMMARY:Počitniški finale ZPM – 28. in 31. avgust\, ob 9.00
+LOCATION:Trg svobode Maribor
+DESCRIPTION:\n\n\n\n\nVabilo na počitniški finale – 28. in 31. avgust\, ob 9.00\n\nSpoštovani\,\npoletje se počasi poslavlja\, mi pa ga bomo skupaj zaključili v prav posebnem vzdušju!\nVabimo vas na tradicionalni raziskovalni potep po Mariboru in Neresno olimpijado\, kjer se bomo pomerili v najbolj zabavnih in neresnih disc https://mladimaribor.si/dogodek/pocitniski-finale-zpm-28-in-31-avgust-ob-9-00/
+URL:https://mladimaribor.si/dogodek/pocitniski-finale-zpm-28-in-31-avgust-ob-9-00/
+END:VEVENT
+END:VCALENDAR

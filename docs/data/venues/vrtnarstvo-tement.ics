@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vrtnarstvo Tement — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9859bcb837631fe4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T200000
+DTEND;TZID=Europe/Ljubljana:20260925T200000
+SUMMARY:Koncert med cvetjem: Hamo & Tribute 2 Love
+LOCATION:Vrtnarstvo Tement
+DESCRIPTION:HudaLiza X VrtnarstvoTement\nPonovno se vračamo med cvetlice najlepše vrtnarije na tej strani tunela. V jeseni nam bodo igrali stari mački odrov..znanec Lize….Hamo in njegov band Tribute 2 Love. Pripravlja se nova plata\, frišna muzika na frišnem zraku.\nSo ambasadorji ljubezni\, sinonim za iskrenost\, č https://mladimaribor.si/dogodek/koncert-med-cvetjem-hamo-tribute-2-love/
+URL:https://mladimaribor.si/dogodek/koncert-med-cvetjem-hamo-tribute-2-love/
+END:VEVENT
+END:VCALENDAR

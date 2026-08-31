@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Partizanska 12\, Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5f92123acdeae0a6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260921T163000
+DTEND;TZID=Europe/Ljubljana:20260921T180000
+SUMMARY:Šola animiranega filma\, 8+
+LOCATION:Partizanska 12\, Maribor
+DESCRIPTION:Datum in ura začetka: 21. 9. 2026 ob 16:30\nDatum in ura konca: 21. 9. 2026 ob 18:00\nKraj: Partizanska 12\, Maribor\n\nOpis dogodka:\nanimirani film za otroke od 8 do 14 let\nVsak ponedeljek\, 16.30–18.00\, Partizanska 12\, Maribor\nzačetek 21. 9. 2026\nKo se risba premakne. Ko predmet oživi. Ko ideja postane  https://mladimaribor.si/dogodek/sola-animiranega-filma-8-2026-09-21-16-30-00-2026-09-21-18-00-00/
+URL:https://mladimaribor.si/dogodek/sola-animiranega-filma-8-2026-09-21-16-30-00-2026-09-21-18-00-00/
+END:VEVENT
+END:VCALENDAR

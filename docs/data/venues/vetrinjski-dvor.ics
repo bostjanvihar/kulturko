@@ -32,6 +32,15 @@ DESCRIPTION:Raziščite bogastvo stare glasbe ter baročne elegancije v navdihuj
 URL:https://mladimaribor.si/dogodek/koncert-tria-tacet/
 END:VEVENT
 BEGIN:VEVENT
+UID:2d270a8e6dd90626@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T160000
+DTEND;TZID=Europe/Ljubljana:20261031T180000
+SUMMARY:(Fl)etna noč čarovnic
+LOCATION:Vetrinjski dvor
+DESCRIPTION:Čira čara\, hokus pokus – nasmeh se nariše in nikoli ne izbriše! \n\n Na Vetrinjskem dvoru bo znova završalo od čarovniškega smeha\, skrivnostnih napojev in šelestenja metel. Noč čarovnic pri nas že tradicionalno združuje male in velike čarovnice ter čarovnike. \n\n Ustvarjali bomo\, se igrali in posli https://nd-mb.si/dogodek/fletna-noc-carovnic-3/
+URL:https://nd-mb.si/dogodek/fletna-noc-carovnic-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:41612e7733695733@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T200000
 DTEND;TZID=Europe/Ljubljana:20261121T213000

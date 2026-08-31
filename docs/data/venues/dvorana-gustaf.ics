@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Dvorana Gustaf — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:defa5f014d5e9af8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T200000
+DTEND;TZID=Europe/Ljubljana:20260904T200000
+SUMMARY:TERRA NOX (melodic death/groove metal – Croatia)\, KAR’AH (death metal – Croatia)
+LOCATION:Dvorana Gustaf
+DESCRIPTION:TERRA NOX (melodic death/groove metal – Croatia)\nKAR’AH (death metal – Croatia)\nLinks:\nTERRA NOX (melodic death/groove metal – Croatia)\nFacebook: https://www.facebook.com/people/Terra-Nox/61565369494303/\nYoutube: https://www.youtube.com/@TerraNox\nKAR’AH (death metal – Croatia)\nFacebook: https://www. https://mladimaribor.si/dogodek/terra-nox-melodic-death-groove-metal-croatia-karah-death-metal-croatia/
+URL:https://mladimaribor.si/dogodek/terra-nox-melodic-death-groove-metal-croatia-karah-death-metal-croatia/
+END:VEVENT
+END:VCALENDAR

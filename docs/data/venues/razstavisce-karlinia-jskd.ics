@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Razstavišče Karlinia (JSKD) — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a898720dadcc84c1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T090000
+DTEND;TZID=Europe/Ljubljana:20260930T090000
+SUMMARY:11. Festival fotografije Maribor
+LOCATION:Razstavišče Karlinia (JSKD)
+DESCRIPTION:12. 9. – 30. 9. 2026\nLeto 2026 je za Fotoklub Maribor posebno\, saj praznuje 90 let delovanja. Ob tej obletnici smo se odločili\, da bo 11. Festival fotografije Maribor\, ki bo potekal med 12. in 30. septembrom 2026\, v ospredje postavil ustvarjalno dediščino skupine članov kluba\, ki je v začetku sedemd https://mladimaribor.si/dogodek/11-festival-fotografije-maribor/
+URL:https://mladimaribor.si/dogodek/11-festival-fotografije-maribor/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mariborsko Pohorje Bolfenk — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:0ae4b052c8fba535@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T083000
+DTEND;TZID=Europe/Ljubljana:20260926T183000
+SUMMARY:6. BOLFENKOV POHOD – Najdaljši organizirani pohod na Štajerskem
+LOCATION:Mariborsko Pohorje Bolfenk
+DESCRIPTION:Mariborsko Pohorje Bolfenk\nolfenkova pot je več kot le pohod\, je zgodba o povezovanju krajev\, narave 🌳\, kulturne dediščine in prijaznih ljudi 🤝.\nGre za najdaljši organizirani pohod na Štajerskem\, v organizaciji ŠD Kenguru\, Občina Trnovska vas in RRA Podravje – Maribor\, ki pohodnike popelje na pribli https://mladimaribor.si/dogodek/6-bolfenkov-pohod-najdaljsi-organizirani-pohod-na-stajerskem/
+URL:https://mladimaribor.si/dogodek/6-bolfenkov-pohod-najdaljsi-organizirani-pohod-na-stajerskem/
+END:VEVENT
+END:VCALENDAR

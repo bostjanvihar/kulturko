@@ -5,12 +5,12 @@ X-WR-CALNAME:PIAF — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:279fc356e51e3fc6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T180000
-DTEND;TZID=Europe/Ljubljana:20260825T200000
-SUMMARY:PIAF KVIZ #85 - Torek\, 25. 8. 2026
+UID:548cbe0867fa38f9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260827T180000
+DTEND;TZID=Europe/Ljubljana:20260827T200000
+SUMMARY:PIAF KVIZ #85 - Četrtek\, 27. 8. 2026
 LOCATION:PIAF
-DESCRIPTION:Na prejšnjem kvizu smo ponovno obeležili 10 letnico Piaf kviza s ponovitvijo čisto prve runde s prvega kviza. Ponavljanje vptašanj sicer ni običaj.\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po ose https://www.facebook.com/events/28089847733981550/
+DESCRIPTION:Dogodek je zaradi možnosti dežja prestavljen na četrtek. Hkrati vabimo na Shod v bran mariborskim drevesom v parku ob 17h\, ki pa bo v vsakem vremenu.\n\nNa prejšnjem kvizu smo ponovno obeležili 10 letnico Piaf kviza s ponovitvijo čisto prve runde s prvega kviza. Ponavljanje vptašanj sicer ni običaj.\n\n https://www.facebook.com/events/28089847733981550/
 URL:https://www.facebook.com/events/28089847733981550/
 END:VEVENT
 END:VCALENDAR

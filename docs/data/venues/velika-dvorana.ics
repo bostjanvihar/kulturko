@@ -5,15 +5,6 @@ X-WR-CALNAME:Velika dvorana — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f9f495caff0f2ac7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T180000
-DTEND;TZID=Europe/Ljubljana:20260821T200000
-SUMMARY:Odbite arktične zgodbe
-LOCATION:Velika dvorana
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/odbite-arkticne-zgodbe/
-URL:https://www.lg-mb.si/gostujoce-predstave/odbite-arkticne-zgodbe/
-END:VEVENT
-BEGIN:VEVENT
 UID:b187cfa2c593adb2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260829T170000
 DTEND;TZID=Europe/Ljubljana:20260829T190000

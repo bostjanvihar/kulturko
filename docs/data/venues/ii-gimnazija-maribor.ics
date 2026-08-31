@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:II. Gimnazija Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d30e60c61f7f1549@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T100000
+DTEND;TZID=Europe/Ljubljana:20260926T100000
+SUMMARY:MariCon 2026
+LOCATION:II. Gimnazija Maribor
+DESCRIPTION:Smo skupina navdušencev nad anime kulturo\, ki smo se povezali v društvo z željo ustvariti nekaj posebnega. Tako je nastala ideja o novi anime konvenciji v Mariboru – Maricon.\nNaš cilj je širjenje anime kulture v Sloveniji ter ustvarjanje prostora\, kjer se lahko oboževalci družijo\, povezujejo in deli https://mladimaribor.si/dogodek/maricon-2026/
+URL:https://mladimaribor.si/dogodek/maricon-2026/
+END:VEVENT
+END:VCALENDAR

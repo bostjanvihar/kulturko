@@ -5,15 +5,6 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:d50a078cca16b285@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T190000
-DTEND;TZID=Europe/Ljubljana:20260825T210000
-SUMMARY:Torkova ustvarjalnica / Škatla s sončnim zahodom
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
-URL:https://www.ugm.si/dogodki/torkova-ustvarjalnica-skatla-s-soncnim-zahodom
-END:VEVENT
-BEGIN:VEVENT
 UID:46c5bf86862910b9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T190000
 DTEND;TZID=Europe/Ljubljana:20260911T210000

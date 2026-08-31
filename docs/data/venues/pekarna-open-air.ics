@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pekarna Open Air — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:672683a78dac289a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260828T190000
+DTEND;TZID=Europe/Ljubljana:20260829T230000
+SUMMARY:OpenAir: Volume Zero Fest 2026
+LOCATION:Pekarna Open Air
+DESCRIPTION:Datum in ura začetka: 28. 8. 2026 ob 19:00\nDatum in ura konca: 29. 8. 2026 ob 23:00\nKraj: Pekarna Open Air\n\nOpis dogodka:\nVirtnikov oder še stoji\, zato smo IndiJanezi in mladi perspektivni bendi združili moči in se odločili\, da bomo zadnji vikend avgusta pripravili dvodnevni open-air festival mladih https://mladimaribor.si/dogodek/openair-volume-zero-fest-2026-2026-08-28-19-00-00-2026-08-29-23-00-00/
+URL:https://mladimaribor.si/dogodek/openair-volume-zero-fest-2026-2026-08-28-19-00-00-2026-08-29-23-00-00/
+END:VEVENT
+END:VCALENDAR

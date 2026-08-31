@@ -5,15 +5,6 @@ X-WR-CALNAME:Ob železnici 16\, 2000 Maribor\, Slovenija — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b86503059e957467@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260818T163000
-DTEND;TZID=Europe/Ljubljana:20260818T180000
-SUMMARY:Besedne bilke
-LOCATION:Ob železnici 16\, 2000 Maribor\, Slovenija
-DESCRIPTION:\n\n\n\n\n\n\n\nvsak torek ob 16.30\, Pekarna Magdalenske mreže\nBesedne bilke\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMoč jezika za vključevanje v družbo\n\n\n\n\n\n\nOtroke in mlade s priseljenskim ozadjem vsak torek med 16.30 in 18.00 vabimo na sproščeno učenje in utrjevanje slovenščine skozi pogovore\, ustvarjalne in družabne igre. Spozna https://mladimaribor.si/dogodek/besedne-bilke-3/2026-08-18/
-URL:https://mladimaribor.si/dogodek/besedne-bilke-3/2026-08-18/
-END:VEVENT
-BEGIN:VEVENT
 UID:f2b81d2c8fc5cccd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260825T163000
 DTEND;TZID=Europe/Ljubljana:20260825T180000
