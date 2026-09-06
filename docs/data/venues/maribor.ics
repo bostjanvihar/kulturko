@@ -5,15 +5,6 @@ X-WR-CALNAME:Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:83e6cb08aa8329da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T000000
-DTEND;TZID=Europe/Ljubljana:20260830T020000
-SUMMARY:Platforma sodobnega plesa
-LOCATION:Maribor
-DESCRIPTION: http://www.festivalplatforma.si/
-URL:http://www.festivalplatforma.si/
-END:VEVENT
-BEGIN:VEVENT
 UID:2b6bc58b942cb0cf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260910T000000
 DTEND;TZID=Europe/Ljubljana:20260910T020000

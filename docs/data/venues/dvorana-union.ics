@@ -28,7 +28,7 @@ DTSTART;TZID=Europe/Ljubljana:20260922T170000
 DTEND;TZID=Europe/Ljubljana:20260922T190000
 SUMMARY:Karneval. In dinozavri!
 LOCATION:Dvorana Union
-DESCRIPTION:Guillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur  za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet\nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti\, ki se imamo za odrasle. Koncert https://nd-mb.si/dogodek/karneval-in-dinozavri/
+DESCRIPTION:Za vse\, starejše od 5 let.\n\nGuillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur  za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet\nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti\, k https://nd-mb.si/dogodek/karneval-in-dinozavri/
 URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
 END:VEVENT
 BEGIN:VEVENT
@@ -84,6 +84,15 @@ SUMMARY:Filharmonični orkester iz Luksemburga
 LOCATION:Dvorana Union
 DESCRIPTION:1. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  FILHARMONIČNI ORKESTER IZ LUKSEMBURGA\nMartin Rajna  \, dirigent\n  Kirill Gerstein  \, klavir    \n\n \n\n Claude Debussy:    Preludij k favnovemu popoldnevu\, L 86\n   Béla Bartók:    Koncert za klavir in orkester št. 3 v E-duru\, Sz. 119\n   ***\n  L https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
 URL:https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f99e42c6636d7df@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261109T180000
+DTEND;TZID=Europe/Ljubljana:20261109T200000
+SUMMARY:Večer v živo: Sanela Peresciutti ex. Banović
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer   \n\n\n \n Sanela Peresciutti (ex. Banović) ponovno prihaja med nas! Njena predavanja niso le predavanja. So večeri\, ki se dotaknejo srca. S toplino\, humorjem in iskrenostjo odpira pomembne živl https://nd-mb.si/dogodek/vecer-v-zivo-sanela-peresciutti-ex-banovic-2/
+URL:https://nd-mb.si/dogodek/vecer-v-zivo-sanela-peresciutti-ex-banovic-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:a6977c328154d0d5@kulturko

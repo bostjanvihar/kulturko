@@ -52,11 +52,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:348037d00fd90cc8@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T220000
-DTEND;TZID=Europe/Ljubljana:20260927T000000
+DTEND;TZID=Europe/Ljubljana:20260926T220000
 SUMMARY:Midnight Resurrection pres.: MIDNIGHT RIDE
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/midnight-resurrection-pres-midnight-ride-26.9.2026/
-URL:https://www.pekarna.net/napovednik/midnight-resurrection-pres-midnight-ride-26.9.2026/
+DESCRIPTION:We leave at midnight. https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
+URL:https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
 END:VEVENT
 BEGIN:VEVENT
 UID:503fed48e3267853@kulturko

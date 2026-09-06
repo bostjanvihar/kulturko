@@ -5,51 +5,6 @@ X-WR-CALNAME:Minoritska cerkev — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ceadaff7d40a3fb7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260825T193000
-DTEND;TZID=Europe/Ljubljana:20260825T213000
-SUMMARY:V dobri družbi
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/v-dobri-druzbi/
-END:VEVENT
-BEGIN:VEVENT
-UID:742f8cb777c23841@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260826T191500
-DTEND;TZID=Europe/Ljubljana:20260826T211500
-SUMMARY:Zaupni pogovori
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-URL:https://www.carpeartem.eu/odmev-poletja-2026/zaupni-pogovori/
-END:VEVENT
-BEGIN:VEVENT
-UID:df006c386bb2646d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260827T193000
-DTEND;TZID=Europe/Ljubljana:20260827T193000
-SUMMARY:Nasvidenje\, poletje
-LOCATION:Minoritska cerkev
-DESCRIPTION:Gioachino Rossini: Godalni kvartet št. 1 v D-duru\nHector Villa Lobos: Jet Whistle\nLuigi Boccherini: Kvartet za flavto št. 3 v d-molu https://mladimaribor.si/dogodek/nasvidenje-poletje/
-URL:https://mladimaribor.si/dogodek/nasvidenje-poletje/
-END:VEVENT
-BEGIN:VEVENT
-UID:45ca4ff05be608e5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260901T200000
-DTEND;TZID=Europe/Ljubljana:20260901T220000
-SUMMARY:BARŽUN 442 Hz
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.minoriti.si/dogodki/barzun-442-hz
-URL:https://www.minoriti.si/dogodki/barzun-442-hz
-END:VEVENT
-BEGIN:VEVENT
-UID:d0707f398c9a6f9f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T120000
-DTEND;TZID=Europe/Ljubljana:20260904T140000
-SUMMARY:RAZKRITI TRENUTKI
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.minoriti.si/dogodki/razkriti-trenutki
-URL:https://www.minoriti.si/dogodki/razkriti-trenutki
-END:VEVENT
-BEGIN:VEVENT
 UID:c987c356749be4cb@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T193000
 DTEND;TZID=Europe/Ljubljana:20260926T213000

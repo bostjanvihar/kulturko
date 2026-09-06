@@ -59,6 +59,33 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/slovenka/
 END:VEVENT
 BEGIN:VEVENT
+UID:83acffb31daa0f64@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T200000
+DTEND;TZID=Europe/Ljubljana:20261104T220000
+SUMMARY:Črnogorec v postelji – Peđa Šuškavčević
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Črnogorsko kulturno društvo ''KOMOVI'' Maribor \n\n \n\nČrnogorec v postelji je komedija\, ki spregovori o vseh življenjskih obdobjih\, še posebej duhovito pa o vsakdanjih težavah povsem običajnega črnog https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
+URL:https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
+END:VEVENT
+BEGIN:VEVENT
+UID:e339175693cc6fc6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261115T110000
+DTEND;TZID=Europe/Ljubljana:20261115T130000
+SUMMARY:Kako je Mravljica postala Huda
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:1. predstava abonmaja Kekec 2026/2027 \n\n \n\nRomana Krajnčan\, najbolj priljubljena slovenska ustvarjalka za otroke\, se vrača na oder z novo čarobno glasbeno pustolovščino!\n\nDružinski muzikal  Kako je Mravljica postala Huda  nas popelje v glasbeno vesolje zavozlanih pesmic. Da bi jih razvozlali\,  https://nd-mb.si/dogodek/kako-je-mravljica-postala-huda/
+URL:https://nd-mb.si/dogodek/kako-je-mravljica-postala-huda/
+END:VEVENT
+BEGIN:VEVENT
+UID:c20d7d815b9eb048@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261116T200000
+DTEND;TZID=Europe/Ljubljana:20261116T220000
+SUMMARY:Zadnja večerja
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike\n\nPredstava traja 1 u https://nd-mb.si/dogodek/zadnja-vecerja/
+URL:https://nd-mb.si/dogodek/zadnja-vecerja/
+END:VEVENT
+BEGIN:VEVENT
 UID:61ad56649ba80725@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261119T190000
 DTEND;TZID=Europe/Ljubljana:20261119T210000
@@ -84,5 +111,95 @@ SUMMARY:Trio Vivere
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nMatjaž Robavs\, Aljaž Farasin in Rok Ferenčak – so izjemni vokalisti s profesionalno izobrazbo in dolgoletnimi izkušnjami v svetu operne\, koncertne in zabavne glasbe. Izvajajo lastne avt https://nd-mb.si/dogodek/trio-vivere-2/
 URL:https://nd-mb.si/dogodek/trio-vivere-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a53c16ba98b648@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261204T200000
+DTEND;TZID=Europe/Ljubljana:20261204T220000
+SUMMARY:Žival si
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Glavni junak Viskovitz v svojih različnih živalskih inkarnacijah preizprašuje svojo in našo identiteto\, smisel bivanja\, kaj človeka razlikuje od živali in kaj ga dela žival. Na svojem potovanju po živalskem kraljestvu neustavljivo išče ljubezen svojega življenja\, ki v vsaki epizodi nosi enako ime –  https://nd-mb.si/dogodek/zival-si/
+URL:https://nd-mb.si/dogodek/zival-si/
+END:VEVENT
+BEGIN:VEVENT
+UID:48a1b9581aa4c33a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261220T110000
+DTEND;TZID=Europe/Ljubljana:20261220T130000
+SUMMARY:PU
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:2. predstava abonmaja Kekec 2026/2027 \n\n \n\nSte se pripravljeni skupaj z medvedkom Pujem podati na najbolj razburljivo in zabavno eksmedicijo\, pardon ekspedicijo\, na Severni pol\, kjer se prijateljstvo\, domišljija\, poezija in smeh združijo v pravo čarovnijo? Medvedek Pu\, Christopher Robin\, Pujsek\, https://nd-mb.si/dogodek/pu/
+URL:https://nd-mb.si/dogodek/pu/
+END:VEVENT
+BEGIN:VEVENT
+UID:a671ee2bf04f9966@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270117T110000
+DTEND;TZID=Europe/Ljubljana:20270117T130000
+SUMMARY:O kravi\, ki je lajala v luno
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:3. predstava abonmaja Kekec 2026/2027 \n\n \n\nPredstava  O kravi\, ki je lajala v luno  pripoveduje zgodbo krave Mrvice in konja Van den Hija\, ki sta zbežala pred poslednjim obiskom pri veterinarju — ona s kmetije\, kjer je dajala mleko\, on pa iz cirkusa\, kjer je bil cirkuška zvezda. Na »pregled« so  https://nd-mb.si/dogodek/o-kravi-ki-je-lajala-v-luno/
+URL:https://nd-mb.si/dogodek/o-kravi-ki-je-lajala-v-luno/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba88fbec57a00785@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270118T200000
+DTEND;TZID=Europe/Ljubljana:20270118T220000
+SUMMARY:Pridi gola
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo ljubico\, medtem ko ima žena načrtovan obisk pri mami. A načrti se začnejo podirati\, ker žena ostane doma – in to še ni vse! Na prizorišče pridejo še najboljši prijatelj\, Cordon blue kuharica in kup nesporazumov\, ki sprožijo verižno reak https://nd-mb.si/dogodek/pridi-gola/
+URL:https://nd-mb.si/dogodek/pridi-gola/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef3fed8cced71bd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270207T110000
+DTEND;TZID=Europe/Ljubljana:20270207T130000
+SUMMARY:Pustno rajanje z Romano in gosti
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:4. predstava abonmaja Kekec 2026/2027 \n\n \n\n Pustno rajanje z Romano\, plesalci plesne šole Vibe in navihanim gostom iz dežele Romaninih pesmi \n\nTudi letos bomo rajali s priljubljeno glasbenico Romano Krajnčan\, »njene pesmi so zakon«\, pravijo mali in veliki otroci. Skupaj bomo prepevali Maškare\, https://nd-mb.si/dogodek/pustno-rajanje-z-romano-in-gosti-2/
+URL:https://nd-mb.si/dogodek/pustno-rajanje-z-romano-in-gosti-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e18d20b404e0265@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270215T200000
+DTEND;TZID=Europe/Ljubljana:20270215T220000
+SUMMARY:PERICA 2.0 Pro Max
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:V nov svet umetne inteligence smo že vstopili. Naše travnike kosijo avtonomni roboti\, naše poslovne zagate in domače naloge naših otrok rešuje ChatGPT. Kaj pa DeepSeek\, ste kaj domači z njim? Kaj pa Copilot\, Gemini\, Claude in Perplexity\, poznate? Veste\, kaj pomeni .ml?\n\nTežko dohajate\, kajne? Peri https://nd-mb.si/dogodek/perica-2-0-pro-max/
+URL:https://nd-mb.si/dogodek/perica-2-0-pro-max/
+END:VEVENT
+BEGIN:VEVENT
+UID:43e929e706142b1b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270307T110000
+DTEND;TZID=Europe/Ljubljana:20270307T130000
+SUMMARY:Učiteljica
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:5. predstava abonmaja Kekec 2026/2027 \n\n \n\nPredstava  Učiteljica  se dogaja v prazni učilnici\, prostoru pričakovanja in domišljije\, v katerem učenci skozi raziskovanje in lastne predstave poskušajo odkriti\, kdo je učiteljica. Govori o obdobju\, ko prvič vstopimo v šolo in se srečujemo s številnim https://nd-mb.si/dogodek/uciteljica/
+URL:https://nd-mb.si/dogodek/uciteljica/
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a44d1cc7a6455d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270319T200000
+DTEND;TZID=Europe/Ljubljana:20270319T220000
+SUMMARY:Naključna smrt nekega anarhista
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Dario Fo velja za enega najpomembnejših komediografov 20. stoletja. Na gledališko pot se je podal skupaj s svojo soprogo Franco\, potomko stoletje stare potujoče gledališke družine Rame. Komedija  Naključna smrt nekega anarhista  temelji na resničnih dogodkih iz leta 1969\, povezanih z bombnim napadom https://nd-mb.si/dogodek/nakljucna-smrt-nekega-anarhista/
+URL:https://nd-mb.si/dogodek/nakljucna-smrt-nekega-anarhista/
+END:VEVENT
+BEGIN:VEVENT
+UID:fedc7fd027851808@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270404T110000
+DTEND;TZID=Europe/Ljubljana:20270404T130000
+SUMMARY:Zvonček
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:6. predstava abonmaja Kekec 2026/2027 \n\n \n\nMihec in Neža sta bratec in sestrica\, ki imata strašansko rada darila. Ko za darilo dobita harmoniko in bobne\, navdušeno zaigrata nanje. Kakor vsi otroci obožujeta čokolado\, a kaj\, ko jo Mihec želi pojesti celo goro! Prepričan je tudi\, da je umivanje zo https://nd-mb.si/dogodek/zvoncek/
+URL:https://nd-mb.si/dogodek/zvoncek/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a0c6471116e9c7a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270412T200000
+DTEND;TZID=Europe/Ljubljana:20270412T220000
+SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Na stotisoče parov\, ki so po vsem svetu navdušeno spremljali prvi del uspešnice  Moški so z Marsa\, ženske so z Venere \, je nestrpno čakalo nadaljevanje. Drugi del komedije je končno tu! Povsem nova zgodba\, izvirna\, še bolj duhovita\, zabavna\, še ostrejša in še za nekaj odtenkov bolj življenjska! Glav https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2-2/
+URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2-2/
 END:VEVENT
 END:VCALENDAR

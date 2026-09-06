@@ -5,33 +5,6 @@ X-WR-CALNAME:Mestni park — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:84659f1e5df017f7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T100000
-DTEND;TZID=Europe/Ljubljana:20260829T120000
-SUMMARY:Poletni Art kamp • V ~ DIH ~ IZ ~ DIH ~ OD ~ DIH
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-v-dih-iz-dih-od-dih/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-v-dih-iz-dih-od-dih/
-END:VEVENT
-BEGIN:VEVENT
-UID:a1bf3c798b828e64@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T100000
-DTEND;TZID=Europe/Ljubljana:20260830T120000
-SUMMARY:Poletni Art kamp • Krog v kvadratnem mestu
-LOCATION:Mestni park
-DESCRIPTION:V najlepši park\, na robu mesta\, kamor nas vodi ljubezni cesta. Na zelenice\, med knjižne police\, pod krošnje\, umetnosti polne mošnje.  \n\nProgram Art kampa nadaljujemo z  butičnimi vikend programi Poletnega Art kampa . Med  11. julijem in 30. avgustom 2026 \,  ob sobotah in nedeljah med 10. in 19. ur https://nd-mb.si/dogodek/poletni-art-kamp-krog-v-kvadratnem-mestu/
-URL:https://nd-mb.si/dogodek/poletni-art-kamp-krog-v-kvadratnem-mestu/
-END:VEVENT
-BEGIN:VEVENT
-UID:64235a2f7074ca03@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T103000
-DTEND;TZID=Europe/Ljubljana:20260830T123000
-SUMMARY:Slovenskogoriški pihalni orkester MOL Lenart
-LOCATION:Mestni park
-DESCRIPTION:Začetki pihalnega orkestra MOL segajo v september leta 1992\, ko se je na prvi seji sestal upravni odbor društva MOL iz Lenarta. Takoj so začeli pridobivati člane\, med katerimi so bili predvsem učenci Glasbene šole Lenart\, pridružili pa so se jim tudi starejši ljubiteljski glasbeniki z območja nekdan https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-URL:https://nd-mb.si/dogodek/slovenskogoriski-pihalni-orkester-mol-lenart/
-END:VEVENT
-BEGIN:VEVENT
 UID:0ae88ecfed3fa8b6@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260906T103000
 DTEND;TZID=Europe/Ljubljana:20260906T123000

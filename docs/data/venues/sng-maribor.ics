@@ -158,6 +158,24 @@ DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https:/
 URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
 END:VEVENT
 BEGIN:VEVENT
+UID:1bebc41daf043e98@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260929T200000
+DTEND;TZID=Europe/Ljubljana:20260929T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4730d145d983eb2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260930T200000
+DTEND;TZID=Europe/Ljubljana:20260930T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
 UID:a9915e205577b6d4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261001T193000
 DTEND;TZID=Europe/Ljubljana:20261001T213000
@@ -167,22 +185,76 @@ DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta K
 URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
 END:VEVENT
 BEGIN:VEVENT
-UID:9e3876c6bb60d4e1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T200000
-DTEND;TZID=Europe/Ljubljana:20261002T220000
-SUMMARY:Strah in upanje
+UID:c1aa93c178506376@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T193000
+DTEND;TZID=Europe/Ljubljana:20261001T213000
+SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
-DESCRIPTION:Franz Xaver Kroetz · Dvorana Frana Žižka https://www.sng-mb.si/event/strah-in-upanje/
-URL:https://www.sng-mb.si/event/strah-in-upanje/
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Kulturni hram Ignacija Borštnika Cerklje https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
-UID:7c623616fb5e501c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261003T200000
-DTEND;TZID=Europe/Ljubljana:20261003T220000
-SUMMARY:Moj termin
+UID:00f7dea767f6c1f9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261004T180000
+DTEND;TZID=Europe/Ljubljana:20261004T200000
+SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
-DESCRIPTION: Vicente Villanueva\, Laurent Baffie · Mali oder https://www.sng-mb.si/event/moj-termin/
-URL:https://www.sng-mb.si/event/moj-termin/
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Kulturni center Janeza Trdine Novo Mesto https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bea498196433ec7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T193000
+DTEND;TZID=Europe/Ljubljana:20261005T213000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Linhartova dvorana Radovljica https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:f093c9ac1d9f4d17@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261007T200000
+DTEND;TZID=Europe/Ljubljana:20261007T220000
+SUMMARY:»Lav iz in di er«
+LOCATION:SNG Maribor
+DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
+URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:eabd8d9860e4e2af@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T200000
+DTEND;TZID=Europe/Ljubljana:20261008T220000
+SUMMARY:»Lav iz in di er«
+LOCATION:SNG Maribor
+DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
+URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:17d643d2dd951ff7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T200000
+DTEND;TZID=Europe/Ljubljana:20261010T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:565b7bfea99841a9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T200000
+DTEND;TZID=Europe/Ljubljana:20261013T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d735dc894a7649@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261014T200000
+DTEND;TZID=Europe/Ljubljana:20261014T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab8b10c1936a0d17@kulturko
@@ -248,6 +320,24 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
 URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
 END:VEVENT
 BEGIN:VEVENT
+UID:53803e24634f22c2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T200000
+DTEND;TZID=Europe/Ljubljana:20261019T220000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcde5be1eb6a7ff4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T100000
+DTEND;TZID=Europe/Ljubljana:20261020T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
 UID:3459e0360ca6cb26@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T190000
 DTEND;TZID=Europe/Ljubljana:20261020T210000
@@ -266,6 +356,15 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 END:VEVENT
 BEGIN:VEVENT
+UID:230c3d49251e6279@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T100000
+DTEND;TZID=Europe/Ljubljana:20261022T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
 UID:6f520a27f9c6edb0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T190000
 DTEND;TZID=Europe/Ljubljana:20261022T210000
@@ -273,6 +372,15 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:11086af7537d765f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T193000
+DTEND;TZID=Europe/Ljubljana:20261023T213000
+SUMMARY:Malomeščanska svatba
+LOCATION:SNG Maribor
+DESCRIPTION:Bertolt Brecht · 2026 BPAT International Theatre Festival\, Beijing People's Art Theatre\, Peking\, Kitajska https://www.sng-mb.si/event/malomescanska-svatba/
+URL:https://www.sng-mb.si/event/malomescanska-svatba/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e11e797965b6621@kulturko
@@ -291,6 +399,33 @@ SUMMARY:OPERA BALET SOBOTA
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
 URL:https://sngmb.mojekarte.si/si/opera-balet-sobota/paketi-1213185.html
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1a38f6dae560ad@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T193000
+DTEND;TZID=Europe/Ljubljana:20261024T213000
+SUMMARY:Malomeščanska svatba
+LOCATION:SNG Maribor
+DESCRIPTION:Bertolt Brecht · 2026 BPAT International Theatre Festival\, Beijing People's Art Theatre\, Peking\, Kitajska https://www.sng-mb.si/event/malomescanska-svatba/
+URL:https://www.sng-mb.si/event/malomescanska-svatba/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a735aab47c48421@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261025T143000
+DTEND;TZID=Europe/Ljubljana:20261025T163000
+SUMMARY:Malomeščanska svatba
+LOCATION:SNG Maribor
+DESCRIPTION:Bertolt Brecht · 2026 BPAT International Theatre Festival\, Beijing People's Art Theatre\, Peking\, Kitajska https://www.sng-mb.si/event/malomescanska-svatba/
+URL:https://www.sng-mb.si/event/malomescanska-svatba/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7c93aaa0876986@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261030T200000
+DTEND;TZID=Europe/Ljubljana:20261030T220000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
 END:VEVENT
 BEGIN:VEVENT
 UID:346b95e608b34091@kulturko
@@ -354,6 +489,24 @@ SUMMARY:Bajadera
 LOCATION:SNG Maribor
 DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
 URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:a29a4b784a6e96b5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261119T190000
+DTEND;TZID=Europe/Ljubljana:20261119T210000
+SUMMARY:110 let odkar je prišel na svet Arnold Tovornik
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/110-let-odkar-je-prisel-na-svet-arnold-tovornik/
+URL:https://www.sng-mb.si/event/110-let-odkar-je-prisel-na-svet-arnold-tovornik/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c8be0083168369f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
 END:VEVENT
 BEGIN:VEVENT
 UID:315e2fa588a1435d@kulturko
@@ -770,6 +923,15 @@ DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si
 URL:https://www.sng-mb.si/event/hamlet-opera/
 END:VEVENT
 BEGIN:VEVENT
+UID:46e13caf1a4700ea@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270416T200000
+DTEND;TZID=Europe/Ljubljana:20270416T220000
+SUMMARY:Služkinji
+LOCATION:SNG Maribor
+DESCRIPTION:Jean Genet · Mali oder https://www.sng-mb.si/event/sluzkinji/
+URL:https://www.sng-mb.si/event/sluzkinji/
+END:VEVENT
+BEGIN:VEVENT
 UID:4064d345eae1d6e9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270417T193000
 DTEND;TZID=Europe/Ljubljana:20270417T213000
@@ -822,6 +984,15 @@ SUMMARY:4. koncert simfoničnega cikla: »Pripoved iz eksotičnih pokrajin\, god
 LOCATION:SNG Maribor
 DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
 URL:https://www.sng-mb.si/event/4-koncert-simfonicnega-cikla-pripoved-iz-eksoticnih-pokrajin-godalni-lirizem-in-plemenita-vedrina-simfonicne-klasike/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1fa8e4fa669ffa1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270514T200000
+DTEND;TZID=Europe/Ljubljana:20270514T220000
+SUMMARY:Po vsej sili živ
+LOCATION:SNG Maribor
+DESCRIPTION:Po esejističnih pripovedih Nataše Kramberger · Dvorana Frana Žižka https://www.sng-mb.si/event/po-vsej-sili-ziv/
+URL:https://www.sng-mb.si/event/po-vsej-sili-ziv/
 END:VEVENT
 BEGIN:VEVENT
 UID:32c8e4251a07d39a@kulturko

@@ -5,15 +5,6 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:af682230976a4996@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T200000
-DTEND;TZID=Europe/Ljubljana:20260829T220000
-SUMMARY:Klasika! Maribor Music Society
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Čaka nas edinstven večer radovednosti in odkrivanja klasične glasbe v sproščenem vzdušju. \n  \n Glasbeniki\, sploh tisti bolj radovedni\, se pogosto soočajo s težavo izvajanja kompozicij\, napisanih za manj tradicionalne sestave. Klarinetist najde imenitno skladbo za klarinet\, rog in čelo. Skladba je  https://nd-mb.si/dogodek/klasika-maribor-music-society/
-URL:https://nd-mb.si/dogodek/klasika-maribor-music-society/
-END:VEVENT
-BEGIN:VEVENT
 UID:4850c519660ba7c3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260904T190000
 DTEND;TZID=Europe/Ljubljana:20260904T210000

@@ -5,15 +5,6 @@ X-WR-CALNAME:MKC Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ed817ef0b0b00531@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260826T170000
-DTEND;TZID=Europe/Ljubljana:20260826T190000
-SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi
-LOCATION:MKC Maribor
-DESCRIPTION:\n\n\n\n\nDruštvo Legebitra v okviru programa Odziv na hiv izvaja terenska testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi.\nTestiranje je zaupno in brezplačno\, za udeležbo ni potrebno imeti zdravstvene kartice. V prostorih MKC Maribor poteka vsako zadnjo sredo v mesecu  https://mladimaribor.si/dogodek/testiranja-na-spolno-prenosljive-okuzbe-za-moske-ki-imajo-spolne-odnose-z-moskimi-2026-08-26-17-00-00-2026-08-26-19-00-00-2/
-URL:https://mladimaribor.si/dogodek/testiranja-na-spolno-prenosljive-okuzbe-za-moske-ki-imajo-spolne-odnose-z-moskimi-2026-08-26-17-00-00-2026-08-26-19-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:7abaa8aa2cf033a2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T090000
 DTEND;TZID=Europe/Ljubljana:20260916T100000

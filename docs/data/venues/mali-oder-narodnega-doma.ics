@@ -14,6 +14,15 @@ DESCRIPTION:V osrčju vašega mesta se nahaja nova oaza sprostitve\, zdravja in 
 URL:https://nd-mb.si/dogodek/guru-zdravko-in-njegov-joga-tecaj-duhovnega-razsvetljenja/
 END:VEVENT
 BEGIN:VEVENT
+UID:a26dbef2367e186b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T190000
+DTEND;TZID=Europe/Ljubljana:20260912T210000
+SUMMARY:Gospod predsednik
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Hospic  \n  \n \n\n \n\n \n  \nBi radi izvedeli kako izgleda mešanica Jezusa Kristusa\, Hamleta\, Goetheja\, Dragotina Ketteja\, Lažnivega Kljukca in morda še koga?  Takšna oseba je več kot le običajna avt https://nd-mb.si/dogodek/gospod-predsednik/
+URL:https://nd-mb.si/dogodek/gospod-predsednik/
+END:VEVENT
+BEGIN:VEVENT
 UID:b08cf33814de451a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261205T200000
 DTEND;TZID=Europe/Ljubljana:20261205T220000

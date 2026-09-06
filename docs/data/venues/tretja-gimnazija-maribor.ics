@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Tretja gimnazija Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cc8c7b13b1f8a789@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260904T080000
+DTEND;TZID=Europe/Ljubljana:20260904T093000
+SUMMARY:Lepo vedenje kot vrednota mladih
+LOCATION:Tretja gimnazija Maribor
+DESCRIPTION:V delavnici Lepo vedenje kot vrednota mladih smo dijake seznanili\ns številnimi pravili bontona\, ki so uporabni zlasti v šolah\, pa tudi\npozneje\, ko nadaljujejo svojo poslovno pot in iščejo prvo zaposlitev.\nV izogib neprijetnim situacijam\, zagatam in spodbujanju rabe prijaznih\nbesed v najstniškem bese https://mladimaribor.si/dogodek/lepo-vedenje-kot-vrednota-mladih/
+URL:https://mladimaribor.si/dogodek/lepo-vedenje-kot-vrednota-mladih/
+END:VEVENT
+BEGIN:VEVENT
+UID:3781fe6ae285ea6c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260909T080000
+DTEND;TZID=Europe/Ljubljana:20260911T090000
+SUMMARY:Zoperstavljanje sovražnemu govor
+LOCATION:Tretja gimnazija Maribor
+DESCRIPTION:V delavnici v izvedbi Zavoda PIP dijake seznanimo z zgodovinskimi\nučinki sovražne propagande v nekaterih režimih\, kakršen je denimo\nTretji rajh ali obdobje Rdečih kmerov v Kambodži. Prav sovražni\ngovor\, ki je bil tedaj največje populistično sredstvo za vsiljevanje\npropagande\, je posredno vodil do na https://mladimaribor.si/dogodek/zoperstavljanje-sovraznemu-govor/
+URL:https://mladimaribor.si/dogodek/zoperstavljanje-sovraznemu-govor/
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc979fbe1b66dcd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260909T084000
+DTEND;TZID=Europe/Ljubljana:20260909T094000
+SUMMARY:Kdo in kako vam laže na spletu?
+LOCATION:Tretja gimnazija Maribor
+DESCRIPTION:Na delavnici se bodo mladi naučili osnov prepoznavanja lažnih\nnovic in dezinformacij na spletu\, kot so lažne nagradne igre\,\nneresnične objave na družbenih omrežjih in podobne spletne prevare.\nPoseben poudarek bo namenjen razumevanju pomena kritične presoje\ninformacij\, ki jih najdemo na internetu. Ud https://mladimaribor.si/dogodek/kdo-in-kako-vam-laze-na-spletu/
+URL:https://mladimaribor.si/dogodek/kdo-in-kako-vam-laze-na-spletu/
+END:VEVENT
+BEGIN:VEVENT
+UID:14a98ee360591e8b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T084000
+DTEND;TZID=Europe/Ljubljana:20260911T094000
+SUMMARY:Kdo in kako vam laže na spletu?
+LOCATION:Tretja gimnazija Maribor
+DESCRIPTION:Na delavnici se bodo mladi naučili osnov prepoznavanja lažnih\nnovic in dezinformacij na spletu\, kot so lažne nagradne igre\,\nneresnične objave na družbenih omrežjih in podobne spletne prevare.\nPoseben poudarek bo namenjen razumevanju pomena kritične presoje\ninformacij\, ki jih najdemo na internetu. Ud https://mladimaribor.si/dogodek/kdo-in-kako-vam-laze-na-spletu-2/
+URL:https://mladimaribor.si/dogodek/kdo-in-kako-vam-laze-na-spletu-2/
+END:VEVENT
+END:VCALENDAR

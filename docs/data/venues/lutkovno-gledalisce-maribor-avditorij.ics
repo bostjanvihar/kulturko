@@ -5,12 +5,12 @@ X-WR-CALNAME:Lutkovno gledališče Maribor – Avditorij — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c68ee2257d99aac3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260814T100000
-DTEND;TZID=Europe/Ljubljana:20260814T100000
-SUMMARY:37. Poletni lutkovni pristan
+UID:7f1a50dd4a52ff36@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260916T160000
+DTEND;TZID=Europe/Ljubljana:20260919T190000
+SUMMARY:Workshot: Plastelin
 LOCATION:Lutkovno gledališče Maribor – Avditorij
-DESCRIPTION:Od leta 1990 Lutkovno gledališče Maribor organizira mednarodni festival Poletni lutkovni pristan\, ki ostaja stalnica poletnega dogajanja v mestu. Meseca avgusta vsako leto si odličen program ogleda več tisoč obiskovalcev. V prvi vrsti seveda ponuja najboljše tuje in domače lutkovne predstave za otro https://mladimaribor.si/dogodek/37-poletni-lutkovni-pristan/
-URL:https://mladimaribor.si/dogodek/37-poletni-lutkovni-pristan/
+DESCRIPTION:\n\n\n\n\n\n\n\n16. – 19. 9. 2026\, Lutkovno gledališče Maribor\nWorkshot: Plastelin\n\n\n\n\n\n\nOtroška delavnica stop animacije z Melito Sandrin in Domnom Sajovicem\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMed sredo 16. 9. in soboto 19. 9. 2026 otroke med 8. in 15. letom vabimo na delavnico stop animacije z Melito Sandrino in Domnom Sajovi https://mladimaribor.si/dogodek/workshot-plastelin-2026-09-19-16-00-00/
+URL:https://mladimaribor.si/dogodek/workshot-plastelin-2026-09-19-16-00-00/
 END:VEVENT
 END:VCALENDAR

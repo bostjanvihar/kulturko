@@ -5,60 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f580d6826e9a9587@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260831T200000
-DTEND;TZID=Europe/Ljubljana:20260831T220000
-SUMMARY:DINAMO
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dinamo
-URL:https://www.minoriti.si/dogodki/dinamo
-END:VEVENT
-BEGIN:VEVENT
-UID:cd01e6fc153c509b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260831T200000
-DTEND;TZID=Europe/Ljubljana:20260831T220000
-SUMMARY:KONSTELACIJE
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/konstelacije
-URL:https://www.minoriti.si/dogodki/konstelacije
-END:VEVENT
-BEGIN:VEVENT
-UID:e3a5c13bc84ecd83@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260902T200000
-DTEND;TZID=Europe/Ljubljana:20260902T220000
-SUMMARY:LOUNGE/PREDAH
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/loungepredah
-URL:https://www.minoriti.si/dogodki/loungepredah
-END:VEVENT
-BEGIN:VEVENT
-UID:434e2c373eb5b1db@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260903T200000
-DTEND;TZID=Europe/Ljubljana:20260903T220000
-SUMMARY:MOJSTROVINA ZA ŠEST PLESALCEV
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/mojstrovina-za-sest-plesalcev
-URL:https://www.minoriti.si/dogodki/mojstrovina-za-sest-plesalcev
-END:VEVENT
-BEGIN:VEVENT
-UID:fc2cfa8db072380d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T200000
-DTEND;TZID=Europe/Ljubljana:20260905T220000
-SUMMARY:Sopotja
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44275-sopotja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44275-sopotja
-END:VEVENT
-BEGIN:VEVENT
-UID:002938a4e7a931f1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T200000
-DTEND;TZID=Europe/Ljubljana:20260905T220000
-SUMMARY:SHIZEN'NA
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/shizenna
-URL:https://www.minoriti.si/dogodki/shizenna
-END:VEVENT
-BEGIN:VEVENT
 UID:f1c2455b06e36192@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260910T193000
 DTEND;TZID=Europe/Ljubljana:20260910T213000

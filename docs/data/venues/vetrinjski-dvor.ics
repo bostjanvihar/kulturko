@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:82158d1b6270dff6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T200000
-DTEND;TZID=Europe/Ljubljana:20260829T213000
-SUMMARY:Koncert Maribor Music Society (MMS)
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Odkrijte sveže in edinstvogene glasbene svetove ter nenavadne zasedbe v izvedbi inovativnega kolektiva MMS. Pridružite se nam na navdihujočem večeru raziskovanja redko slišanih kompozicij in vrhunske klasične ustvarjalnosti.\nGlasbeniki\, sploh tisti bolj radovedni\, se pogosto soočajo tudi s težavo iz https://mladimaribor.si/dogodek/koncert-maribor-music-society-mms/
-URL:https://mladimaribor.si/dogodek/koncert-maribor-music-society-mms/
-END:VEVENT
-BEGIN:VEVENT
 UID:13bf6a0c9dc64b22@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260922T200000
 DTEND;TZID=Europe/Ljubljana:20260922T213000

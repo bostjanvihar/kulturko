@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Kino Šiška — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:df281223541e527f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260903T100000
+DTEND;TZID=Europe/Ljubljana:20260903T100000
+SUMMARY:Kulturna varovalka – javna tribuna: pravne možnosti za kulturo
+LOCATION:Kino Šiška
+DESCRIPTION:\n\n\n\n\n\n\n\n3. 9. 2026 med 10.00 in 12.00\, Kino Šiška\nKulturna varovalka – javna tribuna: pravne možnosti za kulturo\nV četrtek\, 3. 9. 2026\, vas ob 10.00 vabimo v Kino Šiška na javno tribuno o pravnih možnostih ob ustavljenih razpisih\, neizdanih pogodbah in neizplačilih Ministrstva za kulturo.\n\n\n\n\n\n\n\n\n\n\n https://mladimaribor.si/dogodek/kulturna-varovalka-javna-tribuna-pravne-moznosti-za-kulturo-2026-09-03-10-00-00/
+URL:https://mladimaribor.si/dogodek/kulturna-varovalka-javna-tribuna-pravne-moznosti-za-kulturo-2026-09-03-10-00-00/
+END:VEVENT
+END:VCALENDAR

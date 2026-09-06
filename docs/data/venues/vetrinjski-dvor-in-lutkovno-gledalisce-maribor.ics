@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vetrinjski dvor in Lutkovno gledališče Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:15e56f27ab5a4193@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260908T170000
+DTEND;TZID=Europe/Ljubljana:20260913T220000
+SUMMARY:[DOKUDOC] Dokumentarna delavnica
+LOCATION:Vetrinjski dvor in Lutkovno gledališče Maribor
+DESCRIPTION:\n\n\n\n\nFESTIVAL DOKUDOC\nDOKUMENTARNA DELAVNICA 2026\n8. – 13. september 2026 // Vetrinjski dvor in Lutkovno gledališče Maribor\nDOKUDOC DOKUMENTARNA DELAVNICA 2026 v sodelovanju z Luksuz produkcijo pod mentorstvom Bele Bračko-Milešević je intenziven praktični program\, katerega cilj je ustvarjanje kratke https://mladimaribor.si/dogodek/dokudoc-dokumentarna-delavnica-2026-09-08-17-00-00-2026-09-13-22-00-00/
+URL:https://mladimaribor.si/dogodek/dokudoc-dokumentarna-delavnica-2026-09-08-17-00-00-2026-09-13-22-00-00/
+END:VEVENT
+END:VCALENDAR

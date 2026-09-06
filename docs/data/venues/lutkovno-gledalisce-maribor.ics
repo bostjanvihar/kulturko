@@ -5,67 +5,13 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:8140ea49c47c1640@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260828T200000
-DTEND;TZID=Europe/Ljubljana:20260828T220000
-SUMMARY:Where is the beat
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
-URL:https://www.lg-mb.si/gostujoce-predstave/where-is-the-beat-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:76ddd467627755b6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260828T210000
-DTEND;TZID=Europe/Ljubljana:20260828T230000
-SUMMARY:The Double Standard
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
-URL:https://www.lg-mb.si/gostujoce-predstave/matildas-jazz-kvartet/
-END:VEVENT
-BEGIN:VEVENT
-UID:41c6dfc497ac5ae5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260829T100000
-DTEND;TZID=Europe/Ljubljana:20260829T120000
-SUMMARY:Dojenčki so super
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
-URL:https://www.lg-mb.si/gostujoce-predstave/dojencki-so-super-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:6e95f8700a40f221@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T082000
-DTEND;TZID=Europe/Ljubljana:20260905T170000
-SUMMARY:20. Platforma: Festival sodobnega plesa
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION:✨ 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌𝐀 𝐒𝐎𝐃𝐎𝐁𝐍𝐄𝐆𝐀 𝐏𝐋𝐄𝐒𝐀 𝟐𝟎𝟐𝟔 ✨\n𝗗𝘃𝗮𝗷𝘀𝗲𝘁 𝗹𝗲𝘁 𝗽𝗼𝘃𝗲𝘇𝗼𝘃𝗮𝗻𝗷𝗮. 𝗗𝘃𝗮𝗷𝘀𝗲𝘁 𝗹𝗲𝘁 𝘂𝗺𝗲𝘁𝗻𝗼𝘀𝘁𝗶. 𝗗𝘃𝗮𝗷𝘀𝗲𝘁 𝗹𝗲𝘁 𝗽𝗹𝗲𝘀𝗮.\nFestival Platforma sodobnega plesa se vrača in v Maribor in tudi letos mesto spreminja v prostor gibanja\, umetnosti in srečevanja. V nekaj festivalskih dneh se bodo na različnih prizoriščih (Lutkovn https://mladimaribor.si/dogodek/20-platforma-festival-sodobnega-plesa/
-URL:https://mladimaribor.si/dogodek/20-platforma-festival-sodobnega-plesa/
-END:VEVENT
-BEGIN:VEVENT
-UID:daf428ce42132616@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T180000
-DTEND;TZID=Europe/Ljubljana:20260830T200000
-SUMMARY:Krog v kvadratnem mestu
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
-URL:https://www.minoriti.si/dogodki/krogvkvadratnemmestu-36830
-END:VEVENT
-BEGIN:VEVENT
-UID:a1bd9f8cba978dc7@kulturko
+UID:11b726dd1c340076@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260922T200000
 DTEND;TZID=Europe/Ljubljana:20260922T220000
-SUMMARY:NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska
+SUMMARY:Natisnejno gibanje - Od digitalnega kiparstva do 3D tiska
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
-URL:https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
-END:VEVENT
-BEGIN:VEVENT
-UID:69a09bcf8d4c3bb6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T170000
-DTEND;TZID=Europe/Ljubljana:20260924T190000
-SUMMARY:NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
-URL:https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45382-natisnejno-gibanje-od-digitalnega-kiparstva-do-3d-tiska
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45382-natisnejno-gibanje-od-digitalnega-kiparstva-do-3d-tiska
 END:VEVENT
 BEGIN:VEVENT
 UID:75d91e60b9cb5952@kulturko

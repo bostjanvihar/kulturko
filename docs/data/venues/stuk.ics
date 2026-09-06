@@ -5,6 +5,15 @@ X-WR-CALNAME:ŠTUK — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:012241adc492b047@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T220000
+DTEND;TZID=Europe/Ljubljana:20260918T220000
+SUMMARY:EDM Nostalgia
+LOCATION:ŠTUK
+DESCRIPTION:Največji hiti zlate EDM ere:\nAVICII • SWEDISH HOUSE MAFIA • MARTIN GARRIX • TIËSTO • DAVID GUETTA • CALVIN HARRIS • HARDWELL • AFROJACK • ARMIN VAN BUUREN • DIMITRI VEGAS & LIKE MIKE + VELIKO VEČ\nNostalgija bo udarila drugače. Prinesite robčke za brisat solze.\n📅 18. 9. 2026\n📍 ŠTUK\, Maribor\n🎟️ Vstopn https://mladimaribor.si/dogodek/edm-nostalgia-2026-09-18-22-00-00/
+URL:https://mladimaribor.si/dogodek/edm-nostalgia-2026-09-18-22-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:fa918fc357b3e3e8@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260919T210000
 DTEND;TZID=Europe/Ljubljana:20260919T233000
@@ -12,6 +21,15 @@ SUMMARY:ŠANK ROCK & 6PACK ČUKUR || Rap’n’roll koncert
 LOCATION:ŠTUK
 DESCRIPTION:Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z energijo\, po kateri jih poznamo že desetletja\, ter z repertoarjem večnih uspešnic in novejših skladb\, ki dokazujejo\, da ostajajo ena najmočnejših koncertnih skupin pri nas.\nNa oder bo stopil tudi 6pack Čukur\, ki letos obeležuje 25 let o https://mladimaribor.si/dogodek/sank-rock-6pack-cukur-rap-n-roll-koncert-2026-09-19-00-00-00/
 URL:https://mladimaribor.si/dogodek/sank-rock-6pack-cukur-rap-n-roll-koncert-2026-09-19-00-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:54a99c7f22474e62@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T190000
+DTEND;TZID=Europe/Ljubljana:20261001T210000
+SUMMARY:Štuktoberfest 2026 || Uradna otvoritev X Pivovarna Laško
+LOCATION:ŠTUK
+DESCRIPTION:📅 1. 10. 2026 ⏰ od 17.00 naprej 📍 ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Festival bomo otvorili s simboličnim razbitjem soda Laško\, takoj za tem pa sledi legendarni ŠTUK Sniper! 🎯🍺 Pridruži se nam na uradni otvoritvi in skupaj z nami odpri teden pravega oktoberfest vzdušja. *Partner dogodka je Pivo https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
+URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko

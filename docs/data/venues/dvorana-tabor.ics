@@ -5,6 +5,15 @@ X-WR-CALNAME:Dvorana Tabor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:e9a80b4b17a07d0d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260912T100000
+DTEND;TZID=Europe/Ljubljana:20260912T220000
+SUMMARY:Foto studio MKC Maribor na EPICENTRU
+LOCATION:Dvorana Tabor
+DESCRIPTION:\n\n\n\n\nMKC MARIBOR NA EPICENTRU\nCOSPLAY FOTO STUDIO\nSobota\, 12. september 2026 // 10.00-22.00 // Dvorana Tabor\nV soboto\, 12. septembra 2026\, se bo MKC Maribor predstavil na EPICENTRU v Dvorani Tabor\, kjer bomo v sodelovanju z Društvom Animoku postavili foto studio in omogočili brezplačno fotografiranj https://mladimaribor.si/dogodek/foto-studio-mkc-maribor-na-epicentru-2026-09-12-10-00-00-2026-09-12-22-00-00/
+URL:https://mladimaribor.si/dogodek/foto-studio-mkc-maribor-na-epicentru-2026-09-12-10-00-00-2026-09-12-22-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:ee197e498277dc80@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261010T200000
 DTEND;TZID=Europe/Ljubljana:20261010T220000

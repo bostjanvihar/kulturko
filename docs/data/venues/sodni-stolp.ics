@@ -5,33 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9604eda5557a40ce@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260830T100000
-DTEND;TZID=Europe/Ljubljana:20260830T120000
-SUMMARY:Nagibanje
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.lg-mb.si/gostujoce-predstave/nagibanje/
-URL:https://www.lg-mb.si/gostujoce-predstave/nagibanje/
-END:VEVENT
-BEGIN:VEVENT
-UID:8fe53759b89be6ec@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260831T180000
-DTEND;TZID=Europe/Ljubljana:20260831T200000
-SUMMARY:PRIDNE PUNCE
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/pridne-punce
-URL:https://www.minoriti.si/dogodki/pridne-punce
-END:VEVENT
-BEGIN:VEVENT
-UID:7bbd86893a12d7fc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260831T180000
-DTEND;TZID=Europe/Ljubljana:20260831T200000
-SUMMARY:SANJAJ\, LJUBA MOJA
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/sanjaj-ljuba-moja
-URL:https://www.minoriti.si/dogodki/sanjaj-ljuba-moja
-END:VEVENT
-BEGIN:VEVENT
 UID:39e30af27de7297b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260913T110000
 DTEND;TZID=Europe/Ljubljana:20260913T130000

@@ -5,6 +5,15 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:d3193079cb1138a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260909T190000
+DTEND;TZID=Europe/Ljubljana:20260909T210000
+SUMMARY:Risanje in slikanje v galeriji / Delavnica za odrasle
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji
+URL:https://www.ugm.si/dogodki/risanje-in-slikanje-v-galeriji
+END:VEVENT
+BEGIN:VEVENT
 UID:46c5bf86862910b9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T190000
 DTEND;TZID=Europe/Ljubljana:20260911T210000

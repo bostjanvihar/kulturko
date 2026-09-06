@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Poštna ulica — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cdd0af60ac50d221@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260911T190000
+DTEND;TZID=Europe/Ljubljana:20260911T210000
+SUMMARY:Dalmatinski večer na Poštni / pokrovitelj: iVent
+LOCATION:Poštna ulica
+DESCRIPTION:Pridih Dalmacije vam tokrat pripeljemo na Poštno! https://www.facebook.com/events/927063417134927/
+URL:https://www.facebook.com/events/927063417134927/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Likovno razstavišče Univerzitetne knjižnice Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c48a5fcfecda578f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260910T170000
+DTEND;TZID=Europe/Ljubljana:20260910T170000
+SUMMARY:SIMON CHANG Na pol doma / 1/2 Hometown: Odprtje razstave
+LOCATION:Likovno razstavišče Univerzitetne knjižnice Maribor
+DESCRIPTION:Vabilo\nOgled v brskalniku [1]\n[2]\nO D P R T J E   R A Z S T A V E\nSIMON CHANG\nNA POL DOMA / 1/2 HOMETOWN\nČetrtek\, 10. september 2026\, 17.00\nLikovno razstavišče Univerzitetne knjižnice Maribor\nVabimo vas na odprtje razstave v okviru Festivala fotografije Maribor\n2026.\nSimon Chang je dokumentarni foto https://mladimaribor.si/dogodek/simon-chang-na-pol-doma-1-2-hometown-odprtje-razstave/
+URL:https://mladimaribor.si/dogodek/simon-chang-na-pol-doma-1-2-hometown-odprtje-razstave/
+END:VEVENT
+END:VCALENDAR
