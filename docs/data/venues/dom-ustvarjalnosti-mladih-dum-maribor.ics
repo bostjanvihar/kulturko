@@ -14,6 +14,15 @@ DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih i
 URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
 END:VEVENT
 BEGIN:VEVENT
+UID:1bbd15d99d825db5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T170000
+DTEND;TZID=Europe/Ljubljana:20261015T183000
+SUMMARY:Bralni klub za najstnike – 1. srečanje
+LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
+DESCRIPTION:Datum: 15. 10. 2026\, ob 17.00\nKraj: ZPM Maribor\, Razlagova 16\nModeratorica: Mateja Vdovič\nKnjiga: “Skriti vrt” (Frances Hodgson Burnett)\nDragi mladi bralci\,\nvabimo vas na prvo srečanje BRALNEGA KLUBA za najstnike v novem šolskem letu! V prostorih DUM-a (Razlagova 16\, Maribor – sedež ZPM Maribor) bom https://mladimaribor.si/dogodek/bralni-klub-za-najstnike-1-srecanje/
+URL:https://mladimaribor.si/dogodek/bralni-klub-za-najstnike-1-srecanje/
+END:VEVENT
+BEGIN:VEVENT
 UID:761006c8717fd7fc@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T170000
 DTEND;TZID=Europe/Ljubljana:20261020T190000

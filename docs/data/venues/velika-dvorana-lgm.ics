@@ -5,78 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f1c2455b06e36192@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T193000
-DTEND;TZID=Europe/Ljubljana:20260910T213000
-SUMMARY:DOKUDOC: Ko pridem ven
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-ko-pridem-ven
-URL:https://www.minoriti.si/dogodki/dokudoc-ko-pridem-ven
-END:VEVENT
-BEGIN:VEVENT
-UID:f8cf20dfcc236916@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T160000
-DTEND;TZID=Europe/Ljubljana:20260911T180000
-SUMMARY:DOKUDOC: Fotograf
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-fotograf
-URL:https://www.minoriti.si/dogodki/dokudoc-fotograf
-END:VEVENT
-BEGIN:VEVENT
-UID:bc604118716971b7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T220000
-SUMMARY:DOKUDOC:  Kar je treba storiti
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-kar-je-treba-storiti
-URL:https://www.minoriti.si/dogodki/dokudoc-kar-je-treba-storiti
-END:VEVENT
-BEGIN:VEVENT
-UID:6c404ec534b69192@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T220000
-DTEND;TZID=Europe/Ljubljana:20260912T000000
-SUMMARY:DOKUDOC: VIRTUALNO DEKLE
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-virtualno-dekle
-URL:https://www.minoriti.si/dogodki/dokudoc-virtualno-dekle
-END:VEVENT
-BEGIN:VEVENT
-UID:26600a885d98b5db@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260912T110000
-DTEND;TZID=Europe/Ljubljana:20260912T130000
-SUMMARY:DOKUDOC: Začasni nomad
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-zacasni-nomad
-URL:https://www.minoriti.si/dogodki/dokudoc-zacasni-nomad
-END:VEVENT
-BEGIN:VEVENT
-UID:ad46d2362e0cfbff@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260912T160000
-DTEND;TZID=Europe/Ljubljana:20260912T180000
-SUMMARY:DOKUDOC: Kdor ne skače
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-kdor-ne-skace
-URL:https://www.minoriti.si/dogodki/dokudoc-kdor-ne-skace
-END:VEVENT
-BEGIN:VEVENT
-UID:3e070e1a67c3fe9a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260912T180000
-DTEND;TZID=Europe/Ljubljana:20260912T200000
-SUMMARY:DOKUDOC: Ples življenja
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-ples-zivljenja
-URL:https://www.minoriti.si/dogodki/dokudoc-ples-zivljenja
-END:VEVENT
-BEGIN:VEVENT
-UID:c2d80fd9294021cd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260912T220000
-DTEND;TZID=Europe/Ljubljana:20260913T000000
-SUMMARY:DOKUDOC: MIROVNIK / MIROTVORAC
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-mirovnik-mirotvorac
-URL:https://www.minoriti.si/dogodki/dokudoc-mirovnik-mirotvorac
-END:VEVENT
-BEGIN:VEVENT
 UID:a08720268f12d016@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260913T130000
 DTEND;TZID=Europe/Ljubljana:20260913T150000
@@ -84,6 +12,15 @@ SUMMARY:DOKUDOC: MOJA PRIJATELJICA SELY
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-moja-prijateljica-sely
 URL:https://www.minoriti.si/dogodki/dokudoc-moja-prijateljica-sely
+END:VEVENT
+BEGIN:VEVENT
+UID:ff0bb9a5af343a85@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T140000
+DTEND;TZID=Europe/Ljubljana:20260913T160000
+SUMMARY:DOKUDOC: Varuh gozda / După cioate
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-varuh-gozda-dupa-cioate
+URL:https://www.minoriti.si/dogodki/dokudoc-varuh-gozda-dupa-cioate
 END:VEVENT
 BEGIN:VEVENT
 UID:f0500325c4f4b2fd@kulturko
@@ -102,6 +39,24 @@ SUMMARY:DOKUDOC: Mož s tisoč obrazi
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-moz-s-tisoc-obrazi
 URL:https://www.minoriti.si/dogodki/dokudoc-moz-s-tisoc-obrazi
+END:VEVENT
+BEGIN:VEVENT
+UID:693f0b532ff64e35@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T200000
+DTEND;TZID=Europe/Ljubljana:20260913T220000
+SUMMARY:DOKUDOC:  Siddharta - Khanta
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-siddharta-khanta
+URL:https://www.minoriti.si/dogodki/dokudoc-siddharta-khanta
+END:VEVENT
+BEGIN:VEVENT
+UID:f091568fdc7fd358@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260913T200000
+DTEND;TZID=Europe/Ljubljana:20260913T220000
+SUMMARY:PREMIERA DOKUDOC DOKUMENTARNE DELAVNICE 2026
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/premiera-dokudoc-dokumentarne-delavnice-2026
+URL:https://www.minoriti.si/dogodki/premiera-dokudoc-dokumentarne-delavnice-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:1bdbf2015f2c794f@kulturko
@@ -167,6 +122,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44318-transport-povezovalni-leti
 END:VEVENT
 BEGIN:VEVENT
+UID:9fe3b524c7e628a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T103000
+DTEND;TZID=Europe/Ljubljana:20260924T123000
+SUMMARY:Transport: Povezovalni leti
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
+URL:https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
+END:VEVENT
+BEGIN:VEVENT
+UID:76ec19c0d4a227bb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T113000
+DTEND;TZID=Europe/Ljubljana:20260924T133000
+SUMMARY:Transport: Pripnite pasove!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/transportpripnitepasove-37112
+URL:https://www.minoriti.si/dogodki/transportpripnitepasove-37112
+END:VEVENT
+BEGIN:VEVENT
 UID:f22a36000f0b368d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260924T180000
 DTEND;TZID=Europe/Ljubljana:20260924T200000
@@ -174,5 +147,77 @@ SUMMARY:Transport: Prelomna točka
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45345-transport-prelomna-tocka
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45345-transport-prelomna-tocka
+END:VEVENT
+BEGIN:VEVENT
+UID:472d91215118564e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T170000
+DTEND;TZID=Europe/Ljubljana:20261002T190000
+SUMMARY:Medo in pujsi
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/medoinpujsi-37162
+URL:https://www.minoriti.si/dogodki/medoinpujsi-37162
+END:VEVENT
+BEGIN:VEVENT
+UID:317b5a4fdadfa093@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261003T100000
+DTEND;TZID=Europe/Ljubljana:20261003T120000
+SUMMARY:Medo in pujsi
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/medoinpujsi-37162
+URL:https://www.minoriti.si/dogodki/medoinpujsi-37162
+END:VEVENT
+BEGIN:VEVENT
+UID:70dc160f35f7462f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261009T170000
+DTEND;TZID=Europe/Ljubljana:20261009T190000
+SUMMARY:Sijaj\, sijaj sončece
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
+URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
+END:VEVENT
+BEGIN:VEVENT
+UID:fb6e8d0df2743c7e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T100000
+DTEND;TZID=Europe/Ljubljana:20261010T120000
+SUMMARY:Sijaj\, sijaj sončece
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
+URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
+END:VEVENT
+BEGIN:VEVENT
+UID:5b3093179c890314@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T170000
+DTEND;TZID=Europe/Ljubljana:20261016T190000
+SUMMARY:Štirje neustrašni
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
+URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
+END:VEVENT
+BEGIN:VEVENT
+UID:eee486e20e4f85f2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T100000
+DTEND;TZID=Europe/Ljubljana:20261017T120000
+SUMMARY:Štirje neustrašni
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
+URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
+END:VEVENT
+BEGIN:VEVENT
+UID:0b964e1045d174ee@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T170000
+DTEND;TZID=Europe/Ljubljana:20261023T190000
+SUMMARY:Razcufane zgodbe
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+END:VEVENT
+BEGIN:VEVENT
+UID:3ffe0a4841c80d59@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T100000
+DTEND;TZID=Europe/Ljubljana:20261024T120000
+SUMMARY:Razcufane zgodbe
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 END:VEVENT
 END:VCALENDAR

@@ -5,30 +5,12 @@ X-WR-CALNAME:Mala dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ca0520ce8f43e910@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260908T100000
-DTEND;TZID=Europe/Ljubljana:20260908T120000
-SUMMARY:Čarobne sence
+UID:0cd493ae63e604f0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T170000
+DTEND;TZID=Europe/Ljubljana:20261001T190000
+SUMMARY:Skrinjica sinjega maka
 LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/arobnesence-35762
-URL:https://www.minoriti.si/dogodki/arobnesence-35762
-END:VEVENT
-BEGIN:VEVENT
-UID:20d80a13260933b2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T170000
-DTEND;TZID=Europe/Ljubljana:20260911T190000
-SUMMARY:Nekje drugje
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44229-nekje-drugje
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44229-nekje-drugje
-END:VEVENT
-BEGIN:VEVENT
-UID:de3f0c0305fc0689@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260912T100000
-DTEND;TZID=Europe/Ljubljana:20260912T120000
-SUMMARY:Nekje drugje
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/nekjedrugje-19857
-URL:https://www.minoriti.si/dogodki/nekjedrugje-19857
+DESCRIPTION: https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
+URL:https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
 END:VEVENT
 END:VCALENDAR

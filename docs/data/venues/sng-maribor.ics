@@ -5,15 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:6ecb520bf5c464de@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T200000
-DTEND;TZID=Europe/Ljubljana:20260904T220000
-SUMMARY:Balet pod zvezdami
-LOCATION:SNG Maribor
-DESCRIPTION:Glavni trg Maribor https://www.sng-mb.si/event/balet-pod-zvezdami/
-URL:https://www.sng-mb.si/event/balet-pod-zvezdami/
-END:VEVENT
-BEGIN:VEVENT
 UID:c5b9d42377391666@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T193000
 DTEND;TZID=Europe/Ljubljana:20260911T213000
@@ -273,6 +264,15 @@ SUMMARY:OPERA BALET PREMIERA
 LOCATION:SNG Maribor
 DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
 URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
+END:VEVENT
+BEGIN:VEVENT
+UID:148d95d378014e2a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T180000
+DTEND;TZID=Europe/Ljubljana:20261017T200000
+SUMMARY:Othello
+LOCATION:SNG Maribor
+DESCRIPTION:William Shakespeare\, Valentina Turcu\, Gustav Mahler · HNK Zagreb https://www.sng-mb.si/event/othello/
+URL:https://www.sng-mb.si/event/othello/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb87f366429bb3cb@kulturko
@@ -833,15 +833,6 @@ DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons
 URL:https://www.sng-mb.si/event/four-reasons-minus-16/
 END:VEVENT
 BEGIN:VEVENT
-UID:e9baa28da71708d2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270306T193000
-DTEND;TZID=Europe/Ljubljana:20270306T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
 UID:c63cc899145873d5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270306T193000
 DTEND;TZID=Europe/Ljubljana:20270306T213000
@@ -849,6 +840,15 @@ SUMMARY:1. glasbena matineja
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-glasbena-matineja/
 URL:https://www.sng-mb.si/event/1-glasbena-matineja/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9baa28da71708d2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270306T193000
+DTEND;TZID=Europe/Ljubljana:20270306T213000
+SUMMARY:Four Reasons &#038\; Minus 16
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
+URL:https://www.sng-mb.si/event/four-reasons-minus-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:090fc755bc25fcc0@kulturko

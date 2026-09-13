@@ -13,4 +13,13 @@ LOCATION:Minoritska cerkev
 DESCRIPTION: https://www.minoriti.si/dogodki/festival-maribor-z-balkana-z-ljubeznijo
 URL:https://www.minoriti.si/dogodki/festival-maribor-z-balkana-z-ljubeznijo
 END:VEVENT
+BEGIN:VEVENT
+UID:f2af88b4289260e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T190000
+DTEND;TZID=Europe/Ljubljana:20261002T210000
+SUMMARY:32. MFRU • Otvoritev festivala
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://www.minoriti.si/dogodki/32-mfru-otvoritev-festivala
+URL:https://www.minoriti.si/dogodki/32-mfru-otvoritev-festivala
+END:VEVENT
 END:VCALENDAR

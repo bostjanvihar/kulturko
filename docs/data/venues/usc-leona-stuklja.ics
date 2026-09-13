@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:UŠC Leona Štuklja — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:743c65f5163c6ba5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T170000
+DTEND;TZID=Europe/Ljubljana:20261005T180000
+SUMMARY:BREZPLAČNA VADBA!
+LOCATION:UŠC Leona Štuklja
+DESCRIPTION:V okviru projekta Zmigaj se do vadbe\, katerega nosilec je Olimpijski komite Slovenije – Združenje športnih zvez (OKS-ZŠZ)\, organizirali brezplačne strokovno vodene vadbe za vse odrasle prebivalce Slovenije\, ki ne dosegajo priporočene ravni telesne dejavnosti po smernicah Svetovne zdravstvene organiz https://mladimaribor.si/dogodek/brezplacna-vadba/
+URL:https://mladimaribor.si/dogodek/brezplacna-vadba/
+END:VEVENT
+END:VCALENDAR

@@ -5,12 +5,12 @@ X-WR-CALNAME:OBRAT — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:463ee2da7d590a7d@kulturko
+UID:1d29ffa1c0828509@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260908T180000
-DTEND;TZID=Europe/Ljubljana:20260908T180000
-SUMMARY:Cikel Filmski pogled: Petra Meterc – Četrto obdobje palestinskega filma
+DTEND;TZID=Europe/Ljubljana:20260908T193000
+SUMMARY:Petra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim
 LOCATION:OBRAT
-DESCRIPTION:8. septembra 2026\, ob 18. uri v OBRAT-u\, prostoru umetnosti in participacije\, Trg revolucije 8\nPogovor po predavanju bo vodila Maja Pan. \n\nPetra Meterc je diplomirana anglistka in polonistka\, deluje pa kot filmska kritičarka in prevajalka. Več let je o filmu in literaturi pisala za Radio Študent. Bi https://mladimaribor.si/dogodek/cikel-filmski-pogled-petra-meterc-cetrto-obdobje-palestinskega-filma/
-URL:https://mladimaribor.si/dogodek/cikel-filmski-pogled-petra-meterc-cetrto-obdobje-palestinskega-filma/
+DESCRIPTION:\n\n\n\nCikel Filmski pogled\n\n\n\n\nPetra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim\n\n\n\n\n\n\n\n\n\n\n\n\nV torek\, 8. 9. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT\, na predavanje Petre Meterc četrtem obdobju palestinskega filma o vsakdanu okupacije m https://mladimaribor.si/dogodek/petra-meterc-cetrto-obdobje-palestinskega-filma-vsakdan-okupacije-med-osebnim-in-politicnim-2026-09-08-18-00-00/
+URL:https://mladimaribor.si/dogodek/petra-meterc-cetrto-obdobje-palestinskega-filma-vsakdan-okupacije-med-osebnim-in-politicnim-2026-09-08-18-00-00/
 END:VEVENT
 END:VCALENDAR

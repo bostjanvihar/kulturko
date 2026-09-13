@@ -23,6 +23,15 @@ DESCRIPTION:Legendarni Šank Rock prihajajo na ŠTUK v prenovljeni zasedbi\, z e
 URL:https://mladimaribor.si/dogodek/sank-rock-6pack-cukur-rap-n-roll-koncert-2026-09-19-00-00-00/
 END:VEVENT
 BEGIN:VEVENT
+UID:4e14d773c51b0b66@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T190000
+DTEND;TZID=Europe/Ljubljana:20260925T210000
+SUMMARY:Radio City || 30 plus party
+LOCATION:ŠTUK
+DESCRIPTION:📅 25. 9. 2026 🕗 od 17. ure naprej 📍 Štuk\, Maribor RADIO CITY 30+ PARTY – PONAVLJAMO! Prvič je bilo tako dobro\, da smo rekli: še enkrat! Radio City 30+ PARTY se vrača! Po odličnem prvem druženju pripravljamo še en večer največjih hitov\, dobre družbe in odlične zabave. Čaka te večer\, ko se bomo vrnili https://vstopnice.stuk.org/izdelek/radio-city-30-plus-party/
+URL:https://vstopnice.stuk.org/izdelek/radio-city-30-plus-party/
+END:VEVENT
+BEGIN:VEVENT
 UID:54a99c7f22474e62@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261001T190000
 DTEND;TZID=Europe/Ljubljana:20261001T210000
@@ -30,6 +39,33 @@ SUMMARY:Štuktoberfest 2026 || Uradna otvoritev X Pivovarna Laško
 LOCATION:ŠTUK
 DESCRIPTION:📅 1. 10. 2026 ⏰ od 17.00 naprej 📍 ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Festival bomo otvorili s simboličnim razbitjem soda Laško\, takoj za tem pa sledi legendarni ŠTUK Sniper! 🎯🍺 Pridruži se nam na uradni otvoritvi in skupaj z nami odpri teden pravega oktoberfest vzdušja. *Partner dogodka je Pivo https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
 URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
+END:VEVENT
+BEGIN:VEVENT
+UID:835625a37f8ad327@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T190000
+DTEND;TZID=Europe/Ljubljana:20261002T210000
+SUMMARY:Štuktoberfest 2026 || Akustični večer z Amirjem in Kristino
+LOCATION:ŠTUK
+DESCRIPTION:📅 2. 10. 2026 ⏰ 19.00 naprej 📍 atrij ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Petkov večer bomo preživeli nekoliko “bolj na izi”! Ob vzdušju okrašenega atrija ŠTUK-a nas čaka sproščen akustični nastop Amirja in Kristine. Pridi na kakšno pijačo\, dobro glasbo in sproščen večer s svojo družbo. 🎸 *Partne https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino/
+URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino/
+END:VEVENT
+BEGIN:VEVENT
+UID:2626444f35661c84@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T190000
+DTEND;TZID=Europe/Ljubljana:20261005T210000
+SUMMARY:Štuktoberfest 2026 || Trivia night – PIVO
+LOCATION:ŠTUK
+DESCRIPTION:📅 5. 10. 2026 ⏰ 19.00 📍 atrij ali dvorana ŠTUK / vstopnine ni 🍻 TRIVIA NIGHT – PIVO 🍻 Zberi ekipo in se nam pridruži na posebnem Trivia Nightu\, kjer bo v ospredju pivo! 🤓🏆 👥 Ekipe po 4 člane 🔢 40 ekip + 5 ekip v čakalni vrsti Čaka vas večer zanimivih vprašanj\, tekmovalnega vzdušja\, druženja in nagra https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-trivia-night-pivo/
+URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-trivia-night-pivo/
+END:VEVENT
+BEGIN:VEVENT
+UID:1354a7efc870d574@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261006T190000
+DTEND;TZID=Europe/Ljubljana:20261006T210000
+SUMMARY:Štuktoberfest 2026 || Prvi študentski torek || TIL ČEH & Petelini
+LOCATION:ŠTUK
+DESCRIPTION:📅 torek 6. 10. 2026 🕗 popoldanski program od 16. ure naprej\, večerni od 22. ure naprej 📍 Štuk\, Maribor V torek nas čaka vrhunec letošnjega ŠTUKTOBERFESTA! Čez dan bo atrij ŠTUK-a zaživel v pravem oktoberfest vzdušju – ob različnih vrstah piva\, prestah\, klobasah in dobri družbi. 🥨 Ko se zvečeri\, pa d https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-prvi-studentski-torek-til-ceh-petelini/
+URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-prvi-studentski-torek-til-ceh-petelini/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko

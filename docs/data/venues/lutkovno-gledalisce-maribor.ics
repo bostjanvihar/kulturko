@@ -14,6 +14,24 @@ DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi
 URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45382-natisnejno-gibanje-od-digitalnega-kiparstva-do-3d-tiska
 END:VEVENT
 BEGIN:VEVENT
+UID:3df51aef7230c759@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T090000
+DTEND;TZID=Europe/Ljubljana:20260923T110000
+SUMMARY:NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+URL:https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+END:VEVENT
+BEGIN:VEVENT
+UID:69a09bcf8d4c3bb6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T090000
+DTEND;TZID=Europe/Ljubljana:20260924T110000
+SUMMARY:NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+URL:https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+END:VEVENT
+BEGIN:VEVENT
 UID:75d91e60b9cb5952@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T100000
 DTEND;TZID=Europe/Ljubljana:20260926T120000
@@ -21,5 +39,14 @@ SUMMARY:Miška kaško kuhala
 LOCATION:Lutkovno gledališče Maribor
 DESCRIPTION: https://www.minoriti.si/dogodki/mikakakokuhala-26368
 URL:https://www.minoriti.si/dogodki/mikakakokuhala-26368
+END:VEVENT
+BEGIN:VEVENT
+UID:461abff6f8f7143f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T100000
+DTEND;TZID=Europe/Ljubljana:20261024T120000
+SUMMARY:Ves svet je marmelada
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
+URL:https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
 END:VEVENT
 END:VCALENDAR

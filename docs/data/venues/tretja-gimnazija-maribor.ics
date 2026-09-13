@@ -5,15 +5,6 @@ X-WR-CALNAME:Tretja gimnazija Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cc8c7b13b1f8a789@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T080000
-DTEND;TZID=Europe/Ljubljana:20260904T093000
-SUMMARY:Lepo vedenje kot vrednota mladih
-LOCATION:Tretja gimnazija Maribor
-DESCRIPTION:V delavnici Lepo vedenje kot vrednota mladih smo dijake seznanili\ns številnimi pravili bontona\, ki so uporabni zlasti v šolah\, pa tudi\npozneje\, ko nadaljujejo svojo poslovno pot in iščejo prvo zaposlitev.\nV izogib neprijetnim situacijam\, zagatam in spodbujanju rabe prijaznih\nbesed v najstniškem bese https://mladimaribor.si/dogodek/lepo-vedenje-kot-vrednota-mladih/
-URL:https://mladimaribor.si/dogodek/lepo-vedenje-kot-vrednota-mladih/
-END:VEVENT
-BEGIN:VEVENT
 UID:3781fe6ae285ea6c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260909T080000
 DTEND;TZID=Europe/Ljubljana:20260911T090000

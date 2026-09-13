@@ -10,7 +10,7 @@ DTSTART;TZID=Europe/Ljubljana:20260910T180000
 DTEND;TZID=Europe/Ljubljana:20260910T200000
 SUMMARY:Večer v živo: Dejan Sotirov
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nDejan Sotirov\, ustanovitelj društva Mavrični bojevniki\n\n Novi otroci\, novi časi \n\nDejan Sotirov je človek tisočerih talentov\, ki z inovativnimi pristopi pomaga mladim in njihovim dr https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
+DESCRIPTION:Večer v živo z Dejanom Sotirovim \, načrtovan za  danes\, 10. septembra v Mariboru \, zaradi bolezni predavatelja  odpade .\nOrganizatorji vas bodo o  nadomestnem terminu  kmalu obvestili v Večeru\, na Eventimu in na strani  www.vecer.com/vzivo .\n Vstopnice lahko obdržite  in vam bodo veljale za nadome https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
 URL:https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
 END:VEVENT
 BEGIN:VEVENT
@@ -66,6 +66,15 @@ SUMMARY:Črnogorec v postelji – Peđa Šuškavčević
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Črnogorsko kulturno društvo ''KOMOVI'' Maribor \n\n \n\nČrnogorec v postelji je komedija\, ki spregovori o vseh življenjskih obdobjih\, še posebej duhovito pa o vsakdanjih težavah povsem običajnega črnog https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
 URL:https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d99589ad76dff0e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T200000
+DTEND;TZID=Europe/Ljubljana:20261105T220000
+SUMMARY:Jaz sem najboljši fotr na svetu
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Tukaj in zdaj d.o.o. \n\n \n  TISOČ IDEJ O VZGOJI\, NIČ POJMA  \n Lado Bizovičar se vrača z novo komedijo Jaz sem najboljši fotr na svetu.  \n Pravijo\, da so očetje najpomembnejši izmed manj pomembnih č https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
+URL:https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
 END:VEVENT
 BEGIN:VEVENT
 UID:e339175693cc6fc6@kulturko

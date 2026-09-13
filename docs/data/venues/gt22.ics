@@ -5,10 +5,10 @@ X-WR-CALNAME:GT22 — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:651d1ce8063a0510@kulturko
+UID:1c5bc49cd94ba31b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270709T190000
 DTEND;TZID=Europe/Ljubljana:20270709T210000
-SUMMARY:Človek v morju
+SUMMARY:Človek v morju – RAZPRODANO
 LOCATION:GT22
 DESCRIPTION: https://gt22.si/clovek-v-morju/
 URL:https://gt22.si/clovek-v-morju/

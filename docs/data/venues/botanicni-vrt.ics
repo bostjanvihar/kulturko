@@ -5,24 +5,6 @@ X-WR-CALNAME:Botanični vrt — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3f0159adc82f9b03@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T183000
-DTEND;TZID=Europe/Ljubljana:20260905T203000
-SUMMARY:Mednarodna noč netopirjev
-LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=mednarodna-noc-netopirjev
-URL:https://botanicnivrt.um.si/?ajde_events=mednarodna-noc-netopirjev
-END:VEVENT
-BEGIN:VEVENT
-UID:0c04d74b01805366@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260906T160000
-DTEND;TZID=Europe/Ljubljana:20260906T180000
-SUMMARY:Sneguljčica – glasbeno plesna pravljica
-LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=sneguljcica-glasbeno-plesna-pravljica
-URL:https://botanicnivrt.um.si/?ajde_events=sneguljcica-glasbeno-plesna-pravljica
-END:VEVENT
-BEGIN:VEVENT
 UID:ec6d144f62e1e7a3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T090000
 DTEND;TZID=Europe/Ljubljana:20260926T110000
@@ -30,5 +12,23 @@ SUMMARY:Od korenin do vitalnosti življenja
 LOCATION:Botanični vrt
 DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=od-korenin-do-vitalnosti-zivljenja
 URL:https://botanicnivrt.um.si/?ajde_events=od-korenin-do-vitalnosti-zivljenja
+END:VEVENT
+BEGIN:VEVENT
+UID:a9bf2570a9be9c92@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T100000
+DTEND;TZID=Europe/Ljubljana:20260926T120000
+SUMMARY:Osem zakladov Qi gong – starodavna vadba za zdravje
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=osem-zakladov-qi-gong-starodavna-vadba-za-zdravje
+URL:https://botanicnivrt.um.si/?ajde_events=osem-zakladov-qi-gong-starodavna-vadba-za-zdravje
+END:VEVENT
+BEGIN:VEVENT
+UID:04ba2cbfc9487e41@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260927T100000
+DTEND;TZID=Europe/Ljubljana:20260927T120000
+SUMMARY:Svetovni dan turizma – Živimo s prazgodovino
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=svetovni-dan-turizma-tematski-sprehod-po-vrtu
+URL:https://botanicnivrt.um.si/?ajde_events=svetovni-dan-turizma-tematski-sprehod-po-vrtu
 END:VEVENT
 END:VCALENDAR

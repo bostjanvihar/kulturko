@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Partizanska cesta 12 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a8982308957eecff@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260921T163000
+DTEND;TZID=Europe/Ljubljana:20260921T183000
+SUMMARY:Šola animiranega filma\, 8+
+LOCATION:Partizanska cesta 12
+DESCRIPTION:Ko se risba premakne. Ko predmet oživi. Ko ideja postane film.\n\nKako doseči\, da risba oživi? Kako premakniti predmet\, ne da bi ga zares premaknili? In kako iz množice fotografij ustvariti čisto pravi animirani film?\n\nV laboratoriju za animacijo oz. šoli animiranega filma bodo otroci skozi igro\,  https://nd-mb.si/dogodek/sola-animiranega-filma-8/
+URL:https://nd-mb.si/dogodek/sola-animiranega-filma-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:906098e1c6e8ff25@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T163000
+DTEND;TZID=Europe/Ljubljana:20260924T183000
+SUMMARY:Studio za animirani film – mladi
+LOCATION:Partizanska cesta 12
+DESCRIPTION:Animacija ni samo tehnika. Je način\, kako lahko idejo spraviš v gibanje.\n\nKaj lahko poveš z animacijo\, česar ne moreš povedati z eno samo sliko? Kako nastane gibanje? Kaj se zgodi\, ko fotografiji dodaš še eno – in še eno?\n\nAnimacijski laboratorij za mlade je prostor za raziskovanje animiranega f https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
+URL:https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
+END:VEVENT
+BEGIN:VEVENT
+UID:b076f4859cab36c0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T200000
+DTEND;TZID=Europe/Ljubljana:20261021T220000
+SUMMARY:Studio za animirani film – odrasli
+LOCATION:Partizanska cesta 12
+DESCRIPTION:Animacija za vse\, ki bi radi nekaj naredili z rokami\, slikami\, predmeti in domišljijo.\n\nAnimacijski atelje je namenjen vsem\, ki jih zanima animirani film\, pa naj se z njim srečujete prvič ali pa bi radi preizkusili tehnike\, ki jih še ne poznate.\n\nVsak tematski sklop bo prinesel nov ustvarjalni i https://nd-mb.si/dogodek/studio-za-animirani-film-odrasli/
+URL:https://nd-mb.si/dogodek/studio-za-animirani-film-odrasli/
+END:VEVENT
+END:VCALENDAR

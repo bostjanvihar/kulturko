@@ -1,25 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//kulturko//event-aggregator//SL
-X-WR-CALNAME:Vetrinjc-BarCoda — dogodki
+X-WR-CALNAME:Vetrinjc – BarCoda — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0e3155b77600ae0f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260819T210000
-DTEND;TZID=Europe/Ljubljana:20260819T210000
-SUMMARY:Poletne karaoke v Vetrinjcu
-LOCATION:Vetrinjc-BarCoda
-DESCRIPTION:Dobrodošli nazaj v Vetrinjca! Prvo sredo\, ki je tradicionalno pevska\, po kratki pavzi začnemo tako\, kot smo končali – s karaokami!\nZaloge bodo spet napolnjene\, vabljeni\, da se nam pridružite tudi tokrat\, ko bo z nami ponovno tudi MC Šošo https://mladimaribor.si/dogodek/poletne-karaoke-v-vetrinjcu/
-URL:https://mladimaribor.si/dogodek/poletne-karaoke-v-vetrinjcu/
+UID:011d96afeda818de@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T170000
+DTEND;TZID=Europe/Ljubljana:20260918T210000
+SUMMARY:Majhno osvobojeno ozemlje #7
+LOCATION:Vetrinjc – BarCoda
+DESCRIPTION:\n\n\npetek\, 18. september 2026 · 17.00-21.00 · Vetrinjc – BarCoda\n\n\nVelikokrat smo že šli spat in končno bomo dočakali naslednji večer Dveh lun. Na njem se odpiramo umetnosti\, ljubezni do dreves in narave in do sočloveka. Predstavljamo najboljša dela\, nastala ob iskanju življenjskih izkušenj.\nOsrednji https://mladimaribor.si/dogodek/majhno-osvobojeno-ozemlje-7/
+URL:https://mladimaribor.si/dogodek/majhno-osvobojeno-ozemlje-7/
 END:VEVENT
 BEGIN:VEVENT
-UID:b9bb247981142772@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260820T200000
-DTEND;TZID=Europe/Ljubljana:20260820T230000
-SUMMARY:Poletni jazz jam v Vetrinjcu: Blaž Švagan – Absolute Condor
-LOCATION:Vetrinjc-BarCoda
-DESCRIPTION:Leto 2026 smo v Vetrinjcu začeli z rednimi jazz jami na pobudo in v izvedbi Blaža Švagana. Namen večera je ustvariti odprt prostor za srečevanje glasbenikov\, izmenjavo idej in sproščeno glasbeno improvizacijo.\nPo krajšem uvodnem programu so na oder vabljeni vsi glasbeniki\, ne glede na izkušnje\, ki s https://mladimaribor.si/dogodek/poletni-jazz-jam-v-vetrinjcu-blaz-svagan-absolute-condor/
-URL:https://mladimaribor.si/dogodek/poletni-jazz-jam-v-vetrinjcu-blaz-svagan-absolute-condor/
+UID:9106a2f5358e7600@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T100000
+DTEND;TZID=Europe/Ljubljana:20260919T120000
+SUMMARY:Pregneti verz · delavnica oblikovanja gline s poezijo
+LOCATION:Vetrinjc – BarCoda
+DESCRIPTION:\n\n\nsobota\, 19. september 2026 · 10.00-12.00 · Vetrinjc – BarCoda\n\n\nTako poezija kot lončarjenje zahtevata stanje sproščene odprtosti in radovednosti. Zahtevata prepuščanje materialu (bodisi besedi ali glini)\, njegovo opazovanje\, gnetenje in spremljanje tega\, kam te usmerja. Pred začetkom ni nujno\, d https://mladimaribor.si/dogodek/pregneti-verz-%c2%b7-delavnica-oblikovanja-gline-s-poezijo/
+URL:https://mladimaribor.si/dogodek/pregneti-verz-%c2%b7-delavnica-oblikovanja-gline-s-poezijo/
 END:VEVENT
 END:VCALENDAR

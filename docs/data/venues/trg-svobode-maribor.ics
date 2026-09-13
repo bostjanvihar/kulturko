@@ -5,12 +5,12 @@ X-WR-CALNAME:Trg svobode Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5bd3c1daa9cffa25@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260828T090000
-DTEND;TZID=Europe/Ljubljana:20260828T090000
-SUMMARY:Počitniški finale ZPM – 28. in 31. avgust\, ob 9.00
+UID:e325bdf77b7a2c5e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T100000
+DTEND;TZID=Europe/Ljubljana:20261005T130000
+SUMMARY:24. BRALNI MARATON
 LOCATION:Trg svobode Maribor
-DESCRIPTION:\n\n\n\n\nVabilo na počitniški finale – 28. in 31. avgust\, ob 9.00\n\nSpoštovani\,\npoletje se počasi poslavlja\, mi pa ga bomo skupaj zaključili v prav posebnem vzdušju!\nVabimo vas na tradicionalni raziskovalni potep po Mariboru in Neresno olimpijado\, kjer se bomo pomerili v najbolj zabavnih in neresnih disc https://mladimaribor.si/dogodek/pocitniski-finale-zpm-28-in-31-avgust-ob-9-00/
-URL:https://mladimaribor.si/dogodek/pocitniski-finale-zpm-28-in-31-avgust-ob-9-00/
+DESCRIPTION:Ob začetku letošnjega branja za Prežihovo bralno značko in v okviru Tedna otroka® vabimo na 24. BRALNI MARATON\, ki bo v ponedeljek\, 5. oktobra 2026 ob 10. uri\, na Trgu svobode.\nMlade ustvarjalce smo povabili\, da skozi lastno poezijo ali poezijo drugih avtorjev izrazijo svoje misli\, želje in pričakov https://mladimaribor.si/dogodek/24-bralni-maraton/
+URL:https://mladimaribor.si/dogodek/24-bralni-maraton/
 END:VEVENT
 END:VCALENDAR

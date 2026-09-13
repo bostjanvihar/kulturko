@@ -5,15 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:39e30af27de7297b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260913T110000
-DTEND;TZID=Europe/Ljubljana:20260913T130000
-SUMMARY:DOKUDOC MASTERCLASS
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/dokudoc-masterclass
-URL:https://www.minoriti.si/dogodki/dokudoc-masterclass
-END:VEVENT
-BEGIN:VEVENT
 UID:8f2b80547e396bf3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260917T100000
 DTEND;TZID=Europe/Ljubljana:20260917T120000
@@ -33,8 +24,8 @@ URL:https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
 END:VEVENT
 BEGIN:VEVENT
 UID:fe1245d6177c291e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T180000
-DTEND;TZID=Europe/Ljubljana:20260922T200000
+DTSTART;TZID=Europe/Ljubljana:20260922T100000
+DTEND;TZID=Europe/Ljubljana:20260922T120000
 SUMMARY:Transport: Tovor
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/transporttovor-33109
@@ -48,5 +39,50 @@ SUMMARY:Transport: Odhod
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/transportodhod-35135
 URL:https://www.minoriti.si/dogodki/transportodhod-35135
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5b62d2db8c090a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T093000
+DTEND;TZID=Europe/Ljubljana:20260923T113000
+SUMMARY:Transport: Tovor
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transporttovor-33109
+URL:https://www.minoriti.si/dogodki/transporttovor-33109
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec82f94dd22ad15@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T103000
+DTEND;TZID=Europe/Ljubljana:20260923T123000
+SUMMARY:Transport: Odhod
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transportodhod-35135
+URL:https://www.minoriti.si/dogodki/transportodhod-35135
+END:VEVENT
+BEGIN:VEVENT
+UID:95456d2883b23c46@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T093000
+DTEND;TZID=Europe/Ljubljana:20260924T113000
+SUMMARY:Transport: Odhod
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transportodhod-35135
+URL:https://www.minoriti.si/dogodki/transportodhod-35135
+END:VEVENT
+BEGIN:VEVENT
+UID:695257fa18cf3baa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T103000
+DTEND;TZID=Europe/Ljubljana:20260924T123000
+SUMMARY:Transport: Tovor
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/transporttovor-33109
+URL:https://www.minoriti.si/dogodki/transporttovor-33109
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2eeff8d659d6f0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260929T160000
+DTEND;TZID=Europe/Ljubljana:20260929T180000
+SUMMARY:VIVAsfera: Konferenca o zdravju\, dobrem počutju in odnosih v (peri)menopavzi
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43669-vivasfera-konferenca-o-zdravju-dobrem-pocutju-in-odnosih-v-peri-menopavzi
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/43669-vivasfera-konferenca-o-zdravju-dobrem-pocutju-in-odnosih-v-peri-menopavzi
 END:VEVENT
 END:VCALENDAR

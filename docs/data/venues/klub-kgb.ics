@@ -5,24 +5,6 @@ X-WR-CALNAME:Klub KGB — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:dab833294a12a17a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T190000
-DTEND;TZID=Europe/Ljubljana:20260904T210000
-SUMMARY:VAKUM - Absynthesizer
-LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/vakum-absynthesizer
-URL:https://klub-kgb.si/dogodki/2026/sep/vakum-absynthesizer
-END:VEVENT
-BEGIN:VEVENT
-UID:329985023ff6db9a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T190000
-DTEND;TZID=Europe/Ljubljana:20260905T210000
-SUMMARY:Karamela
-LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/karamela
-URL:https://klub-kgb.si/dogodki/2026/sep/karamela
-END:VEVENT
-BEGIN:VEVENT
 UID:3204569eafc6100f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260911T190000
 DTEND;TZID=Europe/Ljubljana:20260911T210000

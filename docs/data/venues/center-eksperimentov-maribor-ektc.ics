@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Center eksperimentov Maribor – EKTC — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2c6a3ad5b024092b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260928T170000
+DTEND;TZID=Europe/Ljubljana:20260928T183000
+SUMMARY:NOTRANJE GLASBENO POTOVANJE
+LOCATION:Center eksperimentov Maribor – EKTC
+DESCRIPTION:Vabljeni na prav poseben večer\, kjer se bodo prepletli nevroznanost\, meditacija in glasba.\nKaj nas čaka?\nPREDAVANJE: Meditacija in nevroznanost\nDr. Sergio Elías Hernández\, raziskovalec z Univerze La Laguna (Tenerife\, Španija)\, bo predstavil raziskave o vplivu meditacije na možgane.\nGLASBENO-MEDITATI https://mladimaribor.si/dogodek/notranje-glasbeno-potovanje/
+URL:https://mladimaribor.si/dogodek/notranje-glasbeno-potovanje/
+END:VEVENT
+BEGIN:VEVENT
+UID:b02f1fdb3710c067@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T090000
+DTEND;TZID=Europe/Ljubljana:20261020T170000
+SUMMARY:Festival znanosti Maribor 2026
+LOCATION:Center eksperimentov Maribor – EKTC
+DESCRIPTION:V Center eksperimentov Maribor prihaja Festival znanosti Maribor\, namenjen vsem\, ki jih zanimajo znanost\, raziskovanje\, eksperimenti in odkrivanje novih znanj.\nFestival bo potekal v torek\, 20. oktobra 2026\, med 9.00 in 17.00 na Zagrebški cesti 18 v Mariboru.\nObiskovalci bodo lahko skozi različne vse https://mladimaribor.si/dogodek/festival-znanosti-maribor-2026/
+URL:https://mladimaribor.si/dogodek/festival-znanosti-maribor-2026/
+END:VEVENT
+END:VCALENDAR

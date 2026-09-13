@@ -14,6 +14,15 @@ DESCRIPTION:\n\n\n\n\nUSPOSABLJANJE STROKOVNIH DELAVCEV NA PODROČJU ŠKODE ZARA
 URL:https://mladimaribor.si/dogodek/usposabljanje-na-podrocju-skode-zaradi-iger-na-sreco-2026-09-16-09-00-00-2026-09-16-10-00-00/
 END:VEVENT
 BEGIN:VEVENT
+UID:be125f35b9065ea0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260917T200000
+DTEND;TZID=Europe/Ljubljana:20260917T223000
+SUMMARY:Sinhronizacija 2: AV PERFORMANS
+LOCATION:MKC Maribor
+DESCRIPTION: https://mkc.si/koledar/2026/9/11/sinhronizacija-2-av-performans
+URL:https://mkc.si/koledar/2026/9/11/sinhronizacija-2-av-performans
+END:VEVENT
+BEGIN:VEVENT
 UID:5d783b7ca990cd86@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260930T170000
 DTEND;TZID=Europe/Ljubljana:20260930T190000

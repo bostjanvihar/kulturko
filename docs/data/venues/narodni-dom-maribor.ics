@@ -5,15 +5,6 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:4850c519660ba7c3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T190000
-DTEND;TZID=Europe/Ljubljana:20260904T210000
-SUMMARY:Soutripanje – zatvoritev!
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Vabljeni na slovesno zatvoritev razstave Soutripanja!\nSekcija Zarja KUD Studenci je v avgustu predstavljala dela svojih članic in člana - predstavili so se  Jadranka Golob\, Nadica Iskra\, Marka Hostnik\, Nada Jemenšek\, Anka Kante\, Boža Korbar\, Tinca Lešnik\, Nada Namestnik\, Rozika Ogorevc\, Mateja Ogor https://nd-mb.si/dogodek/soutripanje-zatvoritev/
-URL:https://nd-mb.si/dogodek/soutripanje-zatvoritev/
-END:VEVENT
-BEGIN:VEVENT
 UID:f131b5a009bb8918@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260922T200000
 DTEND;TZID=Europe/Ljubljana:20260922T220000

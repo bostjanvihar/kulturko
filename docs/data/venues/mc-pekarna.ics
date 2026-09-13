@@ -5,15 +5,6 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:02437df23411f477@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T210000
-DTEND;TZID=Europe/Ljubljana:20260904T230000
-SUMMARY:peKARAOKE
-LOCATION:MC Pekarna
-DESCRIPTION:Mesec je spet naokrog in v Peki to pomeni samo eno – peKARAOKE!\nMikrofon v roke\, komad na ekran in gremo. Eni zadanejo vse tone\, drugi kakšnega izumijo na novo\, na koncu pa itak poje cela Pekarna.\nMikrofoni so pripravljeni. No\, skoraj vsi – eden se je zadnjič očitno odločil\, da gre na turnejo. 🙂\nPri https://mladimaribor.si/dogodek/pekaraoke-18/
-URL:https://mladimaribor.si/dogodek/pekaraoke-18/
-END:VEVENT
-BEGIN:VEVENT
 UID:41442e014b8cb561@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260918T200000
 DTEND;TZID=Europe/Ljubljana:20260918T200000
@@ -57,6 +48,15 @@ SUMMARY:Midnight Resurrection pres.: MIDNIGHT RIDE
 LOCATION:MC Pekarna
 DESCRIPTION:We leave at midnight. https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
 URL:https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
+END:VEVENT
+BEGIN:VEVENT
+UID:7230f7436eb226e3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T210000
+DTEND;TZID=Europe/Ljubljana:20261002T230000
+SUMMARY:peKARAOKE
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/pekaraoke-2.10.2026/
+URL:https://www.pekarna.net/napovednik/pekaraoke-2.10.2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:503fed48e3267853@kulturko

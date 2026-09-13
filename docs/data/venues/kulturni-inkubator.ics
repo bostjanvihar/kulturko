@@ -5,60 +5,6 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:acbec6b414181120@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260901T180000
-DTEND;TZID=Europe/Ljubljana:20260924T150000
-SUMMARY:[Kulturni inkubator] Amadeja Kirbiš: Kaj se skriva notri?
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nRAZSTAVA V KULTURNEM INKUBATORJUAMADEJA KIRBIŠ: KAJ SE SKRIVA NOTRI?\nOtvoritev: torek\, 1. september 2026 // ob 18.00 // Kulturni inkubator\nV torek\, 1. septembra 2026\, se ob 18. uri odpira razstava “Kaj se skriva notri?”. Avtorica je mlada umetnica Amadeja Kirbiš\, ki se želi s svojo prvo samosto https://mladimaribor.si/dogodek/kulturni-inkubator-amadeja-kirbis-kaj-se-skriva-notri-2026-09-01-18-00-00-2026-09-24-15-00-00-2/
-URL:https://mladimaribor.si/dogodek/kulturni-inkubator-amadeja-kirbis-kaj-se-skriva-notri-2026-09-01-18-00-00-2026-09-24-15-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccea424874dab369@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260902T170000
-DTEND;TZID=Europe/Ljubljana:20260902T183000
-SUMMARY:Podporne skupine za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-02/
-URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-02/
-END:VEVENT
-BEGIN:VEVENT
-UID:5d5367bf5f8caf6e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T170000
-DTEND;TZID=Europe/Ljubljana:20260904T190000
-SUMMARY:Izmenjevalnica knjig & druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nIZMENJEVALNICA KNJIG\nPetek\, 4. september 2026 // 17.00-19.00 // Kulturni inkubator\nV petek\, 4. septembra 2026\, vabimo na izmenjevalnico knjig in druženje. Dogodek bo med 17. in 19. uro v Kulturnem inkubatorju.\n\n\n\n\n\n\nJe kdo rekel izmenjava knjig & druženje? Ja\, sezona počitniško-dopustiškega bra https://mladimaribor.si/dogodek/izmenjevalnica-knjig-2026-09-04-17-00-00-2026-09-04-19-00-00/
-URL:https://mladimaribor.si/dogodek/izmenjevalnica-knjig-2026-09-04-17-00-00-2026-09-04-19-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:6b970ba69d30343c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T180000
-DTEND;TZID=Europe/Ljubljana:20260904T220000
-SUMMARY:D&D druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v septembru 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pri https://mladimaribor.si/dogodek/d-d-druzenje-2026-09-25-18-00-00-2026-09-25-22-00-00/2026-09-04/
-URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-09-25-18-00-00-2026-09-25-22-00-00/2026-09-04/
-END:VEVENT
-BEGIN:VEVENT
-UID:1a23118e71fc1104@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T110000
-DTEND;TZID=Europe/Ljubljana:20260905T130000
-SUMMARY:Brunch & ritem: Mednarodni teden vafljev
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nBRUNCH & RITEM\nMEDNARODNI TEDEN VAFLJEV\nSobota\, 5. september 2026 // 11.00-13.00 // Kulturni inkubator\nSeptembrski sobotni Brunch & ritem bo v znamenju Tedna vafljev\, ki ga v Združenih državah Amerike obeležujejo v začetku septembra. Na jedilniku bodo torej\, ob dobri družbi\, tudi in predvsem va https://mladimaribor.si/dogodek/brunch-ritem-mednarodni-teden-vafljev-2026-09-05-11-00-00-2026-09-05-13-00-00/
-URL:https://mladimaribor.si/dogodek/brunch-ritem-mednarodni-teden-vafljev-2026-09-05-11-00-00-2026-09-05-13-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:f7a4cce5a05cb035@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260905T140000
-DTEND;TZID=Europe/Ljubljana:20260905T203000
-SUMMARY:Delavnica slemovske poezije
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nSLAM POEZIJA\nDELAVNICA SLEMOVSKE POEZIJE\nSobota\, 5. september 2026 // 14.00-20.30 // Kulturni inkubator\nVabimo na delavnico slemovske poezije za vse mlade pesnice in pesnike\, ki bi radi iz svojih slemovskih nastopov naredili nekaj več. Delavnica bo v Kulturnem inkubatorju v soboto\, 5. septembra https://mladimaribor.si/dogodek/delavnica-slemovske-poezije-2026-09-05-14-00-00-2026-09-05-20-30-00/
-URL:https://mladimaribor.si/dogodek/delavnica-slemovske-poezije-2026-09-05-14-00-00-2026-09-05-20-30-00/
-END:VEVENT
-BEGIN:VEVENT
 UID:fcb366b43dba082c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260909T170000
 DTEND;TZID=Europe/Ljubljana:20260909T183000
@@ -120,6 +66,15 @@ SUMMARY:Podporne skupine za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-16/
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:8078219b15f077ad@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260917T190000
+DTEND;TZID=Europe/Ljubljana:20260917T210000
+SUMMARY:[Delavnica] Izdelaj svoj botanični nakit
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/9/17/izdelaj-svoj-botanicni-nakit
+URL:https://mkc.si/koledar/2026/9/17/izdelaj-svoj-botanicni-nakit
 END:VEVENT
 BEGIN:VEVENT
 UID:dc7a8f6101d91cfb@kulturko
@@ -203,6 +158,15 @@ DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-30/
 END:VEVENT
 BEGIN:VEVENT
+UID:f72948ab00ffa664@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260930T170000
+DTEND;TZID=Europe/Ljubljana:20260930T190000
+SUMMARY:Pocarije: pridi pocat z glino
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/9/30/pocarije-pridi-pocat-z-glino
+URL:https://mkc.si/koledar/2026/9/30/pocarije-pridi-pocat-z-glino
+END:VEVENT
+BEGIN:VEVENT
 UID:2807a59ab203ec99@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260930T180000
 DTEND;TZID=Europe/Ljubljana:20260930T200000
@@ -212,6 +176,15 @@ DESCRIPTION:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKNJIŽNI KLUB MKC MARIBOR\nB
 URL:https://mladimaribor.si/dogodek/knjizni-klub-bookworm-society-2026-09-30-18-00-00-2026-09-30-20-00-00/
 END:VEVENT
 BEGIN:VEVENT
+UID:cccdea4ad3c40ea7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261006T190000
+DTEND;TZID=Europe/Ljubljana:20261006T210000
+SUMMARY:LGBTQ+ literarni maraton
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
+URL:https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
+END:VEVENT
+BEGIN:VEVENT
 UID:794a819cc0f9a40f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261007T170000
 DTEND;TZID=Europe/Ljubljana:20261007T183000
@@ -219,6 +192,15 @@ SUMMARY:Podporne skupine za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/10/7/podporne-skupine-za-dijake
 URL:https://mkc.si/koledar/2026/10/7/podporne-skupine-za-dijake
+END:VEVENT
+BEGIN:VEVENT
+UID:54ad6a8026295e94@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T200000
+DTEND;TZID=Europe/Ljubljana:20261008T220000
+SUMMARY:Večer slabe poezije
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/8/veer-slabe-poezije
+URL:https://mkc.si/koledar/2026/10/8/veer-slabe-poezije
 END:VEVENT
 BEGIN:VEVENT
 UID:3c494428f91952b7@kulturko

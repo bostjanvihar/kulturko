@@ -23,6 +23,15 @@ DESCRIPTION: https://www.ugm.si/dogodki/vecerna-in-jutranja-joga-v-ugm
 URL:https://www.ugm.si/dogodki/vecerna-in-jutranja-joga-v-ugm
 END:VEVENT
 BEGIN:VEVENT
+UID:7aa4a2e37984c3a7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T190000
+DTEND;TZID=Europe/Ljubljana:20260918T210000
+SUMMARY:Maribor Art Walk 2026
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/maribor-art-walk-26
+URL:https://www.ugm.si/dogodki/maribor-art-walk-26
+END:VEVENT
+BEGIN:VEVENT
 UID:7e1510c5e075e96c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T190000
 DTEND;TZID=Europe/Ljubljana:20261008T210000
