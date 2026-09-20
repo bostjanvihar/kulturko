@@ -5,40 +5,22 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:95b3ea01bf1e5ab1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260915T080000
-DTEND;TZID=Europe/Ljubljana:20260927T170000
-SUMMARY:Festival Maribor 2026
-LOCATION:Dvorana Union
-DESCRIPTION:Jesenski Festival Maribor je festival kakovostne klasične glasbe z vrhunskim naborom mednarodno uveljavljenih glasbenih umetnikov in poznavalskim izborom mladih talentov.\n\n\nFestival Maribor stremi k širjenju poslušalstva in razbijanju mitov o klasični glasbi. S pestro ponudbo koncertov\, ki segajo od https://mladimaribor.si/dogodek/festival-maribor-2026/
-URL:https://mladimaribor.si/dogodek/festival-maribor-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:449652731578f6b3@kulturko
+UID:05116618576bd8d9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260915T193000
 DTEND;TZID=Europe/Ljubljana:20260915T213000
-SUMMARY:Flirt
+SUMMARY:ND MB: Flirt
 LOCATION:Dvorana Union
-DESCRIPTION:Otvoritveni koncert \n\nAntonio Vivaldi: Cum dederit iz uglasbitve psalma  Nisi Dominus\, RV 608  (v filmu  Spectre   – James Bond \, 2015)\nBernard Herrmann:  Psiho \,  pripoved   za godalni orkester  (v filmu  Psiho \, 1960)\nGustav Mahler: Adagietto iz  Simfonije št. 5  (v filmu  Smrt v Benetkah \, 19 https://nd-mb.si/dogodek/flirt/
+DESCRIPTION: https://nd-mb.si/dogodek/flirt/
 URL:https://nd-mb.si/dogodek/flirt/
 END:VEVENT
 BEGIN:VEVENT
-UID:e2e0e132360ed9bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T170000
-DTEND;TZID=Europe/Ljubljana:20260922T190000
-SUMMARY:Karneval. In dinozavri!
+UID:bf20aae8d3b00cd8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T100000
+DTEND;TZID=Europe/Ljubljana:20260922T120000
+SUMMARY:ND MB: Karneval. In dinozavri!
 LOCATION:Dvorana Union
-DESCRIPTION:Koncert za otroke in družine \n\nGuillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur  za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet\nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti https://nd-mb.si/dogodek/karneval-in-dinozavri/
-URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
-END:VEVENT
-BEGIN:VEVENT
-UID:db5d361c6fa6eca1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T193000
-DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:Trio Gaspard: Viharna trojica
-LOCATION:Dvorana Union
-DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert  Komornega cikla 2026/2027  \n\n \n\n Joseph Haydn:    Trio za violino\, violončelo in klavir št. 11 v E-duru\, Hob. XV:34\n   Giovanni Sollima:    Hide in Trio    (novo delo)\n  Johannes Brahms:    Trio za violino\, violončelo in klavir št. 3 v c-molu\, op.  https://nd-mb.si/dogodek/viharna-trojica/
-URL:https://nd-mb.si/dogodek/viharna-trojica/
+DESCRIPTION: https://nd-mb.si/dogodek/karneval-in-dinozavri-2/
+URL:https://nd-mb.si/dogodek/karneval-in-dinozavri-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:dead5551684dd356@kulturko
@@ -50,147 +32,12 @@ DESCRIPTION: https://nd-mb.si/dogodek/viharna-trojica/
 URL:https://nd-mb.si/dogodek/viharna-trojica/
 END:VEVENT
 BEGIN:VEVENT
-UID:0cf3cefa6f07ce41@kulturko
+UID:92f19c0d0bafbd8b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260927T193000
 DTEND;TZID=Europe/Ljubljana:20260927T213000
-SUMMARY:Romantični derbi
+SUMMARY:ND MB: Romantični derbi
 LOCATION:Dvorana Union
-DESCRIPTION:Peter Iljič Čajkovski:\n»Kuda\, kuda\, kuda vi udalilis«\, arija Lenskega iz opere  Jevgenij Onjegin  (prir. Steven Loy)\n Serenada za godalni orkester v C-duru\, op. 4\n ***\nDonato Lovreglio:  Fantazija na Verdijevo opero Traviata \,  op. 45 \, za klarinet in orkester\nGiacomo Puccini:  Krizantema\n Ven https://nd-mb.si/dogodek/romanticni-derbi/
+DESCRIPTION: https://nd-mb.si/dogodek/romanticni-derbi/
 URL:https://nd-mb.si/dogodek/romanticni-derbi/
-END:VEVENT
-BEGIN:VEVENT
-UID:a435c1ae31f8e059@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T100000
-DTEND;TZID=Europe/Ljubljana:20261006T120000
-SUMMARY:Tolkala za radovedneže
-LOCATION:Dvorana Union
-DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Skupina  Slovenski tolkalni projekt (krajše SToP)  deluje od leta 1999. Tolkalce je združila želja po komornem muziciranju\, izvajanju kakovostnih skladb ter raziskovanju novih zvo https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-URL:https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-END:VEVENT
-BEGIN:VEVENT
-UID:5ac96fe7a7c986e3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T200000
-DTEND;TZID=Europe/Ljubljana:20261022T220000
-SUMMARY:Ludovico Einaudi Music – klavirski recital
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: AZ Event Production SK S.R.O.  \n\n\n \n Ne zamudite nepozabnega večera čudovite glasbe z melodijami Ludovica Einaudija\, enega najboljših svetovnih pianistov in skladateljev\, v izvedbi vrhunskega češke https://nd-mb.si/dogodek/ludovico-einaudi-music-klavirski-recital/
-URL:https://nd-mb.si/dogodek/ludovico-einaudi-music-klavirski-recital/
-END:VEVENT
-BEGIN:VEVENT
-UID:316054516a027f82@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T193000
-DTEND;TZID=Europe/Ljubljana:20261106T213000
-SUMMARY:Filharmonični orkester iz Luksemburga
-LOCATION:Dvorana Union
-DESCRIPTION:1. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  FILHARMONIČNI ORKESTER IZ LUKSEMBURGA\nMartin Rajna  \, dirigent\n  Kirill Gerstein  \, klavir    \n\n \n\n Claude Debussy:    Preludij k favnovemu popoldnevu\, L 86\n   Béla Bartók:    Koncert za klavir in orkester št. 3 v E-duru\, Sz. 119\n   ***\n  L https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
-URL:https://nd-mb.si/dogodek/filharmonicni-orkester-iz-luksemburga/
-END:VEVENT
-BEGIN:VEVENT
-UID:8f99e42c6636d7df@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261109T180000
-DTEND;TZID=Europe/Ljubljana:20261109T200000
-SUMMARY:Večer v živo: Sanela Peresciutti ex. Banović
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer   \n\n\n \n Sanela Peresciutti (ex. Banović) ponovno prihaja med nas! Njena predavanja niso le predavanja. So večeri\, ki se dotaknejo srca. S toplino\, humorjem in iskrenostjo odpira pomembne živl https://nd-mb.si/dogodek/vecer-v-zivo-sanela-peresciutti-ex-banovic-2/
-URL:https://nd-mb.si/dogodek/vecer-v-zivo-sanela-peresciutti-ex-banovic-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:a6977c328154d0d5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261113T180000
-DTEND;TZID=Europe/Ljubljana:20261113T200000
-SUMMARY:Candlelight: Predstavljamo Štiri letne čase Vivaldija in še več
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-predstavljamo-stiri-letne-case-vivaldija-in-se-vec/
-URL:https://nd-mb.si/dogodek/candlelight-predstavljamo-stiri-letne-case-vivaldija-in-se-vec/
-END:VEVENT
-BEGIN:VEVENT
-UID:5743e7c8b760f671@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261113T203000
-DTEND;TZID=Europe/Ljubljana:20261113T223000
-SUMMARY:Candlelight: Coldplay in Imagine Dragons
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti    Candlelight    prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prej https://nd-mb.si/dogodek/candlelight-coldplay-in-imagine-dragons/
-URL:https://nd-mb.si/dogodek/candlelight-coldplay-in-imagine-dragons/
-END:VEVENT
-BEGIN:VEVENT
-UID:f2e990d92c3f110a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261117T100000
-DTEND;TZID=Europe/Ljubljana:20261117T120000
-SUMMARY:Klasično: Marimba
-LOCATION:Dvorana Union
-DESCRIPTION:2. koncert Mladinskega cikla 2026/2027\n\n \n\n   Nežka Prosenjak \, marimba  \n\n \n\n  Komentirani koncert  \n\n  Nežka Prosenjak  je uveljavljena slovenska tolkalka\, ki se osredotoča predvsem na marimbo. Živi in ustvarja v Švici\, kjer nastopa kot solistka\, orkestrska glasbenica in članica različni https://nd-mb.si/dogodek/klasicno-marimba/
-URL:https://nd-mb.si/dogodek/klasicno-marimba/
-END:VEVENT
-BEGIN:VEVENT
-UID:d326e3dc6c39ab4f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261211T203000
-DTEND;TZID=Europe/Ljubljana:20261211T223000
-SUMMARY:Candlelight: Queen vs. ABBA
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
-URL:https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
-END:VEVENT
-BEGIN:VEVENT
-UID:782144920679151b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270107T203000
-DTEND;TZID=Europe/Ljubljana:20270107T223000
-SUMMARY:Candlelight: Največje uspešnice Hansa Zimmerja
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Eventos Singulares Flander S.L.U.  \n\n \n\n Koncerti  Candlelight  prinašajo čarobnost veččutnega glasbenega doživetja v živo na osupljive lokacije\, ki jih mesto Mariboru ni videlo še nikoli. Prejmi v https://nd-mb.si/dogodek/candlelight-najvecje-uspesnice-hansa-zimmerja/
-URL:https://nd-mb.si/dogodek/candlelight-najvecje-uspesnice-hansa-zimmerja/
-END:VEVENT
-BEGIN:VEVENT
-UID:be8d467b184d059d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270113T110000
-DTEND;TZID=Europe/Ljubljana:20270113T130000
-SUMMARY:Zvonki odmevi: Metalofon
-LOCATION:Dvorana Union
-DESCRIPTION:3. koncert Mladinskega cikla 2026/2027\n\n \n\n   Grega Gorenšek \, tolkala  \n\n \n\n  Komentirani koncert  \n\n  Grega Gorenšek  je vrhunski tolkalni solist\, ki je na Akademiji za glasbo v Ljubljani diplomiral iz klasičnih tolkal. V času študija je prejel Zoisovo in Yamaha štipendijo\, na državnem t https://nd-mb.si/dogodek/zvonki-odmevi-metalofon/
-URL:https://nd-mb.si/dogodek/zvonki-odmevi-metalofon/
-END:VEVENT
-BEGIN:VEVENT
-UID:b282df4ec0231c64@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270304T150000
-DTEND;TZID=Europe/Ljubljana:20270304T170000
-SUMMARY:Harmonije violončela in klavirja
-LOCATION:Dvorana Union
-DESCRIPTION:4. koncert Mladinskega cikla 2026/2027 \n\n \n\n  DUO DEVANA  \n Ema Grčman  \, violončelo\;   Tanja Činč Mirt  \, klavir \n\n \n\n  Komentirani koncert  \n\n  Duo Devana  bo mlado občinstvo popeljal na glasbeno potovanje dveh glasbil\, ki sta si medsebojno naklonjeni in dobro ukoreninjeni v zgodovini g https://nd-mb.si/dogodek/harmonije-violoncela-in-klavirja/
-URL:https://nd-mb.si/dogodek/harmonije-violoncela-in-klavirja/
-END:VEVENT
-BEGIN:VEVENT
-UID:6c7bbc8587e8b9d2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270313T180000
-DTEND;TZID=Europe/Ljubljana:20270313T200000
-SUMMARY:Komorni zbor Megaron in Baročni orkester Megaron
-LOCATION:Dvorana Union
-DESCRIPTION:3. koncert Komornega cikla 2026/2027 \n\n \n\n  KOMORNI ZBOR MEGARON\n  Damijan Močnik  \, dirigent zbora  \n  BAROČNI ORKESTER MEGARON\n  Maria Lindal  \, koncertna mojstrica  \n  GARY GRADEN  \, dirigent  \n  Thomas Köll  \, Evangelist\;   Olle Persson  \, Jezus\;   Jeanette Köhn  \, sopran\;   Barbara Koz https://nd-mb.si/dogodek/komorni-zbor-megaron-in-barocni-orkester-megaron/
-URL:https://nd-mb.si/dogodek/komorni-zbor-megaron-in-barocni-orkester-megaron/
-END:VEVENT
-BEGIN:VEVENT
-UID:247573361937ead2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270317T193000
-DTEND;TZID=Europe/Ljubljana:20270317T213000
-SUMMARY:Komorni orkester iz Stuttgarta
-LOCATION:Dvorana Union
-DESCRIPTION:4. koncert Orkestrskega cikla 2026/2027 \n\n \n\n  KOMORNI ORKESTER IZ STUTTGARTA\n  Thomas Zehetmair  \, dirigent\n  Lucienne Renaudin Vary  \, trobenta\n  Mojca Bitenc  \, sopran\n  Aleš Valič  \, govorec  \n\n \n\n Felix Mendelssohn Bartholdy:    Uvertura Hebridi\, op. 26\n   Joseph Haydn:    Koncert  https://nd-mb.si/dogodek/komorni-orkester-iz-stuttgarta-2/
-URL:https://nd-mb.si/dogodek/komorni-orkester-iz-stuttgarta-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:9dcf3f65689328cb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270408T150000
-DTEND;TZID=Europe/Ljubljana:20270408T170000
-SUMMARY:Klasični Artač
-LOCATION:Dvorana Union
-DESCRIPTION:5. koncert Mladinskega cikla 2026/2027 \n\n \n\n  Tilen Artač  \, povezovalec\n  SLOVENSKI MLADINSKI ORKESTER\n  Živa Ploj Peršuh  \, dirigentka  \n\n \n\n  Komentirani koncert  \n\n  Tilen Artač \, mojster imitacije\, predvsem pa akademsko izobraženi glasbenik\, skupaj s  Slovenskim mladinskim orkestrom https://nd-mb.si/dogodek/klasicni-artac/
-URL:https://nd-mb.si/dogodek/klasicni-artac/
-END:VEVENT
-BEGIN:VEVENT
-UID:38d01c04b4d9da2f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270518T193000
-DTEND;TZID=Europe/Ljubljana:20270518T213000
-SUMMARY:Stockholm Chamber Brass
-LOCATION:Dvorana Union
-DESCRIPTION:5. koncert Komornega cikla 2026/2027 \n\n \n\n  STOCKHOLM CHAMBER BRASS  \n Urban Agnas  \, trobenta\;   Tom Poulson  \, trobenta\;   Annamia Larsson  \, rog\;   Jonas Bylund  \, pozavna\;   Dirk Hirthe  \, tuba \n\n \n\n  STARO NOVO  \n\n Francisco de la Torres:    Španija    (prir. Urban Agnas)\n  Đuro Živ https://nd-mb.si/dogodek/stockholm-chamber-brass/
-URL:https://nd-mb.si/dogodek/stockholm-chamber-brass/
 END:VEVENT
 END:VCALENDAR

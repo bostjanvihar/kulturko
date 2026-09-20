@@ -5,24 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c5b9d42377391666@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T193000
-DTEND;TZID=Europe/Ljubljana:20260911T213000
-SUMMARY:Lakmé
-LOCATION:SNG Maribor
-DESCRIPTION:Léo Delibes · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/lakme/
-URL:https://www.sng-mb.si/event/lakme/
-END:VEVENT
-BEGIN:VEVENT
-UID:fef1f730611fbfae@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T220000
-SUMMARY:Malomeščanska svatba
-LOCATION:SNG Maribor
-DESCRIPTION:Bertolt Brecht · Dvorana Frana Žižka https://www.sng-mb.si/event/malomescanska-svatba/
-URL:https://www.sng-mb.si/event/malomescanska-svatba/
-END:VEVENT
-BEGIN:VEVENT
 UID:96666441900c6ec0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260916T100000
 DTEND;TZID=Europe/Ljubljana:20260916T120000
@@ -167,15 +149,6 @@ DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preo
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
-UID:a9915e205577b6d4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T193000
-DTEND;TZID=Europe/Ljubljana:20261001T213000
-SUMMARY:Ero z onega sveta
-LOCATION:SNG Maribor
-DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta Klasinc   https://www.sng-mb.si/event/ero-z-onega-sveta/
-URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
-END:VEVENT
-BEGIN:VEVENT
 UID:c1aa93c178506376@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261001T193000
 DTEND;TZID=Europe/Ljubljana:20261001T213000
@@ -183,6 +156,15 @@ SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
 DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Kulturni hram Ignacija Borštnika Cerklje https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:a9915e205577b6d4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T193000
+DTEND;TZID=Europe/Ljubljana:20261001T213000
+SUMMARY:Ero z onega sveta
+LOCATION:SNG Maribor
+DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta Klasinc   https://www.sng-mb.si/event/ero-z-onega-sveta/
+URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
 END:VEVENT
 BEGIN:VEVENT
 UID:00f7dea767f6c1f9@kulturko
@@ -219,6 +201,15 @@ SUMMARY:»Lav iz in di er«
 LOCATION:SNG Maribor
 DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
 URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7cbd38f1dbdcc8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261009T200000
+DTEND;TZID=Europe/Ljubljana:20261009T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
 UID:17d643d2dd951ff7@kulturko
@@ -408,6 +399,15 @@ SUMMARY:Malomeščanska svatba
 LOCATION:SNG Maribor
 DESCRIPTION:Bertolt Brecht · 2026 BPAT International Theatre Festival\, Beijing People's Art Theatre\, Peking\, Kitajska https://www.sng-mb.si/event/malomescanska-svatba/
 URL:https://www.sng-mb.si/event/malomescanska-svatba/
+END:VEVENT
+BEGIN:VEVENT
+UID:09a9c4f7d7bef1a6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T200000
+DTEND;TZID=Europe/Ljubljana:20261024T220000
+SUMMARY:Cyrano
+LOCATION:SNG Maribor
+DESCRIPTION:Rostand/Taufer/Đikanović · Dvorana Frana Žižka https://www.sng-mb.si/event/cyrano/
+URL:https://www.sng-mb.si/event/cyrano/
 END:VEVENT
 BEGIN:VEVENT
 UID:4a735aab47c48421@kulturko
@@ -824,13 +824,22 @@ DESCRIPTION:Unionska dvorana https://www.sng-mb.si/event/koncert-simfonicnega-or
 URL:https://www.sng-mb.si/event/koncert-simfonicnega-orkestra-sng-maribor-s-solisti-akademije-za-glasbo-univerze-v-ljubljani-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:8206c6f6359383e2@kulturko
+UID:aa78c6ba1fbfe4af@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270305T193000
 DTEND;TZID=Europe/Ljubljana:20270305T213000
-SUMMARY:Four Reasons &#038\; Minus 16
+SUMMARY:Four Reasons &#038\; Minus Sixteen
 LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+END:VEVENT
+BEGIN:VEVENT
+UID:af85015126ffde36@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270306T193000
+DTEND;TZID=Europe/Ljubljana:20270306T213000
+SUMMARY:Four Reasons &#038\; Minus Sixteen
+LOCATION:SNG Maribor
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
 UID:c63cc899145873d5@kulturko
@@ -842,22 +851,13 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-glasbena-matineja/
 URL:https://www.sng-mb.si/event/1-glasbena-matineja/
 END:VEVENT
 BEGIN:VEVENT
-UID:e9baa28da71708d2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270306T193000
-DTEND;TZID=Europe/Ljubljana:20270306T213000
-SUMMARY:Four Reasons &#038\; Minus 16
-LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:090fc755bc25fcc0@kulturko
+UID:cf7c7da637d884a4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270309T193000
 DTEND;TZID=Europe/Ljubljana:20270309T213000
-SUMMARY:Four Reasons &#038\; Minus 16
+SUMMARY:Four Reasons &#038\; Minus Sixteen
 LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
 UID:2074c636668397ba@kulturko
@@ -869,31 +869,31 @@ DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/5-koncert-cikla-carpe-a
 URL:https://www.sng-mb.si/event/5-koncert-cikla-carpe-artem-posoda-plese/
 END:VEVENT
 BEGIN:VEVENT
-UID:7db20cec37d91165@kulturko
+UID:c72af26c7179b72d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270311T193000
 DTEND;TZID=Europe/Ljubljana:20270311T213000
-SUMMARY:Four Reasons &#038\; Minus 16
+SUMMARY:Four Reasons &#038\; Minus Sixteen
 LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8483313f18ae85@kulturko
+UID:0f7ed8bfc6357bc1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270313T180000
 DTEND;TZID=Europe/Ljubljana:20270313T200000
-SUMMARY:Four Reasons &#038\; Minus 16
+SUMMARY:Four Reasons &#038\; Minus Sixteen
 LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
-UID:4142ff35a0032aba@kulturko
+UID:fa342865fd4f3c39@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270314T170000
 DTEND;TZID=Europe/Ljubljana:20270314T190000
-SUMMARY:Four Reasons &#038\; Minus 16
+SUMMARY:Four Reasons &#038\; Minus Sixteen
 LOCATION:SNG Maribor
-DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-16/
-URL:https://www.sng-mb.si/event/four-reasons-minus-16/
+DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/four-reasons-minus-sixteen/
+URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8c958c0bdc7eb91@kulturko

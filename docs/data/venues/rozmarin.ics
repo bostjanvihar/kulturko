@@ -5,6 +5,15 @@ X-WR-CALNAME:Rozmarin — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:3e2f81cc59226ea6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T190000
+DTEND;TZID=Europe/Ljubljana:20260926T210000
+SUMMARY:I LOVE 80'S - OTVORITEV SEZONE
+LOCATION:Rozmarin
+DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/i-love-80-s---otvoritev-sezone
+URL:https://www.rozmaringroup.si/Dogodki/dogodek/i-love-80-s---otvoritev-sezone
+END:VEVENT
+BEGIN:VEVENT
 UID:4fa81e84f890043d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261002T190000
 DTEND;TZID=Europe/Ljubljana:20261002T210000

@@ -5,31 +5,13 @@ X-WR-CALNAME:Klub KGB — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3204569eafc6100f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T190000
-DTEND;TZID=Europe/Ljubljana:20260911T210000
-SUMMARY:NATURALLICA – An Acoustic Tribute to Metallica
+UID:b83447185a4ecfcc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260918T190000
+DTEND;TZID=Europe/Ljubljana:20260918T210000
+SUMMARY:Rok Škrlep
 LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/naturallica
-URL:https://klub-kgb.si/dogodki/2026/sep/naturallica
-END:VEVENT
-BEGIN:VEVENT
-UID:55796f3654ad7375@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T200000
-SUMMARY:KGB: Unforgiven4 – NATURALLICA – An Acoustic Tribute to Metallica
-LOCATION:Klub KGB
-DESCRIPTION:Po letih glasnega in energičnega poustvarjanja največjih Metallica klasik bo slovenski Metallica tribute kvartet letos septembra ponovno predstavil tudi svoj akustični koncertni koncept. V Ljubljani in Mariboru bosta tako potekala dva ekskluzivna intimna koncertna večera\, na katerih bo skupina legen https://mladimaribor.si/dogodek/kgb-unforgiven4-naturallica-an-acoustic-tribute-to-metallica/
-URL:https://mladimaribor.si/dogodek/kgb-unforgiven4-naturallica-an-acoustic-tribute-to-metallica/
-END:VEVENT
-BEGIN:VEVENT
-UID:dfb68c6c5df6cc05@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260911T200000
-DTEND;TZID=Europe/Ljubljana:20260911T220000
-SUMMARY:Unforgiven4 - Naturallica
-LOCATION:Klub KGB
-DESCRIPTION: https://www.facebook.com/events/1469637100877930/
-URL:https://www.facebook.com/events/1469637100877930/
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
+URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 END:VEVENT
 BEGIN:VEVENT
 UID:d9b486dedc7fcbd3@kulturko
@@ -41,13 +23,13 @@ DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
 END:VEVENT
 BEGIN:VEVENT
-UID:b83447185a4ecfcc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T190000
-DTEND;TZID=Europe/Ljubljana:20260918T210000
-SUMMARY:Rok Škrlep
+UID:c2662dfd1db4a233@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260919T190000
+DTEND;TZID=Europe/Ljubljana:20260919T210000
+SUMMARY:Kameleonski poljub
 LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
-URL:https://klub-kgb.si/dogodki/2026/sep/rok-skrlep
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/sep/kameleonski-poljub
+URL:https://klub-kgb.si/dogodki/2026/sep/kameleonski-poljub
 END:VEVENT
 BEGIN:VEVENT
 UID:13412fe415796064@kulturko

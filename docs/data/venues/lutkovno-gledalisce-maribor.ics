@@ -41,12 +41,57 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mikakakokuhala-26368
 URL:https://www.minoriti.si/dogodki/mikakakokuhala-26368
 END:VEVENT
 BEGIN:VEVENT
-UID:461abff6f8f7143f@kulturko
+UID:d19705ede2f7ccad@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T100000
 DTEND;TZID=Europe/Ljubljana:20261024T120000
 SUMMARY:Ves svet je marmelada
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
-URL:https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e43ddc9930881c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261026T100000
+DTEND;TZID=Europe/Ljubljana:20261026T120000
+SUMMARY:v SVETU Petra SVETine
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
+END:VEVENT
+BEGIN:VEVENT
+UID:d8015fd3a5c4e44c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T090000
+DTEND;TZID=Europe/Ljubljana:20261027T110000
+SUMMARY:v SVETU Petra SVETine
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:37163f8d38fad676@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261028T090000
+DTEND;TZID=Europe/Ljubljana:20261028T110000
+SUMMARY:v SVETU Petra SVETine
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:a8cc9b563541082b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261029T090000
+DTEND;TZID=Europe/Ljubljana:20261029T110000
+SUMMARY:v SVETU Petra SVETine
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:afc8ae928e97aeed@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261030T090000
+DTEND;TZID=Europe/Ljubljana:20261030T110000
+SUMMARY:v SVETU Petra SVETine
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 END:VEVENT
 END:VCALENDAR

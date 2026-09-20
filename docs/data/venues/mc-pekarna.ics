@@ -5,49 +5,13 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:41442e014b8cb561@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T200000
-DTEND;TZID=Europe/Ljubljana:20260918T200000
-SUMMARY:GUILTY OF JOY + Match! + Šesti / 18. 9. 2026 / Maribor\, MC Pekarna
-LOCATION:MC Pekarna
-DESCRIPTION:Pripravite se na eksplozijo dobrega avtorskega rocka izkušenih glasbenikov. Pustite se presenetiti in preprosto uživajte.\nGUILTY OF JOY \nso energični grunge rockerji iz Kranja. V letih glasbenih izkušenj so razvili kvalitetno glasbo in odlično odrsko prezenco\, kar dokazujejo z zmagami na mednarodnih https://mladimaribor.si/dogodek/guilty-of-joy-match-sesti-18-9-2026-maribor-mc-pekarna/
-URL:https://mladimaribor.si/dogodek/guilty-of-joy-match-sesti-18-9-2026-maribor-mc-pekarna/
-END:VEVENT
-BEGIN:VEVENT
-UID:31e8c4ff0bea19ac@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T200000
-DTEND;TZID=Europe/Ljubljana:20260918T220000
-SUMMARY:GUILTY OF JOY + Match! + Šesti
-LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/guilty-of-joy-match-sesti/
-URL:https://www.pekarna.net/napovednik/guilty-of-joy-match-sesti/
-END:VEVENT
-BEGIN:VEVENT
-UID:be8ba4e8220c3f7e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T210000
-DTEND;TZID=Europe/Ljubljana:20260919T230000
-SUMMARY:TRYGLAV + support
-LOCATION:MC Pekarna
-DESCRIPTION:\nBrezkompromisen\, atmosferičen in vizualno dodelan\, Tryglav stopa med vodilna imena nove generacije evropskega ekstremnega metala.\n[embedded content]\nTryglav je hrvaški black metal projekt\, ki ga je leta 2018 ustanovil multiinstrumentalist Boris Behara. Po letih delovanja v skupinah\, ki niso imele e https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
-URL:https://mladimaribor.si/dogodek/tryglav-support-2026-09-19-21-00-00-2026-09-19-23-00-00-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:42a359df991dd48c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T210000
-DTEND;TZID=Europe/Ljubljana:20260919T230000
-SUMMARY:TRYGLAV + Kresnik + Morywa
-LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/tryglav-support-2026/
-URL:https://www.pekarna.net/napovednik/tryglav-support-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:348037d00fd90cc8@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T220000
-DTEND;TZID=Europe/Ljubljana:20260926T220000
+DTEND;TZID=Europe/Ljubljana:20260927T000000
 SUMMARY:Midnight Resurrection pres.: MIDNIGHT RIDE
 LOCATION:MC Pekarna
-DESCRIPTION:We leave at midnight. https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
-URL:https://mladimaribor.si/dogodek/midnight-resurrection-pres-midnight-ride/
+DESCRIPTION: https://www.pekarna.net/napovednik/midnight-resurrection-pres-midnight-ride-26.9.2026/
+URL:https://www.pekarna.net/napovednik/midnight-resurrection-pres-midnight-ride-26.9.2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:7230f7436eb226e3@kulturko
@@ -68,6 +32,15 @@ DESCRIPTION: https://www.pekarna.net/napovednik/yawning-man-us-hrmulja-hr-a-gram
 URL:https://www.pekarna.net/napovednik/yawning-man-us-hrmulja-hr-a-gram-trip-hr/
 END:VEVENT
 BEGIN:VEVENT
+UID:2cf893d134685dc3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T210000
+DTEND;TZID=Europe/Ljubljana:20261010T230000
+SUMMARY:.TRAVNIK - 5 let albuma PUBECI NE JOČEJO
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/travnik-5-let-albuma-pubeci-ne-jocejo/
+URL:https://www.pekarna.net/napovednik/travnik-5-let-albuma-pubeci-ne-jocejo/
+END:VEVENT
+BEGIN:VEVENT
 UID:158334077a07843d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T210000
 DTEND;TZID=Europe/Ljubljana:20261016T230000
@@ -75,5 +48,14 @@ SUMMARY:KRANKŠVESTER
 LOCATION:MC Pekarna
 DESCRIPTION: https://www.pekarna.net/napovednik/kranksvester/
 URL:https://www.pekarna.net/napovednik/kranksvester/
+END:VEVENT
+BEGIN:VEVENT
+UID:0048ff59c23a42f9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T210000
+DTEND;TZID=Europe/Ljubljana:20261023T230000
+SUMMARY:PERO DEFFORMERO
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
+URL:https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
 END:VEVENT
 END:VCALENDAR

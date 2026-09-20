@@ -5,22 +5,13 @@ X-WR-CALNAME:Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:2b6bc58b942cb0cf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T000000
-DTEND;TZID=Europe/Ljubljana:20260910T020000
-SUMMARY:DOKUDOC mednarodni festival dokumentarnega filma
+UID:8fb0cff24a08b66a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260915T000000
+DTEND;TZID=Europe/Ljubljana:20260915T020000
+SUMMARY:Festival Maribor
 LOCATION:Maribor
-DESCRIPTION: https://dokudoc.si
-URL:https://dokudoc.si
-END:VEVENT
-BEGIN:VEVENT
-UID:b7ceab1da1a76504@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260913T000000
-DTEND;TZID=Europe/Ljubljana:20260913T020000
-SUMMARY:Festival Pranger
-LOCATION:Maribor
-DESCRIPTION: http://www.pranger.si
-URL:http://www.pranger.si
+DESCRIPTION: http://www.festivalmaribor.si
+URL:http://www.festivalmaribor.si
 END:VEVENT
 BEGIN:VEVENT
 UID:04ecd0b5e64f4f0d@kulturko

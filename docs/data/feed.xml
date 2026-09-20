@@ -5,394 +5,356 @@
   <link>https://bostjanvihar.github.io/kulturko</link>
   <description>Newly announced cultural events in Maribor</description>
   <item>
-    <title>Petra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim — OBRAT</title>
-    <link>https://mladimaribor.si/dogodek/petra-meterc-cetrto-obdobje-palestinskega-filma-vsakdan-okupacije-med-osebnim-in-politicnim-2026-09-08-18-00-00/</link>
-    <guid isPermaLink="false">1d29ffa1c0828509</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-08 18:00 · OBRAT. 
+    <title>Likovna šola s Polono, 6+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45572-likovna-sola-s-polono-6</link>
+    <guid isPermaLink="false">aa5abf3305a4124f</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-14 16:30 · . </description>
+  </item>
+  <item>
+    <title>Festival Maribor — Maribor</title>
+    <link>http://www.festivalmaribor.si</link>
+    <guid isPermaLink="false">8fb0cff24a08b66a</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-15 00:00 · Maribor. </description>
+  </item>
+  <item>
+    <title>Mali modni studio, 6+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45533-mali-modni-studio-6</link>
+    <guid isPermaLink="false">ff6a0a9d7bea5a81</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-15 16:30 · . </description>
+  </item>
+  <item>
+    <title>Mladinski modni studio, 10+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45574-mladinski-modni-studio-10</link>
+    <guid isPermaLink="false">623e7174baace131</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-15 17:30 · . </description>
+  </item>
+  <item>
+    <title>ND MB: Flirt — Dvorana Union</title>
+    <link>https://nd-mb.si/dogodek/flirt/</link>
+    <guid isPermaLink="false">05116618576bd8d9</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-15 19:30 · Dvorana Union. </description>
+  </item>
+  <item>
+    <title>Mala šola mozaika — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45537-mala-sola-mozaika</link>
+    <guid isPermaLink="false">bf3b02bd0ddc59db</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-16 16:30 · . </description>
+  </item>
+  <item>
+    <title>Šola mozaika, 15+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45536-sola-mozaika-15</link>
+    <guid isPermaLink="false">5c6624c09b45997f</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-16 18:00 · . </description>
+  </item>
+  <item>
+    <title>Evropski teden mobilnosti tudi z Marpromom — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45634-evropski-teden-mobilnosti-tudi-z-marpromom</link>
+    <guid isPermaLink="false">19901d52e12d4880</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-16 19:00 · . </description>
+  </item>
+  <item>
+    <title>ND MB: Muza in pesnik — SNG Maribor: Dvorana Ondine Otta Klasinc</title>
+    <link>https://nd-mb.si/dogodek/muza-in-pesnik/</link>
+    <guid isPermaLink="false">5393d52a0049989a</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-16 19:30 · SNG Maribor: Dvorana Ondine Otta Klasinc. </description>
+  </item>
+  <item>
+    <title>Likovna šola s Polono, 9+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45573-likovna-sola-s-polono-9</link>
+    <guid isPermaLink="false">1add884a85fa199f</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-17 16:30 · . </description>
+  </item>
+  <item>
+    <title>Razstava Flavia Mazzanti In Shared Persistence — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45658-razstava-flavia-mazzanti-in-shared-persistence</link>
+    <guid isPermaLink="false">bf17d8021e42c6c1</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-18 19:00 · . </description>
+  </item>
+  <item>
+    <title>ND MB: V naročju pesmi — Viteška dvorana Pokrajinskega muzeja Maribor</title>
+    <link>https://nd-mb.si/dogodek/v-narocju-pesmi/</link>
+    <guid isPermaLink="false">d53005b239f33c59</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-19 11:00 · Viteška dvorana Pokrajinskega muzeja Maribor. </description>
+  </item>
+  <item>
+    <title>Delavnica: Potovanje glasu — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45431-delavnica-potovanje-glasu</link>
+    <guid isPermaLink="false">6c86f2609b7d91d6</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-20 16:00 · . </description>
+  </item>
+  <item>
+    <title>StopTrik družinska projekcija: Zgodbe iz čarobnega vrta — Velika dvorana LGM</title>
+    <link>https://www.minoriti.si/dogodki/stoptrik-druzinska-projekcija-zgodbe-iz-carobnega-vrta</link>
+    <guid isPermaLink="false">3c2a1cf0bcf9a895</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-20 17:00 · Velika dvorana LGM. </description>
+  </item>
+  <item>
+    <title>Dekla in hlapec za en dan — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45585-dekla-in-hlapec-za-en-dan</link>
+    <guid isPermaLink="false">c675ab3a3d1eae3b</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-20 19:00 · . </description>
+  </item>
+  <item>
+    <title>Maja Šivec: Sindrom sklonjenih glav — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44245-maja-sivec-sindrom-sklonjenih-glav</link>
+    <guid isPermaLink="false">e8166122e85df0b6</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-21 10:00 · . </description>
+  </item>
+  <item>
+    <title>Šola animiranega filma, 8+ — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45538-sola-animiranega-filma-8</link>
+    <guid isPermaLink="false">f2507f738c39cfb8</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-21 16:30 · . </description>
+  </item>
+  <item>
+    <title>Festival Maribor 2026 / Usodna privlačnost — UGM</title>
+    <link>https://www.ugm.si/dogodki/festival-maribor-2026-usodna-privlacnost</link>
+    <guid isPermaLink="false">a292732512dea197</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-21 19:00 · UGM. </description>
+  </item>
+  <item>
+    <title>Usodna privlačnost — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42391-usodna-privlacnost</link>
+    <guid isPermaLink="false">8361df638b184a74</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-21 19:30 · . </description>
+  </item>
+  <item>
+    <title>ND MB: Karneval. In dinozavri! — Dvorana Union</title>
+    <link>https://nd-mb.si/dogodek/karneval-in-dinozavri-2/</link>
+    <guid isPermaLink="false">bf20aae8d3b00cd8</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-22 10:00 · Dvorana Union. </description>
+  </item>
+  <item>
+    <title>PIAF KVIZ #86 - Torek, 22. 9. 2026 — PIAF</title>
+    <link>https://www.facebook.com/events/1758859758570705/</link>
+    <guid isPermaLink="false">cfde012b8e375e48</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-22 18:00 · PIAF. Na zadnji poletni dan vabimo na Poštno!
 
-
-
-Cikel Filmski pogled
-
-
-
-
-Petra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim
-
-
-
-
-
-
-
-
-
-
-
-
-V torek, 8. 9. 2026, te v okviru cikla Filmski pogled ob 18.00 v</description>
+Pravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem, prijavnina je 1 EUR po osebi. Reze</description>
   </item>
   <item>
-    <title>Polifonija prostora: Vetrinjski dvor v dialogu arhitekture in umetnosti — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44291-polifonija-prostora-vetrinjski-dvor-v-dialogu-arhitekture-in-umetnosti</link>
-    <guid isPermaLink="false">3b18761bc47887a9</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-12 19:00 · . </description>
+    <title>Klasika! Tilen Lebar: Razjasnitve samoodtujevanja — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44013-klasika-tilen-lebar-razjasnitve-samoodtujevanja</link>
+    <guid isPermaLink="false">2c9c44779b6db7f1</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-22 20:00 · . </description>
   </item>
   <item>
-    <title>Polifonija prostora: Vetrinjski dvor v dialogu arhitekture in umetnosti — Vetrinjski Dvor</title>
-    <link>https://nd-mb.si/dogodek/polifonija-prostora-vetrinjski-dvor-v-dialogu-arhitekture-in-umetnosti/</link>
-    <guid isPermaLink="false">26565385888a8738</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-13 02:00 · Vetrinjski Dvor. Vabljeni na premierno otvoritev 
-
-Vsa ustvarjalna energija in prepletanje medijev se bosta zlila v nepozabno celoto na uradnem odprtju projekta, kjer bodo obiskovalci premierno priči čudovitemu dial</description>
+    <title>Rokodelstvo, igre &amp;amp; Queer Hangout — Kulturni inkubator</title>
+    <link>https://mkc.si/koledar/2026/9/23/queer-hangout</link>
+    <guid isPermaLink="false">c2a9ae0738cda7cf</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-23 17:00 · Kulturni inkubator. </description>
   </item>
   <item>
-    <title>DOKUDOC: Varuh gozda / După cioate — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/dokudoc-varuh-gozda-dupa-cioate</link>
-    <guid isPermaLink="false">ff0bb9a5af343a85</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-13 14:00 · Velika dvorana LGM. </description>
+    <title>Dan odprtih vrat: brezplačna uvodna ura v balvansko plezanje — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45592-dan-odprtih-vrat-brezplacna-uvodna-ura-v-balvansko-plezanje</link>
+    <guid isPermaLink="false">244af85cee247e49</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-23 18:00 · . </description>
   </item>
   <item>
-    <title>DOKUDOC:  Siddharta - Khanta — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/dokudoc-siddharta-khanta</link>
-    <guid isPermaLink="false">693f0b532ff64e35</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-13 20:00 · Velika dvorana LGM. </description>
+    <title>Dan z Varuhinjo človekovih pravic dr. Simono Drenik Bavdek v Mariboru — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45673-dan-z-varuhinjo-clovekovih-pravic-dr-simono-drenik-bavdek-v-mariboru</link>
+    <guid isPermaLink="false">9917fe4ce1fb616f</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-23 19:00 · . </description>
   </item>
   <item>
-    <title>PREMIERA DOKUDOC DOKUMENTARNE DELAVNICE 2026 — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/premiera-dokudoc-dokumentarne-delavnice-2026</link>
-    <guid isPermaLink="false">f091568fdc7fd358</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-13 20:00 · Velika dvorana LGM. </description>
+    <title>ND MB: Zbogom, Dunaj, servus, Hollywood! — Vinagova klet</title>
+    <link>https://nd-mb.si/dogodek/zbogom-dunaj-servus-hollywood/</link>
+    <guid isPermaLink="false">6ee5d3aa9cf0ae8e</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-23 19:30 · Vinagova klet. </description>
   </item>
   <item>
-    <title>Maja Šivec: Sindrom sklonjenih glav — Vetrinjski Dvor</title>
-    <link>https://nd-mb.si/dogodek/maja-sivec-sindrom-sklonjenih-glav/</link>
-    <guid isPermaLink="false">fe586007f7e659af</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-14 10:00 · Vetrinjski Dvor. Vabljeni na otvoritev fotografske razstave  Sindrom sklonjenih glav  avtorice Maje Šivec, ki bo v soboto 5. 9. ob 18. uri v razstavišču Vetrinjskega dvora.
-
-&amp;nbsp;
- »Sindrom sklonjenih glav« opisuj</description>
+    <title>AD-HOC LAB. Križ kraž kolaž z Miho Rejo — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45656-ad-hoc-lab-kriz-kraz-kolaz-z-miho-rejo</link>
+    <guid isPermaLink="false">11300615903f1be2</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-24 16:00 · . </description>
   </item>
   <item>
-    <title>ETM | Kakšna bo mobilnost prihodnosti? — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45530-etm-kaksna-bo-mobilnost-prihodnosti</link>
-    <guid isPermaLink="false">0e20d7e17fa70c5d</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-16 09:00 · . </description>
+    <title>Studio za animirani film - mladi — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45535-studio-za-animirani-film-mladi</link>
+    <guid isPermaLink="false">291bc18355d5f731</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-24 16:30 · . </description>
   </item>
   <item>
-    <title>Studenci v gibanju ob evropskem tednu mobilnosti- Dnevi druženja, kulture, gibanja in ustvarjalnosti — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45576-studenci-v-gibanju-ob-evropskem-tednu-mobilnosti-dnevi-druzenja-kulture-gibanja-in-ustvarjalnosti</link>
-    <guid isPermaLink="false">dc9d699b8e24d7fc</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-17 16:00 · . </description>
+    <title>Zaključno vodstvo po razstavi Oton Polak / Risbe, grafike, slike — UGM</title>
+    <link>https://www.ugm.si/dogodki/zakljucno-vodstvo-po-raztsavi-oton-polak-risbe,-grafike,-slike</link>
+    <guid isPermaLink="false">8859859f829b229c</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-24 19:00 · UGM. </description>
   </item>
   <item>
-    <title>[Delavnica] Izdelaj svoj botanični nakit — Kulturni inkubator</title>
-    <link>https://mkc.si/koledar/2026/9/17/izdelaj-svoj-botanicni-nakit</link>
-    <guid isPermaLink="false">8078219b15f077ad</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-17 19:00 · Kulturni inkubator. </description>
+    <title>Maček Muri vabi na pravo mačjo zabavo! — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45644-macek-muri-vabi-na-pravo-macjo-zabavo</link>
+    <guid isPermaLink="false">7b415b9e18602aad</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-25 17:00 · . </description>
   </item>
   <item>
-    <title>Sinhronizacija 2: AV PERFORMANS — MKC Maribor</title>
-    <link>https://mkc.si/koledar/2026/9/11/sinhronizacija-2-av-performans</link>
-    <guid isPermaLink="false">be125f35b9065ea0</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-17 20:00 · MKC Maribor. </description>
+    <title>Večer roséjev - 14. rojstni dan Doma penine — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45589-vecer-ros-jev-14-rojstni-dan-doma-penine</link>
+    <guid isPermaLink="false">9432dec71d2e7f25</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-25 18:00 · . </description>
   </item>
   <item>
-    <title>Maribor Art Walk 2026 — Razstavišče LGM</title>
-    <link>https://www.minoriti.si/dogodki/maribor-art-walk-2026</link>
-    <guid isPermaLink="false">0d6ec7a15f3ecf5a</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-18 17:00 · Razstavišče LGM. </description>
+    <title>D&amp;amp;D druženje — Kulturni inkubator</title>
+    <link>https://mkc.si/koledar/2026/9/25/dind-druzenje</link>
+    <guid isPermaLink="false">3b04eb7264c2e940</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-25 18:00 · Kulturni inkubator. </description>
   </item>
   <item>
-    <title>Maribor Art Walk: Odprtje muzejske vitrine Transport: Tovor - Natisnjeno gibanje — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45479-maribor-art-walk-odprtje-muzejske-vitrine-transport-tovor-natisnjeno-gibanje</link>
-    <guid isPermaLink="false">de32ccb333b08aec</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-18 18:00 · . </description>
-  </item>
-  <item>
-    <title>Maribor Art Walk 2026 — UGM</title>
-    <link>https://www.ugm.si/dogodki/maribor-art-walk-26</link>
-    <guid isPermaLink="false">7aa4a2e37984c3a7</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-18 19:00 · UGM. </description>
-  </item>
-  <item>
-    <title>ETM | Kolesarski izlet po Dravski kolesarski poti Drava Bike — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45552-etm-kolesarski-izlet-po-dravski-kolesarski-poti-drava-bike</link>
-    <guid isPermaLink="false">a3bd1fcbccf6ce99</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-19 09:00 · . </description>
-  </item>
-  <item>
-    <title>Pregneti verz · delavnica oblikovanja gline s poezijo — Vetrinjc – BarCoda</title>
-    <link>https://mladimaribor.si/dogodek/pregneti-verz-%c2%b7-delavnica-oblikovanja-gline-s-poezijo/</link>
-    <guid isPermaLink="false">9106a2f5358e7600</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-19 10:00 · Vetrinjc – BarCoda. 
-
-
-sobota, 19. september 2026 · 10.00-12.00 · Vetrinjc – BarCoda
-
-
-Tako poezija kot lončarjenje zahtevata stanje sproščene odprtosti in radovednosti. Zahtevata prepuščanje materialu (bodisi besedi ali</description>
-  </item>
-  <item>
-    <title>Pilates Brunch — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45481-pilates-brunch</link>
-    <guid isPermaLink="false">bc8563705ff6fcf1</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-19 10:00 · . </description>
-  </item>
-  <item>
-    <title>Jazz jam v Vetrinjcu | Miles Davis – a centennial celebration — Vetrinjski Dvor</title>
-    <link>https://nd-mb.si/dogodek/jazz-jam-v-vetrinjcu-miles-davis-a-centennial-celebration/</link>
-    <guid isPermaLink="false">dc187b41256596a6</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-19 20:00 · Vetrinjski Dvor. Leto 2026 smo v Vetrinjcu začeli z rednimi jazz jami na pobudo in v izvedbi Blaža Švagana. Namen večera je ustvariti odprt prostor za srečevanje glasbenikov, izmenjavo idej in sproščeno glasbeno impro</description>
-  </item>
-  <item>
-    <title>Gozdna terapija — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45513-gozdna-terapija</link>
-    <guid isPermaLink="false">f38d06f2c2a0900e</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-20 08:30 · . </description>
-  </item>
-  <item>
-    <title>Brezplačno vodenje: KONjiško USnje — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45514-brezplacno-vodenje-konjisko-usnje</link>
-    <guid isPermaLink="false">37cc8d3c9b2e7cfc</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-21 16:00 · . </description>
-  </item>
-  <item>
-    <title>Šola animiranega filma, 8+ — Partizanska cesta 12</title>
-    <link>https://nd-mb.si/dogodek/sola-animiranega-filma-8/</link>
-    <guid isPermaLink="false">a8982308957eecff</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-21 16:30 · Partizanska cesta 12. Ko se risba premakne. Ko predmet oživi. Ko ideja postane film.
-
-Kako doseči, da risba oživi? Kako premakniti predmet, ne da bi ga zares premaknili? In kako iz množice fotografij ustvariti čisto prav</description>
-  </item>
-  <item>
-    <title>Po kolesnicah mariborske zgodovine — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45555-po-kolesnicah-mariborske-zgodovine</link>
-    <guid isPermaLink="false">a30e9f7946614094</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-21 17:00 · . </description>
-  </item>
-  <item>
-    <title>NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska — Lutkovno gledališče Maribor</title>
-    <link>https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136</link>
-    <guid isPermaLink="false">3df51aef7230c759</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-23 09:00 · Lutkovno gledališče Maribor. </description>
-  </item>
-  <item>
-    <title>Transport: Tovor — Sodni stolp</title>
-    <link>https://www.minoriti.si/dogodki/transporttovor-33109</link>
-    <guid isPermaLink="false">aa5b62d2db8c090a</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-23 09:30 · Sodni stolp. </description>
-  </item>
-  <item>
-    <title>Transport: Odhod — Sodni stolp</title>
-    <link>https://www.minoriti.si/dogodki/transportodhod-35135</link>
-    <guid isPermaLink="false">0ec82f94dd22ad15</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-23 10:30 · Sodni stolp. </description>
-  </item>
-  <item>
-    <title>NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska — Lutkovno gledališče Maribor</title>
-    <link>https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136</link>
-    <guid isPermaLink="false">69a09bcf8d4c3bb6</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 09:00 · Lutkovno gledališče Maribor. </description>
-  </item>
-  <item>
-    <title>Transport: Odhod — Sodni stolp</title>
-    <link>https://www.minoriti.si/dogodki/transportodhod-35135</link>
-    <guid isPermaLink="false">95456d2883b23c46</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 09:30 · Sodni stolp. </description>
-  </item>
-  <item>
-    <title>Transport: Tovor — Sodni stolp</title>
-    <link>https://www.minoriti.si/dogodki/transporttovor-33109</link>
-    <guid isPermaLink="false">695257fa18cf3baa</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 10:30 · Sodni stolp. </description>
-  </item>
-  <item>
-    <title>Transport: Povezovalni leti — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/transportpovezovalnileti-37118</link>
-    <guid isPermaLink="false">9fe3b524c7e628a5</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 10:30 · Velika dvorana LGM. </description>
-  </item>
-  <item>
-    <title>Transport: Pripnite pasove! — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/transportpripnitepasove-37112</link>
-    <guid isPermaLink="false">76ec19c0d4a227bb</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 11:30 · Velika dvorana LGM. </description>
-  </item>
-  <item>
-    <title>Studio za animirani film – mladi — Partizanska cesta 12</title>
-    <link>https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/</link>
-    <guid isPermaLink="false">906098e1c6e8ff25</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 16:30 · Partizanska cesta 12. Animacija ni samo tehnika. Je način, kako lahko idejo spraviš v gibanje.
-
-Kaj lahko poveš z animacijo, česar ne moreš povedati z eno samo sliko? Kako nastane gibanje? Kaj se zgodi, ko fotografiji do</description>
-  </item>
-  <item>
-    <title>Predavanje ddr. Ivana Rihtariča: Ulice in ceste v Gornji Radgoni 1824-2026 — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45543-predavanje-ddr-ivana-rihtarica-ulice-in-ceste-v-gornji-radgoni-1824-2026</link>
-    <guid isPermaLink="false">058ab9c4c34795f3</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 17:00 · . </description>
-  </item>
-  <item>
-    <title>Vinski dialogi: Prijateljčky &amp; frendi – Nova generacija evropske vinske prestolnice — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45556-vinski-dialogi-prijateljcky-frendi-nova-generacija-evropske-vinske-prestolnice</link>
-    <guid isPermaLink="false">27faeda1746453b6</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 19:00 · . </description>
-  </item>
-  <item>
-    <title>Vinsko-kulinarični večeri Festivala Najstarejše trte — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45580-vinsko-kulinaricni-veceri-festivala-najstarejse-trte</link>
-    <guid isPermaLink="false">2a9f45ac9fd25fb0</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-24 19:00 · . </description>
-  </item>
-  <item>
-    <title>Tržnica slovenskih dobrot in malica na prostem — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45541-trznica-slovenskih-dobrot-in-malica-na-prostem</link>
-    <guid isPermaLink="false">dd93e731bd5118b8</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-25 10:00 · . </description>
-  </item>
-  <item>
-    <title>Club DH — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45466-club-dh</link>
-    <guid isPermaLink="false">cefc09a42c3a6632</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
+    <title>Petkova sprostitev med oslički za odrasle — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45586-petkova-sprostitev-med-oslicki-za-odrasle</link>
+    <guid isPermaLink="false">f1fef3d125c9e2fc</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
     <description>2026-09-25 18:30 · . </description>
   </item>
   <item>
-    <title>Radio City || 30 plus party — ŠTUK</title>
-    <link>https://vstopnice.stuk.org/izdelek/radio-city-30-plus-party/</link>
-    <guid isPermaLink="false">4e14d773c51b0b66</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-25 19:00 · ŠTUK. 📅 25. 9. 2026 🕗 od 17. ure naprej 📍 Štuk, Maribor RADIO CITY 30+ PARTY – PONAVLJAMO! Prvič je bilo tako dobro, da smo rekli: še enkrat! Radio City 30+ PARTY se vrača! Po odličnem prvem druženju pripra</description>
+    <title>Lesena dekoracija z Almo Lovrenčič — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45371-lesena-dekoracija-z-almo-lovrencic</link>
+    <guid isPermaLink="false">ce9bdbc2dd6e3373</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 10:00 · . </description>
   </item>
   <item>
-    <title>Večer vinskih barov in vinotek Maribora — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45565-vecer-vinskih-barov-in-vinotek-maribora</link>
-    <guid isPermaLink="false">b827121e1ab3f5ac</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-25 19:00 · . </description>
+    <title>Mari-Con 2026 — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45532-mari-con-2026</link>
+    <guid isPermaLink="false">d84070cd2d304b70</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 10:00 · . </description>
   </item>
   <item>
-    <title>Vikend mariborskega turizma — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45582-vikend-mariborskega-turizma</link>
-    <guid isPermaLink="false">c95f842a3110abc3</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-25 19:00 · . </description>
+    <title>Odpiramo vrata na turistična dvorišča — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45617-odpiramo-vrata-na-turisticna-dvorisca</link>
+    <guid isPermaLink="false">a8a2704aeaf7a511</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 10:00 · . </description>
   </item>
   <item>
-    <title>Osem zakladov Qi gong – starodavna vadba za zdravje — Botanični vrt</title>
-    <link>https://botanicnivrt.um.si/?ajde_events=osem-zakladov-qi-gong-starodavna-vadba-za-zdravje</link>
-    <guid isPermaLink="false">a9bf2570a9be9c92</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-26 10:00 · Botanični vrt. </description>
+    <title>Piknik na mestni plaži s košarico dobrot Najstarejše trte in Dravskimi elektrarnami Maribor — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45478-piknik-na-mestni-plazi-s-kosarico-dobrot-najstarejse-trte-in-dravskimi-elektrarnami-maribor</link>
+    <guid isPermaLink="false">8cf66f2b698ebb1a</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 11:00 · . </description>
   </item>
   <item>
-    <title>44. Kmečki praznik v Svečini — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45494-44-kmecki-praznik-v-svecini</link>
-    <guid isPermaLink="false">3b55d17c1b30b498</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
+    <title>I LOVE 80'S - OTVORITEV SEZONE — Rozmarin</title>
+    <link>https://www.rozmaringroup.si/Dogodki/dogodek/i-love-80-s---otvoritev-sezone</link>
+    <guid isPermaLink="false">3e2f81cc59226ea6</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 19:00 · Rozmarin. </description>
+  </item>
+  <item>
+    <title>Večer okusov z Galerijo okusov — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45675-vecer-okusov-z-galerijo-okusov</link>
+    <guid isPermaLink="false">0ba74c4d69e22fbe</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
     <description>2026-09-26 19:00 · . </description>
   </item>
   <item>
-    <title>Možganska preša Vol. 1: Zbrucz, Cheleste, Konji, Cryptid — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45542-mozganska-presa-vol-1-zbrucz-cheleste-konji-cryptid</link>
-    <guid isPermaLink="false">160cb7987a90ec0b</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-26 19:00 · . </description>
+    <title>ND MB: Z Balkana z ljubeznijo — Minoritska cerkev</title>
+    <link>https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/</link>
+    <guid isPermaLink="false">4eb8fa02c10bb249</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-26 19:30 · Minoritska cerkev. </description>
   </item>
   <item>
-    <title>Svetovni dan turizma – Živimo s prazgodovino — Botanični vrt</title>
-    <link>https://botanicnivrt.um.si/?ajde_events=svetovni-dan-turizma-tematski-sprehod-po-vrtu</link>
-    <guid isPermaLink="false">04ba2cbfc9487e41</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-27 10:00 · Botanični vrt. </description>
+    <title>Urice z živalmi za najmlajše — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45587-urice-z-zivalmi-za-najmlajse</link>
+    <guid isPermaLink="false">6678e406fc82f462</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-27 10:00 · . </description>
   </item>
   <item>
-    <title>Praznik trgatve Najstarejše trte — </title>
-    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45499-praznik-trgatve-najstarejse-trte</link>
-    <guid isPermaLink="false">72b1d4a58252ac8f</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-27 11:00 · . </description>
+    <title>Svetovni dan turizma v Žički kartuziji — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45591-svetovni-dan-turizma-v-zicki-kartuziji</link>
+    <guid isPermaLink="false">eeda20c4759ad669</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-27 10:00 · . </description>
   </item>
   <item>
-    <title>NOTRANJE GLASBENO POTOVANJE — Center eksperimentov Maribor – EKTC</title>
-    <link>https://mladimaribor.si/dogodek/notranje-glasbeno-potovanje/</link>
-    <guid isPermaLink="false">2c6a3ad5b024092b</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-28 17:00 · Center eksperimentov Maribor – EKTC. Vabljeni na prav poseben večer, kjer se bodo prepletli nevroznanost, meditacija in glasba.
-Kaj nas čaka?
-PREDAVANJE: Meditacija in nevroznanost
-Dr. Sergio Elías Hernández, raziskovalec z Univerze La L</description>
+    <title>ND MB: Romantični derbi — Dvorana Union</title>
+    <link>https://nd-mb.si/dogodek/romanticni-derbi/</link>
+    <guid isPermaLink="false">92f19c0d0bafbd8b</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-27 19:30 · Dvorana Union. </description>
   </item>
   <item>
-    <title>Pocarije: pridi pocat z glino — Kulturni inkubator</title>
-    <link>https://mkc.si/koledar/2026/9/30/pocarije-pridi-pocat-z-glino</link>
-    <guid isPermaLink="false">f72948ab00ffa664</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-09-30 17:00 · Kulturni inkubator. </description>
+    <title>Dnevi odprtih vrat Sinagoge Maribor — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45627-dnevi-odprtih-vrat-sinagoge-maribor</link>
+    <guid isPermaLink="false">4be17925e9f37529</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-28 08:00 · . </description>
   </item>
   <item>
-    <title>Skrinjica sinjega maka — Mala dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713</link>
-    <guid isPermaLink="false">0cd493ae63e604f0</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-10-01 17:00 · Mala dvorana LGM. </description>
+    <title>Odprtje Langerjeve vile — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45629-odprtje-langerjeve-vile</link>
+    <guid isPermaLink="false">805c86876849edc2</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-28 19:00 · . </description>
   </item>
   <item>
-    <title>Medo in pujsi — Velika dvorana LGM</title>
-    <link>https://www.minoriti.si/dogodki/medoinpujsi-37162</link>
-    <guid isPermaLink="false">472d91215118564e</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-10-02 17:00 · Velika dvorana LGM. </description>
+    <title>Skrajno resno – David Gorinšek — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45636-skrajno-resno-david-gorinsek</link>
+    <guid isPermaLink="false">6588bf49a177b97e</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-28 19:00 · . </description>
   </item>
   <item>
-    <title>Štuktoberfest 2026 || Akustični večer z Amirjem in Kristino — ŠTUK</title>
-    <link>https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino/</link>
-    <guid isPermaLink="false">835625a37f8ad327</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-10-02 19:00 · ŠTUK. 📅 2. 10. 2026 ⏰ 19.00 naprej 📍 atrij ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Petkov večer bomo preživeli nekoliko “bolj na izi”! Ob vzdušju okrašenega atrija ŠTUK-a nas čaka sproščen akustični nastop </description>
+    <title>Lucija Mirkac Fortin | predstavitev romana Petrihorion — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45359-lucija-mirkac-fortin-predstavitev-romana-petrihorion</link>
+    <guid isPermaLink="false">f375ec47380820f2</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-29 19:00 · . </description>
   </item>
   <item>
-    <title>32. MFRU • Otvoritev festivala — Minoritska cerkev</title>
-    <link>https://www.minoriti.si/dogodki/32-mfru-otvoritev-festivala</link>
-    <guid isPermaLink="false">f2af88b4289260e2</guid>
-    <pubDate>Sun, 13 Sep 2026 23:57:03 +0000</pubDate>
-    <description>2026-10-02 19:00 · Minoritska cerkev. </description>
+    <title>Moški so z Marsa, ženske so z Venere 2 — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44214-moski-so-z-marsa-zenske-so-z-venere-2</link>
+    <guid isPermaLink="false">adcc3f70525b01aa</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-09-30 18:00 · . </description>
+  </item>
+  <item>
+    <title>Med svetlobo in transcendenco — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42170-med-svetlobo-in-transcendenco</link>
+    <guid isPermaLink="false">accd368b488cdf9c</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-10-01 10:00 · . </description>
+  </item>
+  <item>
+    <title>Mladi festival sprehodov 2026 — </title>
+    <link>https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45618-mladi-festival-sprehodov-2026</link>
+    <guid isPermaLink="false">70cb80d11779aa14</guid>
+    <pubDate>Sun, 20 Sep 2026 23:53:35 +0000</pubDate>
+    <description>2026-10-01 19:00 · . </description>
   </item>
 </channel>
 </rss>

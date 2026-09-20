@@ -5,6 +5,15 @@ X-WR-CALNAME:Minoritska cerkev — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:4eb8fa02c10bb249@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T193000
+DTEND;TZID=Europe/Ljubljana:20260926T213000
+SUMMARY:ND MB: Z Balkana z ljubeznijo
+LOCATION:Minoritska cerkev
+DESCRIPTION: https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+URL:https://nd-mb.si/dogodek/z-balkana-z-ljubeznijo/
+END:VEVENT
+BEGIN:VEVENT
 UID:c987c356749be4cb@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260926T193000
 DTEND;TZID=Europe/Ljubljana:20260926T213000
