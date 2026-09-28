@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoritska cerkev\, Kulturni inkubator\, Salon&#43\;\, Mariborski otok — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d496cf68b94a8b13@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T110000
+DTEND;TZID=Europe/Ljubljana:20261011T110000
+SUMMARY:MFRU32: Drugi festivalski vikend
+LOCATION:Minoritska cerkev\, Kulturni inkubator\, Salon&#43\;\, Mariborski otok
+DESCRIPTION: https://mkc.si/koledar/2026/10/8/mfru32-drugi-festivalski-vikend
+URL:https://mkc.si/koledar/2026/10/8/mfru32-drugi-festivalski-vikend
+END:VEVENT
+END:VCALENDAR

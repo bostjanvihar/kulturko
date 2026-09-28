@@ -5,9 +5,9 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:64d187d80e811958@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T180000
-DTEND;TZID=Europe/Ljubljana:20260910T200000
+UID:25f712a5139b0c39@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260929T180000
+DTEND;TZID=Europe/Ljubljana:20260929T200000
 SUMMARY:Večer v živo: Dejan Sotirov
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Večer v živo z Dejanom Sotirovim \, načrtovan za  danes\, 10. septembra v Mariboru \, zaradi bolezni predavatelja  odpade .\nOrganizatorji vas bodo o  nadomestnem terminu  kmalu obvestili v Večeru\, na Eventimu in na strani  www.vecer.com/vzivo .\n Vstopnice lahko obdržite  in vam bodo veljale za nadome https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
@@ -19,8 +19,17 @@ DTSTART;TZID=Europe/Ljubljana:20260930T180000
 DTEND;TZID=Europe/Ljubljana:20260930T200000
 SUMMARY:Moški so z Marsa\, ženske so z Venere 2
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Pripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z Venere po vsem svetu\, je nestrpno čakalo nadaljevanje. Drugi del komedije je končno tu! Povsem nova zgodba\, izvirna\, še  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\nPripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
 URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:674cc461d1800a96@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T190000
+DTEND;TZID=Europe/Ljubljana:20261005T210000
+SUMMARY:Šminka in sekirca
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Kontrabant d.o.o. \n\n \n\nKaj pa\, ko se dve popolnoma različni ženski resnično znajdeta v divjini. Bosta postali prijateljici ali nasprotnici? Bosta sploh preživeli daleč od kopalnice\, ogledala in wc-j https://nd-mb.si/dogodek/sminka-in-sekirca/
+URL:https://nd-mb.si/dogodek/sminka-in-sekirca/
 END:VEVENT
 BEGIN:VEVENT
 UID:dd7610bcc7ae87a7@kulturko
@@ -30,6 +39,24 @@ SUMMARY:Večer v živo: Vili Ravnjak
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nVili Ravnjak\, učitelj meditacije in duhovne modrosti\n\n Prebujanje v svetlobo \n\nVili Ravnjak je znani učitelj meditacije in duhovnih znanj. Je dramaturg in avtor več knjig o duhovnos https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
 URL:https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3b115adc89b920@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T190000
+DTEND;TZID=Europe/Ljubljana:20261008T210000
+SUMMARY:Odprti zakon
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater  \n\n \n\n  Odprti zakon ni zgolj komedija o paru\, temveč univerzalna zgodba o odnosih\, v katerih so pravila pogosto pisana za enega\, ne pa za oba.  \n\nZanimiv zakonski par srednjih let\, č https://nd-mb.si/dogodek/odprti-zakon/
+URL:https://nd-mb.si/dogodek/odprti-zakon/
+END:VEVENT
+BEGIN:VEVENT
+UID:acd9922144c8c048@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T200000
+DTEND;TZID=Europe/Ljubljana:20261013T220000
+SUMMARY:Lepa Brena Project
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kulturishka d.o.o. \n\n \n\n  Nagrajena predstava po navdihu fenomena Lepe Brene premierno v Mariboru!  \n\n  V eni izmed vlog Lepe Brene nastopa tudi najboljša evropska igralka Jasna Đuričić  \n\n  »T https://nd-mb.si/dogodek/lepa-brena-project/
+URL:https://nd-mb.si/dogodek/lepa-brena-project/
 END:VEVENT
 BEGIN:VEVENT
 UID:eba650cd47d4cc3a@kulturko
@@ -48,6 +75,33 @@ SUMMARY:Dediščina
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Domen Valič\, Iztok Valič in Vid Valič bodo končno stali skupaj na odru\, če se ne bodo prej skregali.\n\nJabolko ne pade daleč od drevesa\, razen\, če drevo stoji na klancu. V primeru igralske družine Valič je drevo stalo v kraški vrtači\, zato je bilo sledeče neizbežno. Oče in sinova bodo prvič nastopi https://nd-mb.si/dogodek/dediscina/
 URL:https://nd-mb.si/dogodek/dediscina/
+END:VEVENT
+BEGIN:VEVENT
+UID:3186d895cc534487@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T190000
+DTEND;TZID=Europe/Ljubljana:20261021T210000
+SUMMARY:We will we will Rakija
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Mežnar &amp\; Mežnar s.p. \n\n \n\nMinilo je že trideset let\, odkar je kot begunec prispel v London\, Fahro pa še danes ne more sprejeti tega »gnilega Zahoda«. Hči Mila\, rojena Britanka\, ga vztrajno skuš https://nd-mb.si/dogodek/we-will-we-will-rakija-2/
+URL:https://nd-mb.si/dogodek/we-will-we-will-rakija-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6337e350258715b6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T173000
+DTEND;TZID=Europe/Ljubljana:20261022T193000
+SUMMARY:Ženske brez filtra 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kontrabant d.o.o. \n\n \n\nPo več kot 150tih ponovitvah hit stand-up komedije ŽENSKE BREZ FILTRA\, ki se še vedno odvija širom celotne Slovenije\, napovedujejo naše dame ponoven podvig in nadaljevanje- Ž https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
+URL:https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6d007a7f829931@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T220000
+SUMMARY:Tadej Toš: Resno? Ne se hecat!
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Tadej Toš: Resno?!? Ne se hecat   \n  O življenju\, odnosih\, svetu\, ki postaja vedno bolj resen\, in človeku\, ki ga skuša preživeti z nekaj zdravega humorja.  \n  Ker vsega res ne gre jemati resno.  \n   Resno?!? Ne se hecat   \nVečer smeha\, dobre volje in stvari\, ki jih vsi živimo\, samo Toš jih pove  https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
+URL:https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
 END:VEVENT
 BEGIN:VEVENT
 UID:4dd334666d0a38e2@kulturko
@@ -69,12 +123,21 @@ URL:https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d99589ad76dff0e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261105T200000
-DTEND;TZID=Europe/Ljubljana:20261105T220000
+DTSTART;TZID=Europe/Ljubljana:20261105T170000
+DTEND;TZID=Europe/Ljubljana:20261105T190000
 SUMMARY:Jaz sem najboljši fotr na svetu
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Tukaj in zdaj d.o.o. \n\n \n  TISOČ IDEJ O VZGOJI\, NIČ POJMA  \n Lado Bizovičar se vrača z novo komedijo Jaz sem najboljši fotr na svetu.  \n Pravijo\, da so očetje najpomembnejši izmed manj pomembnih č https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Tukaj in zdaj d.o.o. \n\n \n\n PET FOTROV\, TISOČ IDEJ O VZGOJI\, NIČ POJMA \n\nPravijo\, da so očetje najpomembnejši izmed manj pomembnih članov vsake družine. So zlati prinašalci nakupovalnih vrečk\, čas https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
 URL:https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
+END:VEVENT
+BEGIN:VEVENT
+UID:5952e892afa580d5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T190000
+DTEND;TZID=Europe/Ljubljana:20261113T210000
+SUMMARY:Pridi gola!
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\n Zgodba?\n Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo ljubico\, medtem ko ima žena načrtovan obisk pri mami. A načrti se začnejo podirati\, ker žena ostane doma  https://nd-mb.si/dogodek/pridi-gola-2/
+URL:https://nd-mb.si/dogodek/pridi-gola-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:e339175693cc6fc6@kulturko
@@ -93,6 +156,15 @@ SUMMARY:Zadnja večerja
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike\n\nPredstava traja 1 u https://nd-mb.si/dogodek/zadnja-vecerja/
 URL:https://nd-mb.si/dogodek/zadnja-vecerja/
+END:VEVENT
+BEGIN:VEVENT
+UID:617a74bee65b89f6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261117T180000
+DTEND;TZID=Europe/Ljubljana:20261117T200000
+SUMMARY:Alpski Ranko
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Kontrabant d.o.o. \n\n \n\nTretji\, zadnji del komične trilogije superzabavnega Ranka Babića!\n\n 10 polnih let\, skupaj več kot 630 ponovitev pred polnimi dvoranami širom po Sloveniji in skoraj 200.000 o https://nd-mb.si/dogodek/alpski-ranko-6/
+URL:https://nd-mb.si/dogodek/alpski-ranko-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:61ad56649ba80725@kulturko
@@ -140,6 +212,15 @@ DESCRIPTION:2. predstava abonmaja Kekec 2026/2027 \n\n \n\nSte se pripravlje
 URL:https://nd-mb.si/dogodek/pu/
 END:VEVENT
 BEGIN:VEVENT
+UID:89aad50c817b9d4b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270115T200000
+DTEND;TZID=Europe/Ljubljana:20270115T220000
+SUMMARY:PERICA 2.0 Pro Max
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:V nov svet umetne inteligence smo že vstopili. Naše travnike kosijo avtonomni roboti\, naše poslovne zagate in domače naloge naših otrok rešuje ChatGPT. Kaj pa DeepSeek\, ste kaj domači z njim? Kaj pa Copilot\, Gemini\, Claude in Perplexity\, poznate? Veste\, kaj pomeni .ml?\n\nTežko dohajate\, kajne? Peri https://nd-mb.si/dogodek/perica-2-0-pro-max/
+URL:https://nd-mb.si/dogodek/perica-2-0-pro-max/
+END:VEVENT
+BEGIN:VEVENT
 UID:a671ee2bf04f9966@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270117T110000
 DTEND;TZID=Europe/Ljubljana:20270117T130000
@@ -154,7 +235,7 @@ DTSTART;TZID=Europe/Ljubljana:20270118T200000
 DTEND;TZID=Europe/Ljubljana:20270118T220000
 SUMMARY:Pridi gola
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo ljubico\, medtem ko ima žena načrtovan obisk pri mami. A načrti se začnejo podirati\, ker žena ostane doma – in to še ni vse! Na prizorišče pridejo še najboljši prijatelj\, Cordon blue kuharica in kup nesporazumov\, ki sprožijo verižno reak https://nd-mb.si/dogodek/pridi-gola/
+DESCRIPTION:Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo ljubico\, medtem ko ima žena načrtovan obisk pri mami. A načrti se začnejo podirati\, ker žena ostane doma – in to še ni vse! Na prizorišče pridejo še najboljši prijatelj\, Cordon bleu kuharica in kup nesporazumov\, ki sprožijo verižno reak https://nd-mb.si/dogodek/pridi-gola/
 URL:https://nd-mb.si/dogodek/pridi-gola/
 END:VEVENT
 BEGIN:VEVENT
@@ -165,15 +246,6 @@ SUMMARY:Pustno rajanje z Romano in gosti
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:4. predstava abonmaja Kekec 2026/2027 \n\n \n\n Pustno rajanje z Romano\, plesalci plesne šole Vibe in navihanim gostom iz dežele Romaninih pesmi \n\nTudi letos bomo rajali s priljubljeno glasbenico Romano Krajnčan\, »njene pesmi so zakon«\, pravijo mali in veliki otroci. Skupaj bomo prepevali Maškare\, https://nd-mb.si/dogodek/pustno-rajanje-z-romano-in-gosti-2/
 URL:https://nd-mb.si/dogodek/pustno-rajanje-z-romano-in-gosti-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:2e18d20b404e0265@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270215T200000
-DTEND;TZID=Europe/Ljubljana:20270215T220000
-SUMMARY:PERICA 2.0 Pro Max
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:V nov svet umetne inteligence smo že vstopili. Naše travnike kosijo avtonomni roboti\, naše poslovne zagate in domače naloge naših otrok rešuje ChatGPT. Kaj pa DeepSeek\, ste kaj domači z njim? Kaj pa Copilot\, Gemini\, Claude in Perplexity\, poznate? Veste\, kaj pomeni .ml?\n\nTežko dohajate\, kajne? Peri https://nd-mb.si/dogodek/perica-2-0-pro-max/
-URL:https://nd-mb.si/dogodek/perica-2-0-pro-max/
 END:VEVENT
 BEGIN:VEVENT
 UID:43e929e706142b1b@kulturko
@@ -203,12 +275,12 @@ DESCRIPTION:6. predstava abonmaja Kekec 2026/2027 \n\n \n\nMihec in Neža st
 URL:https://nd-mb.si/dogodek/zvoncek/
 END:VEVENT
 BEGIN:VEVENT
-UID:8a0c6471116e9c7a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270412T200000
-DTEND;TZID=Europe/Ljubljana:20270412T220000
-SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+UID:81fd0064457360b9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270416T200000
+DTEND;TZID=Europe/Ljubljana:20270416T220000
+SUMMARY:Jordi Galceran: Kredit
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Na stotisoče parov\, ki so po vsem svetu navdušeno spremljali prvi del uspešnice  Moški so z Marsa\, ženske so z Venere \, je nestrpno čakalo nadaljevanje. Drugi del komedije je končno tu! Povsem nova zgodba\, izvirna\, še bolj duhovita\, zabavna\, še ostrejša in še za nekaj odtenkov bolj življenjska! Glav https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2-2/
-URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2-2/
+DESCRIPTION:Ko banka stranki odreče kredit\, na videz preprosta zavrnitev razkrije veliko več kot finančno nemoč. Kredit je komedija o neusmiljenem svetu\, v katerem kapital ne določa le tega\, kaj si lahko privoščimo\, temveč tudi\, kako daleč smo pripravljeni iti\, ko nam sistem reče ne.     \n\n \n\n Vpis za dosed https://nd-mb.si/dogodek/jordi-galceran-kredit/
+URL:https://nd-mb.si/dogodek/jordi-galceran-kredit/
 END:VEVENT
 END:VCALENDAR

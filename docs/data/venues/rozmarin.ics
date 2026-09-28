@@ -22,4 +22,13 @@ LOCATION:Rozmarin
 DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/jan-plestenjak-v-rozmarinu
 URL:https://www.rozmaringroup.si/Dogodki/dogodek/jan-plestenjak-v-rozmarinu
 END:VEVENT
+BEGIN:VEVENT
+UID:ce7149501da93f20@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T190000
+DTEND;TZID=Europe/Ljubljana:20261017T210000
+SUMMARY:HOUSE DROPS - PAOLO BARBATO
+LOCATION:Rozmarin
+DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/house-drops---paolo-barbato-1
+URL:https://www.rozmaringroup.si/Dogodki/dogodek/house-drops---paolo-barbato-1
+END:VEVENT
 END:VCALENDAR

@@ -5,24 +5,6 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a292732512dea197@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260921T190000
-DTEND;TZID=Europe/Ljubljana:20260921T210000
-SUMMARY:Festival Maribor 2026 / Usodna privlačnost
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/festival-maribor-2026-usodna-privlacnost
-URL:https://www.ugm.si/dogodki/festival-maribor-2026-usodna-privlacnost
-END:VEVENT
-BEGIN:VEVENT
-UID:8859859f829b229c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T190000
-DTEND;TZID=Europe/Ljubljana:20260924T210000
-SUMMARY:Zaključno vodstvo po razstavi Oton Polak / Risbe\, grafike\, slike
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/zakljucno-vodstvo-po-raztsavi-oton-polak-risbe\,-grafike\,-slike
-URL:https://www.ugm.si/dogodki/zakljucno-vodstvo-po-raztsavi-oton-polak-risbe,-grafike,-slike
-END:VEVENT
-BEGIN:VEVENT
 UID:7e1510c5e075e96c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T190000
 DTEND;TZID=Europe/Ljubljana:20261008T210000
@@ -30,5 +12,14 @@ SUMMARY:Predstavitev projekta ReCITYing na arhitekturnem bienalu Beta v Temišva
 LOCATION:UGM
 DESCRIPTION: https://www.ugm.si/dogodki/predstavitev-projekta-recitying-na-arhitekturnem-bienalu-beta-v-temisvaru
 URL:https://www.ugm.si/dogodki/predstavitev-projekta-recitying-na-arhitekturnem-bienalu-beta-v-temisvaru
+END:VEVENT
+BEGIN:VEVENT
+UID:d342ca4252672f70@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261009T190000
+DTEND;TZID=Europe/Ljubljana:20261009T210000
+SUMMARY:Utelešeno omrežje / Digitalni umetniški projekti\, performans in predstavitev knjige
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/uteleseno-omrezje-digitalni-umetniski-projekti\,-performans-in-predstavitev-knjige
+URL:https://www.ugm.si/dogodki/uteleseno-omrezje-digitalni-umetniski-projekti,-performans-in-predstavitev-knjige
 END:VEVENT
 END:VCALENDAR

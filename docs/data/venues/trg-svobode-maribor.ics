@@ -5,6 +5,15 @@ X-WR-CALNAME:Trg svobode Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:97d1767cf07f77a6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T090000
+DTEND;TZID=Europe/Ljubljana:20261009T160000
+SUMMARY:TEDEN OTROKA
+LOCATION:Trg svobode Maribor
+DESCRIPTION:5. – 9. 10. 2026\, Trg svobode\n✨ DOBRO JUTRO\, DOBER DAN – naj te spremlja prav vsak dan✨\nBliža se Teden otroka v okviru katerega bodo na Trgu svobode vsak dan potekale številne aktivnosti.\nZa otroke\, med 5. – 9. 10. 2026\, pripravljamo ustvarjalne delavnice\, igre\, igrane predstave\, predstavile pa se n https://mladimaribor.si/dogodek/teden-otroka/
+URL:https://mladimaribor.si/dogodek/teden-otroka/
+END:VEVENT
+BEGIN:VEVENT
 UID:e325bdf77b7a2c5e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261005T100000
 DTEND;TZID=Europe/Ljubljana:20261005T130000

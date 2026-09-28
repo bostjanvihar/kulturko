@@ -5,12 +5,21 @@ X-WR-CALNAME:Glavni trg Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:347a7c8bfbd4bbbb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T200000
-DTEND;TZID=Europe/Ljubljana:20260904T200000
-SUMMARY:Balet pod zvezdami
+UID:ad8a058f2b31aae6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260922T073000
+DTEND;TZID=Europe/Ljubljana:20260922T090000
+SUMMARY:Zajtrk za kolesarje
 LOCATION:Glavni trg Maribor
-DESCRIPTION:Balet pod zvezdami nastaja v koprodukciji Opere in Baleta Slovenskega narodnega gledališča Maribor\, Narodnega doma Maribor\, Društva EZL EK in Zavoda za turizem Maribor pod častnim pokroviteljstvom Mestne občine Maribor\, ki želijo ob začetku nove gledališke sezone meščankam in meščanom podariti nepoz https://mladimaribor.si/dogodek/balet-pod-zvezdami-2/
-URL:https://mladimaribor.si/dogodek/balet-pod-zvezdami-2/
+DESCRIPTION:Ob zaključku Evropskega tedna mobilnosti in ob Dnevu brez avtomobila vabimo vse\, ki se boste v službo\, šolo ali po opravkih odpravili s kolesom\, da se nam zjutraj pridružite na Zajtrku za kolesarje na Glavnem trgu.\nNa poti se ustavite pri nas\, privoščite si jutranjo kavo in nekaj za pod zob ter pokl https://mladimaribor.si/dogodek/zajtrk-za-kolesarje/
+URL:https://mladimaribor.si/dogodek/zajtrk-za-kolesarje/
+END:VEVENT
+BEGIN:VEVENT
+UID:163a7732fd966f0e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T100000
+DTEND;TZID=Europe/Ljubljana:20260925T120000
+SUMMARY:Pogovori se z menoj 2026
+LOCATION:Glavni trg Maribor
+DESCRIPTION:Na različnih lokacijah po Podravju bo 25. septembra\, dan pred uradnim evropskim dnevom jezikov\, ki ga vsako leto obeležimo 26. septembra\, ponovno potekala tradicionalna akcija Pogovori se z menoj\, ki jo že od leta 2010 organizira Zavod PIP (Europe Direct Podravje). Je akcija\, s katero želimo poudari https://mladimaribor.si/dogodek/pogovori-se-z-menoj-2026/
+URL:https://mladimaribor.si/dogodek/pogovori-se-z-menoj-2026/
 END:VEVENT
 END:VCALENDAR

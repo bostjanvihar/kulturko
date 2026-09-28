@@ -6,8 +6,8 @@ X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fe1245d6177c291e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T100000
-DTEND;TZID=Europe/Ljubljana:20260922T120000
+DTSTART;TZID=Europe/Ljubljana:20260922T180000
+DTEND;TZID=Europe/Ljubljana:20260922T200000
 SUMMARY:Transport: Tovor
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/transporttovor-33109

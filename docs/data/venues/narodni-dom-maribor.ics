@@ -14,6 +14,114 @@ DESCRIPTION:Posvečanje različnim preparacijam saksofona in s tem širjenju ali
 URL:https://nd-mb.si/dogodek/klasika-tilen-lebar-razjasnitve-samoodtujevanja/
 END:VEVENT
 BEGIN:VEVENT
+UID:bcb1a2383aec4f63@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T140000
+DTEND;TZID=Europe/Ljubljana:20260923T160000
+SUMMARY:StopTrik DAN1
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Prvi dan mednarodnega filmskega festivala StopTrik pobližje sponznamo mentorja in mentorico letošnje profesionalne delavnice stop animacije\, uradno otvorimo festival s projekcijo Retrospektivnega programa “Mrtvi mediji: Bežne sledi”\, večer pa zaključimo z otvoritvenim koncertom nevemnevem.\n\nNa vse https://nd-mb.si/dogodek/stoptrik-dan1/
+URL:https://nd-mb.si/dogodek/stoptrik-dan1/
+END:VEVENT
+BEGIN:VEVENT
+UID:db7d5827c39049c5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T140000
+DTEND;TZID=Europe/Ljubljana:20260923T160000
+SUMMARY:Zamišljanje avtorjev: Moïa Jobin-Paré in Max Hattler
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Dogodek združuje projekcijo filmov in poglobljeno razpravo z ustvarjalci filmov\, ki obiščejo StopTrik v vlogi mentorjev na “Workshot 2.0”\n\nMax Hattler je mentor za fazo oblikovanja zgodbe\, Moïa Jobin-Paré pa mentor za fazo animacije. S pogovori o izbranih filmih spoznavamo začetke\, razvoj\, trenutn https://nd-mb.si/dogodek/zamisljanje-avtorjev-moia-jobin-pare-in-max-hattler/
+URL:https://nd-mb.si/dogodek/zamisljanje-avtorjev-moia-jobin-pare-in-max-hattler/
+END:VEVENT
+BEGIN:VEVENT
+UID:fedeadee4bd9c3bc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T213000
+DTEND;TZID=Europe/Ljubljana:20260923T233000
+SUMMARY:Stoptrik koncert: nevem nevem
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Po otvoritvi festivala dvorišče zavzamejo nevemnevem\, sedemglava nojzerska pošast\, ki hara in pustoši na križišču govorjene pesniške besede in razdiralnega hrupa. Besnijo s poezijo\, oblečeno v glasbo\, oblečeno v performans\, oblečeno v statement\, ki divja\, oživi\, umre in ponovno vstane. Včasih na hrb https://nd-mb.si/dogodek/stoptrik-koncert-nevem-nevem/
+URL:https://nd-mb.si/dogodek/stoptrik-koncert-nevem-nevem/
+END:VEVENT
+BEGIN:VEVENT
+UID:358b74931b892ac9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T140000
+DTEND;TZID=Europe/Ljubljana:20260924T160000
+SUMMARY:StopTrik DAN2
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Drugi dan mednarodnega filmskega festivala StopTrik diskutiramo o duhu mrtvih medijev v avdio/vizualni kulturi ter se z avtorjem Vukom Jevremovićem sprehodimo po razstavi “Človeške geste”. Pričnemo z delavnico AD-HOC LAB. Križ kraž kolaž z Miho Rejo\, govorimo o mainstreamovskih medijih v času genoci https://nd-mb.si/dogodek/stoptrik-dan2/
+URL:https://nd-mb.si/dogodek/stoptrik-dan2/
+END:VEVENT
+BEGIN:VEVENT
+UID:702c0c0b3bfe2103@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260924T221500
+DTEND;TZID=Europe/Ljubljana:20260925T001500
+SUMMARY:Stoptrik:  Animacijski dvoboj: Vzpon zombi medijev
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Dinamična\, tekmovalna predstavitev eksperimentalnega filma\, zasnovana kot avdiovizualni dvoboj med dvema strokovnima kuratorjema.\n Spopadata se z obsežnim arhivom kratkih animiranih filmov\, video del in eksperimentalnih posnetkov. Kombinacija vznemirjenja MC bitke in duha avantgarde bo imela za pos https://nd-mb.si/dogodek/stoptrik-animacijski-dvoboj-vzpon-zombi-medijev/
+URL:https://nd-mb.si/dogodek/stoptrik-animacijski-dvoboj-vzpon-zombi-medijev/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d19d3b7fcda952c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T100000
+DTEND;TZID=Europe/Ljubljana:20260925T120000
+SUMMARY:Vuk Jevremović: Človeške geste
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Razstava Vuka Jevremovićai poteka v okviru prihajajoče 16. edicije festivala StopTrik in ponuja bežen vpogled v raznolik opus plodovitega slikarja in animatorja. Na ogled sta dve velikoformatni sliki\, izbor animiranih filmov ter izbor ročno ustvarjenih sličic iz treh njegovih filmov. \n  \n  V sredo https://nd-mb.si/dogodek/vuk-jevremovic-cloveske-geste/
+URL:https://nd-mb.si/dogodek/vuk-jevremovic-cloveske-geste/
+END:VEVENT
+BEGIN:VEVENT
+UID:cb21ea151214fcd1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T150000
+DTEND;TZID=Europe/Ljubljana:20260925T170000
+SUMMARY:StopTrik DAN3
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Tretji dan mednarodnega filmskega festivala StopTrik si v duhu solidarnosti S Sudanom ogledamo film\, ki prepleta dokumentarni film in animacijo\, nadaljujemo z delavnico AD-HOC LAB. Križ kraž kolaž z Miho Rejo ter si ogledamo drugi in tretji del Mednarodnega tekmovalnega programa Stop animacija. Pozo https://nd-mb.si/dogodek/stoptrik-dan3/
+URL:https://nd-mb.si/dogodek/stoptrik-dan3/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1354c9f97d12cff@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260925T220000
+DTEND;TZID=Europe/Ljubljana:20260926T000000
+SUMMARY:Stoptrik: Petkov koncert: Nina Bulatovix x VXVX
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Grenkasladkost časa in prostora ujeta v zapeljivih melodijah\, intrigantnih besedilih in eklektičnosti izražanja. Stvari postavljajo na pravo mesto z jasnimi kriki nezadovoljstva in neusmiljeno držijo ogledalo praznim besedam in gestam ter onesnaženim in ozkoglednim umom.\n Nina Bulatovix \n Prisegaj https://nd-mb.si/dogodek/stoptrik-petkov-koncert-nina-bulatovix-x-vxvx/
+URL:https://nd-mb.si/dogodek/stoptrik-petkov-koncert-nina-bulatovix-x-vxvx/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7538c348e47a72a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T140000
+DTEND;TZID=Europe/Ljubljana:20260926T160000
+SUMMARY:StopTrik DAN4
+LOCATION:Narodni dom Maribor
+DESCRIPTION:&nbsp\;\n\nČetrti dan mednarodnega filmskega festivala StopTrik dopoldan začnemo s prvim delom pogovorov z avtorji_cami ali po naše Trik Showom\, popoldan pa si ogledamo dve projekciji sekcije Panorama. Zvečer zavrtimo mednarodni tekmovalni program “Borderlands”. Pozor\, pri nas publika odloča o veliki https://nd-mb.si/dogodek/stoptrik-dan4/
+URL:https://nd-mb.si/dogodek/stoptrik-dan4/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ce3cd59c2ad69b5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260926T220000
+DTEND;TZID=Europe/Ljubljana:20260927T000000
+SUMMARY:StopTrik koncert: DJ Borka x Toni Soprano Meneglejte
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Navigator\, posrednik in ustvarjalec kakovostne glasbe\, ki v našem prostoru in širše s svojim delom razširja glasbena obzorja slehernega poslušalca\, tudi zahtevnejšega. Pri njegovi ustvarjalnosti poleg nesporne glasbene razgledanosti in dobrega okusa navdušujeta predvsem ležerna sproščenost in virtuo https://nd-mb.si/dogodek/stoptrik-koncert-dj-borka-x-toni-soprano-meneglejte/
+URL:https://nd-mb.si/dogodek/stoptrik-koncert-dj-borka-x-toni-soprano-meneglejte/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fea09f6595b419@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260927T140000
+DTEND;TZID=Europe/Ljubljana:20260927T160000
+SUMMARY:StopTrik DAN5
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Peti dan mednarodnega filmskega festivala StopTrik dopoldan začnemo z drugim delom pogovorov z avtorji_cami ali po naše Trik Showom\, popoldan pa si ogledamo drugi del retrospektivnega programa z naslovom”V in izven družbe dezinformacij”\, zvečer pa na zaključnem dogodku strnemo misli\, strnemo festiva https://nd-mb.si/dogodek/stoptrik-dan5/
+URL:https://nd-mb.si/dogodek/stoptrik-dan5/
+END:VEVENT
+BEGIN:VEVENT
+UID:501fc25dba05dbb5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261005T180000
+DTEND;TZID=Europe/Ljubljana:20261005T200000
+SUMMARY:Branko Zinauer | Festival Špegl
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Enega najpomembnejših ilustratorjev legendarnega   Totega lista   boste spoznali skozi edinstvena medijska očala!\n\nKako so mediji spremljali njegovo ustvarjalno pot\, kako se je umaknil iz javnega življenja\, kako smo ga znova odkrili in kakšen neprecenljiv prispevek je dal našemu Totemu listu in ml https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
+URL:https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
+END:VEVENT
+BEGIN:VEVENT
 UID:9c96443a530d5654@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T150000
 DTEND;TZID=Europe/Ljubljana:20261008T170000
@@ -21,6 +129,60 @@ SUMMARY:Tolkala od blizu
 LOCATION:Narodni dom Maribor
 DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Tolkala so glasbila\, na katera igramo tako\, da z roko ali s paličastimi pripravami (tolkalci) udarjamo nanje. To poimenovanje izhaja iz načina igranja na te inštrumente\, sicer pa  https://nd-mb.si/dogodek/tolkala-od-blizu/
 URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
+END:VEVENT
+BEGIN:VEVENT
+UID:d31ccdfcbf37b7a3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T180000
+DTEND;TZID=Europe/Ljubljana:20261008T200000
+SUMMARY:1980 → 2026:  OSEMDESETA BREZ FILTRA!
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Dve knjigi\, štirje ustvarjalci in pogovor o osemdesetih - brez filtra. \n Kaj ostane od države\, ki je že dolgo ni več? Glasba\, predmeti\, znamke\, zgodbe\, spomini … \n Uroš Goričan in Boštjan Tadel sta leto 1980 ujela vsak v svojem romanu in iz povsem različnih perspektiv - Boguizanogu pripoveduje o p https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
+URL:https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
+END:VEVENT
+BEGIN:VEVENT
+UID:31431e1b9ca57435@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261008T200000
+DTEND;TZID=Europe/Ljubljana:20261008T220000
+SUMMARY:Futraj moj ego 2
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Multipersonaž Futraj moj ego iz leta 2019 je štiri leta kasneje dobil svoje logično nadaljevanje. Anja Bezlova\, ki sicer že vrsto let kot članica različnih zasedb vandra po domačih in evropskih ulicah in festivalih\, je v vmesnem času snovala intimno podobo sveta\, z dražljaji\, ki jo obdajajo\, pa je p https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
+URL:https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2d0c90ebf3ab56@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T180000
+DTEND;TZID=Europe/Ljubljana:20261010T200000
+SUMMARY:Priključitev “okupiranih” delov Štajerske domovini | Festival Špegl
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Če se peljemo proti Koroški\, nas obcestna tabla »Dobrodošli na Koroški« pozdravi že takoj po Selnici ob Dravi\, zato smo se skupaj s Koroško osrednjo knjižnico dr. Franca Sušnika odločili\, da organiziramo dogodek\, na katerem bo vsaka stran predstavila svoje argumente in "argumente"\, kje bi morala ta  https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
+URL:https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
+END:VEVENT
+BEGIN:VEVENT
+UID:66231570c64b625b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T190000
+DTEND;TZID=Europe/Ljubljana:20261010T210000
+SUMMARY:O življenju in smislu | Nea boi nula & Peter Andrej v Vetrinjcu
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Vetrinjc BARCODA\, Nea boi nula in Peter Andrej vabimo na večer glasbe in poezije\, poimenovan O ŽIVLJENJU IN SMISLU. Na odru dvorišča Vetrinjskega dvora (v primeru dežja notri) bodo kantavtor in skupina v akustični preobleki ponudili lepe melodije\, veselje in emocije subtilnega zvočnega pogleda na ok https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
+URL:https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
+END:VEVENT
+BEGIN:VEVENT
+UID:3096223bf76ca6d1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T200000
+DTEND;TZID=Europe/Ljubljana:20261010T220000
+SUMMARY:Mariborska vest | Festival Špegl
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Mariborska vest z Duletom Vaupotičem je nastala v produkciji programskih sklopov Evropske prestolnice kulture Maribor 2012 Ključi mesta in Življenje na dotik. Glavno vlogo hišnika Maribora Dušana Vaupotiča - Duleta igra priznan mariborski igralec  Aljoša Ternovšek \, serija pa je nastala pod taktirko https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
+URL:https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
+END:VEVENT
+BEGIN:VEVENT
+UID:054a124a217982e3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261011T170000
+DTEND;TZID=Europe/Ljubljana:20261011T190000
+SUMMARY:Med knjigami: Branko Gradišnik | Festival Špegl
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Vabljeni na pogovor v seriji   Strogo zaupno z Brankom  \, kjer boste prisluhnili razmišljanjem priznanega slovenske pisatelja\, prevajalca\, esejista in kolumnista  Branka Gradišnika .\n\nAvtor neštetih pronicljivih del ter mojstrskih prevodov velja za enega najbolj karizmatičnih in vsestranskih glaso https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
+URL:https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ebef889b2aeb19@kulturko

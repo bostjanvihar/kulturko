@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Klub Narodnega doma — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:006d557c20ae05eb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261012T203000
+DTEND;TZID=Europe/Ljubljana:20261012T223000
+SUMMARY:Otvoritev 8. ZIZ festivala in koncert 3vium Ensembla
+LOCATION:Klub Narodnega doma
+DESCRIPTION:Brez tromb\, ki bi sceno zbobnale na kup\, a s kitaro\, flavto\, piščalmi in violino. S 3vium Ensemblom\, z Jako Fiedlerjem\, Asjo Grauf in Špelo Huzjak\, z odprtim formatom glasbenega potovanja. Avtorskoglasbeni\, na trenutke improvizacijski sprehod skozi obdobja klasike.\n  Mariborska muzika za začetek ma https://nd-mb.si/dogodek/otvoritev-8-ziz-festivala-in-koncert-3vium-ensembla/
+URL:https://nd-mb.si/dogodek/otvoritev-8-ziz-festivala-in-koncert-3vium-ensembla/
+END:VEVENT
+BEGIN:VEVENT
+UID:888729addfa50070@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T200000
+DTEND;TZID=Europe/Ljubljana:20261017T220000
+SUMMARY:13. Gala podelitev ZIZ nagrad
+LOCATION:Klub Narodnega doma
+DESCRIPTION:Stalno stičišče mariborske neodvisne gledališke scene. Vsakoletno srečališče njenih akterk in akterjev. Upogljivo vozlišče\, ki jo učvrsti v živo tkivo mesta.\n  Galo ZIZ lahko razumemo kot koordinatni sistem\, po katerem se z nagradami orientiramo po mariborski neodvisni gledališki produkciji. Lahko  https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
+URL:https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
+END:VEVENT
+END:VCALENDAR

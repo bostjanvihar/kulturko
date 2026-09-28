@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoritska cerkev\, Kulturni inkubator\, Salon&#43\;\, Vetrinjski dvor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:538f0a31972b06f2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T180000
+DTEND;TZID=Europe/Ljubljana:20261004T190000
+SUMMARY:MFRU32: Prvi festivalski vikend
+LOCATION:Minoritska cerkev\, Kulturni inkubator\, Salon&#43\;\, Vetrinjski dvor
+DESCRIPTION: https://mkc.si/koledar/2026/10/2/mfru32-prvi-festivalski-vikend
+URL:https://mkc.si/koledar/2026/10/2/mfru32-prvi-festivalski-vikend
+END:VEVENT
+END:VCALENDAR

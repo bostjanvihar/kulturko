@@ -5,13 +5,13 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:11b726dd1c340076@kulturko
+UID:a1bd9f8cba978dc7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260922T200000
 DTEND;TZID=Europe/Ljubljana:20260922T220000
-SUMMARY:Natisnejno gibanje - Od digitalnega kiparstva do 3D tiska
+SUMMARY:NATISNJENO GIBANJE - Od digitalnega kiparstva do 3D tiska
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45382-natisnejno-gibanje-od-digitalnega-kiparstva-do-3d-tiska
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45382-natisnejno-gibanje-od-digitalnega-kiparstva-do-3d-tiska
+DESCRIPTION: https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
+URL:https://www.minoriti.si/dogodki/natisnjenogibanjeoddigitalnegakiparstvado3dtiska-37136
 END:VEVENT
 BEGIN:VEVENT
 UID:3df51aef7230c759@kulturko
@@ -93,5 +93,14 @@ SUMMARY:v SVETU Petra SVETine
 LOCATION:Lutkovno gledališče Maribor
 DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:a581e99e4c8b0d25@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270105T100000
+DTEND;TZID=Europe/Ljubljana:20270105T120000
+SUMMARY:Čarobne sence in lutkovna rokodelnica
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION:V programu Kulturnega dnevnika Lutkovno gledališče Maribor sodeluje na področju uprizoritvenih umetnosti z izvedbo kulturnega programa v Minoritski cerkvi in sicer s predstavitvijo senčnih gledališč doma in po svetu: Čarobne sence. V senčnem gledališču nastopajo sence. Tiste\, ki jih mečejo senčne lu https://nd-mb.si/dogodek/carobne-sence-in-lutkovna-rokodelnica-2/
+URL:https://nd-mb.si/dogodek/carobne-sence-in-lutkovna-rokodelnica-2/
 END:VEVENT
 END:VCALENDAR

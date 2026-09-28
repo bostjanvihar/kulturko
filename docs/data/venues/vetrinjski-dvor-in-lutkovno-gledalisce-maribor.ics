@@ -5,12 +5,12 @@ X-WR-CALNAME:Vetrinjski dvor in Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:15e56f27ab5a4193@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260908T170000
-DTEND;TZID=Europe/Ljubljana:20260913T220000
-SUMMARY:[DOKUDOC] Dokumentarna delavnica
+UID:63cf1c4fd408cedf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260923T080000
+DTEND;TZID=Europe/Ljubljana:20260928T170000
+SUMMARY:16. StopTrik
 LOCATION:Vetrinjski dvor in Lutkovno gledališče Maribor
-DESCRIPTION:\n\n\n\n\nFESTIVAL DOKUDOC\nDOKUMENTARNA DELAVNICA 2026\n8. – 13. september 2026 // Vetrinjski dvor in Lutkovno gledališče Maribor\nDOKUDOC DOKUMENTARNA DELAVNICA 2026 v sodelovanju z Luksuz produkcijo pod mentorstvom Bele Bračko-Milešević je intenziven praktični program\, katerega cilj je ustvarjanje kratke https://mladimaribor.si/dogodek/dokudoc-dokumentarna-delavnica-2026-09-08-17-00-00-2026-09-13-22-00-00/
-URL:https://mladimaribor.si/dogodek/dokudoc-dokumentarna-delavnica-2026-09-08-17-00-00-2026-09-13-22-00-00/
+DESCRIPTION:\n\n\n\n\n\n\n\n23. – 28. 9. 2026\, Vetrinjski dvor\, Lutkovno gledališče Maribor\, OBRAT\, Dvorana Gustaf\n16. StopTrik\nStopTrik s svojo 16. edicijo v petih dneh pestrega dogajanja in s 155 animiranimi filmi slavi stop animacijo in spodbuja refleksijo družbenih\, kulturnih ter političnih fenomenov. Tudi letos po https://mladimaribor.si/dogodek/16-stoptrik/
+URL:https://mladimaribor.si/dogodek/16-stoptrik/
 END:VEVENT
 END:VCALENDAR

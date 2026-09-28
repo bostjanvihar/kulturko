@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Plesna dimenzija — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f6f9b8db56a791b3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261003T190000
+DTEND;TZID=Europe/Ljubljana:20261003T210000
+SUMMARY:Plesni večer & BREZPLAČNA DELAVNICA
+LOCATION:Plesna dimenzija
+DESCRIPTION:BI RAD/A POSKUSIL/A SWING?Si že kdaj želel/a zaplesati Lindy Hop\, pa nisi vedel/a\, kje začeti?Zdaj je prava priložnost! Pred našim plesnim večerom te vabimo na BREZPLAČNO začetniško delavnico Lindy Hopa\, kjer bomo skupaj naredili prve korake\, spoznali osnovne elemente plesa in se predvsem zabavali.  https://mladimaribor.si/dogodek/plesni-vecer-brezplacna-delavnica/
+URL:https://mladimaribor.si/dogodek/plesni-vecer-brezplacna-delavnica/
+END:VEVENT
+END:VCALENDAR
