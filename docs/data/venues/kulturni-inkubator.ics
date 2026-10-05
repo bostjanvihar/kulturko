@@ -5,58 +5,13 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:25a21aee4234b69d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T170000
-DTEND;TZID=Europe/Ljubljana:20260923T183000
-SUMMARY:Podporne skupine za dijake
+UID:56fc44d5c4679f06@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260928T200000
+DTEND;TZID=Europe/Ljubljana:20260928T220000
+SUMMARY:Rock 'ma mlade: Fallen Division
 LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-23/
-URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-23/
-END:VEVENT
-BEGIN:VEVENT
-UID:8b8661657ce6f68c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T170000
-DTEND;TZID=Europe/Ljubljana:20260923T200000
-SUMMARY:Rokodelstvo\, igre & Queer Hangout
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nROKODELSTVO\, IGRE & QUEER HANGOUT\nSreda\, 23. september 2026 // 17.00 // Kulturni inkubator\nPridi na še eno edicijo Queer hangouta! Vidimo se v sredo\, 23. septembra 2026\, med 17.00 in 20.00 v Kulturnem inkubatorju.\nDruženje bomo začele_i s šivanjem in vezenjem. Materiale zagotovimo me_i\, prav tak https://mladimaribor.si/dogodek/rokodelstvo-igre-queer-hangout-2026-09-23-17-00-00-2026-09-23-20-00-00/
-URL:https://mladimaribor.si/dogodek/rokodelstvo-igre-queer-hangout-2026-09-23-17-00-00-2026-09-23-20-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:743fdc77519f2025@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T200000
-DTEND;TZID=Europe/Ljubljana:20260923T220000
-SUMMARY:Levi in desni breg
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nLEVI IN DESNI BREG\nKoncert uglasbene poezije pesnic in pesnikov levo in desno od Drave\nSreda\, 23. september 2026 // ob 20.00 // Kulturni inkubator\nV želji\, da zajamemo aktualni pesniški in glasbeni utrip mesta in ga povežemo s tradicijo\, izpostavljamo uglasbene pesmi Janka Glazerja\, Franceta Fo https://mladimaribor.si/dogodek/levi-in-desni-breg-2026-09-23-20-00-00-2026-09-23-22-00-00/
-URL:https://mladimaribor.si/dogodek/levi-in-desni-breg-2026-09-23-20-00-00-2026-09-23-22-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:ea8df66f736cdbdc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T180000
-DTEND;TZID=Europe/Ljubljana:20260925T220000
-SUMMARY:D&D druženje
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nDungeons and dragons v Kulturnem inkubatorju\nD&D DRUŽENJE\nVsak petek v septembru 2026 // ob 18.00 // Kulturni inkubator.\n\n\n\n\n\n\nV Kulturnem inkubatorju v središču Maribora se za vse ljubitelje fantazije\, pripovedovanja zgodb in namiznih iger odvijajo redna Dungeons & Dragons druženja\, ki jih pri https://mladimaribor.si/dogodek/d-d-druzenje-2026-09-25-18-00-00-2026-09-25-22-00-00/2026-09-25/
-URL:https://mladimaribor.si/dogodek/d-d-druzenje-2026-09-25-18-00-00-2026-09-25-22-00-00/2026-09-25/
-END:VEVENT
-BEGIN:VEVENT
-UID:ba89e02863060ec9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260930T170000
-DTEND;TZID=Europe/Ljubljana:20260930T183000
-SUMMARY:Podporne skupine za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-30/
-URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-09-30/
-END:VEVENT
-BEGIN:VEVENT
-UID:f72948ab00ffa664@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260930T170000
-DTEND;TZID=Europe/Ljubljana:20260930T190000
-SUMMARY:Pocarije: pridi pocat z glino
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/9/30/pocarije-pridi-pocat-z-glino
-URL:https://mkc.si/koledar/2026/9/30/pocarije-pridi-pocat-z-glino
+DESCRIPTION: https://www.facebook.com/events/1821039128579322/1821039141912654/
+URL:https://www.facebook.com/events/1821039128579322/1821039141912654/
 END:VEVENT
 BEGIN:VEVENT
 UID:2807a59ab203ec99@kulturko
@@ -75,6 +30,15 @@ SUMMARY:LGBTQ+ literarni maraton
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
 URL:https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
+END:VEVENT
+BEGIN:VEVENT
+UID:a76e694e6009503e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261007T170000
+DTEND;TZID=Europe/Ljubljana:20261007T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-10-07/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-10-07/
 END:VEVENT
 BEGIN:VEVENT
 UID:794a819cc0f9a40f@kulturko
@@ -105,12 +69,21 @@ URL:https://mkc.si/koledar/2026/10/9/stand-up-vecer-z-avtmigeci
 END:VEVENT
 BEGIN:VEVENT
 UID:7062eaad58d421bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T200000
-DTEND;TZID=Europe/Ljubljana:20261013T220000
+DTSTART;TZID=Europe/Ljubljana:20261013T180000
+DTEND;TZID=Europe/Ljubljana:20261013T200000
 SUMMARY:Izdelava nakita s kostmi
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
 URL:https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
+END:VEVENT
+BEGIN:VEVENT
+UID:149222096beeb9ed@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T190000
+DTEND;TZID=Europe/Ljubljana:20261015T200000
+SUMMARY:8. ZIZ FESTIVAL: Klic in Rdeča nit
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
+URL:https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
 END:VEVENT
 BEGIN:VEVENT
 UID:c3dcc025adc15073@kulturko
@@ -122,6 +95,42 @@ DESCRIPTION: https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-ob
 URL:https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-obrobja
 END:VEVENT
 BEGIN:VEVENT
+UID:5637fa8bde2fe120@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T180000
+DTEND;TZID=Europe/Ljubljana:20261022T220000
+SUMMARY:Druženje ob barvanju 3D figuric in namiznih igrah
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
+URL:https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
+END:VEVENT
+BEGIN:VEVENT
+UID:22b7dbc52f493072@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T110000
+DTEND;TZID=Europe/Ljubljana:20261025T190000
+SUMMARY:Hiša strahov: Čud(ež)na dežela
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/24/hia-strahov-udena-deela
+URL:https://mkc.si/koledar/2026/10/24/hia-strahov-udena-deela
+END:VEVENT
+BEGIN:VEVENT
+UID:1e99c2b62c0bcadb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T110000
+DTEND;TZID=Europe/Ljubljana:20261031T130000
+SUMMARY:Halloween Brunch &amp\; Ritem
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
+URL:https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
+END:VEVENT
+BEGIN:VEVENT
+UID:953ad1eaf08dace7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T170000
+DTEND;TZID=Europe/Ljubljana:20261104T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-11-04/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-11-04/
+END:VEVENT
+BEGIN:VEVENT
 UID:3c494428f91952b7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261104T170000
 DTEND;TZID=Europe/Ljubljana:20261104T183000
@@ -131,13 +140,13 @@ DESCRIPTION: https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
 URL:https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
 END:VEVENT
 BEGIN:VEVENT
-UID:a56f15943e6886bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T200000
-DTEND;TZID=Europe/Ljubljana:20261127T220000
-SUMMARY:Jazz 'ma mlade 2026
+UID:5a61808f57bd187a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261202T170000
+DTEND;TZID=Europe/Ljubljana:20261202T183000
+SUMMARY:Pogovorna skupina za dijake
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
-URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-12-02/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-12-02/
 END:VEVENT
 BEGIN:VEVENT
 UID:4001dd4926935921@kulturko
@@ -156,5 +165,86 @@ SUMMARY:Rock 'ma mlade 2026 #3: Štala
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/12/11/rock-ma-mlade-2026-stala
 URL:https://mkc.si/koledar/2026/12/11/rock-ma-mlade-2026-stala
+END:VEVENT
+BEGIN:VEVENT
+UID:14a00b5c96ef4da2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270106T170000
+DTEND;TZID=Europe/Ljubljana:20270106T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-01-06/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-01-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:11df88c5dc8feb91@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270203T170000
+DTEND;TZID=Europe/Ljubljana:20270203T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-02-03/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-02-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:d475b0c260f70914@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270303T170000
+DTEND;TZID=Europe/Ljubljana:20270303T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-03-03/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-03-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:e56b88a9e9aa5749@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270407T170000
+DTEND;TZID=Europe/Ljubljana:20270407T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-04-07/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-04-07/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b3fe00d9645ae8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270505T170000
+DTEND;TZID=Europe/Ljubljana:20270505T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-05-05/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-05-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bce985cd236acae@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270602T170000
+DTEND;TZID=Europe/Ljubljana:20270602T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-06-02/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-06-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5d4caa884867c2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270707T170000
+DTEND;TZID=Europe/Ljubljana:20270707T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-07-07/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-07-07/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b543a9195be5ef0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270804T170000
+DTEND;TZID=Europe/Ljubljana:20270804T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-08-04/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-08-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9500a464b474e82@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270901T170000
+DTEND;TZID=Europe/Ljubljana:20270901T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-09-01/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-09-01/
 END:VEVENT
 END:VCALENDAR

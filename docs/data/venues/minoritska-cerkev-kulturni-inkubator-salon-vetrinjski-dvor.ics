@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Minoritska cerkev\, Kulturni inkubator\, Salon+\, Vetrinjski dvor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:62c4f8a6d0063dc0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261002T180000
+DTEND;TZID=Europe/Ljubljana:20261011T190000
+SUMMARY:MFRU32: Prvi festivalski vikend
+LOCATION:Minoritska cerkev\, Kulturni inkubator\, Salon+\, Vetrinjski dvor
+DESCRIPTION:\n\n\n\n\n32. MEDNARODNI FESTIVAL RAČUNALNIŠKE UMETNOSTI\nPetek\, 2. oktober 2026 – Nedelja\, 11. oktober 2026 // Razstave na ogled do 18. oktobra 2026\nMladinski kulturni center Maribor med 2. in 11. oktobrom 2026 organizira 32. Mednarodni festival računalniške umetnosti (MFRU)\, ki letos poteka pod naslovom https://mladimaribor.si/dogodek/mfru32-prvi-festivalski-vikend-2026-10-02-18-00-00-2026-10-04-19-00-00/
+URL:https://mladimaribor.si/dogodek/mfru32-prvi-festivalski-vikend-2026-10-02-18-00-00-2026-10-04-19-00-00/
+END:VEVENT
+END:VCALENDAR

@@ -5,12 +5,21 @@ X-WR-CALNAME:Mala dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0cd493ae63e604f0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T170000
-DTEND;TZID=Europe/Ljubljana:20261001T190000
-SUMMARY:Skrinjica sinjega maka
+UID:3ade0777002de1be@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T200000
+DTEND;TZID=Europe/Ljubljana:20261010T220000
+SUMMARY:Talk with the machine
 LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
-URL:https://www.minoriti.si/dogodki/skrinjicasinjegamaka-34713
+DESCRIPTION: https://www.minoriti.si/dogodki/talk-with-the-machine
+URL:https://www.minoriti.si/dogodki/talk-with-the-machine
+END:VEVENT
+BEGIN:VEVENT
+UID:479722565eaae62d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T180000
+DTEND;TZID=Europe/Ljubljana:20261015T200000
+SUMMARY:8. Prevodni Pranger
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/8-prevodni-pranger
+URL:https://www.minoriti.si/dogodki/8-prevodni-pranger
 END:VEVENT
 END:VCALENDAR

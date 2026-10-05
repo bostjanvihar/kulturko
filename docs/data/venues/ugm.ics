@@ -5,6 +5,24 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:38fe3e6e76d25f4a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261006T190000
+DTEND;TZID=Europe/Ljubljana:20261006T210000
+SUMMARY:Teden otroka v UGM
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/teden-otroka-v-ugm
+URL:https://www.ugm.si/dogodki/teden-otroka-v-ugm
+END:VEVENT
+BEGIN:VEVENT
+UID:20d43805eea394db@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261007T190000
+DTEND;TZID=Europe/Ljubljana:20261007T210000
+SUMMARY:Kopisti v UGM / Slikarska ustvarjalnica za mlade in odrasle
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
+URL:https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
+END:VEVENT
+BEGIN:VEVENT
 UID:7e1510c5e075e96c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T190000
 DTEND;TZID=Europe/Ljubljana:20261008T210000
@@ -21,5 +39,14 @@ SUMMARY:Utelešeno omrežje / Digitalni umetniški projekti\, performans in pred
 LOCATION:UGM
 DESCRIPTION: https://www.ugm.si/dogodki/uteleseno-omrezje-digitalni-umetniski-projekti\,-performans-in-predstavitev-knjige
 URL:https://www.ugm.si/dogodki/uteleseno-omrezje-digitalni-umetniski-projekti,-performans-in-predstavitev-knjige
+END:VEVENT
+BEGIN:VEVENT
+UID:5b313bcbe4714423@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T190000
+DTEND;TZID=Europe/Ljubljana:20261017T210000
+SUMMARY:Dan Maribora 2026
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/dan-maribora-2026
+URL:https://www.ugm.si/dogodki/dan-maribora-2026
 END:VEVENT
 END:VCALENDAR

@@ -275,12 +275,12 @@ DESCRIPTION:6. predstava abonmaja Kekec 2026/2027 \n\n \n\nMihec in Neža st
 URL:https://nd-mb.si/dogodek/zvoncek/
 END:VEVENT
 BEGIN:VEVENT
-UID:81fd0064457360b9@kulturko
+UID:ad17188bff0c10ca@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270416T200000
 DTEND;TZID=Europe/Ljubljana:20270416T220000
-SUMMARY:Jordi Galceran: Kredit
+SUMMARY:Kredit
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Ko banka stranki odreče kredit\, na videz preprosta zavrnitev razkrije veliko več kot finančno nemoč. Kredit je komedija o neusmiljenem svetu\, v katerem kapital ne določa le tega\, kaj si lahko privoščimo\, temveč tudi\, kako daleč smo pripravljeni iti\, ko nam sistem reče ne.     \n\n \n\n Vpis za dosed https://nd-mb.si/dogodek/jordi-galceran-kredit/
+DESCRIPTION:Ko banka stranki odreče kredit\, na videz preprosta zavrnitev razkrije veliko več kot finančno nemoč. Kredit je komedija o neusmiljenem svetu\, v katerem kapital ne določa le tega\, kaj si lahko privoščimo\, temveč tudi\, kako daleč smo pripravljeni iti\, ko nam sistem reče ne.     \n\n \n\n Vpis za   dos https://nd-mb.si/dogodek/jordi-galceran-kredit/
 URL:https://nd-mb.si/dogodek/jordi-galceran-kredit/
 END:VEVENT
 END:VCALENDAR

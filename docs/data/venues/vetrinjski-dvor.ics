@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:13bf6a0c9dc64b22@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T200000
-DTEND;TZID=Europe/Ljubljana:20260922T213000
-SUMMARY:Razjasnitve samoodtujevanja – Tilen Lebar
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Prepustite se eksperimentalnemu zvočnemu raziskovanju ter meji izvedljivega na edinstvenem solo večeru prepariranega saksofona in elektroakustike. Doživite preobrazbo inštrumenta\, ki skozi spektralni pristop in filozofski navdih ustvarja popolnoma nove zvočne svetove.\nPosvečanje različnim preparacij https://mladimaribor.si/dogodek/razjasnitve-samoodtujevanja-tilen-lebar/
-URL:https://mladimaribor.si/dogodek/razjasnitve-samoodtujevanja-tilen-lebar/
-END:VEVENT
-BEGIN:VEVENT
 UID:1bb7c5450c38e137@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T200000
 DTEND;TZID=Europe/Ljubljana:20261023T213000

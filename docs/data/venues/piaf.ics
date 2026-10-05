@@ -5,12 +5,12 @@ X-WR-CALNAME:PIAF — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cfde012b8e375e48@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T180000
-DTEND;TZID=Europe/Ljubljana:20260922T200000
-SUMMARY:PIAF KVIZ #86 - Torek\, 22. 9. 2026
+UID:c9b78745c4778f4e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T180000
+DTEND;TZID=Europe/Ljubljana:20261027T200000
+SUMMARY:PIAF KVIZ #87 - Torek\, 27. 10. 2026
 LOCATION:PIAF
-DESCRIPTION:Na zadnji poletni dan vabimo na Poštno!\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po osebi. Rezervacije niso možne\, zato je modro\, če pridete kaj prej. Odgovarjali bomo na 40 vprašanj\, razdeljenih https://www.facebook.com/events/1758859758570705/
-URL:https://www.facebook.com/events/1758859758570705/
+DESCRIPTION:Upajmo\, da bo lepo vreme. Za vsak slučaj spremljajte Piaf FB.\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po osebi. Rezervacije niso možne\, zato je modro\, če pridete kaj prej. Odgovarjali bomo na 40 https://www.facebook.com/events/1117273517409636/
+URL:https://www.facebook.com/events/1117273517409636/
 END:VEVENT
 END:VCALENDAR

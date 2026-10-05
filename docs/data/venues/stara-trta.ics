@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Stara trta — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:b4a40f1fc6fb6b8b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261004T090000
+DTEND;TZID=Europe/Ljubljana:20261004T093000
+SUMMARY:KOLESARIMO ZA OTROŠKE SANJE
+LOCATION:Stara trta
+DESCRIPTION:4. 10. 2026 ob 9.00\, Lent (pri Stari trti)\n✨ S kolesom po otroške sanje – do Palerma✨\nV nedeljo\, 4. 10. 2026\, ob 9.00 (na Lentu pri Stari trti) se bo Iztok Kočevar odpravil na dobrodelno pot. Tokrat je njegov cilj Sicilija.\nVsak obrat pedal ima svoj namen – pomagati nadarjenim otrokom iz socialno og https://mladimaribor.si/dogodek/kolesarimo-za-otroske-sanje/
+URL:https://mladimaribor.si/dogodek/kolesarimo-za-otroske-sanje/
+END:VEVENT
+END:VCALENDAR

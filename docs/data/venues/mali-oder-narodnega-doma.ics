@@ -5,13 +5,22 @@ X-WR-CALNAME:Mali oder Narodnega doma — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a9f93ff9228053cf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T190000
-DTEND;TZID=Europe/Ljubljana:20260928T210000
+UID:f3a0b5f8fdff3bf9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260929T190000
+DTEND;TZID=Europe/Ljubljana:20260929T210000
 SUMMARY:Skrajno resno – David Gorinšek
 LOCATION:Mali oder Narodnega doma
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Društvo Avtmigeci \n\n \n\nPripravite se na večer ostre satire\, aktualnih tem in humorja brez zavor. V predpremieri predstave Skrajno resno bo David Gorinšek v živo predstavil izbor svojega najboljšega https://nd-mb.si/dogodek/skrajno-resno-david-gorinsek/
 URL:https://nd-mb.si/dogodek/skrajno-resno-david-gorinsek/
+END:VEVENT
+BEGIN:VEVENT
+UID:8655b71362eb819a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261003T200000
+DTEND;TZID=Europe/Ljubljana:20261003T220000
+SUMMARY:Plesni tris – (Za)čuti
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:Trije gostujoči umetniki prihajajo v Maribor v okviru projekta (ZA)ČUTI\, v organizaciji Zavoda MOJA KREACIJA\, Maribor (Platforme sodobnega plesa) in v sodelovanju z Zavodom EN-KNAP iz Ljubljane. Iz različnih perspektiv raziskujejo človeško telo\, njegove omejitve\, željo po svobodi ter naš odnos do sv https://nd-mb.si/dogodek/plesni-tris-zacuti/
+URL:https://nd-mb.si/dogodek/plesni-tris-zacuti/
 END:VEVENT
 BEGIN:VEVENT
 UID:b70b58a91d20b181@kulturko

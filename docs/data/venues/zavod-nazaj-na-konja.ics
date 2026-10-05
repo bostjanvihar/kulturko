@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Zavod Nazaj na konja — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cb89e2031d897929@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261009T083000
+DTEND;TZID=Europe/Ljubljana:20261009T130000
+SUMMARY:Dan odprtih vrat v Zavodu Nazaj na konja!
+LOCATION:Zavod Nazaj na konja
+DESCRIPTION:Vabimo vas na izobraževalni obisk s strokovnim mreženjem na temo “Intervencije s pomočjo živali\, narave in umetnosti kot vir pomoči in podpore”\, kjer boste spoznali delovanje ter programe organizacije Zavod Nazaj na konja\, dogodek pa je namenjen tudi mreženju podravskih organizacij s področja social https://mladimaribor.si/dogodek/dan-odprtih-vrat-v-zavodu-nazaj-na-konja/
+URL:https://mladimaribor.si/dogodek/dan-odprtih-vrat-v-zavodu-nazaj-na-konja/
+END:VEVENT
+END:VCALENDAR

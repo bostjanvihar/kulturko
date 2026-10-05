@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mala tržnica\, Dominkuševa 5\, Mariboru — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c526eb7ed8caafe2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20260930T160000
+DTEND;TZID=Europe/Ljubljana:20260930T173000
+SUMMARY:Okrogla miza »Preveč tekstila – kaj nas to stane?«
+LOCATION:Mala tržnica\, Dominkuševa 5\, Mariboru
+DESCRIPTION:Okoljsko raziskovalni zavod (ORZ) v sodelovanju s partnerjem Slokva v okviru projekta K-PPU – Meriti\, kar preprečimo: ponovna uporaba kot energetski in podnebni ukrep – vabi na okroglo mizo »Preveč tekstila – kaj nas to stane?«\, ki bo potekala 30. septembra 2026 od 16.00 do 17.30 na Mali tržnici Mar https://mladimaribor.si/dogodek/okrogla-miza-prevec-tekstila-kaj-nas-to-stane/
+URL:https://mladimaribor.si/dogodek/okrogla-miza-prevec-tekstila-kaj-nas-to-stane/
+END:VEVENT
+END:VCALENDAR

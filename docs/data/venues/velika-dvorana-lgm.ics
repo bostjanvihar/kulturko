@@ -5,69 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:60ecad9e1462cce1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T093000
-DTEND;TZID=Europe/Ljubljana:20260923T113000
-SUMMARY:Transport: Povezovalni leti
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
-URL:https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
-END:VEVENT
-BEGIN:VEVENT
-UID:81679f572775e9d0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T103000
-DTEND;TZID=Europe/Ljubljana:20260923T123000
-SUMMARY:Transport: Pripnite pasove!
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/transportpripnitepasove-37112
-URL:https://www.minoriti.si/dogodki/transportpripnitepasove-37112
-END:VEVENT
-BEGIN:VEVENT
-UID:5f33f30e9f849626@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T093000
-DTEND;TZID=Europe/Ljubljana:20260924T113000
-SUMMARY:Transport: Prelomna točka
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/transportprelomnatoka-37127
-URL:https://www.minoriti.si/dogodki/transportprelomnatoka-37127
-END:VEVENT
-BEGIN:VEVENT
-UID:9fe3b524c7e628a5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T103000
-DTEND;TZID=Europe/Ljubljana:20260924T123000
-SUMMARY:Transport: Povezovalni leti
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
-URL:https://www.minoriti.si/dogodki/transportpovezovalnileti-37118
-END:VEVENT
-BEGIN:VEVENT
-UID:76ec19c0d4a227bb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T113000
-DTEND;TZID=Europe/Ljubljana:20260924T133000
-SUMMARY:Transport: Pripnite pasove!
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/transportpripnitepasove-37112
-URL:https://www.minoriti.si/dogodki/transportpripnitepasove-37112
-END:VEVENT
-BEGIN:VEVENT
-UID:1cb1c810675f200b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T170000
-DTEND;TZID=Europe/Ljubljana:20261002T190000
-SUMMARY:Medo in pujsi
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45569-medo-in-pujsi
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45569-medo-in-pujsi
-END:VEVENT
-BEGIN:VEVENT
-UID:317b5a4fdadfa093@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261003T100000
-DTEND;TZID=Europe/Ljubljana:20261003T120000
-SUMMARY:Medo in pujsi
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/medoinpujsi-37162
-URL:https://www.minoriti.si/dogodki/medoinpujsi-37162
-END:VEVENT
-BEGIN:VEVENT
 UID:dd195d1055604ae4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261006T090000
 DTEND;TZID=Europe/Ljubljana:20261006T110000

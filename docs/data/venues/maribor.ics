@@ -5,15 +5,6 @@ X-WR-CALNAME:Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0f25df88945b16b3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T000000
-DTEND;TZID=Europe/Ljubljana:20260923T020000
-SUMMARY:Mednarodni filmski festival Stoptrik
-LOCATION:Maribor
-DESCRIPTION: https://www.stoptrik.com/
-URL:https://www.stoptrik.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:1accd86c6eacf15d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261002T000000
 DTEND;TZID=Europe/Ljubljana:20261002T020000

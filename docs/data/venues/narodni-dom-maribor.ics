@@ -5,114 +5,6 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f131b5a009bb8918@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T200000
-DTEND;TZID=Europe/Ljubljana:20260922T220000
-SUMMARY:Klasika! Tilen Lebar: Razjasnitve samoodtujevanja
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Posvečanje različnim preparacijam saksofona in s tem širjenju ali tako imenovanim odtujevanjem zvoka samega inštrumenta mi je v zadnjem desetletju razjasnilo dvoje\; da lahko tako imenovano zvočno sintezo\, ki občasno referira na zunaj - kontekstualne asociacije (npr. tračna žaga za kovino\, delo na gr https://nd-mb.si/dogodek/klasika-tilen-lebar-razjasnitve-samoodtujevanja/
-URL:https://nd-mb.si/dogodek/klasika-tilen-lebar-razjasnitve-samoodtujevanja/
-END:VEVENT
-BEGIN:VEVENT
-UID:bcb1a2383aec4f63@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T140000
-DTEND;TZID=Europe/Ljubljana:20260923T160000
-SUMMARY:StopTrik DAN1
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Prvi dan mednarodnega filmskega festivala StopTrik pobližje sponznamo mentorja in mentorico letošnje profesionalne delavnice stop animacije\, uradno otvorimo festival s projekcijo Retrospektivnega programa “Mrtvi mediji: Bežne sledi”\, večer pa zaključimo z otvoritvenim koncertom nevemnevem.\n\nNa vse https://nd-mb.si/dogodek/stoptrik-dan1/
-URL:https://nd-mb.si/dogodek/stoptrik-dan1/
-END:VEVENT
-BEGIN:VEVENT
-UID:db7d5827c39049c5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T140000
-DTEND;TZID=Europe/Ljubljana:20260923T160000
-SUMMARY:Zamišljanje avtorjev: Moïa Jobin-Paré in Max Hattler
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Dogodek združuje projekcijo filmov in poglobljeno razpravo z ustvarjalci filmov\, ki obiščejo StopTrik v vlogi mentorjev na “Workshot 2.0”\n\nMax Hattler je mentor za fazo oblikovanja zgodbe\, Moïa Jobin-Paré pa mentor za fazo animacije. S pogovori o izbranih filmih spoznavamo začetke\, razvoj\, trenutn https://nd-mb.si/dogodek/zamisljanje-avtorjev-moia-jobin-pare-in-max-hattler/
-URL:https://nd-mb.si/dogodek/zamisljanje-avtorjev-moia-jobin-pare-in-max-hattler/
-END:VEVENT
-BEGIN:VEVENT
-UID:fedeadee4bd9c3bc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260923T213000
-DTEND;TZID=Europe/Ljubljana:20260923T233000
-SUMMARY:Stoptrik koncert: nevem nevem
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Po otvoritvi festivala dvorišče zavzamejo nevemnevem\, sedemglava nojzerska pošast\, ki hara in pustoši na križišču govorjene pesniške besede in razdiralnega hrupa. Besnijo s poezijo\, oblečeno v glasbo\, oblečeno v performans\, oblečeno v statement\, ki divja\, oživi\, umre in ponovno vstane. Včasih na hrb https://nd-mb.si/dogodek/stoptrik-koncert-nevem-nevem/
-URL:https://nd-mb.si/dogodek/stoptrik-koncert-nevem-nevem/
-END:VEVENT
-BEGIN:VEVENT
-UID:358b74931b892ac9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T140000
-DTEND;TZID=Europe/Ljubljana:20260924T160000
-SUMMARY:StopTrik DAN2
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Drugi dan mednarodnega filmskega festivala StopTrik diskutiramo o duhu mrtvih medijev v avdio/vizualni kulturi ter se z avtorjem Vukom Jevremovićem sprehodimo po razstavi “Človeške geste”. Pričnemo z delavnico AD-HOC LAB. Križ kraž kolaž z Miho Rejo\, govorimo o mainstreamovskih medijih v času genoci https://nd-mb.si/dogodek/stoptrik-dan2/
-URL:https://nd-mb.si/dogodek/stoptrik-dan2/
-END:VEVENT
-BEGIN:VEVENT
-UID:702c0c0b3bfe2103@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T221500
-DTEND;TZID=Europe/Ljubljana:20260925T001500
-SUMMARY:Stoptrik:  Animacijski dvoboj: Vzpon zombi medijev
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Dinamična\, tekmovalna predstavitev eksperimentalnega filma\, zasnovana kot avdiovizualni dvoboj med dvema strokovnima kuratorjema.\n Spopadata se z obsežnim arhivom kratkih animiranih filmov\, video del in eksperimentalnih posnetkov. Kombinacija vznemirjenja MC bitke in duha avantgarde bo imela za pos https://nd-mb.si/dogodek/stoptrik-animacijski-dvoboj-vzpon-zombi-medijev/
-URL:https://nd-mb.si/dogodek/stoptrik-animacijski-dvoboj-vzpon-zombi-medijev/
-END:VEVENT
-BEGIN:VEVENT
-UID:0d19d3b7fcda952c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T100000
-DTEND;TZID=Europe/Ljubljana:20260925T120000
-SUMMARY:Vuk Jevremović: Človeške geste
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Razstava Vuka Jevremovićai poteka v okviru prihajajoče 16. edicije festivala StopTrik in ponuja bežen vpogled v raznolik opus plodovitega slikarja in animatorja. Na ogled sta dve velikoformatni sliki\, izbor animiranih filmov ter izbor ročno ustvarjenih sličic iz treh njegovih filmov. \n  \n  V sredo https://nd-mb.si/dogodek/vuk-jevremovic-cloveske-geste/
-URL:https://nd-mb.si/dogodek/vuk-jevremovic-cloveske-geste/
-END:VEVENT
-BEGIN:VEVENT
-UID:cb21ea151214fcd1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T150000
-DTEND;TZID=Europe/Ljubljana:20260925T170000
-SUMMARY:StopTrik DAN3
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Tretji dan mednarodnega filmskega festivala StopTrik si v duhu solidarnosti S Sudanom ogledamo film\, ki prepleta dokumentarni film in animacijo\, nadaljujemo z delavnico AD-HOC LAB. Križ kraž kolaž z Miho Rejo ter si ogledamo drugi in tretji del Mednarodnega tekmovalnega programa Stop animacija. Pozo https://nd-mb.si/dogodek/stoptrik-dan3/
-URL:https://nd-mb.si/dogodek/stoptrik-dan3/
-END:VEVENT
-BEGIN:VEVENT
-UID:b1354c9f97d12cff@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T220000
-DTEND;TZID=Europe/Ljubljana:20260926T000000
-SUMMARY:Stoptrik: Petkov koncert: Nina Bulatovix x VXVX
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Grenkasladkost časa in prostora ujeta v zapeljivih melodijah\, intrigantnih besedilih in eklektičnosti izražanja. Stvari postavljajo na pravo mesto z jasnimi kriki nezadovoljstva in neusmiljeno držijo ogledalo praznim besedam in gestam ter onesnaženim in ozkoglednim umom.\n Nina Bulatovix \n Prisegaj https://nd-mb.si/dogodek/stoptrik-petkov-koncert-nina-bulatovix-x-vxvx/
-URL:https://nd-mb.si/dogodek/stoptrik-petkov-koncert-nina-bulatovix-x-vxvx/
-END:VEVENT
-BEGIN:VEVENT
-UID:d7538c348e47a72a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T140000
-DTEND;TZID=Europe/Ljubljana:20260926T160000
-SUMMARY:StopTrik DAN4
-LOCATION:Narodni dom Maribor
-DESCRIPTION:&nbsp\;\n\nČetrti dan mednarodnega filmskega festivala StopTrik dopoldan začnemo s prvim delom pogovorov z avtorji_cami ali po naše Trik Showom\, popoldan pa si ogledamo dve projekciji sekcije Panorama. Zvečer zavrtimo mednarodni tekmovalni program “Borderlands”. Pozor\, pri nas publika odloča o veliki https://nd-mb.si/dogodek/stoptrik-dan4/
-URL:https://nd-mb.si/dogodek/stoptrik-dan4/
-END:VEVENT
-BEGIN:VEVENT
-UID:9ce3cd59c2ad69b5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T220000
-DTEND;TZID=Europe/Ljubljana:20260927T000000
-SUMMARY:StopTrik koncert: DJ Borka x Toni Soprano Meneglejte
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Navigator\, posrednik in ustvarjalec kakovostne glasbe\, ki v našem prostoru in širše s svojim delom razširja glasbena obzorja slehernega poslušalca\, tudi zahtevnejšega. Pri njegovi ustvarjalnosti poleg nesporne glasbene razgledanosti in dobrega okusa navdušujeta predvsem ležerna sproščenost in virtuo https://nd-mb.si/dogodek/stoptrik-koncert-dj-borka-x-toni-soprano-meneglejte/
-URL:https://nd-mb.si/dogodek/stoptrik-koncert-dj-borka-x-toni-soprano-meneglejte/
-END:VEVENT
-BEGIN:VEVENT
-UID:e2fea09f6595b419@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260927T140000
-DTEND;TZID=Europe/Ljubljana:20260927T160000
-SUMMARY:StopTrik DAN5
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Peti dan mednarodnega filmskega festivala StopTrik dopoldan začnemo z drugim delom pogovorov z avtorji_cami ali po naše Trik Showom\, popoldan pa si ogledamo drugi del retrospektivnega programa z naslovom”V in izven družbe dezinformacij”\, zvečer pa na zaključnem dogodku strnemo misli\, strnemo festiva https://nd-mb.si/dogodek/stoptrik-dan5/
-URL:https://nd-mb.si/dogodek/stoptrik-dan5/
-END:VEVENT
-BEGIN:VEVENT
 UID:501fc25dba05dbb5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261005T180000
 DTEND;TZID=Europe/Ljubljana:20261005T200000

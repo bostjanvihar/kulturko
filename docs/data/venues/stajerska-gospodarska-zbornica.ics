@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Štajerska gospodarska zbornica — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e52897d9a2743629@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261006T090000
+DTEND;TZID=Europe/Ljubljana:20261006T163000
+SUMMARY:Zaključni dogodek CAREVOLUTION
+LOCATION:Štajerska gospodarska zbornica
+DESCRIPTION:Ob zaključku projekta CAREvolution pripravljamo dogodek\, ki ni namenjen le predstavitvi rezultatov projekta\, ampak predvsem srečanju\, izmenjavi izkušenj\, dobrim praksam in pogovoru o tem\, kako ustvarjati bolj vključujoča\, zdrava in človeku prijazna delovna okolja.\n\nČaka nas pester dan\, v katerem bom https://mladimaribor.si/dogodek/zakljucni-dogodek-carevolution/
+URL:https://mladimaribor.si/dogodek/zakljucni-dogodek-carevolution/
+END:VEVENT
+END:VCALENDAR

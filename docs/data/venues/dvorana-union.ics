@@ -5,42 +5,6 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e2e0e132360ed9bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260922T170000
-DTEND;TZID=Europe/Ljubljana:20260922T190000
-SUMMARY:Karneval. In dinozavri!
-LOCATION:Dvorana Union
-DESCRIPTION:Koncert za otroke in družine \n\nGuillaume Connesson:  Jurski izlet oz. Šest prazgodovinskih miniatur  za flavto\, klarinet\, dva klavirja\, tolkala in godalni kvintet\nCamille Saint-Saëns:  Živalski karneval  \n\n&nbsp\;\n\nNekatere stvari preprosto ne gredo skupaj. No\, vsaj mislimo\, da ne\, sploh tisti https://nd-mb.si/dogodek/karneval-in-dinozavri/
-URL:https://nd-mb.si/dogodek/karneval-in-dinozavri/
-END:VEVENT
-BEGIN:VEVENT
-UID:db5d361c6fa6eca1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T193000
-DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:Trio Gaspard: Viharna trojica
-LOCATION:Dvorana Union
-DESCRIPTION:Koncert Festivala Maribor 2026 in 1. koncert  Komornega cikla 2026/2027  \n\n \n\n Joseph Haydn:    Trio za violino\, violončelo in klavir št. 11 v E-duru\, Hob. XV:34\n   Giovanni Sollima:    Hide in Trio    (novo delo)\n  Johannes Brahms:    Trio za violino\, violončelo in klavir št. 3 v c-molu\, op.  https://nd-mb.si/dogodek/viharna-trojica/
-URL:https://nd-mb.si/dogodek/viharna-trojica/
-END:VEVENT
-BEGIN:VEVENT
-UID:dead5551684dd356@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260924T193000
-DTEND;TZID=Europe/Ljubljana:20260924T213000
-SUMMARY:ND MB: Viharna trojica
-LOCATION:Dvorana Union
-DESCRIPTION: https://nd-mb.si/dogodek/viharna-trojica/
-URL:https://nd-mb.si/dogodek/viharna-trojica/
-END:VEVENT
-BEGIN:VEVENT
-UID:0cf3cefa6f07ce41@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260927T193000
-DTEND;TZID=Europe/Ljubljana:20260927T213000
-SUMMARY:Romantični derbi
-LOCATION:Dvorana Union
-DESCRIPTION:Peter Iljič Čajkovski:\n»Kuda\, kuda\, kuda vi udalilis«\, arija Lenskega iz opere  Jevgenij Onjegin  (prir. Steven Loy)\n Serenada za godalni orkester v C-duru\, op. 4\n ***\nDonato Lovreglio:  Fantazija na Verdijevo opero Traviata \,  op. 45 \, za klarinet in orkester\nGiacomo Puccini:  Krizantema\n Ven https://nd-mb.si/dogodek/romanticni-derbi/
-URL:https://nd-mb.si/dogodek/romanticni-derbi/
-END:VEVENT
-BEGIN:VEVENT
 UID:a435c1ae31f8e059@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261006T100000
 DTEND;TZID=Europe/Ljubljana:20261006T120000

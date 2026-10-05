@@ -5,15 +5,6 @@ X-WR-CALNAME:ŠTUK — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:4e14d773c51b0b66@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260925T190000
-DTEND;TZID=Europe/Ljubljana:20260925T210000
-SUMMARY:Radio City || 30 plus party
-LOCATION:ŠTUK
-DESCRIPTION:📅 25. 9. 2026 🕗 od 17. ure naprej 📍 Štuk\, Maribor RADIO CITY 30+ PARTY – PONAVLJAMO! Prvič je bilo tako dobro\, da smo rekli: še enkrat! Radio City 30+ PARTY se vrača! Po odličnem prvem druženju pripravljamo še en večer največjih hitov\, dobre družbe in odlične zabave. Čaka te večer\, ko se bomo vrnili https://vstopnice.stuk.org/izdelek/radio-city-30-plus-party/
-URL:https://vstopnice.stuk.org/izdelek/radio-city-30-plus-party/
-END:VEVENT
-BEGIN:VEVENT
 UID:badee744683caab1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20260929T220000
 DTEND;TZID=Europe/Ljubljana:20260929T233000
@@ -23,13 +14,13 @@ DESCRIPTION:📅 29. 9. 2026\n📍 ŠTUK\n🕙 ZAČETEK: 22:00\nPoletje še ni k
 URL:https://mladimaribor.si/dogodek/erasmus-zabava-dobrodoslice-erasmus-welcome-party-2026-09-29-00-00-00/
 END:VEVENT
 BEGIN:VEVENT
-UID:54a99c7f22474e62@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T190000
-DTEND;TZID=Europe/Ljubljana:20261001T210000
-SUMMARY:Štuktoberfest 2026 || Uradna otvoritev X Pivovarna Laško
+UID:15c2d4c53f76de1b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T170000
+DTEND;TZID=Europe/Ljubljana:20261001T233000
+SUMMARY:Štuktoberfest 2026 || Uradna otvoritev
 LOCATION:ŠTUK
-DESCRIPTION:📅 1. 10. 2026 ⏰ od 17.00 naprej 📍 ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Festival bomo otvorili s simboličnim razbitjem soda Laško\, takoj za tem pa sledi legendarni ŠTUK Sniper! 🎯🍺 Pridruži se nam na uradni otvoritvi in skupaj z nami odpri teden pravega oktoberfest vzdušja. *Partner dogodka je Pivo https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
-URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-otvoritev/
+DESCRIPTION:📅 1. 10. 2026\n⏰ od 17.00 naprej\n📍 ŠTUK / vstopnine ni\nŠTUKtoberfest 2026!\nFestival bomo otvorili s simboličnim razbitjem soda Laško\, takoj za tem pa sledi legendarni ŠTUK Sniper! 🎯🍺\nPridruži se nam na uradni otvoritvi in skupaj z nami odpri teden pravega oktoberfest vzdušja.\n*Partner dogodka je Pivo https://mladimaribor.si/dogodek/stuktoberfest-2026-uradna-otvoritev-x-pivovarna-lasko-2026-10-01-17-00-00/
+URL:https://mladimaribor.si/dogodek/stuktoberfest-2026-uradna-otvoritev-x-pivovarna-lasko-2026-10-01-17-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:835625a37f8ad327@kulturko
@@ -37,8 +28,8 @@ DTSTART;TZID=Europe/Ljubljana:20261002T190000
 DTEND;TZID=Europe/Ljubljana:20261002T210000
 SUMMARY:Štuktoberfest 2026 || Akustični večer z Amirjem in Kristino
 LOCATION:ŠTUK
-DESCRIPTION:📅 2. 10. 2026 ⏰ 19.00 naprej 📍 atrij ŠTUK / vstopnine ni ŠTUKtoberfest 2026! Petkov večer bomo preživeli nekoliko “bolj na izi”! Ob vzdušju okrašenega atrija ŠTUK-a nas čaka sproščen akustični nastop Amirja in Kristine. Pridi na kakšno pijačo\, dobro glasbo in sproščen večer s svojo družbo. 🎸 *Partne https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino/
-URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino/
+DESCRIPTION:📅 2. 10. 2026\n⏰ 19.00 naprej\n📍 atrij ŠTUK / vstopnine ni\nŠTUKtoberfest 2026!\nPetkov večer bomo preživeli nekoliko “bolj na izi”!\nOb vzdušju okrašenega atrija ŠTUK-a nas čaka sproščen akustični nastop Amirja in Kristine.\nPridi na kakšno pijačo\, dobro glasbo in sproščen večer s svojo družbo. 🎸\n \n*Part https://mladimaribor.si/dogodek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino-2026-10-02-19-00-00/
+URL:https://mladimaribor.si/dogodek/stuktoberfest-2026-akusticni-vecer-z-amirjem-in-kristino-2026-10-02-19-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:2626444f35661c84@kulturko
@@ -77,6 +68,15 @@ DESCRIPTION:9.10. prihaja v Štuk\, Maribor dolgo pričakovani Country & Souther
 URL:https://vstopnice.stuk.org/izdelek/how-country/
 END:VEVENT
 BEGIN:VEVENT
+UID:5f51944d998d16bc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T190000
+DTEND;TZID=Europe/Ljubljana:20261013T210000
+SUMMARY:Brucovanje treh fakultet || FIRBCI
+LOCATION:ŠTUK
+DESCRIPTION:Novo študijsko leto se je začelo — zdaj pa je čas še za prvo pravo študentsko zabavo. ŠS EPF\, ŠS FF in ŠS PF združujemo moči in vas vabimo na Brucovanje treh fakultet — večer za vse\, ki pogrešate dobro družbo\, poln ŠTUK in slovenske komade\, za pravo vzdušje pa bodo poskrbeli Firbci\, ob katerih bo na https://vstopnice.stuk.org/izdelek/brucovanje-treh-fakultet-firbci/
+URL:https://vstopnice.stuk.org/izdelek/brucovanje-treh-fakultet-firbci/
+END:VEVENT
+BEGIN:VEVENT
 UID:c84d609d4c70f38e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T190000
 DTEND;TZID=Europe/Ljubljana:20261019T210000
@@ -84,6 +84,15 @@ SUMMARY:Noč skrivnostnega umora || Harry Potter
 LOCATION:ŠTUK
 DESCRIPTION:📅 19. oktober 2026 ob 19:00 📍 Dvorana ŠTUK 👥 20 ekip s 4 člani 🪄 NOČ SKRIVNOSTNEGA UMORA 🪄 Čarovniški svet skriva številne skrivnosti\, a kaj se zgodi\, ko med njimi pride do zločina? 👀 Nekdo ve več\, kot pove. Nekdo skriva pomemben dokaz. In nekdo je kriv. 🔍 Ekipo prijavi samo vodja ekipe na povezavi: https://vstopnice.stuk.org/izdelek/noc-skrivnostnega-umora-harry-potter/
 URL:https://vstopnice.stuk.org/izdelek/noc-skrivnostnega-umora-harry-potter/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b48c1803ca99089@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Brucovanje tehniških fakultet in študentskih domov || TABU
+LOCATION:ŠTUK
+DESCRIPTION:BRUCOVANJE TEHNIŠKIH FAKULTET & ŠTUDENTSKIH DOMOV 2026! 💙🎓 Čas je\, da novo študijsko leto začnemo tako\, kot se spodobi! 🔥 📅 20. oktober 2026\, od 20.00 dalje 🎸 Za pravo vzdušje bo poskrbela skupina TABU! 🤝 ŠS FERI × ŠS FS × ŠS FKKT × ŠS FGPA × ŠSSŠD 🎟️ VSTOPNICE so na voljo na vsaki sodelujoči fakult https://vstopnice.stuk.org/izdelek/brucovanje-tehniskih-fakultet-in-studentskih-domov-tabu/
+URL:https://vstopnice.stuk.org/izdelek/brucovanje-tehniskih-fakultet-in-studentskih-domov-tabu/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko
@@ -96,11 +105,11 @@ URL:https://vstopnice.stuk.org/izdelek/hushhush-boiler-room-edition-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fb7cf2bbb54fe2f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T190000
-DTEND;TZID=Europe/Ljubljana:20261023T210000
+DTSTART;TZID=Europe/Ljubljana:20261023T210000
+DTEND;TZID=Europe/Ljubljana:20261023T230000
 SUMMARY:ČUNGA LUNGA
 LOCATION:ŠTUK
-DESCRIPTION:Vračamo se v čas največjih hitov od 2000 do 2015. 🎶 Komadi\, ki smo jih imeli na MP3-jih\, poslušali na repeat in ob njih preživeli prve žure. 📍 ŠTUK 📅 23. 10. 2026 🕘 20.00–2.00 🔞 21+ https://vstopnice.stuk.org/izdelek/cunga-lunga/
+DESCRIPTION:📅 Petek\, 23. 10. ⏰ Začnemo ob 21.00 🔞 21+ 🍭 ČUNGA LUNGA na ŠTUKU | 23. 10. 🌀 Novo poglavje vikendov na ŠTUKU se začenja. OdŠTUKani vikendi so nova serija vikend dogodkov\, ki na plesišče vrača glasbo različnih generacij. Začenjamo s Čunga Lunga. 🎶 Hiti od 2000 do 2015. Od popa in R&B-ja do dance hito https://vstopnice.stuk.org/izdelek/cunga-lunga/
 URL:https://vstopnice.stuk.org/izdelek/cunga-lunga/
 END:VEVENT
 BEGIN:VEVENT
@@ -113,12 +122,21 @@ DESCRIPTION:📅 Sobota\, 24. oktober 2026 🕘 21.00 📍 ŠTUK\, Maribor Legen
 URL:https://vstopnice.stuk.org/izdelek/crvena-jabuka-koncert/
 END:VEVENT
 BEGIN:VEVENT
+UID:601455a04f0b4c35@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261026T190000
+DTEND;TZID=Europe/Ljubljana:20261026T210000
+SUMMARY:Kostanjev žar 2026
+LOCATION:ŠTUK
+DESCRIPTION:📅 26. 10. 2026 ⏰ od 19.00 naprej 📍 atrij ŠTUK / vstopnine ni Vabljeni na tradicionalni kostanjev žar na Štuku! 🌰 V ponedeljek\, 26. oktobra 2026 ob 19.00\, boste lahko uživali v brezplačnih kostanjih izpod rok mojstra Kostanj Bedrača in brezplačnem moštu s kmetije Kajžar. Za dobro glasbo bo poskrbljen https://vstopnice.stuk.org/izdelek/kostanjev-zar-2026/
+URL:https://vstopnice.stuk.org/izdelek/kostanjev-zar-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:300b9b562acb7e9d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261030T190000
-DTEND;TZID=Europe/Ljubljana:20261030T210000
+DTSTART;TZID=Europe/Ljubljana:20261030T210000
+DTEND;TZID=Europe/Ljubljana:20261030T230000
 SUMMARY:HIŠNI HITI
 LOCATION:ŠTUK
-DESCRIPTION:🪩 HIŠNI HITI Večer v ritmih house glasbe. 🎧 Znani house hiti\, dobra energija in plesišče do zgodnjih jutranjih ur. 📍 ŠTUK 📅 30. 10. 2026 🕘 22.00–4.00 🔞 25+ https://vstopnice.stuk.org/izdelek/hisni-hiti/
+DESCRIPTION:📅 Petek\, 30. 10. ⏰ Začnemo ob 21.00 🔞 25+ 🪩 HIŠNI RITMI na ŠTUKU | 30. 10. 🌀 OdŠTUKani vikendi so serija vikend dogodkov na ŠTUKU\, kjer vsak večer prinaša svojo glasbo in svoj vibe. Drugi v seriji so Hišni ritmi\, tokrat v posebni Halloween izvedbi. 🎶 Od house klasik do aktualnih uspešnic\, ki jih dan https://vstopnice.stuk.org/izdelek/hisni-hiti/
 URL:https://vstopnice.stuk.org/izdelek/hisni-hiti/
 END:VEVENT
 BEGIN:VEVENT
@@ -132,18 +150,18 @@ URL:https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
 END:VEVENT
 BEGIN:VEVENT
 UID:47f22eef22f79840@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T190000
-DTEND;TZID=Europe/Ljubljana:20261106T210000
+DTSTART;TZID=Europe/Ljubljana:20261106T210000
+DTEND;TZID=Europe/Ljubljana:20261106T230000
 SUMMARY:SERBUS\, NAŠ CAJT!
 LOCATION:ŠTUK
-DESCRIPTION:Vračamo se v 80. in 90. leta. 🕺 Največji hiti tistega časa in večer za generacijo\, ki jih pozna od prve do zadnje note. 📍 ŠTUK 📅 6. 11. 2026 🕘 17.00–22.00 🔞 30+ https://vstopnice.stuk.org/izdelek/serbus-nas-cajt/
+DESCRIPTION:📅 Petek\, 6. 11. ⏰ Začnemo ob 21.00 🔞 30+ 📼 SERBUS\, NAŠ CAJT! na ŠTUKU | 6. 11 🌀 OdŠTUKani vikendi so serija vikend dogodkov na ŠTUKU\, kjer vsak večer prinaša svojo glasbo in svoj vibe. Tokrat vrtimo čas nazaj v 80. in 90. leta. 📺 Vračamo se v cajt\, ko je MTV še vrtel muziko\, najljubše komade smo sne https://vstopnice.stuk.org/izdelek/serbus-nas-cajt/
 URL:https://vstopnice.stuk.org/izdelek/serbus-nas-cajt/
 END:VEVENT
 BEGIN:VEVENT
-UID:bfdaf68328261c39@kulturko
+UID:8da9dd37c5bab9d4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261108T190000
 DTEND;TZID=Europe/Ljubljana:20261108T210000
-SUMMARY:ŠOUROCK 30.9.2026
+SUMMARY:FREE DRINK 30.9.2026
 LOCATION:ŠTUK
 DESCRIPTION:Skejt do teme\, vajb do jutra! Tudi letos se vrača sk8\, tokrat v novi preobleki – aFTeR. S skejterji se vidimo 8. 11. na Štuku. Čaka vas cel dan furanja\, hudi triki\, par crashov in itak preveč smeha. (In ja – najboljši triki ti lahko prinesejo tudi keš ). Pripelji frende\, vzemi skejt in se vidimo na  https://vstopnice.stuk.org/izdelek/sourock-free-drink/
 URL:https://vstopnice.stuk.org/izdelek/sourock-free-drink/
@@ -201,6 +219,15 @@ SUMMARY:Študentsko martinovanje || Dejan Vunjak & Brendijeve barabeì
 LOCATION:ŠTUK
 DESCRIPTION:KAJ: Študentsko martinovanje KDAJ: torek\, 11. november\, 21.00 ​Pripravljeni na nepozabno študentsko martinovanje na Štuku?🍷 Največji štajerski praznik se vrača na Štuk! Za pravo martinovo vzdušje bo poskrbela skupina Dejan Vunjak & Brendijeve barabe. Zabava\, ples in dobra družba – vse kar potrebujet https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
 URL:https://vstopnice.stuk.org/izdelek/dasfgsgabvsgavgfaagagv/
+END:VEVENT
+BEGIN:VEVENT
+UID:96c63079cb13c7b3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T190000
+DTEND;TZID=Europe/Ljubljana:20261128T210000
+SUMMARY:SHTROM
+LOCATION:ŠTUK
+DESCRIPTION:SHTROM prihaja na ŠTUK! Dolgoletni dogodek se tokrat seli v Maribor\, na ŠTUK-a. V soboto 28.11.\, se bo odvijal največji elektronski dogodek v Mariboru. Pride svetovno znan DJ\, ki ga pa razkrijemo kmalu. Lokacija: Štuk\, Maribor Datum: Petek\, 28. 11. Line-up: DJ razkrijemo kmalux https://vstopnice.stuk.org/izdelek/shtrom/
+URL:https://vstopnice.stuk.org/izdelek/shtrom/
 END:VEVENT
 BEGIN:VEVENT
 UID:618666af8c25252b@kulturko

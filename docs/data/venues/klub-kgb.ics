@@ -5,6 +5,15 @@ X-WR-CALNAME:Klub KGB — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:4685843e959851d4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261001T190000
+DTEND;TZID=Europe/Ljubljana:20261001T210000
+SUMMARY:Dejan Kušer
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/dejan-kuser
+URL:https://klub-kgb.si/dogodki/2026/okt/dejan-kuser
+END:VEVENT
+BEGIN:VEVENT
 UID:13412fe415796064@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261002T190000
 DTEND;TZID=Europe/Ljubljana:20261002T210000
@@ -21,5 +30,14 @@ SUMMARY:Dire Straits Project
 LOCATION:Klub KGB
 DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/dire-straits-project
 URL:https://klub-kgb.si/dogodki/2026/okt/dire-straits-project
+END:VEVENT
+BEGIN:VEVENT
+UID:785f6cb549865a76@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T190000
+DTEND;TZID=Europe/Ljubljana:20261010T210000
+SUMMARY:Popium Vol. 2
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
+URL:https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
 END:VEVENT
 END:VCALENDAR
