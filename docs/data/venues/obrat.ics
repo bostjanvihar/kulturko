@@ -5,12 +5,12 @@ X-WR-CALNAME:OBRAT — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:1d29ffa1c0828509@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260908T180000
-DTEND;TZID=Europe/Ljubljana:20260908T193000
-SUMMARY:Petra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim
+UID:7433a1188f654c6a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261006T180000
+DTEND;TZID=Europe/Ljubljana:20261006T193000
+SUMMARY:Ajda Rudolf: Ko bom velika\, bom pošast
 LOCATION:OBRAT
-DESCRIPTION:\n\n\n\nCikel Filmski pogled\n\n\n\n\nPetra Meterc: Četrto obdobje palestinskega filma – vsakdan okupacije med osebnim in političnim\n\n\n\n\n\n\n\n\n\n\n\n\nV torek\, 8. 9. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT\, na predavanje Petre Meterc četrtem obdobju palestinskega filma o vsakdanu okupacije m https://mladimaribor.si/dogodek/petra-meterc-cetrto-obdobje-palestinskega-filma-vsakdan-okupacije-med-osebnim-in-politicnim-2026-09-08-18-00-00/
-URL:https://mladimaribor.si/dogodek/petra-meterc-cetrto-obdobje-palestinskega-filma-vsakdan-okupacije-med-osebnim-in-politicnim-2026-09-08-18-00-00/
+DESCRIPTION:\n\n\nV torek\, 6. 10. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT – prostor umetnosti in participacije\, na predavanje Ajde Rudolf z naslovom Ko bom velika\, bom pošast.\n\n\n\n\n\n\nV svetu\, ki stremi k večni mladosti\, je podoba mlade ženske na filmu prežeta z vizualno fascinacijo. Kamera ml https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
+URL:https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
 END:VEVENT
 END:VCALENDAR

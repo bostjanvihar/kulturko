@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Čitalnica ČUK — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5cc7be937a0d8ef5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261028T170000
+DTEND;TZID=Europe/Ljubljana:20261028T183000
+SUMMARY:Študentski oktober – 14. ŠAHOVSKI TURNIR UKM
+LOCATION:Čitalnica ČUK
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nSreda\, 28. oktober 2026\, 17.00\, Čitalnica ČUK\nVsaka šahovska partija je nova zgodba\, ki jo napišeta dva uma. Pridite in ustvarite https://mladimaribor.si/dogodek/studentski-oktober-14-sahovski-turnir-ukm/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-14-sahovski-turnir-ukm/
+END:VEVENT
+END:VCALENDAR

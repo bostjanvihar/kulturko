@@ -5,13 +5,22 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a435c1ae31f8e059@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T100000
-DTEND;TZID=Europe/Ljubljana:20261006T120000
+UID:e310b8399694929a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261007T110000
+DTEND;TZID=Europe/Ljubljana:20261007T130000
 SUMMARY:Tolkala za radovedneže
 LOCATION:Dvorana Union
 DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Skupina  Slovenski tolkalni projekt (krajše SToP)  deluje od leta 1999. Tolkalce je združila želja po komornem muziciranju\, izvajanju kakovostnih skladb ter raziskovanju novih zvo https://nd-mb.si/dogodek/tolkala-za-radovedneze/
 URL:https://nd-mb.si/dogodek/tolkala-za-radovedneze/
+END:VEVENT
+BEGIN:VEVENT
+UID:b964b13dc55da910@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T193000
+DTEND;TZID=Europe/Ljubljana:20261016T213000
+SUMMARY:Communio Cantus “občestvo v pesmi”
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: KUD Študent Maribor\n \n\n \n\nVabimo vas na čudovit glasbeni večer s pestrim repertoarjem svetovno znanih skladateljev.\n\nMogočen vokalno-instrumentalni koncert\, na katerem se bo združilo več kot 200 https://nd-mb.si/dogodek/communio-cantus-obcestvo-v-pesmi/
+URL:https://nd-mb.si/dogodek/communio-cantus-obcestvo-v-pesmi/
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac96fe7a7c986e3@kulturko
@@ -75,6 +84,24 @@ SUMMARY:Mozart!
 LOCATION:Dvorana Union
 DESCRIPTION:2. koncert Komornega cikla 2026/2027 \n\n \n\n  Dejan Lazić  \, klavir  \n  Tom Owen  \, oboa\;   Tevž Kupljenik  \, oboa\;   Ognjen Popović  \, klarinet\;   Urška Zu  pan\, klarinet\;   Maximiliano Martín  \, basetni rog\;   Andraž Golob  \, basetni rog\;   Hanno Dönneweg  \, fagot\;   Eva Fritz  \, fagot\;   Boštj https://nd-mb.si/dogodek/mozart/
 URL:https://nd-mb.si/dogodek/mozart/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5aef27f688000e6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261124T193000
+DTEND;TZID=Europe/Ljubljana:20261124T213000
+SUMMARY:Piazzolleky
+LOCATION:Dvorana Union
+DESCRIPTION:»Nedelja\, ko bi še sam Astor Piazzolla\, revolucionar tanga\, prišel tja dol. Na Minorite. In videl\, kaj je za časa življenja pognal.«\n(Jaša Lorenčič)  \n  Dvajset let že poganjamo. Ja\, že več kot polovico življenja igramo skupaj. Igramo\, se učimo\, pozabimo\, se spet spomnimo in vse skupaj nekako vedn https://nd-mb.si/dogodek/piazzolleky/
+URL:https://nd-mb.si/dogodek/piazzolleky/
+END:VEVENT
+BEGIN:VEVENT
+UID:af31644a353e19e9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T193000
+DTEND;TZID=Europe/Ljubljana:20261201T213000
+SUMMARY:Moč besede
+LOCATION:Dvorana Union
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kulturno društvo BSA \n\n \n\n Po razprodanih Izštekanih v Cankarjevem domu in izjemnem koncertu v Slovenski filharmoniji prihaja ta vrhunska glasbena energija tudi k nam! \n\n V Dvorani Union   gostim https://nd-mb.si/dogodek/moc-besede/
+URL:https://nd-mb.si/dogodek/moc-besede/
 END:VEVENT
 BEGIN:VEVENT
 UID:355514afcda1cbd1@kulturko

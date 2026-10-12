@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pod arkadami UKM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:82bc1426f5aeabd1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T180000
+DTEND;TZID=Europe/Ljubljana:20261019T200000
+SUMMARY:Študentski oktober – TRIVIA VEČER POD ARKADAMI
+LOCATION:Pod arkadami UKM
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nPonedeljek\, 19. oktober 2026\, 18.00\, Pod arkadami \nTudi letos pripravljamo večer vprašanj\, ugibanja in zabave pod arkadami Univer https://mladimaribor.si/dogodek/studentski-oktober-trivia-vecer-pod-arkadami/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-trivia-vecer-pod-arkadami/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8679cceb14fb75@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T180000
+DTEND;TZID=Europe/Ljubljana:20261021T200000
+SUMMARY:Študentski oktober – GLASBENO-LITERARNI VEČER Z ŽANOM VIDCEM
+LOCATION:Pod arkadami UKM
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nSreda\, 21. oktober 2026\, 18.00\, Pod arkadami\nZačetek novega študijskega leta bo glasbeno obarval vokalist Žan Videc\, ki bo skupaj https://mladimaribor.si/dogodek/studentski-oktober-glasbeno-literarni-vecer-z-zanom-vidcem/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-glasbeno-literarni-vecer-z-zanom-vidcem/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Glazerjeva dvorana Univerzitetne knjižnice Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5bb17804e7b5b710@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261014T110000
+DTEND;TZID=Europe/Ljubljana:20261014T130000
+SUMMARY:Študentski oktober – #ŠPORTAJMOINBERIMO
+LOCATION:Glazerjeva dvorana Univerzitetne knjižnice Maribor
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nSreda\, 14. oktober 2026\, 11.00\, Glazerjeva dvorana\n#športajmoinberimo je akcija spodbujanja branja med mladimi športniki – pogovo https://mladimaribor.si/dogodek/studentski-oktober-sportajmoinberimo/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-sportajmoinberimo/
+END:VEVENT
+END:VCALENDAR

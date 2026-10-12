@@ -5,15 +5,6 @@ X-WR-CALNAME:Dom ustvarjalnosti mladih (DUM) Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:7e7d59439df7e4ef@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260929T170000
-DTEND;TZID=Europe/Ljubljana:20260929T190000
-SUMMARY:Cunjami – izmenjevalnica oblačil za mlade
-LOCATION:Dom ustvarjalnosti mladih (DUM) Maribor
-DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih imate več kot jih utegnete nositi? Ali vsak dan bolj razmišljate o tem\, kako hitra moda in posledično količina tekstilnih odpadkov škoduje in onesnažuje naš\, živalski in rastlinski življenjski prostor?\nPOTEM SE NAM PRIDRUŽITE!\nNaš slogan https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
-URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-5/
-END:VEVENT
-BEGIN:VEVENT
 UID:1bbd15d99d825db5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261015T170000
 DTEND;TZID=Europe/Ljubljana:20261015T183000

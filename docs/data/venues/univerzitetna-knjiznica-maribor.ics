@@ -5,12 +5,12 @@ X-WR-CALNAME:Univerzitetna knjižnica Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5d959706675b63ec@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260910T090000
-DTEND;TZID=Europe/Ljubljana:20260910T090000
-SUMMARY:UMETNA INTELIGENCA V RAZISKOVANJU: Etika\, avtorske pravice GDPR in odgovorna raba
+UID:d749f0a53b0a41cf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T110000
+DTEND;TZID=Europe/Ljubljana:20261015T170000
+SUMMARY:Študentski oktober – TRŽNICA POD ARKADAMI
 LOCATION:Univerzitetna knjižnica Maribor
-DESCRIPTION:Univerzitetna knjižnica Maribor vabi na strokovno delavnico z naslovom Umetna inteligenca v raziskovanju – etika\, avtorske pravice\, GDPR in odgovorna raba\, ki bo potekala v četrtek\, 10. septembra 2026\, ob 9. uri v Glazerjevi dvorani Univerzitetne knjižnice Maribor.\nDogodek je namenjen obravnavi aktu https://mladimaribor.si/dogodek/umetna-inteligenca-v-raziskovanju-etika-avtorske-pravice-gdpr-in-odgovorna-raba/
-URL:https://mladimaribor.si/dogodek/umetna-inteligenca-v-raziskovanju-etika-avtorske-pravice-gdpr-in-odgovorna-raba/
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\n\n\nTRŽNICA POD ARKADAMI\nTorek\, 13. oktober–četrtek\, 15. oktober 2026\, 11.00–17.00\, Pod arkadami\nPo simboličnih cenah bodo ponovno  https://mladimaribor.si/dogodek/studentski-oktober-trznica-pod-arkadami/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-trznica-pod-arkadami/
 END:VEVENT
 END:VCALENDAR

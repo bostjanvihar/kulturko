@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Mariborska knjižnica — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:4d8dc9cab43d806e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261214T100000
+DTEND;TZID=Europe/Ljubljana:20261214T113000
+SUMMARY:FESTIVAL IZVIRNE SLOVENSKE SLIKANICE
+LOCATION:Mariborska knjižnica
+DESCRIPTION:3. Festival izvirne slovenske slikanice je razprl jadra in s posadko izjemnih slovenskih avtorjev in ilustratorjev ter polnimi skrinjami zgodb in prečudovitih ilustracij že pluje po Sloveniji.\nNamen Festivala izvirne slovenske slikanice je\, da beremo skupaj\, saj je tako branje daleč najlepše in najb https://mladimaribor.si/dogodek/festival-izvirne-slovenske-slikanice/
+URL:https://mladimaribor.si/dogodek/festival-izvirne-slovenske-slikanice/
+END:VEVENT
+END:VCALENDAR

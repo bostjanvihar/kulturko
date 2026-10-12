@@ -5,6 +5,15 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:eeadcdea338fa5dd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T160000
+DTEND;TZID=Europe/Ljubljana:20261022T180000
+SUMMARY:Šola za župane 2026: Prostori kulture: vizija Maribora pred lokalnimi volitvami 2026
+LOCATION:Vetrinjski dvor
+DESCRIPTION:Društvo Asociacija in Zavod PIP v okviru Regionalnega stičišča NVO Podravja vas vabimo na javno predvolilno soočenje Prostori kulture: vizija Maribora pred lokalnimi volitvami 2026\, ki bo v četrtek\, 22. oktobra\, ob 16. uri v Vetrinjskem dvoru v Mariboru.\nMariborsko soočenje poteka tudi v okviru Šole https://mladimaribor.si/dogodek/sola-za-zupane-2026-prostori-kulture-vizija-maribora-pred-lokalnimi-volitvami-2026/
+URL:https://mladimaribor.si/dogodek/sola-za-zupane-2026-prostori-kulture-vizija-maribora-pred-lokalnimi-volitvami-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:1bb7c5450c38e137@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T200000
 DTEND;TZID=Europe/Ljubljana:20261023T213000

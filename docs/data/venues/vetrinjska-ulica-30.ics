@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vetrinjska ulica 30 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:e9cc382536231aaf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T180000
+DTEND;TZID=Europe/Ljubljana:20261013T200000
+SUMMARY:Interesni safari »Riba ali raca«
+LOCATION:Vetrinjska ulica 30
+DESCRIPTION:V torek\, 13. 10. 2026\, te vabimo\, da se nam ob 18.00 pridružiš na dvorišču Vetrinjskega dvora\, kjer bomo začeli Interesni safari z umetnikom Petrom Vranjkovićem.\n\nSprehod po mestu bo tokrat obravnaval stvari\, arhitekturo in besedne zveze\, ki spominjajo na ribo ali raco. Na prvi pogled absurdna vse https://nd-mb.si/dogodek/interesni-safari-riba-ali-raca/
+URL:https://nd-mb.si/dogodek/interesni-safari-riba-ali-raca/
+END:VEVENT
+END:VCALENDAR

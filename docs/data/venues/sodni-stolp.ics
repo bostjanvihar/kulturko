@@ -5,6 +5,15 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:b63a47fbd5f40f51@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T200000
+DTEND;TZID=Europe/Ljubljana:20261015T220000
+SUMMARY:SKOZI ZVOČNI ZID • Peter Andrej & Band
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/skozi-zvocni-zid-peter-andrej-and-band
+URL:https://www.minoriti.si/dogodki/skozi-zvocni-zid-peter-andrej-and-band
+END:VEVENT
+BEGIN:VEVENT
 UID:6e2214af6394b18c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T180000
 DTEND;TZID=Europe/Ljubljana:20261016T200000
@@ -12,5 +21,32 @@ SUMMARY:Festival Razpoka • Prazni prostori\, prostori praznine: pogovor
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/festival-razpoka-prazni-prostori-prostori-praznine-pogovor
 URL:https://www.minoriti.si/dogodki/festival-razpoka-prazni-prostori-prostori-praznine-pogovor
+END:VEVENT
+BEGIN:VEVENT
+UID:fbbae50f26eeb3ea@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T193000
+DTEND;TZID=Europe/Ljubljana:20261022T213000
+SUMMARY:Pravljični večer za odrasle • Človek zgodba
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
+URL:https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
+END:VEVENT
+BEGIN:VEVENT
+UID:fab0ae4f47df02a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261103T190000
+DTEND;TZID=Europe/Ljubljana:20261103T210000
+SUMMARY:NA TI! - Svetlana Makarovič
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/na-ti-svetlana-makarovic
+URL:https://www.minoriti.si/dogodki/na-ti-svetlana-makarovic
+END:VEVENT
+BEGIN:VEVENT
+UID:2819966b60b023a3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T193000
+DTEND;TZID=Europe/Ljubljana:20261106T213000
+SUMMARY:New Swing Quartet
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/new-swing-quartet
+URL:https://www.minoriti.si/dogodki/new-swing-quartet
 END:VEVENT
 END:VCALENDAR

@@ -5,51 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:dd195d1055604ae4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T090000
-DTEND;TZID=Europe/Ljubljana:20261006T110000
-SUMMARY:Sijaj\, sijaj sončece
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-END:VEVENT
-BEGIN:VEVENT
-UID:785df8c7c2934b58@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T090000
-DTEND;TZID=Europe/Ljubljana:20261007T110000
-SUMMARY:Sijaj\, sijaj sončece
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-END:VEVENT
-BEGIN:VEVENT
-UID:7d8c6bb705cd468c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T090000
-DTEND;TZID=Europe/Ljubljana:20261008T110000
-SUMMARY:Sijaj\, sijaj sončece
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-END:VEVENT
-BEGIN:VEVENT
-UID:70dc160f35f7462f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T170000
-DTEND;TZID=Europe/Ljubljana:20261009T190000
-SUMMARY:Sijaj\, sijaj sončece
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-END:VEVENT
-BEGIN:VEVENT
-UID:fb6e8d0df2743c7e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T100000
-DTEND;TZID=Europe/Ljubljana:20261010T120000
-SUMMARY:Sijaj\, sijaj sončece
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-URL:https://www.minoriti.si/dogodki/sijajsijajsonece-33115
-END:VEVENT
-BEGIN:VEVENT
 UID:5b3093179c890314@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T170000
 DTEND;TZID=Europe/Ljubljana:20261016T190000
@@ -111,5 +66,140 @@ SUMMARY:Razcufane zgodbe
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b1be38513d8660@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261103T080000
+DTEND;TZID=Europe/Ljubljana:20261103T100000
+SUMMARY:Rumena pika na nebu
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:48faa1c99d7b1277@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T080000
+DTEND;TZID=Europe/Ljubljana:20261104T100000
+SUMMARY:Rumena pika na nebu
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:2edc94ef309e56e9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T080000
+DTEND;TZID=Europe/Ljubljana:20261105T100000
+SUMMARY:Rumena pika na nebu
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4942e268589399@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T170000
+DTEND;TZID=Europe/Ljubljana:20261106T190000
+SUMMARY:Rumena pika na nebu
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
+END:VEVENT
+BEGIN:VEVENT
+UID:268999f829839e42@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T090000
+DTEND;TZID=Europe/Ljubljana:20261107T110000
+SUMMARY:Rumena pika na nebu
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:f20fcab3dca1873a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T080000
+DTEND;TZID=Europe/Ljubljana:20261111T100000
+SUMMARY:Arhitekta bova!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/arhitektabova-34710
+URL:https://www.minoriti.si/dogodki/arhitektabova-34710
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfe0c18727794fe@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261112T080000
+DTEND;TZID=Europe/Ljubljana:20261112T100000
+SUMMARY:Arhitekta bova!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/arhitektabova-34710
+URL:https://www.minoriti.si/dogodki/arhitektabova-34710
+END:VEVENT
+BEGIN:VEVENT
+UID:c735085d645a1299@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T093000
+DTEND;TZID=Europe/Ljubljana:20261113T113000
+SUMMARY:Arhitekta bova!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/arhitektabova-34710
+URL:https://www.minoriti.si/dogodki/arhitektabova-34710
+END:VEVENT
+BEGIN:VEVENT
+UID:2f30c9b96c306970@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T090000
+DTEND;TZID=Europe/Ljubljana:20261114T110000
+SUMMARY:Arhitekta bova!
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/arhitektabova-34710
+URL:https://www.minoriti.si/dogodki/arhitektabova-34710
+END:VEVENT
+BEGIN:VEVENT
+UID:190a854fdef2d924@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261124T080000
+DTEND;TZID=Europe/Ljubljana:20261124T100000
+SUMMARY:Cesarjeva nova oblačila
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+END:VEVENT
+BEGIN:VEVENT
+UID:b7417e68b4f1f75c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261125T080000
+DTEND;TZID=Europe/Ljubljana:20261125T100000
+SUMMARY:Cesarjeva nova oblačila
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+END:VEVENT
+BEGIN:VEVENT
+UID:12dea035f0dee45f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T080000
+DTEND;TZID=Europe/Ljubljana:20261126T100000
+SUMMARY:Cesarjeva nova oblačila
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7094ab548a9900@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261127T160000
+DTEND;TZID=Europe/Ljubljana:20261127T180000
+SUMMARY:Cesarjeva nova oblačila
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+END:VEVENT
+BEGIN:VEVENT
+UID:94eb493cc8bb7705@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T090000
+DTEND;TZID=Europe/Ljubljana:20261128T110000
+SUMMARY:Cesarjeva nova oblačila
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
+END:VEVENT
+BEGIN:VEVENT
+UID:ff3a2c3b1a4da33e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T090000
+DTEND;TZID=Europe/Ljubljana:20261205T110000
+SUMMARY:Zlatolaska in trije medvedi
+LOCATION:Velika dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/zlatolaskaintrijemedvedi
+URL:https://www.minoriti.si/dogodki/zlatolaskaintrijemedvedi
 END:VEVENT
 END:VCALENDAR

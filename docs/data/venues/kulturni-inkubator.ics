@@ -5,31 +5,13 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:56fc44d5c4679f06@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T200000
-DTEND;TZID=Europe/Ljubljana:20260928T220000
-SUMMARY:Rock 'ma mlade: Fallen Division
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://www.facebook.com/events/1821039128579322/1821039141912654/
-URL:https://www.facebook.com/events/1821039128579322/1821039141912654/
-END:VEVENT
-BEGIN:VEVENT
-UID:2807a59ab203ec99@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260930T180000
-DTEND;TZID=Europe/Ljubljana:20260930T200000
-SUMMARY:Knjižni klub: Bookworm Society
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKNJIŽNI KLUB MKC MARIBOR\nBOOKWORM SOCIETY\nSreda\, 30. september 2026 // ob 18.00 // Kulturni inkubator\nSeptembrsko srečanje Knjižnega kluba MKC Maribor bo v sredo\, 30. septembra 2026\, ob 18. uri v Kulturnem inkubatorju.\nVeliki brat te opazuje. Ali pa morda le vabi na naslednje sre https://mladimaribor.si/dogodek/knjizni-klub-bookworm-society-2026-09-30-18-00-00-2026-09-30-20-00-00/
-URL:https://mladimaribor.si/dogodek/knjizni-klub-bookworm-society-2026-09-30-18-00-00-2026-09-30-20-00-00/
-END:VEVENT
-BEGIN:VEVENT
 UID:cccdea4ad3c40ea7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261006T190000
 DTEND;TZID=Europe/Ljubljana:20261006T210000
 SUMMARY:LGBTQ+ literarni maraton
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
-URL:https://mkc.si/koledar/2026/10/6/lgbtq-literarni-maraton
+DESCRIPTION:\n\n\n\nLGBTQ+ LITERARNI MARATON\nTorek\, 6. oktober 2026 // ob 19.00 // Kulturni inkubator\nV torek\, 6. oktobra 2026\, vas ob 19. uri vas prijazno vabimo v Kulturni inkubator na LGBTQ+ literarni večer z namenom povezovanja različnih društev in ustanov\, ki se ukvarjajo s podporo LGBTQ+ osebam.\n\n\n\n\n\n\nLiterar https://mladimaribor.si/dogodek/lgbtq-literarni-maraton-2026-10-06-19-00-00-2026-10-06-21-00-00/
+URL:https://mladimaribor.si/dogodek/lgbtq-literarni-maraton-2026-10-06-19-00-00-2026-10-06-21-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:a76e694e6009503e@kulturko
@@ -41,22 +23,13 @@ DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-10-07/
 END:VEVENT
 BEGIN:VEVENT
-UID:794a819cc0f9a40f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T170000
-DTEND;TZID=Europe/Ljubljana:20261007T183000
-SUMMARY:Podporne skupine za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/7/podporne-skupine-za-dijake
-URL:https://mkc.si/koledar/2026/10/7/podporne-skupine-za-dijake
-END:VEVENT
-BEGIN:VEVENT
 UID:54ad6a8026295e94@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T200000
 DTEND;TZID=Europe/Ljubljana:20261008T220000
 SUMMARY:Večer slabe poezije
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/8/veer-slabe-poezije
-URL:https://mkc.si/koledar/2026/10/8/veer-slabe-poezije
+DESCRIPTION:\n\n\n\n\nVEČER SLABE POEZIJE\nČetrtek\, 8. oktober 2026 // 20.00 // Kulturni inkubator\nKo te muza zapusti\, ostanejo le rime na -i. Vabimo na večer slabe poezije\, ki bo v četrtek\, 8. oktober 2026\, ob 20. uri v Kulturnem inkubatorju. Veselimo se najslabšega pesniškega večera v Mariboru – naj nas skupaj pogo https://mladimaribor.si/dogodek/vecer-slabe-poezije-2026-10-08-20-00-00-2026-10-08-22-00-00/
+URL:https://mladimaribor.si/dogodek/vecer-slabe-poezije-2026-10-08-20-00-00-2026-10-08-22-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7f7723947c2bb5c@kulturko
@@ -64,8 +37,8 @@ DTSTART;TZID=Europe/Ljubljana:20261009T200000
 DTEND;TZID=Europe/Ljubljana:20261009T220000
 SUMMARY:Stand up večer z Avtmigeci
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/9/stand-up-vecer-z-avtmigeci
-URL:https://mkc.si/koledar/2026/10/9/stand-up-vecer-z-avtmigeci
+DESCRIPTION:\n\n\n\n\nSTAND UP VEČER\nZ AVTMIGECI\nPetek\, 9. oktober2026 // ob 20.00 // Kulturni inkubator\nKulturni inkubator gosti serijo brezplačnih Stand up večerov z Avtmigeci\, na katerih na oder stopijo mladi stand up komiki\, ki so šele na začetku svoje kariere in pa tisti bolj izkušeni\, ki želijo preizkusiti nov https://mladimaribor.si/dogodek/stand-up-vecer-z-avtmigeci-2026-10-09-20-00-00-2026-10-09-22-00-00/
+URL:https://mladimaribor.si/dogodek/stand-up-vecer-z-avtmigeci-2026-10-09-20-00-00-2026-10-09-22-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:7062eaad58d421bf@kulturko
@@ -77,6 +50,15 @@ DESCRIPTION: https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
 URL:https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
 END:VEVENT
 BEGIN:VEVENT
+UID:b043558ea1452f2a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T190000
+DTEND;TZID=Europe/Ljubljana:20261015T210000
+SUMMARY:Slikarska delavnica: Kaj čofota v čaju?
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/15/slikarska-delavnica-kaj-ofota-v-aju
+URL:https://mkc.si/koledar/2026/10/15/slikarska-delavnica-kaj-ofota-v-aju
+END:VEVENT
+BEGIN:VEVENT
 UID:149222096beeb9ed@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261015T190000
 DTEND;TZID=Europe/Ljubljana:20261015T200000
@@ -86,10 +68,10 @@ DESCRIPTION: https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
 URL:https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
 END:VEVENT
 BEGIN:VEVENT
-UID:c3dcc025adc15073@kulturko
+UID:afaad53dd2c5d2bf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T190000
 DTEND;TZID=Europe/Ljubljana:20261019T220000
-SUMMARY:Mlade glave mislijo: glasovi iz obrobja
+SUMMARY:Mlade glave mislijo: glasovi z obrobja
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-obrobja
 URL:https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-obrobja
@@ -102,6 +84,15 @@ SUMMARY:Druženje ob barvanju 3D figuric in namiznih igrah
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
 URL:https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
+END:VEVENT
+BEGIN:VEVENT
+UID:c548b70e98e0fb64@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T173000
+DTEND;TZID=Europe/Ljubljana:20261023T190000
+SUMMARY:Novinarska šola MKC Maribor: od ideje do objave
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/2/novinarska-sola-mkc-maribor
+URL:https://mkc.si/koledar/2026/10/2/novinarska-sola-mkc-maribor
 END:VEVENT
 BEGIN:VEVENT
 UID:22b7dbc52f493072@kulturko
@@ -246,5 +237,14 @@ SUMMARY:Pogovorna skupina za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-09-01/
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-09-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:1df34ca0092640bd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20271006T170000
+DTEND;TZID=Europe/Ljubljana:20271006T183000
+SUMMARY:Pogovorna skupina za dijake
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-10-06/
+URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-10-06/
 END:VEVENT
 END:VCALENDAR

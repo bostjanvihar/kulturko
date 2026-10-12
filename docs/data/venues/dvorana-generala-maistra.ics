@@ -5,24 +5,6 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:25f712a5139b0c39@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260929T180000
-DTEND;TZID=Europe/Ljubljana:20260929T200000
-SUMMARY:Večer v živo: Dejan Sotirov
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Večer v živo z Dejanom Sotirovim \, načrtovan za  danes\, 10. septembra v Mariboru \, zaradi bolezni predavatelja  odpade .\nOrganizatorji vas bodo o  nadomestnem terminu  kmalu obvestili v Večeru\, na Eventimu in na strani  www.vecer.com/vzivo .\n Vstopnice lahko obdržite  in vam bodo veljale za nadome https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
-URL:https://nd-mb.si/dogodek/vecer-v-zivo-dejan-sotirov/
-END:VEVENT
-BEGIN:VEVENT
-UID:51d01d0adaa0c021@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260930T180000
-DTEND;TZID=Europe/Ljubljana:20260930T200000
-SUMMARY:Moški so z Marsa\, ženske so z Venere 2
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\nPripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
-URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:674cc461d1800a96@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261005T190000
 DTEND;TZID=Europe/Ljubljana:20261005T210000

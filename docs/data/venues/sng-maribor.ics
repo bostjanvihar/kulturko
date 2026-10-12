@@ -5,60 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:42a19d884d0761e4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260928T200000
-DTEND;TZID=Europe/Ljubljana:20260928T220000
-SUMMARY:»Lav iz in di er«
-LOCATION:SNG Maribor
-DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https://www.sng-mb.si/event/lav-iz-in-di-er/
-URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:1bebc41daf043e98@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260929T200000
-DTEND;TZID=Europe/Ljubljana:20260929T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:e4730d145d983eb2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260930T200000
-DTEND;TZID=Europe/Ljubljana:20260930T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:a9915e205577b6d4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T193000
-DTEND;TZID=Europe/Ljubljana:20261001T213000
-SUMMARY:Ero z onega sveta
-LOCATION:SNG Maribor
-DESCRIPTION:Gostovanje Opere HNK Zagreb - Jakov Gotovac · Dvorana Ondine Otta Klasinc   https://www.sng-mb.si/event/ero-z-onega-sveta/
-URL:https://www.sng-mb.si/event/ero-z-onega-sveta/
-END:VEVENT
-BEGIN:VEVENT
-UID:c1aa93c178506376@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261001T193000
-DTEND;TZID=Europe/Ljubljana:20261001T213000
-SUMMARY:Kakšno ime pa je to?!
-LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Kulturni hram Ignacija Borštnika Cerklje https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-END:VEVENT
-BEGIN:VEVENT
-UID:00f7dea767f6c1f9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261004T180000
-DTEND;TZID=Europe/Ljubljana:20261004T200000
-SUMMARY:Kakšno ime pa je to?!
-LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Kulturni center Janeza Trdine Novo Mesto https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-END:VEVENT
-BEGIN:VEVENT
 UID:1bea498196433ec7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261005T193000
 DTEND;TZID=Europe/Ljubljana:20261005T213000
@@ -84,24 +30,6 @@ SUMMARY:»Lav iz in di er«
 LOCATION:SNG Maribor
 DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
 URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:0e7cbd38f1dbdcc8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T200000
-DTEND;TZID=Europe/Ljubljana:20261009T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
-UID:17d643d2dd951ff7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
 UID:565b7bfea99841a9@kulturko
@@ -311,6 +239,60 @@ DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Fran
 URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
 END:VEVENT
 BEGIN:VEVENT
+UID:19eeb3ff82bb2bd7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261102T180000
+DTEND;TZID=Europe/Ljubljana:20261102T200000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3516764441bfce4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261103T190000
+DTEND;TZID=Europe/Ljubljana:20261103T210000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1feaee5e1eb3ca3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261103T200000
+DTEND;TZID=Europe/Ljubljana:20261103T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc5f9f74a4b5053@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T200000
+DTEND;TZID=Europe/Ljubljana:20261104T220000
+SUMMARY:Oče\, hči in sveti duh
+LOCATION:SNG Maribor
+DESCRIPTION:Mate Matišić · Dvorana Frana Žižka https://www.sng-mb.si/event/oce-hci-in-sveti-duh/
+URL:https://www.sng-mb.si/event/oce-hci-in-sveti-duh/
+END:VEVENT
+BEGIN:VEVENT
+UID:4157fff2891e050b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T180000
+DTEND;TZID=Europe/Ljubljana:20261105T200000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0809501da6af312@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T190000
+DTEND;TZID=Europe/Ljubljana:20261106T210000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
 UID:346b95e608b34091@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261106T193000
 DTEND;TZID=Europe/Ljubljana:20261106T213000
@@ -318,6 +300,15 @@ SUMMARY:Bajadera
 LOCATION:SNG Maribor
 DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/bajadera/
 URL:https://www.sng-mb.si/event/bajadera/
+END:VEVENT
+BEGIN:VEVENT
+UID:a447002bc3187b0f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T200000
+DTEND;TZID=Europe/Ljubljana:20261107T220000
+SUMMARY:Usje se je dalu
+LOCATION:SNG Maribor
+DESCRIPTION:Tereza Gregorič\, Borut Petrović\, Jakob Šfiligoj · Dvorana Frana Žižka https://www.sng-mb.si/event/usje-se-je-dalu/
+URL:https://www.sng-mb.si/event/usje-se-je-dalu/
 END:VEVENT
 BEGIN:VEVENT
 UID:9e95f86fdca1eea9@kulturko
@@ -428,6 +419,15 @@ DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/
 URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
 END:VEVENT
 BEGIN:VEVENT
+UID:2a1969853fc7b251@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261118T100000
+DTEND;TZID=Europe/Ljubljana:20261118T120000
+SUMMARY:Kako sta Bibi in Gusti sipala srečo
+LOCATION:SNG Maribor
+DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
+URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
+END:VEVENT
+BEGIN:VEVENT
 UID:c03106583e4cf5d0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261120T100000
 DTEND;TZID=Europe/Ljubljana:20261120T120000
@@ -446,6 +446,24 @@ DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana �
 URL:https://www.sng-mb.si/event/uberkrajina/
 END:VEVENT
 BEGIN:VEVENT
+UID:d3233bc113b31443@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T200000
+DTEND;TZID=Europe/Ljubljana:20261121T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
+END:VEVENT
+BEGIN:VEVENT
+UID:15fcf3a0d64cc550@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T200000
+DTEND;TZID=Europe/Ljubljana:20261121T220000
+SUMMARY:Vojna nima ženskega obraza
+LOCATION:SNG Maribor
+DESCRIPTION:Svetlana Aleksijevič · Mali oder https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/
+URL:https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/
+END:VEVENT
+BEGIN:VEVENT
 UID:8f583518563ad3e3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261123T100000
 DTEND;TZID=Europe/Ljubljana:20261123T120000
@@ -455,6 +473,15 @@ DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/
 URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
 END:VEVENT
 BEGIN:VEVENT
+UID:230f08044cd6ada9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261123T200000
+DTEND;TZID=Europe/Ljubljana:20261123T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
+END:VEVENT
+BEGIN:VEVENT
 UID:4bb7da1976badd31@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261124T100000
 DTEND;TZID=Europe/Ljubljana:20261124T120000
@@ -462,6 +489,15 @@ SUMMARY:Kako sta Bibi in Gusti sipala srečo
 LOCATION:SNG Maribor
 DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
 URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
+END:VEVENT
+BEGIN:VEVENT
+UID:e31db2619e46bc99@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261124T200000
+DTEND;TZID=Europe/Ljubljana:20261124T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b7fe0144b9e5fda@kulturko
@@ -482,15 +518,6 @@ DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/ev
 URL:https://www.sng-mb.si/event/kot-noc-in-dan/
 END:VEVENT
 BEGIN:VEVENT
-UID:315e2fa588a1435d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:3. koncert cikla Carpe artem »Refleksije strun«
-LOCATION:SNG Maribor
-DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
-URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
-END:VEVENT
-BEGIN:VEVENT
 UID:060f9ccaaae31457@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T193000
 DTEND;TZID=Europe/Ljubljana:20261126T213000
@@ -498,6 +525,15 @@ SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
 DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · ZKTŠ Murska Sobota https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:315e2fa588a1435d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T193000
+DTEND;TZID=Europe/Ljubljana:20261126T213000
+SUMMARY:3. koncert cikla Carpe artem »Refleksije strun«
+LOCATION:SNG Maribor
+DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
+URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2db796b647eb184@kulturko
@@ -518,6 +554,24 @@ DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb
 URL:https://www.sng-mb.si/event/netopir-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:d62c7d8f0185e857@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261127T200000
+DTEND;TZID=Europe/Ljubljana:20261127T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
+END:VEVENT
+BEGIN:VEVENT
+UID:6daf4b9b127ba2a6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T180000
+DTEND;TZID=Europe/Ljubljana:20261128T200000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
+END:VEVENT
+BEGIN:VEVENT
 UID:ce41daaa94fcca80@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261128T193000
 DTEND;TZID=Europe/Ljubljana:20261128T213000
@@ -525,6 +579,24 @@ SUMMARY:Netopir
 LOCATION:SNG Maribor
 DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
 URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:56b06130aef8f09f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261130T200000
+DTEND;TZID=Europe/Ljubljana:20261130T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7328a03517db444@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261130T200000
+DTEND;TZID=Europe/Ljubljana:20261130T220000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Dvorana Frana Žižka https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
 UID:18db271ea4c85f55@kulturko
@@ -825,8 +897,8 @@ URL:https://www.sng-mb.si/event/four-reasons-minus-sixteen/
 END:VEVENT
 BEGIN:VEVENT
 UID:c63cc899145873d5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270306T193000
-DTEND;TZID=Europe/Ljubljana:20270306T213000
+DTSTART;TZID=Europe/Ljubljana:20270306T110000
+DTEND;TZID=Europe/Ljubljana:20270306T130000
 SUMMARY:1. glasbena matineja
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-glasbena-matineja/
@@ -924,8 +996,8 @@ URL:https://www.sng-mb.si/event/sluzkinji/
 END:VEVENT
 BEGIN:VEVENT
 UID:4064d345eae1d6e9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270417T193000
-DTEND;TZID=Europe/Ljubljana:20270417T213000
+DTSTART;TZID=Europe/Ljubljana:20270417T110000
+DTEND;TZID=Europe/Ljubljana:20270417T130000
 SUMMARY:2. glasbena matineja
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/2-glasbena-matineja-2/
@@ -1047,14 +1119,5 @@ SUMMARY:Operna noč v Mestnem parku
 LOCATION:SNG Maribor
 DESCRIPTION:Promenada Mestnega parka Maribor https://www.sng-mb.si/event/operna-noc-2026/
 URL:https://www.sng-mb.si/event/operna-noc-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:406e22b46cb74293@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270624T193000
-DTEND;TZID=Europe/Ljubljana:20270624T213000
-SUMMARY:La traviata
-LOCATION:SNG Maribor
-DESCRIPTION:Giuseppe Verdi · Dvorana Ondine Otte Klasinc https://www.sng-mb.si/event/la-traviata/
-URL:https://www.sng-mb.si/event/la-traviata/
 END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,6 @@ X-WR-CALNAME:Mala dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3ade0777002de1be@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Talk with the machine
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/talk-with-the-machine
-URL:https://www.minoriti.si/dogodki/talk-with-the-machine
-END:VEVENT
-BEGIN:VEVENT
 UID:479722565eaae62d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261015T180000
 DTEND;TZID=Europe/Ljubljana:20261015T200000
@@ -21,5 +12,68 @@ SUMMARY:8. Prevodni Pranger
 LOCATION:Mala dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/8-prevodni-pranger
 URL:https://www.minoriti.si/dogodki/8-prevodni-pranger
+END:VEVENT
+BEGIN:VEVENT
+UID:056b4628d714d837@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261125T170000
+DTEND;TZID=Europe/Ljubljana:20261125T190000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6eb592e392cc74@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T170000
+DTEND;TZID=Europe/Ljubljana:20261126T190000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd0ca3dedfd2d33@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T100000
+DTEND;TZID=Europe/Ljubljana:20261128T120000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
+URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
+END:VEVENT
+BEGIN:VEVENT
+UID:f169ef9afdaec789@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261130T080000
+DTEND;TZID=Europe/Ljubljana:20261130T100000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
+UID:55ee5cc51403dc53@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T080000
+DTEND;TZID=Europe/Ljubljana:20261201T100000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
+UID:01ab174cc140e797@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261203T160000
+DTEND;TZID=Europe/Ljubljana:20261203T180000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
+UID:a127b3b4e58d866e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261204T160000
+DTEND;TZID=Europe/Ljubljana:20261204T180000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 END:VCALENDAR

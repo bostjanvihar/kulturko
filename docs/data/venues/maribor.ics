@@ -5,15 +5,6 @@ X-WR-CALNAME:Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:1accd86c6eacf15d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T000000
-DTEND;TZID=Europe/Ljubljana:20261002T020000
-SUMMARY:Mednarodni festival računalniške umetnosti (MFRU)
-LOCATION:Maribor
-DESCRIPTION: http://www.mfru.org
-URL:http://www.mfru.org
-END:VEVENT
-BEGIN:VEVENT
 UID:bca6cd2ca61d8824@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261110T000000
 DTEND;TZID=Europe/Ljubljana:20261110T020000

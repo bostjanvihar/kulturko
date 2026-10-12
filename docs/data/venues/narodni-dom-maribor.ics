@@ -5,15 +5,6 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:501fc25dba05dbb5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T180000
-DTEND;TZID=Europe/Ljubljana:20261005T200000
-SUMMARY:Branko Zinauer | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Enega najpomembnejših ilustratorjev legendarnega   Totega lista   boste spoznali skozi edinstvena medijska očala!\n\nKako so mediji spremljali njegovo ustvarjalno pot\, kako se je umaknil iz javnega življenja\, kako smo ga znova odkrili in kakšen neprecenljiv prispevek je dal našemu Totemu listu in ml https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
-URL:https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
-END:VEVENT
-BEGIN:VEVENT
 UID:9c96443a530d5654@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261008T150000
 DTEND;TZID=Europe/Ljubljana:20261008T170000
@@ -39,6 +30,15 @@ SUMMARY:Futraj moj ego 2
 LOCATION:Narodni dom Maribor
 DESCRIPTION:Multipersonaž Futraj moj ego iz leta 2019 je štiri leta kasneje dobil svoje logično nadaljevanje. Anja Bezlova\, ki sicer že vrsto let kot članica različnih zasedb vandra po domačih in evropskih ulicah in festivalih\, je v vmesnem času snovala intimno podobo sveta\, z dražljaji\, ki jo obdajajo\, pa je p https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
 URL:https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ea294f835eb237@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261010T090000
+DTEND;TZID=Europe/Ljubljana:20261010T110000
+SUMMARY:Producentska ZIZ delavnica: POSTATI IN OSTATI
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Mariborska neodvisna uprizoritvena scena se vseskozi in vedno znova srečuje z enakimi izzivi. Kako si lahko pomagamo sami\, kako si lahko pomagamo med sabo? \n Namen delavnice je opolnomočiti posameznice\, kolektive in organizacije ter jih opremiti z orodji za uspešno in kontinuirano izvajanje kakovos https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
+URL:https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd2d0c90ebf3ab56@kulturko

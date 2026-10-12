@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Rektorat UM (Dvorana Borisa Podrecce) — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:6a940b4610eb2e1d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T110000
+DTEND;TZID=Europe/Ljubljana:20261015T170000
+SUMMARY:Študentski oktober – ZAKLJUČNI DOGODEK FESTUM 2026: Kakovost. Pomen. Odgovornost.
+LOCATION:Rektorat UM (Dvorana Borisa Podrecce)
+DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nČetrtek\, 15. oktober 2026\, 11.00 in 17.00\, rektorat Univerze v Mariboru \nPrireditev bo povezala raziskovalce\, visokošolske učitel https://mladimaribor.si/dogodek/studentski-oktober-zakljucni-dogodek-festum-2026-kakovost-pomen-odgovornost/
+URL:https://mladimaribor.si/dogodek/studentski-oktober-zakljucni-dogodek-festum-2026-kakovost-pomen-odgovornost/
+END:VEVENT
+END:VCALENDAR
