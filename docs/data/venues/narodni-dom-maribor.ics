@@ -5,76 +5,13 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:9c96443a530d5654@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T150000
-DTEND;TZID=Europe/Ljubljana:20261008T170000
-SUMMARY:Tolkala od blizu
+UID:694d74422a1c2858@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T190000
+DTEND;TZID=Europe/Ljubljana:20261022T210000
+SUMMARY:Zvočne zgodbe mojih neznan(k)cev
 LOCATION:Narodni dom Maribor
-DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Tolkala so glasbila\, na katera igramo tako\, da z roko ali s paličastimi pripravami (tolkalci) udarjamo nanje. To poimenovanje izhaja iz načina igranja na te inštrumente\, sicer pa  https://nd-mb.si/dogodek/tolkala-od-blizu/
-URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
-END:VEVENT
-BEGIN:VEVENT
-UID:d31ccdfcbf37b7a3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T180000
-DTEND;TZID=Europe/Ljubljana:20261008T200000
-SUMMARY:1980 → 2026:  OSEMDESETA BREZ FILTRA!
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Dve knjigi\, štirje ustvarjalci in pogovor o osemdesetih - brez filtra. \n Kaj ostane od države\, ki je že dolgo ni več? Glasba\, predmeti\, znamke\, zgodbe\, spomini … \n Uroš Goričan in Boštjan Tadel sta leto 1980 ujela vsak v svojem romanu in iz povsem različnih perspektiv - Boguizanogu pripoveduje o p https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
-URL:https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
-END:VEVENT
-BEGIN:VEVENT
-UID:31431e1b9ca57435@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:Futraj moj ego 2
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Multipersonaž Futraj moj ego iz leta 2019 je štiri leta kasneje dobil svoje logično nadaljevanje. Anja Bezlova\, ki sicer že vrsto let kot članica različnih zasedb vandra po domačih in evropskih ulicah in festivalih\, je v vmesnem času snovala intimno podobo sveta\, z dražljaji\, ki jo obdajajo\, pa je p https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
-URL:https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:e9ea294f835eb237@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T090000
-DTEND;TZID=Europe/Ljubljana:20261010T110000
-SUMMARY:Producentska ZIZ delavnica: POSTATI IN OSTATI
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Mariborska neodvisna uprizoritvena scena se vseskozi in vedno znova srečuje z enakimi izzivi. Kako si lahko pomagamo sami\, kako si lahko pomagamo med sabo? \n Namen delavnice je opolnomočiti posameznice\, kolektive in organizacije ter jih opremiti z orodji za uspešno in kontinuirano izvajanje kakovos https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
-URL:https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
-END:VEVENT
-BEGIN:VEVENT
-UID:bd2d0c90ebf3ab56@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T180000
-DTEND;TZID=Europe/Ljubljana:20261010T200000
-SUMMARY:Priključitev “okupiranih” delov Štajerske domovini | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Če se peljemo proti Koroški\, nas obcestna tabla »Dobrodošli na Koroški« pozdravi že takoj po Selnici ob Dravi\, zato smo se skupaj s Koroško osrednjo knjižnico dr. Franca Sušnika odločili\, da organiziramo dogodek\, na katerem bo vsaka stran predstavila svoje argumente in "argumente"\, kje bi morala ta  https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
-URL:https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:66231570c64b625b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T190000
-DTEND;TZID=Europe/Ljubljana:20261010T210000
-SUMMARY:O življenju in smislu | Nea boi nula & Peter Andrej v Vetrinjcu
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Vetrinjc BARCODA\, Nea boi nula in Peter Andrej vabimo na večer glasbe in poezije\, poimenovan O ŽIVLJENJU IN SMISLU. Na odru dvorišča Vetrinjskega dvora (v primeru dežja notri) bodo kantavtor in skupina v akustični preobleki ponudili lepe melodije\, veselje in emocije subtilnega zvočnega pogleda na ok https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
-URL:https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
-END:VEVENT
-BEGIN:VEVENT
-UID:3096223bf76ca6d1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Mariborska vest | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Mariborska vest z Duletom Vaupotičem je nastala v produkciji programskih sklopov Evropske prestolnice kulture Maribor 2012 Ključi mesta in Življenje na dotik. Glavno vlogo hišnika Maribora Dušana Vaupotiča - Duleta igra priznan mariborski igralec  Aljoša Ternovšek \, serija pa je nastala pod taktirko https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
-URL:https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:054a124a217982e3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261011T170000
-DTEND;TZID=Europe/Ljubljana:20261011T190000
-SUMMARY:Med knjigami: Branko Gradišnik | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Vabljeni na pogovor v seriji   Strogo zaupno z Brankom  \, kjer boste prisluhnili razmišljanjem priznanega slovenske pisatelja\, prevajalca\, esejista in kolumnista  Branka Gradišnika .\n\nAvtor neštetih pronicljivih del ter mojstrskih prevodov velja za enega najbolj karizmatičnih in vsestranskih glaso https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
-URL:https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
+DESCRIPTION:Neznanke\, neznanci. Nepričakovani.   \n  Znane oblike\, melodije\, misli\, besede sprožijo vrsto nekontroliranih\, neznanih reakcij\, smeri\, poti. Slikajo popolnoma novo pokrajino občutkov nekontrole. Svoboda razplete razum. V trenutku obstajanja se čudim neznancem. Želijo na prostost. Želijo prip https://nd-mb.si/dogodek/zvocne-zgodbe-mojih-neznankcev/
+URL:https://nd-mb.si/dogodek/zvocne-zgodbe-mojih-neznankcev/
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ebef889b2aeb19@kulturko
@@ -84,14 +21,5 @@ SUMMARY:Klasika! Trio Tacet
 LOCATION:Narodni dom Maribor
 DESCRIPTION:Zasedba  Tacet Ensemble  želi s svojim delom predstaviti bogastvo stare glasbe slovenski publiki\, še posebej mlajši generaciji. Z znanjem o historični izvajalski praksi raziskujejo zvok\, različne instrumentacije in ustvarjajo priredbe za različne zasedbe. Zasedba v slovenskem prostoru deluje od leta https://nd-mb.si/dogodek/klasika-trio-tacet/
 URL:https://nd-mb.si/dogodek/klasika-trio-tacet/
-END:VEVENT
-BEGIN:VEVENT
-UID:7a4499e44b9f3b88@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261121T200000
-DTEND;TZID=Europe/Ljubljana:20261121T220000
-SUMMARY:Klasika!  Trio Firšt
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Nastopi tria Firšt navdušujejo občinstva v Sloveniji\, Srbiji in na Hrvaškem z glasbeno-gledališkim sprehodom čez eklektičen koncertni spored\, ki postavlja nove mejnike tehnične virtuoznosti in džezovske invencije\, norčavo predeluje znane napeve iz repertoarja evropske klasične glasbe in jih povezuje https://nd-mb.si/dogodek/klasika-trio-first/
-URL:https://nd-mb.si/dogodek/klasika-trio-first/
 END:VEVENT
 END:VCALENDAR

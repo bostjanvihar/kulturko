@@ -5,30 +5,39 @@ X-WR-CALNAME:Botanični vrt — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ec6d144f62e1e7a3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T090000
-DTEND;TZID=Europe/Ljubljana:20260926T110000
-SUMMARY:Od korenin do vitalnosti življenja
+UID:b1dcedce339522da@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T110000
+DTEND;TZID=Europe/Ljubljana:20261017T130000
+SUMMARY:Vzgoja in nega ameriških borovnic
 LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=od-korenin-do-vitalnosti-zivljenja
-URL:https://botanicnivrt.um.si/?ajde_events=od-korenin-do-vitalnosti-zivljenja
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
+URL:https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
 END:VEVENT
 BEGIN:VEVENT
-UID:a9bf2570a9be9c92@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T100000
-DTEND;TZID=Europe/Ljubljana:20260926T120000
-SUMMARY:Osem zakladov Qi gong – starodavna vadba za zdravje
+UID:4af9d18a53d07762@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T090000
+DTEND;TZID=Europe/Ljubljana:20261024T110000
+SUMMARY:Izrezovanje buč\, delavnica
 LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=osem-zakladov-qi-gong-starodavna-vadba-za-zdravje
-URL:https://botanicnivrt.um.si/?ajde_events=osem-zakladov-qi-gong-starodavna-vadba-za-zdravje
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
+URL:https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
 END:VEVENT
 BEGIN:VEVENT
-UID:04ba2cbfc9487e41@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260927T100000
-DTEND;TZID=Europe/Ljubljana:20260927T120000
-SUMMARY:Svetovni dan turizma – Živimo s prazgodovino
+UID:5ca85edead0d4bbc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T100000
+DTEND;TZID=Europe/Ljubljana:20261107T120000
+SUMMARY:Jesensko sajenje in zaščita vrtnic
 LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=svetovni-dan-turizma-tematski-sprehod-po-vrtu
-URL:https://botanicnivrt.um.si/?ajde_events=svetovni-dan-turizma-tematski-sprehod-po-vrtu
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=jesensko-sajenje-in-zascita-vrtnic
+URL:https://botanicnivrt.um.si/?ajde_events=jesensko-sajenje-in-zascita-vrtnic
+END:VEVENT
+BEGIN:VEVENT
+UID:b237816f0b67231c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T100000
+DTEND;TZID=Europe/Ljubljana:20261121T120000
+SUMMARY:Izdelovanje adventnih venčkov
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=izdelovanje-adventnih-dekoracij
+URL:https://botanicnivrt.um.si/?ajde_events=izdelovanje-adventnih-dekoracij
 END:VEVENT
 END:VCALENDAR

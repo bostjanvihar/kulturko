@@ -5,6 +5,24 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:b542643b58631888@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T180000
+DTEND;TZID=Europe/Ljubljana:20261013T193000
+SUMMARY:SobaZaGosteMaribor: Interesni safari »Riba ali raca«
+LOCATION:Vetrinjski dvor
+DESCRIPTION:\n\n\n\n\n\n\n\n13. 10. 2026 ob 18.00\, Vetrinjski dvor\nSobaZaGosteMaribor: Interesni safari »Riba ali raca«\nV torek\, 13. 10. 2026\, te vabimo\, da se nam ob 18.00 pridružiš na dvorišču Vetrinjskega dvora\, kjer bomo začeli Interesni safari z umetnikom Petrom Vranjkovićem.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSprehod po mestu bo tokr https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
+URL:https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:16fba737946cec18@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T100000
+DTEND;TZID=Europe/Ljubljana:20261020T120000
+SUMMARY:Predstavitev javnega razpisa Mestne občine Maribor za sofinanciranje kulturnih programov  2027 – 2029
+LOCATION:Vetrinjski dvor
+DESCRIPTION:Spoštovani! \n\nV petek\, 9. 10. 2026\, je bil objavljen Javni razpis za izbor kulturnih programov\, ki jih bo v letih 2027 - 2029 sofinancirala Mestna občina Maribor (JRPJI-KUL-2027-29).\n\nPredstavitev\, ki jo za potencialne prijavitelje organizira Urad za kulturo in mladino Mestne občine Maribor\,  bo https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
+URL:https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
+END:VEVENT
+BEGIN:VEVENT
 UID:eeadcdea338fa5dd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T160000
 DTEND;TZID=Europe/Ljubljana:20261022T180000

@@ -10,8 +10,8 @@ DTSTART;TZID=Europe/Ljubljana:20261016T210000
 DTEND;TZID=Europe/Ljubljana:20261016T230000
 SUMMARY:KRANKŠVESTER
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/kranksvester/
-URL:https://www.pekarna.net/napovednik/kranksvester/
+DESCRIPTION:\nTa petek\, 16 oktober\, 2026 ob 21:00\n MC Pekarna\n\nKRANKŠVESTER prihaja v MC Pekarna!\nV petek\, 16. oktobra 2026\, bo oder MC Pekarna v Mariboru zavzel eden najbolj razvpitih in kontroverznih hiphop dvojcev z območja nekdanje Jugoslavije – Krankšvester.\nZa imenom Krankšvester stojita Sett (Hrvoje Marja https://mladimaribor.si/dogodek/kranksvester/
+URL:https://mladimaribor.si/dogodek/kranksvester/
 END:VEVENT
 BEGIN:VEVENT
 UID:0048ff59c23a42f9@kulturko
@@ -19,8 +19,8 @@ DTSTART;TZID=Europe/Ljubljana:20261023T210000
 DTEND;TZID=Europe/Ljubljana:20261023T230000
 SUMMARY:PERO DEFFORMERO
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
-URL:https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
+DESCRIPTION:\nV Maribor po štirih letih prihaja spektakularna\, intergalaktična\, iberseksi gruvibilna skupina – PERO DEFFORMERO!\nVsi metalci in ljubitelji turbofolka ali pa nihče od teh – vabljeni na đuskanje ob hitih\, kot so:\nGotičarka\, Gastarbajter\, Metal sviraću\, Kauboj\, Trebalo bi\, Došli smo do kraja puta\, U  https://mladimaribor.si/dogodek/pero-defformero-2026-10-23-21-00-00-2026-10-23-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/pero-defformero-2026-10-23-21-00-00-2026-10-23-23-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:f59eb7acc964fa24@kulturko
@@ -28,8 +28,8 @@ DTSTART;TZID=Europe/Ljubljana:20261031T210000
 DTEND;TZID=Europe/Ljubljana:20261031T230000
 SUMMARY:HALLOWEEN
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/halloween.31.10.2026/
-URL:https://www.pekarna.net/napovednik/halloween.31.10.2026/
+DESCRIPTION:\nČe bi pred 30 leti vedeli\, da bo dandanes vsaka šminkerska birtija praznovala noč čarovnic\, da bodo mini plastične bučke prodajali v Hoferu pa Tediju… takrat ne bi niti začeli s tem. Samo sranje smo naredili. Ampak kaj moremo.\nTradicija v Pekarni ni hec in ne bomo se umikali\, ker so nas povozili tr https://mladimaribor.si/dogodek/halloween-2026-10-31-21-00-00-2026-10-31-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/halloween-2026-10-31-21-00-00-2026-10-31-23-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:844c469dbc15b86e@kulturko
@@ -48,5 +48,32 @@ SUMMARY:VRAŽEVERJE na petek trinajstega
 LOCATION:MC Pekarna
 DESCRIPTION: https://www.pekarna.net/napovednik/vrazeverje-na-petek-trinajstega/
 URL:https://www.pekarna.net/napovednik/vrazeverje-na-petek-trinajstega/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f98ee2e7cb71899@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:ELVIS JACKSON\, The Last Supper\, Blame Betty
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
+URL:https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
+END:VEVENT
+BEGIN:VEVENT
+UID:42906636b967bbd0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T200000
+DTEND;TZID=Europe/Ljubljana:20261205T220000
+SUMMARY:ARKONA + The Great old Ones + Seth
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/arkona-the-great-old-ones-seth/
+URL:https://www.pekarna.net/napovednik/arkona-the-great-old-ones-seth/
+END:VEVENT
+BEGIN:VEVENT
+UID:85a6cfc68815568e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T210000
+DTEND;TZID=Europe/Ljubljana:20261212T230000
+SUMMARY:NIET + Piksel Prfekt
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/niet-piksel-prfekt/
+URL:https://www.pekarna.net/napovednik/niet-piksel-prfekt/
 END:VEVENT
 END:VCALENDAR

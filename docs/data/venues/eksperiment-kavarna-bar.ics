@@ -5,12 +5,21 @@ X-WR-CALNAME:Eksperiment Kavarna & Bar — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:21f7fe41e3b8238c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260821T210000
-DTEND;TZID=Europe/Ljubljana:20260821T233000
-SUMMARY:Koncert: Kratki stik & Kismet
+UID:80d870a185ee8ed7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T233000
+SUMMARY:Anarhitektonika: Underground Movements ” Detroid Shakedown ”
 LOCATION:Eksperiment Kavarna & Bar
-DESCRIPTION:Punk špil v Maribori!! Petek 21. avgust\, dva benda\, ena noc. Tresli nas bodo Kratki stik in Kismet!\n\nVstopnine ni. Izgovorov tudi ne. https://mladimaribor.si/dogodek/koncert-kratki-stik-kismet/
-URL:https://mladimaribor.si/dogodek/koncert-kratki-stik-kismet/
+DESCRIPTION:Gotti se je vrnil iz balkan turneje z detroitskim smooth spitterjem Valid-om in legendarnim DJ Headom\, človekom ki je med drugim igral pomembno vlogo pri kaljenju kalibrov kot so J Dilla\, Big Proof ter celo 50 Cent in Eminem.\nNjima na čast bomo poslušali selekcije Detroitovskih artistov z velikim po https://mladimaribor.si/dogodek/anarhitektonika-underground-movements-detroid-shakedown/
+URL:https://mladimaribor.si/dogodek/anarhitektonika-underground-movements-detroid-shakedown/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb5fbedfa9d3421@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T180000
+DTEND;TZID=Europe/Ljubljana:20261024T220000
+SUMMARY:Paint & Sip
+LOCATION:Eksperiment Kavarna & Bar
+DESCRIPTION: PAINT & SIP Eksperiment bar\, Maribor Petek\, 24. oktober 2026 18:00–22:00\nPridruži se nam na sproščenem ustvarjalnem večeru v jesenskem duhu!Tokrat bomo slikali motive na temo noč čarovnic. V prijetnem ambientu Eksperiment bara te čaka umetniško druženje\, okusna pijača in prigrizki ter veliko dobre  https://mladimaribor.si/dogodek/paint-sip/
+URL:https://mladimaribor.si/dogodek/paint-sip/
 END:VEVENT
 END:VCALENDAR

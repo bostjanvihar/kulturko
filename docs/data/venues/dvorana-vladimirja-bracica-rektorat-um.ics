@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Dvorana Vladimirja Bračiča\, Rektorat UM — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:85f65e093e42b389@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T000000
+DTEND;TZID=Europe/Ljubljana:20261015T000000
+SUMMARY:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+LOCATION:Dvorana Vladimirja Bračiča\, Rektorat UM
+DESCRIPTION:Dogodek je namenjen dijakom 4. letnikov Srednje ekonomske šole in gimnazije Maribor\, z namenom\, da pridobijo informacije in znanja za premišljene odločitve glede nadaljnje izobraževalne in poklicne poti\, skladno z njihovimi željami in cilji.\n\n\n\nDijaki bodo:\n\nraziskali svoje interese\, vrednote in veš https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00/
+URL:https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:063b578eebc7fa2c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T150000
+DTEND;TZID=Europe/Ljubljana:20261022T150000
+SUMMARY:KEMIKON: Uporaba družbenega omrežja LinkedIn pri iskanju zaposlitve
+LOCATION:Dvorana Vladimirja Bračiča\, Rektorat UM
+DESCRIPTION:Na delavnici se bomo osredotočili na vlogo družbenih omrežij pri vstopu na trg dela. Podrobneje se bomo posvetili LinkedInu\, ki je vodilno družbeno omrežje\, namenjeno profesionalnemu mreženju.\n\n\n\nCilji delavnice:\n\n\nozavestiti pomen digitalne prisotnosti na trgu dela\;\nnaučiti se učinkovitega mreženja https://mladimaribor.si/dogodek/kemikon-uporaba-druzbenega-omrezja-linkedin-pri-iskanju-zaposlitve-2026-10-22-15-00-00/
+URL:https://mladimaribor.si/dogodek/kemikon-uporaba-druzbenega-omrezja-linkedin-pri-iskanju-zaposlitve-2026-10-22-15-00-00/
+END:VEVENT
+END:VCALENDAR

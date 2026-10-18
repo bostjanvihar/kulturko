@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Atelje Vetrinjskega dvora — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:038e5d7c83dea9bc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T080000
+DTEND;TZID=Europe/Ljubljana:20261016T170000
+SUMMARY:(Fl)etna noč čarovnic
+LOCATION:Atelje Vetrinjskega dvora
+DESCRIPTION:Čira čara\, hokus pokus – nasmeh se nariše in nikoli ne izbriše!\nNa Vetrinjskem dvoru bo znova završalo od čarovniškega smeha\, skrivnostnih napojev in šelestenja metel. Noč čarovnic pri nas že tradicionalno združuje male in velike čarovnice ter čarovnike.\nUstvarjali bomo\, se igrali in poslikali obraz https://mladimaribor.si/dogodek/fletna-noc-carovnic-2/
+URL:https://mladimaribor.si/dogodek/fletna-noc-carovnic-2/
+END:VEVENT
+END:VCALENDAR

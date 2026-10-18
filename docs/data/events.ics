@@ -5,447 +5,6 @@ X-WR-CALNAME:Kultura Maribor
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:97d1767cf07f77a6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T090000
-DTEND;TZID=Europe/Ljubljana:20261009T160000
-SUMMARY:TEDEN OTROKA
-LOCATION:Trg svobode Maribor
-DESCRIPTION:5. – 9. 10. 2026\, Trg svobode\n✨ DOBRO JUTRO\, DOBER DAN – naj te spremlja prav vsak dan✨\nBliža se Teden otroka v okviru katerega bodo na Trgu svobode vsak dan potekale številne aktivnosti.\nZa otroke\, med 5. – 9. 10. 2026\, pripravljamo ustvarjalne delavnice\, igre\, igrane predstave\, predstavile pa se n https://mladimaribor.si/dogodek/teden-otroka/
-URL:https://mladimaribor.si/dogodek/teden-otroka/
-END:VEVENT
-BEGIN:VEVENT
-UID:e325bdf77b7a2c5e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T100000
-DTEND;TZID=Europe/Ljubljana:20261005T130000
-SUMMARY:24. BRALNI MARATON
-LOCATION:Trg svobode Maribor
-DESCRIPTION:Ob začetku letošnjega branja za Prežihovo bralno značko in v okviru Tedna otroka® vabimo na 24. BRALNI MARATON\, ki bo v ponedeljek\, 5. oktobra 2026 ob 10. uri\, na Trgu svobode.\nMlade ustvarjalce smo povabili\, da skozi lastno poezijo ali poezijo drugih avtorjev izrazijo svoje misli\, želje in pričakov https://mladimaribor.si/dogodek/24-bralni-maraton/
-URL:https://mladimaribor.si/dogodek/24-bralni-maraton/
-END:VEVENT
-BEGIN:VEVENT
-UID:743c65f5163c6ba5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T170000
-DTEND;TZID=Europe/Ljubljana:20261005T180000
-SUMMARY:BREZPLAČNA VADBA!
-LOCATION:UŠC Leona Štuklja
-DESCRIPTION:V okviru projekta Zmigaj se do vadbe\, katerega nosilec je Olimpijski komite Slovenije – Združenje športnih zvez (OKS-ZŠZ)\, organizirali brezplačne strokovno vodene vadbe za vse odrasle prebivalce Slovenije\, ki ne dosegajo priporočene ravni telesne dejavnosti po smernicah Svetovne zdravstvene organiz https://mladimaribor.si/dogodek/brezplacna-vadba/
-URL:https://mladimaribor.si/dogodek/brezplacna-vadba/
-END:VEVENT
-BEGIN:VEVENT
-UID:2626444f35661c84@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T190000
-DTEND;TZID=Europe/Ljubljana:20261005T210000
-SUMMARY:Štuktoberfest 2026 || Trivia night – PIVO
-LOCATION:ŠTUK
-DESCRIPTION:📅 5. 10. 2026 ⏰ 19.00 📍 atrij ali dvorana ŠTUK / vstopnine ni 🍻 TRIVIA NIGHT – PIVO 🍻 Zberi ekipo in se nam pridruži na posebnem Trivia Nightu\, kjer bo v ospredju pivo! 🤓🏆 👥 Ekipe po 4 člane 🔢 40 ekip + 5 ekip v čakalni vrsti Čaka vas večer zanimivih vprašanj\, tekmovalnega vzdušja\, druženja in nagra https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-trivia-night-pivo/
-URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-trivia-night-pivo/
-END:VEVENT
-BEGIN:VEVENT
-UID:674cc461d1800a96@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T190000
-DTEND;TZID=Europe/Ljubljana:20261005T210000
-SUMMARY:Šminka in sekirca
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Kontrabant d.o.o. \n\n \n\nKaj pa\, ko se dve popolnoma različni ženski resnično znajdeta v divjini. Bosta postali prijateljici ali nasprotnici? Bosta sploh preživeli daleč od kopalnice\, ogledala in wc-j https://nd-mb.si/dogodek/sminka-in-sekirca/
-URL:https://nd-mb.si/dogodek/sminka-in-sekirca/
-END:VEVENT
-BEGIN:VEVENT
-UID:907cef69f1e36ba1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T190000
-DTEND;TZID=Europe/Ljubljana:20261005T210000
-SUMMARY:… ta neskončna negotovost
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:… ta neskončna negotovost\n\nSlike so nastajale v ustvarjalno napetem okolju slikarskih delavnic\, so novejšega datuma in nastale so v zadnjem letu ali dveh. V tedenskih slikarskih delavnicah najdejo prostor odrasli posamezniki. Nekateri že leta obiskujejo delavnice\, nekateri pa so se pridružili šele https://nd-mb.si/dogodek/ta-neskoncna-negotovost/
-URL:https://nd-mb.si/dogodek/ta-neskoncna-negotovost/
-END:VEVENT
-BEGIN:VEVENT
-UID:1bea498196433ec7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T193000
-DTEND;TZID=Europe/Ljubljana:20261005T213000
-SUMMARY:Kakšno ime pa je to?!
-LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Linhartova dvorana Radovljica https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-END:VEVENT
-BEGIN:VEVENT
-UID:e52897d9a2743629@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T090000
-DTEND;TZID=Europe/Ljubljana:20261006T163000
-SUMMARY:Zaključni dogodek CAREVOLUTION
-LOCATION:Štajerska gospodarska zbornica
-DESCRIPTION:Ob zaključku projekta CAREvolution pripravljamo dogodek\, ki ni namenjen le predstavitvi rezultatov projekta\, ampak predvsem srečanju\, izmenjavi izkušenj\, dobrim praksam in pogovoru o tem\, kako ustvarjati bolj vključujoča\, zdrava in človeku prijazna delovna okolja.\n\nČaka nas pester dan\, v katerem bom https://mladimaribor.si/dogodek/zakljucni-dogodek-carevolution/
-URL:https://mladimaribor.si/dogodek/zakljucni-dogodek-carevolution/
-END:VEVENT
-BEGIN:VEVENT
-UID:1354a7efc870d574@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T160000
-DTEND;TZID=Europe/Ljubljana:20261006T233000
-SUMMARY:Štuktoberfest 2026 || Prvi študentski torek || TIL ČEH & Petelini
-LOCATION:ŠTUK
-DESCRIPTION:📅 torek 6. 10. 2026\n🕗 popoldanski program od 16. ure naprej\, večerni od 22. ure naprej\n📍 Štuk\, Maribor\n\nV torek nas čaka vrhunec letošnjega ŠTUKTOBERFESTA! Čez dan bo atrij ŠTUK-a zaživel v pravem oktoberfest vzdušju – ob različnih vrstah piva\, prestah\, klobasah in dobri družbi. 🥨\nKo se zvečeri\, pa  https://mladimaribor.si/dogodek/stuktoberfest-2026-prvi-studentski-torek-til-ceh-petelini-2026-10-06-16-00-00/
-URL:https://mladimaribor.si/dogodek/stuktoberfest-2026-prvi-studentski-torek-til-ceh-petelini-2026-10-06-16-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:7433a1188f654c6a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T180000
-DTEND;TZID=Europe/Ljubljana:20261006T193000
-SUMMARY:Ajda Rudolf: Ko bom velika\, bom pošast
-LOCATION:OBRAT
-DESCRIPTION:\n\n\nV torek\, 6. 10. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT – prostor umetnosti in participacije\, na predavanje Ajde Rudolf z naslovom Ko bom velika\, bom pošast.\n\n\n\n\n\n\nV svetu\, ki stremi k večni mladosti\, je podoba mlade ženske na filmu prežeta z vizualno fascinacijo. Kamera ml https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
-URL:https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
-END:VEVENT
-BEGIN:VEVENT
-UID:cccdea4ad3c40ea7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T190000
-DTEND;TZID=Europe/Ljubljana:20261006T210000
-SUMMARY:LGBTQ+ literarni maraton
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nLGBTQ+ LITERARNI MARATON\nTorek\, 6. oktober 2026 // ob 19.00 // Kulturni inkubator\nV torek\, 6. oktobra 2026\, vas ob 19. uri vas prijazno vabimo v Kulturni inkubator na LGBTQ+ literarni večer z namenom povezovanja različnih društev in ustanov\, ki se ukvarjajo s podporo LGBTQ+ osebam.\n\n\n\n\n\n\nLiterar https://mladimaribor.si/dogodek/lgbtq-literarni-maraton-2026-10-06-19-00-00-2026-10-06-21-00-00/
-URL:https://mladimaribor.si/dogodek/lgbtq-literarni-maraton-2026-10-06-19-00-00-2026-10-06-21-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:ef3210f81b5ef758@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T190000
-DTEND;TZID=Europe/Ljubljana:20261006T210000
-SUMMARY:Teden otroka v UGM
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46853-teden-otroka-v-ugm
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46853-teden-otroka-v-ugm
-END:VEVENT
-BEGIN:VEVENT
-UID:21c0dddbe7f15849@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T190500
-DTEND;TZID=Europe/Ljubljana:20261006T210500
-SUMMARY:Kako do zgodbe\, ki jo lahko poveš samo ti?
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Kaj imajo skupnega zgodbe znamk\, ki si jih zapomnimo? Na predavanju bomo poskušali odkriti njihove ključne sestavine in pogledati\, kako iz resničnih posebnosti\, značaja in bistva znamke nastane zgodba\, ki je nezamenljivo njena.\n\nSkozi konkretne projekte bomo sledili poti od raziskovanja in odkriva https://nd-mb.si/dogodek/kako-do-zgodbe-ki-jo-lahko-poves-samo-ti/
-URL:https://nd-mb.si/dogodek/kako-do-zgodbe-ki-jo-lahko-poves-samo-ti/
-END:VEVENT
-BEGIN:VEVENT
-UID:e310b8399694929a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T110000
-DTEND;TZID=Europe/Ljubljana:20261007T130000
-SUMMARY:Tolkala za radovedneže
-LOCATION:Dvorana Union
-DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Skupina  Slovenski tolkalni projekt (krajše SToP)  deluje od leta 1999. Tolkalce je združila želja po komornem muziciranju\, izvajanju kakovostnih skladb ter raziskovanju novih zvo https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-URL:https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-END:VEVENT
-BEGIN:VEVENT
-UID:a76e694e6009503e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T170000
-DTEND;TZID=Europe/Ljubljana:20261007T183000
-SUMMARY:Pogovorna skupina za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-10-07/
-URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2026-10-07/
-END:VEVENT
-BEGIN:VEVENT
-UID:dd7610bcc7ae87a7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T180000
-DTEND;TZID=Europe/Ljubljana:20261007T200000
-SUMMARY:Večer v živo: Vili Ravnjak
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nVili Ravnjak\, učitelj meditacije in duhovne modrosti\n\n Prebujanje v svetlobo \n\nVili Ravnjak je znani učitelj meditacije in duhovnih znanj. Je dramaturg in avtor več knjig o duhovnos https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
-URL:https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
-END:VEVENT
-BEGIN:VEVENT
-UID:20d43805eea394db@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T190000
-DTEND;TZID=Europe/Ljubljana:20261007T210000
-SUMMARY:Kopisti v UGM / Slikarska ustvarjalnica za mlade in odrasle
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
-URL:https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
-END:VEVENT
-BEGIN:VEVENT
-UID:b0f0d3037fa222ff@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T200000
-DTEND;TZID=Europe/Ljubljana:20261007T220000
-SUMMARY:Štuktoberfest 2026 || ŠOUROCK – drugi predvečer
-LOCATION:ŠTUK
-DESCRIPTION:📅 7. oktober 2026 ob 20:00 📍 Dvorana ŠTUK 🎟️ VSTOP PROST NOVA SEZONA. NOVI BENDI. NOVA BITKA ZA FINALE. 🔥 Šourock 2026 se vrača na oder ŠTUK-a! 🤘 Tudi letos bodo mladi ustvarjalci rock\, alternativne in sorodne glasbe dobili priložnost\, da svojo glasbo predstavijo občinstvu in strokovni komisiji ter  https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-sourock-drugi-predvecer/
-URL:https://vstopnice.stuk.org/izdelek/stuktoberfest-2026-sourock-drugi-predvecer/
-END:VEVENT
-BEGIN:VEVENT
-UID:f093c9ac1d9f4d17@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T200000
-DTEND;TZID=Europe/Ljubljana:20261007T220000
-SUMMARY:»Lav iz in di er«
-LOCATION:SNG Maribor
-DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
-URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:9c96443a530d5654@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T150000
-DTEND;TZID=Europe/Ljubljana:20261008T170000
-SUMMARY:Tolkala od blizu
-LOCATION:Narodni dom Maribor
-DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Tolkala so glasbila\, na katera igramo tako\, da z roko ali s paličastimi pripravami (tolkalci) udarjamo nanje. To poimenovanje izhaja iz načina igranja na te inštrumente\, sicer pa  https://nd-mb.si/dogodek/tolkala-od-blizu/
-URL:https://nd-mb.si/dogodek/tolkala-od-blizu/
-END:VEVENT
-BEGIN:VEVENT
-UID:82ebab23af29f6ae@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T180000
-DTEND;TZID=Europe/Ljubljana:20261008T200000
-SUMMARY:Spoznaj umetnika Petra Vranjkovića
-LOCATION:Trg revolucije 9
-DESCRIPTION:V četrtek\, 8. 10. 2026\, te ob 18.00 vabimo v OBRAT na predstavitev dela in umetniških praks umetnika Petra Vranjkovića.\n\nUmetnik je peti rezident SobeZaGosteMaribor v letu 2026. V času trajanja enomesečne rezidence v mesecu oktobru bo razvil in na koncu predstavil svoj umetniški projekt.\n\nPridru https://nd-mb.si/dogodek/spoznaj-umetnika-petra-vranjkovica/
-URL:https://nd-mb.si/dogodek/spoznaj-umetnika-petra-vranjkovica/
-END:VEVENT
-BEGIN:VEVENT
-UID:d31ccdfcbf37b7a3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T180000
-DTEND;TZID=Europe/Ljubljana:20261008T200000
-SUMMARY:1980 → 2026:  OSEMDESETA BREZ FILTRA!
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Dve knjigi\, štirje ustvarjalci in pogovor o osemdesetih - brez filtra. \n Kaj ostane od države\, ki je že dolgo ni več? Glasba\, predmeti\, znamke\, zgodbe\, spomini … \n Uroš Goričan in Boštjan Tadel sta leto 1980 ujela vsak v svojem romanu in iz povsem različnih perspektiv - Boguizanogu pripoveduje o p https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
-URL:https://nd-mb.si/dogodek/1980-%e2%86%92-2026-osemdeseta-brez-filtra/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e3b115adc89b920@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T190000
-DTEND;TZID=Europe/Ljubljana:20261008T210000
-SUMMARY:Odprti zakon
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater  \n\n \n\n  Odprti zakon ni zgolj komedija o paru\, temveč univerzalna zgodba o odnosih\, v katerih so pravila pogosto pisana za enega\, ne pa za oba.  \n\nZanimiv zakonski par srednjih let\, č https://nd-mb.si/dogodek/odprti-zakon/
-URL:https://nd-mb.si/dogodek/odprti-zakon/
-END:VEVENT
-BEGIN:VEVENT
-UID:54ad6a8026295e94@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:Večer slabe poezije
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nVEČER SLABE POEZIJE\nČetrtek\, 8. oktober 2026 // 20.00 // Kulturni inkubator\nKo te muza zapusti\, ostanejo le rime na -i. Vabimo na večer slabe poezije\, ki bo v četrtek\, 8. oktober 2026\, ob 20. uri v Kulturnem inkubatorju. Veselimo se najslabšega pesniškega večera v Mariboru – naj nas skupaj pogo https://mladimaribor.si/dogodek/vecer-slabe-poezije-2026-10-08-20-00-00-2026-10-08-22-00-00/
-URL:https://mladimaribor.si/dogodek/vecer-slabe-poezije-2026-10-08-20-00-00-2026-10-08-22-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:afd46ce8324dd9ad@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:Mednarodna večerja || Erasmus International Dinner
-LOCATION:ŠTUK
-DESCRIPTION:🌍🍴 Many cultures. Many flavors. One unforgettable evening.\nFood brings people together – and this time\, we’re bringing the world to ŠTUK! 🌎✨\nJoin us for the International Dinner for Erasmus Students on October 8th at ŠTUK and discover flavors\, traditions and drinks from different corners of the worl https://mladimaribor.si/dogodek/mednarodna-vecerja-erasmus-international-dinner-2026-10-08-00-00-00/
-URL:https://mladimaribor.si/dogodek/mednarodna-vecerja-erasmus-international-dinner-2026-10-08-00-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:eabd8d9860e4e2af@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:»Lav iz in di er«
-LOCATION:SNG Maribor
-DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Kulturni dom Franca Bernika Domžale https://www.sng-mb.si/event/lav-iz-in-di-er/
-URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
-END:VEVENT
-BEGIN:VEVENT
-UID:31431e1b9ca57435@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:Futraj moj ego 2
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Multipersonaž Futraj moj ego iz leta 2019 je štiri leta kasneje dobil svoje logično nadaljevanje. Anja Bezlova\, ki sicer že vrsto let kot članica različnih zasedb vandra po domačih in evropskih ulicah in festivalih\, je v vmesnem času snovala intimno podobo sveta\, z dražljaji\, ki jo obdajajo\, pa je p https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
-URL:https://nd-mb.si/dogodek/futraj-moj-ego-2-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:5a26c956ec249efe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T200000
-DTEND;TZID=Europe/Ljubljana:20261008T220000
-SUMMARY:Oriental Expressive + jazz jam v Vetrinjcu
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Oktobrski jazz jam bo prav poseben. Odprl ga bo mednarodni jazz dialog med kulturami!\n\n---\n\nNovo mednarodno sodelovanje povezuje pet glasbenikov iz Tunizije\, Turčije\, Slovenije in Brazilije. Zgodba se je začela na Mednarodni jazzovski platformi v Lyonu\, kjer je slovenski saksofonist in skladatel https://nd-mb.si/dogodek/oriental-expressive-jazz-jam-v-vetrinjcu/
-URL:https://nd-mb.si/dogodek/oriental-expressive-jazz-jam-v-vetrinjcu/
-END:VEVENT
-BEGIN:VEVENT
-UID:cb89e2031d897929@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T083000
-DTEND;TZID=Europe/Ljubljana:20261009T130000
-SUMMARY:Dan odprtih vrat v Zavodu Nazaj na konja!
-LOCATION:Zavod Nazaj na konja
-DESCRIPTION:Vabimo vas na izobraževalni obisk s strokovnim mreženjem na temo “Intervencije s pomočjo živali\, narave in umetnosti kot vir pomoči in podpore”\, kjer boste spoznali delovanje ter programe organizacije Zavod Nazaj na konja\, dogodek pa je namenjen tudi mreženju podravskih organizacij s področja social https://mladimaribor.si/dogodek/dan-odprtih-vrat-v-zavodu-nazaj-na-konja/
-URL:https://mladimaribor.si/dogodek/dan-odprtih-vrat-v-zavodu-nazaj-na-konja/
-END:VEVENT
-BEGIN:VEVENT
-UID:cb7a2d3f61b54a59@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T180000
-DTEND;TZID=Europe/Ljubljana:20261009T200000
-SUMMARY:Satiraš | Festival Špegl
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Na pogovor smo povabili nekatere mojstre slovenske satire\, da spregovorijo o poteku svojega dela in da potrdijo tezo\, da je satira resen posel. Med gosti bosta dva dva karikaturista\, Franco Juri in Ciril Horjak\, publicist\, novinar in pisatelj Marko Radmilović\, novinar in urednik Totega lista Rok Kaj https://nd-mb.si/dogodek/satiras-festival-spegl/
-URL:https://nd-mb.si/dogodek/satiras-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:18d849cc0ab76dfe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T190000
-DTEND;TZID=Europe/Ljubljana:20261009T210000
-SUMMARY:Jesenski Teden restavracij
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45796-jesenski-teden-restavracij
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45796-jesenski-teden-restavracij
-END:VEVENT
-BEGIN:VEVENT
-UID:e1dadfbe6d84d100@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T190000
-DTEND;TZID=Europe/Ljubljana:20261009T210000
-SUMMARY:Tanja Vujinović: Avantgardeners
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46851-tanja-vujinovic-avantgardeners
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46851-tanja-vujinovic-avantgardeners
-END:VEVENT
-BEGIN:VEVENT
-UID:e7f7723947c2bb5c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T200000
-DTEND;TZID=Europe/Ljubljana:20261009T220000
-SUMMARY:Stand up večer z Avtmigeci
-LOCATION:Kulturni inkubator
-DESCRIPTION:\n\n\n\n\nSTAND UP VEČER\nZ AVTMIGECI\nPetek\, 9. oktober2026 // ob 20.00 // Kulturni inkubator\nKulturni inkubator gosti serijo brezplačnih Stand up večerov z Avtmigeci\, na katerih na oder stopijo mladi stand up komiki\, ki so šele na začetku svoje kariere in pa tisti bolj izkušeni\, ki želijo preizkusiti nov https://mladimaribor.si/dogodek/stand-up-vecer-z-avtmigeci-2026-10-09-20-00-00-2026-10-09-22-00-00/
-URL:https://mladimaribor.si/dogodek/stand-up-vecer-z-avtmigeci-2026-10-09-20-00-00-2026-10-09-22-00-00/
-END:VEVENT
-BEGIN:VEVENT
-UID:3a2d40a29605a475@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261009T200000
-DTEND;TZID=Europe/Ljubljana:20261009T220000
-SUMMARY:Karpo Godina: Satirično
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Vabljeni na večer filma in družbe z legendo slovenskega filma\, Karpom Godino. Na ogled bodo izjemni (satirični) filmi\, ki s svojo drznostjo navdušujejo še danes.  Karpo Godina  velja za enega najpomembnejših in najbolj prepoznavnih avtorjev slovenskega ter nekdanjega jugoslovanskega filma. Kot režis https://nd-mb.si/dogodek/karpo-godina-satiricno/
-URL:https://nd-mb.si/dogodek/karpo-godina-satiricno/
-END:VEVENT
-BEGIN:VEVENT
-UID:e9ea294f835eb237@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T090000
-DTEND;TZID=Europe/Ljubljana:20261010T110000
-SUMMARY:Producentska ZIZ delavnica: POSTATI IN OSTATI
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Mariborska neodvisna uprizoritvena scena se vseskozi in vedno znova srečuje z enakimi izzivi. Kako si lahko pomagamo sami\, kako si lahko pomagamo med sabo? \n Namen delavnice je opolnomočiti posameznice\, kolektive in organizacije ter jih opremiti z orodji za uspešno in kontinuirano izvajanje kakovos https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
-URL:https://nd-mb.si/dogodek/producentska-delavnica-postati-in-ostati/
-END:VEVENT
-BEGIN:VEVENT
-UID:a8f0962d0e8341bd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T100000
-DTEND;TZID=Europe/Ljubljana:20261010T120000
-SUMMARY:Slikam\, kar slišim z Almo Lovrenčič
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Na delavnici bomo skupaj prebrali kratko zgodbico ali pesmico\, nato pa jo bo vsak otrok po svoje ilustriral. Otroci bodo skozi risbo in barve izrazili\, kako so zgodbo doživeli\, ter razvijali domišljijo\, opazovanje in pripovedno razmišljanje. Delavnica spodbuja povezovanje besede in slike ter ustvarj https://nd-mb.si/dogodek/slikam-kar-slisim-z-almo-lovrencic/
-URL:https://nd-mb.si/dogodek/slikam-kar-slisim-z-almo-lovrencic/
-END:VEVENT
-BEGIN:VEVENT
-UID:bd2d0c90ebf3ab56@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T180000
-DTEND;TZID=Europe/Ljubljana:20261010T200000
-SUMMARY:Priključitev “okupiranih” delov Štajerske domovini | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Če se peljemo proti Koroški\, nas obcestna tabla »Dobrodošli na Koroški« pozdravi že takoj po Selnici ob Dravi\, zato smo se skupaj s Koroško osrednjo knjižnico dr. Franca Sušnika odločili\, da organiziramo dogodek\, na katerem bo vsaka stran predstavila svoje argumente in "argumente"\, kje bi morala ta  https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
-URL:https://nd-mb.si/dogodek/prikljucitev-okupiranih-delov-stajerske-domovini-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:66231570c64b625b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T190000
-DTEND;TZID=Europe/Ljubljana:20261010T210000
-SUMMARY:O življenju in smislu | Nea boi nula & Peter Andrej v Vetrinjcu
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Vetrinjc BARCODA\, Nea boi nula in Peter Andrej vabimo na večer glasbe in poezije\, poimenovan O ŽIVLJENJU IN SMISLU. Na odru dvorišča Vetrinjskega dvora (v primeru dežja notri) bodo kantavtor in skupina v akustični preobleki ponudili lepe melodije\, veselje in emocije subtilnega zvočnega pogleda na ok https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
-URL:https://nd-mb.si/dogodek/o-zivljenju-in-smislu-nea-boi-nula-peter-andrej-v-vetrinjcu/
-END:VEVENT
-BEGIN:VEVENT
-UID:785f6cb549865a76@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T190000
-DTEND;TZID=Europe/Ljubljana:20261010T210000
-SUMMARY:Popium Vol. 2
-LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
-URL:https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
-END:VEVENT
-BEGIN:VEVENT
-UID:3096223bf76ca6d1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Mariborska vest | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Mariborska vest z Duletom Vaupotičem je nastala v produkciji programskih sklopov Evropske prestolnice kulture Maribor 2012 Ključi mesta in Življenje na dotik. Glavno vlogo hišnika Maribora Dušana Vaupotiča - Duleta igra priznan mariborski igralec  Aljoša Ternovšek \, serija pa je nastala pod taktirko https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
-URL:https://nd-mb.si/dogodek/mariborska-vest-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:ee197e498277dc80@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T200000
-DTEND;TZID=Europe/Ljubljana:20261010T220000
-SUMMARY:Luka Basi
-LOCATION:Dvorana Tabor
-DESCRIPTION: https://www.facebook.com/events/1506266044015747/
-URL:https://www.facebook.com/events/1506266044015747/
-END:VEVENT
-BEGIN:VEVENT
-UID:054a124a217982e3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261011T170000
-DTEND;TZID=Europe/Ljubljana:20261011T190000
-SUMMARY:Med knjigami: Branko Gradišnik | Festival Špegl
-LOCATION:Narodni dom Maribor
-DESCRIPTION:Vabljeni na pogovor v seriji   Strogo zaupno z Brankom  \, kjer boste prisluhnili razmišljanjem priznanega slovenske pisatelja\, prevajalca\, esejista in kolumnista  Branka Gradišnika .\n\nAvtor neštetih pronicljivih del ter mojstrskih prevodov velja za enega najbolj karizmatičnih in vsestranskih glaso https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
-URL:https://nd-mb.si/dogodek/med-knjigami-branko-gradisnik-festival-spegl/
-END:VEVENT
-BEGIN:VEVENT
-UID:e42ec4bf267da44d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261011T190000
-DTEND;TZID=Europe/Ljubljana:20261011T210000
-SUMMARY:8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46813-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46813-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:2e262ce702aef13c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T100000
-DTEND;TZID=Europe/Ljubljana:20261012T120000
-SUMMARY:Branko Zinauer | Festival Špegl
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Enega najpomembnejših ilustratorjev legendarnega   Totega lista   boste spoznali skozi edinstvena medijska očala!\n\nKako so mediji spremljali njegovo ustvarjalno pot\, kako se je umaknil iz javnega življenja\, kako smo ga znova odkrili in kakšen neprecenljiv prispevek je dal našemu Totemu listu in ml https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
-URL:https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
-END:VEVENT
-BEGIN:VEVENT
-UID:5276be247c4d3009@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T100000
-DTEND;TZID=Europe/Ljubljana:20261012T120000
-SUMMARY:Med svetlobo in transcendenco
-LOCATION:Vodni stolp
-DESCRIPTION:Otvoritev razstave bo v četrtek\, 1. oktobra ob 19.30.\n Na otvoritvi razstave bosta nastopila sopranistka Nilda Luketič in pianist Matej Luketič. O razstavi bo spregovoril Mario Berdič. \n \n\n \n\nRazstava Zdravka Luketiča v Vodnem stolpu predstavlja izbor novejših del\, v katerih umetnik skozi simb https://nd-mb.si/dogodek/med-svetlobo-in-transcendenco/
-URL:https://nd-mb.si/dogodek/med-svetlobo-in-transcendenco/
-END:VEVENT
-BEGIN:VEVENT
-UID:5296bd18cca6034e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T100000
-DTEND;TZID=Europe/Ljubljana:20261012T120000
-SUMMARY:… ta neskončna negotovost
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:… ta neskončna negotovost\n\nSlike so nastajale v ustvarjalno napetem okolju slikarskih delavnic\, so novejšega datuma in nastale so v zadnjem letu ali dveh. V tedenskih slikarskih delavnicah najdejo prostor odrasli posamezniki. Nekateri že leta obiskujejo delavnice\, nekateri pa so se pridružili šele https://nd-mb.si/dogodek/ta-neskoncna-negotovost-2/
-URL:https://nd-mb.si/dogodek/ta-neskoncna-negotovost-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:2a4c5d9802671715@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T163000
-DTEND;TZID=Europe/Ljubljana:20261012T183000
-SUMMARY:Likovna šola s Polono\, 6+
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Kjer radovednost sreča umetnost \n\nKaj vidimo in občutimo\, če pogledamo svet malo drugače – bolj pozorno in zavzeto? V kakšne fantazijske svetove in čudovite podobe nas lahko popeljejo domišljija\, ostro oko in spretni prsti? Kako iz črte\, madeža\, barv in oblik nastane nekaj čisto našega in osupljiv https://nd-mb.si/dogodek/likovna-sola-s-polono-6/
-URL:https://nd-mb.si/dogodek/likovna-sola-s-polono-6/
-END:VEVENT
-BEGIN:VEVENT
-UID:eb230d3dd66c3b43@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T163000
-DTEND;TZID=Europe/Ljubljana:20261012T183000
-SUMMARY:Šola animiranega filma\, 8+
-LOCATION:Partizanska cesta 12
-DESCRIPTION:Ko se risba premakne. Ko predmet oživi. Ko ideja postane film.\n\nKako doseči\, da risba oživi? Kako premakniti predmet\, ne da bi ga zares premaknili? In kako iz množice fotografij ustvariti čisto pravi animirani film?\n\nV laboratoriju za animacijo oz. šoli animiranega filma bodo otroci skozi igro\,  https://nd-mb.si/dogodek/sola-animiranega-filma-8/
-URL:https://nd-mb.si/dogodek/sola-animiranega-filma-8/
-END:VEVENT
-BEGIN:VEVENT
-UID:aa3e21b7ce897def@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261012T190000
-DTEND;TZID=Europe/Ljubljana:20261012T210000
-SUMMARY:Sneg\, Sneg / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47852-sneg-sneg-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47852-sneg-sneg-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:006d557c20ae05eb@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261012T203000
 DTEND;TZID=Europe/Ljubljana:20261012T223000
@@ -453,15 +12,6 @@ SUMMARY:Otvoritev 8. ZIZ festivala in koncert 3vium Ensembla
 LOCATION:Klub Narodnega doma
 DESCRIPTION:Brez tromb\, ki bi sceno zbobnale na kup\, a s kitaro\, flavto\, piščalmi in violino. S 3vium Ensemblom\, z Jako Fiedlerjem\, Asjo Grauf in Špelo Huzjak\, z odprtim formatom glasbenega potovanja. Avtorskoglasbeni\, na trenutke improvizacijski sprehod skozi obdobja klasike.\n  Mariborska muzika za začetek ma https://nd-mb.si/dogodek/otvoritev-8-ziz-festivala-in-koncert-3vium-ensembla/
 URL:https://nd-mb.si/dogodek/otvoritev-8-ziz-festivala-in-koncert-3vium-ensembla/
-END:VEVENT
-BEGIN:VEVENT
-UID:e7e7be50ce2d13b9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T100000
-DTEND;TZID=Europe/Ljubljana:20261013T120000
-SUMMARY:Mali simpozij - prve naselitve na območju Maribora
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45804-mali-simpozij-prve-naselitve-na-obmocju-maribora
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45804-mali-simpozij-prve-naselitve-na-obmocju-maribora
 END:VEVENT
 BEGIN:VEVENT
 UID:d749f0a53b0a41cf@kulturko
@@ -473,22 +23,13 @@ DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno pri
 URL:https://mladimaribor.si/dogodek/studentski-oktober-trznica-pod-arkadami/
 END:VEVENT
 BEGIN:VEVENT
-UID:9adee8fe6d1bb62a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T163000
-DTEND;TZID=Europe/Ljubljana:20261013T183000
-SUMMARY:Mali modni studio\, 6+
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Iz blaga\, niti in domišljije ustvarjamo čisto svoje izdelke.\n\nKaj vse lahko nastane iz blaga\, preje\, šivanke in malo domišljije? Na celoletnem tečaju Mali modni studio oz. moda za najmlajše bodo otroci raziskovali svet tekstila\, spoznavali različne materiale in tehnike ter se učili\, kako svoje ide https://nd-mb.si/dogodek/mali-modni-studio-6/
-URL:https://nd-mb.si/dogodek/mali-modni-studio-6/
-END:VEVENT
-BEGIN:VEVENT
-UID:153a0a12ea7d7f98@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T173000
+UID:b542643b58631888@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T180000
 DTEND;TZID=Europe/Ljubljana:20261013T193000
-SUMMARY:Mladinski modni studio\, 10+
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Kaj bi si zašil_a\, če bi lahko ustvaril_a čisto svoj modni kos?\n\nMladinski modni studio je prostor za vse\, ki jih zanima moda\, tekstil\, oblikovanje in ustvarjanje z rokami. Skozi leto bomo raziskovali\, kako iz ideje nastane izdelek – od prve skice in izbire materiala do krojenja\, šivanja in končne https://nd-mb.si/dogodek/mladinski-modni-studio-10/
-URL:https://nd-mb.si/dogodek/mladinski-modni-studio-10/
+SUMMARY:SobaZaGosteMaribor: Interesni safari »Riba ali raca«
+LOCATION:Vetrinjski dvor
+DESCRIPTION:\n\n\n\n\n\n\n\n13. 10. 2026 ob 18.00\, Vetrinjski dvor\nSobaZaGosteMaribor: Interesni safari »Riba ali raca«\nV torek\, 13. 10. 2026\, te vabimo\, da se nam ob 18.00 pridružiš na dvorišču Vetrinjskega dvora\, kjer bomo začeli Interesni safari z umetnikom Petrom Vranjkovićem.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSprehod po mestu bo tokr https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
+URL:https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9cc382536231aaf@kulturko
@@ -500,15 +41,6 @@ DESCRIPTION:V torek\, 13. 10. 2026\, te vabimo\, da se nam ob 18.00 pridružiš 
 URL:https://nd-mb.si/dogodek/interesni-safari-riba-ali-raca/
 END:VEVENT
 BEGIN:VEVENT
-UID:7062eaad58d421bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T180000
-DTEND;TZID=Europe/Ljubljana:20261013T200000
-SUMMARY:Izdelava nakita s kostmi
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
-URL:https://mkc.si/koledar/2026/10/13/izdelava-nakita-s-kostmi
-END:VEVENT
-BEGIN:VEVENT
 UID:5f51944d998d16bc@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261013T190000
 DTEND;TZID=Europe/Ljubljana:20261013T210000
@@ -516,6 +48,15 @@ SUMMARY:Brucovanje treh fakultet || FIRBCI
 LOCATION:ŠTUK
 DESCRIPTION:Novo študijsko leto se je začelo — zdaj pa je čas še za prvo pravo študentsko zabavo. ŠS EPF\, ŠS FF in ŠS PF združujemo moči in vas vabimo na Brucovanje treh fakultet — večer za vse\, ki pogrešate dobro družbo\, poln ŠTUK in slovenske komade\, za pravo vzdušje pa bodo poskrbeli Firbci\, ob katerih bo na https://vstopnice.stuk.org/izdelek/brucovanje-treh-fakultet-firbci/
 URL:https://vstopnice.stuk.org/izdelek/brucovanje-treh-fakultet-firbci/
+END:VEVENT
+BEGIN:VEVENT
+UID:7062eaad58d421bf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261013T200000
+DTEND;TZID=Europe/Ljubljana:20261013T220000
+SUMMARY:Izdelava nakita s kostmi
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\nNEVRODIVERGENTNO DRUŽENJE\nIZDELAVA NAKITA S KOSTMI\nTorek\, 13. oktober 2026 // ob 20.00 // Kulturni inkubator\nTokratno nevrodivergentno druženje\, ki bo 13. oktobra 2026\, prinaša priprave na bližajočo se Noč čarovnic. Udeleženci bodo lahko na delavnici izdelali svoj unikaten nakit iz kosti.\n\n\n\n\n\n\n https://mladimaribor.si/dogodek/izdelava-nakita-s-kostmi-2026-10-13-20-00-00-2026-10-13-22-00-00/
+URL:https://mladimaribor.si/dogodek/izdelava-nakita-s-kostmi-2026-10-13-20-00-00-2026-10-13-22-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:565b7bfea99841a9@kulturko
@@ -536,15 +77,6 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/lepa-brena-project/
 END:VEVENT
 BEGIN:VEVENT
-UID:dafa760ba26b1767@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T200000
-DTEND;TZID=Europe/Ljubljana:20261013T220000
-SUMMARY:ŠtudenTeater: Kdo sem? / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47859-studenteater-kdo-sem-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47859-studenteater-kdo-sem-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:b70b58a91d20b181@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261013T203000
 DTEND;TZID=Europe/Ljubljana:20261013T223000
@@ -559,8 +91,8 @@ DTSTART;TZID=Europe/Ljubljana:20261014T090000
 DTEND;TZID=Europe/Ljubljana:20261014T100000
 SUMMARY:Usposabljanje na področju škode zaradi iger na srečo
 LOCATION:MKC Maribor
-DESCRIPTION: https://mkc.si/koledar/2026/10/14/usposabljanje-na-podrocju-iger-na-sreco
-URL:https://mkc.si/koledar/2026/10/14/usposabljanje-na-podrocju-iger-na-sreco
+DESCRIPTION:\n\n\n\n\nUSPOSABLJANJE STROKOVNIH DELAVCEV NA PODROČJU ŠKODE ZARADI IGER NA SREČO\nSreda\, 14. oktober 2026 // 9.00-10.00 // MKC Maribor\nV sodelovanju z Zavodom Etnika in programom Mladi hazarder bomo izvedli strokovno usposabljanje\, namenjeno zaposlenim\, ki se pri svojem delu srečujejo z mladimi\, odrasli https://mladimaribor.si/dogodek/usposabljanje-na-podrocju-skode-zaradi-iger-na-sreco-2026-10-14-09-00-00-2026-10-14-10-00-00/
+URL:https://mladimaribor.si/dogodek/usposabljanje-na-podrocju-skode-zaradi-iger-na-sreco-2026-10-14-09-00-00-2026-10-14-10-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb17804e7b5b710@kulturko
@@ -572,15 +104,6 @@ DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno pri
 URL:https://mladimaribor.si/dogodek/studentski-oktober-sportajmoinberimo/
 END:VEVENT
 BEGIN:VEVENT
-UID:7103b27bab99cbd5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261014T163000
-DTEND;TZID=Europe/Ljubljana:20261014T183000
-SUMMARY:Mala šola mozaika
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Kamenček\, košček stekla\, malo domišljije – in nastane mozaik.\n\nMozaik je ena najstarejših likovnih tehnik na svetu. A čeprav so z njim okraševali tla in stene že pred tisočletji\, je lahko danes prav tako igriv\, barvit in čisto naš.\n\nNa Mali šoli mozaika bomo raziskovali\, kaj vse lahko ustvarimo  https://nd-mb.si/dogodek/mala-sola-mozaika/
-URL:https://nd-mb.si/dogodek/mala-sola-mozaika/
-END:VEVENT
-BEGIN:VEVENT
 UID:abac3b8be3c33650@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261014T180000
 DTEND;TZID=Europe/Ljubljana:20261014T200000
@@ -588,15 +111,6 @@ SUMMARY:Maribere: Zvezdna karta
 LOCATION:Vetrinjski Dvor
 DESCRIPTION:Tokratno sezono bomo začeli  14. oktobra \, ko se bomo pogovarjali o knjigi Dušana Šarotarja  Zvezdna karta . Srečanje bo ob  18. uri  v prostoru Freske v 1. nadstropju  Vetrinjskega dvora .\n\nGospodinja Žalna zgodbo Rože (Rozika) in Franca (Franjo)\, ki se dogaja sredi 30. let 20. stoletja. Po porok https://nd-mb.si/dogodek/maribere-zvezdna-karta/
 URL:https://nd-mb.si/dogodek/maribere-zvezdna-karta/
-END:VEVENT
-BEGIN:VEVENT
-UID:1f64dfe0ade40034@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261014T180000
-DTEND;TZID=Europe/Ljubljana:20261014T200000
-SUMMARY:Šola mozaika\, 15+
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Od majhnih koščkov do velike ideje.\n\nMozaik je umetnost sestavljanja. Iz kamna\, keramike\, stekla in drugih materialov nastajajo podobe\, vzorci\, teksture in predmeti\, pri katerih ima svoje mesto vsak posamezen košček.\n\nNa celoletni Šoli mozaika bomo raziskovali tako klasične kot sodobne pristope  https://nd-mb.si/dogodek/sola-mozaika-15/
-URL:https://nd-mb.si/dogodek/sola-mozaika-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:a7d735dc894a7649@kulturko
@@ -608,15 +122,6 @@ DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preo
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
-UID:d362388770e4549a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261014T200000
-DTEND;TZID=Europe/Ljubljana:20261014T220000
-SUMMARY:Za vozom / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47860-za-vozom-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47860-za-vozom-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:eba650cd47d4cc3a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261014T203000
 DTEND;TZID=Europe/Ljubljana:20261014T223000
@@ -626,13 +131,13 @@ DESCRIPTION:Zasedba Barcelona Gipsy BalKan Orchestra (BGKO) se je po štirinajst
 URL:https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
 END:VEVENT
 BEGIN:VEVENT
-UID:bfb55b9410bdb5be@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T100000
-DTEND;TZID=Europe/Ljubljana:20261015T120000
-SUMMARY:Gledališki labirint
-LOCATION:Slovensko narodno gledališče Maribor
-DESCRIPTION:Interaktivni vodnik po gledališču za mlade \n\nSlovensko narodno gledališče Maribor v Kulturnem dnevniku sodeluje s programom Interaktivni vodnik po gledališču – Gledališki labirint. Učence popeljemo v labirint Slovenskega narodnega gledališča Maribor kjer odkrivajo skrivne prostore\, ki jih ob obisk https://nd-mb.si/dogodek/gledaliski-labirint-3/
-URL:https://nd-mb.si/dogodek/gledaliski-labirint-3/
+UID:85f65e093e42b389@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T000000
+DTEND;TZID=Europe/Ljubljana:20261015T000000
+SUMMARY:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+LOCATION:Dvorana Vladimirja Bračiča\, Rektorat UM
+DESCRIPTION:Dogodek je namenjen dijakom 4. letnikov Srednje ekonomske šole in gimnazije Maribor\, z namenom\, da pridobijo informacije in znanja za premišljene odločitve glede nadaljnje izobraževalne in poklicne poti\, skladno z njihovimi željami in cilji.\n\n\n\nDijaki bodo:\n\nraziskali svoje interese\, vrednote in veš https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00/
+URL:https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:6a940b4610eb2e1d@kulturko
@@ -644,33 +149,6 @@ DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno pri
 URL:https://mladimaribor.si/dogodek/studentski-oktober-zakljucni-dogodek-festum-2026-kakovost-pomen-odgovornost/
 END:VEVENT
 BEGIN:VEVENT
-UID:35b121c1d4bdbb48@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T110000
-DTEND;TZID=Europe/Ljubljana:20261015T130000
-SUMMARY:Svetovalno izobraževalna delavnica: Aplikacije za vsakdanjo rabo
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46840-svetovalno-izobrazevalna-delavnica-aplikacije-za-vsakdanjo-rabo
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46840-svetovalno-izobrazevalna-delavnica-aplikacije-za-vsakdanjo-rabo
-END:VEVENT
-BEGIN:VEVENT
-UID:e43b158acc04a5cb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T163000
-DTEND;TZID=Europe/Ljubljana:20261015T183000
-SUMMARY:Likovna šola s Polono\, 9+
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Kjer radovednost sreča umetnost \n\nKaj vidimo in občutimo\, če pogledamo svet malo drugače – bolj pozorno in zavzeto? V kakšne fantazijske svetove in čudovite podobe nas lahko popeljejo domišljija\, ostro oko in spretni prsti? Kako iz črte\, madeža\, barv in oblik nastane nekaj čisto našega in osupljiv https://nd-mb.si/dogodek/likovna-sola-s-polono-9/
-URL:https://nd-mb.si/dogodek/likovna-sola-s-polono-9/
-END:VEVENT
-BEGIN:VEVENT
-UID:c0c0553ea8fbb2e7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T163000
-DTEND;TZID=Europe/Ljubljana:20261015T183000
-SUMMARY:Studio za animirani film – mladi
-LOCATION:Partizanska cesta 12
-DESCRIPTION:Animacija ni samo tehnika. Je način\, kako lahko idejo spraviš v gibanje.\n\nKaj lahko poveš z animacijo\, česar ne moreš povedati z eno samo sliko? Kako nastane gibanje? Kaj se zgodi\, ko fotografiji dodaš še eno – in še eno?\n\nAnimacijski laboratorij za mlade je prostor za raziskovanje animiranega f https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
-URL:https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
-END:VEVENT
-BEGIN:VEVENT
 UID:1bbd15d99d825db5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261015T170000
 DTEND;TZID=Europe/Ljubljana:20261015T183000
@@ -680,112 +158,40 @@ DESCRIPTION:Datum: 15. 10. 2026\, ob 17.00\nKraj: ZPM Maribor\, Razlagova 16\nMo
 URL:https://mladimaribor.si/dogodek/bralni-klub-za-najstnike-1-srecanje/
 END:VEVENT
 BEGIN:VEVENT
-UID:d4f5285e0943e9a9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T180000
-DTEND;TZID=Europe/Ljubljana:20261015T200000
-SUMMARY:Water & Light Festival 2026
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45546-water-light-festival-2026
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45546-water-light-festival-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:479722565eaae62d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T180000
-DTEND;TZID=Europe/Ljubljana:20261015T200000
-SUMMARY:8. Prevodni Pranger
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/8-prevodni-pranger
-URL:https://www.minoriti.si/dogodki/8-prevodni-pranger
-END:VEVENT
-BEGIN:VEVENT
-UID:ecc9dd691e602c59@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T190000
-DTEND;TZID=Europe/Ljubljana:20261015T210000
-SUMMARY:Klic / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47861-klic-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47861-klic-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:b043558ea1452f2a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T190000
-DTEND;TZID=Europe/Ljubljana:20261015T210000
-SUMMARY:Slikarska delavnica: Kaj čofota v čaju?
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/15/slikarska-delavnica-kaj-ofota-v-aju
-URL:https://mkc.si/koledar/2026/10/15/slikarska-delavnica-kaj-ofota-v-aju
+UID:29d3034e0ca38b43@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T170000
+DTEND;TZID=Europe/Ljubljana:20261015T190000
+SUMMARY:Predvolilni pub kviz z mariborskimi županskimi kandidati
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Volilno kampanjo pred lokalnimi volitvami začenjamo nekoliko drugače. Kako dobro se mariborski županski kandidati in kandidatka s svojimi ekipami odrežejo na kvizu? V Vetrinjc - BarCoda bomo preverili njihovo znanje o Mariboru\, o zgodovini mesta\, ki ga želijo voditi\, o politiki\, preverili bomo njiho https://nd-mb.si/dogodek/predvolilni-pub-kviz-z-mariborskimi-zupanskimi-kandidati/
+URL:https://nd-mb.si/dogodek/predvolilni-pub-kviz-z-mariborskimi-zupanskimi-kandidati/
 END:VEVENT
 BEGIN:VEVENT
 UID:149222096beeb9ed@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261015T190000
-DTEND;TZID=Europe/Ljubljana:20261015T200000
+DTEND;TZID=Europe/Ljubljana:20261015T210000
 SUMMARY:8. ZIZ FESTIVAL: Klic in Rdeča nit
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
-URL:https://mkc.si/koledar/2026/10/15/8-ziz-festival-klic-in-rdea-nit
+DESCRIPTION:\n\n\n\n\n8. ZIZ FESTIVAL\nKLIC & RDEČA NIT\nČetrtek\, 15. oktober 2026 ob 19:0 // Kulturni inkubator\nMKC Maribor se kot soorganizator pridružuje programu 8. ZIZ festivala\, ki ga Društvo ZIZ organizira med 11. in 17. oktobrom 2026. V Kulturnem inkubatorju se bosta v četrtek\, 15. oktobra 2026\, zvrstili dve i https://mladimaribor.si/dogodek/8-ziz-festival-klic-in-rdeca-nit-2026-10-15-19-00-00-2026-10-15-20-00-00/
+URL:https://mladimaribor.si/dogodek/8-ziz-festival-klic-in-rdeca-nit-2026-10-15-19-00-00-2026-10-15-20-00-00/
 END:VEVENT
 BEGIN:VEVENT
-UID:1e4d979da119730a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T200000
-DTEND;TZID=Europe/Ljubljana:20261015T220000
-SUMMARY:Rdeča nit / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47862-rdeca-nit-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47862-rdeca-nit-8-ziz-festival
+UID:0410c9e0057a3076@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261015T190000
+DTEND;TZID=Europe/Ljubljana:20261015T210000
+SUMMARY:Mladinski družabni večer: Kaj čofota v čaju?
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nMLADINSKI DRUŽABNI VEČER 10/2026\nKAJ ČOFOTA V ČAJU?\nCreepy-cute slikarska delavnica s Hano Nekrep\nČetrtek\, 15. oktober 2026 // 19:00 // Kulturni inkubator\nOktobrski mladinski večer vabi\, da preizkusiš svojo domišljijo in jo preliješ na papir\, ter skočiš v jesen\, morda pa tudi v čudežno deželo A https://mladimaribor.si/dogodek/slikarska-delavnica-kaj-cofota-v-caju-2026-10-15-19-00-00-2026-10-15-21-00-00/
+URL:https://mladimaribor.si/dogodek/slikarska-delavnica-kaj-cofota-v-caju-2026-10-15-19-00-00-2026-10-15-21-00-00/
 END:VEVENT
 BEGIN:VEVENT
-UID:b63a47fbd5f40f51@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T200000
-DTEND;TZID=Europe/Ljubljana:20261015T220000
-SUMMARY:SKOZI ZVOČNI ZID • Peter Andrej & Band
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/skozi-zvocni-zid-peter-andrej-and-band
-URL:https://www.minoriti.si/dogodki/skozi-zvocni-zid-peter-andrej-and-band
-END:VEVENT
-BEGIN:VEVENT
-UID:6e7e8c4317f0d74b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T150000
+UID:038e5d7c83dea9bc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T080000
 DTEND;TZID=Europe/Ljubljana:20261016T170000
-SUMMARY:Festival Razpoka: Zapuščeni prostori Maribora
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45775-festival-razpoka-zapusceni-prostori-maribora
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45775-festival-razpoka-zapusceni-prostori-maribora
-END:VEVENT
-BEGIN:VEVENT
-UID:ad7212010ef33879@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T170000
-DTEND;TZID=Europe/Ljubljana:20261016T190000
-SUMMARY:Modernizem v Mariboru: Čas od Kosovela do Kraševca
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47920-modernizem-v-mariboru-cas-od-kosovela-do-krasevca
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47920-modernizem-v-mariboru-cas-od-kosovela-do-krasevca
-END:VEVENT
-BEGIN:VEVENT
-UID:5b3093179c890314@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T170000
-DTEND;TZID=Europe/Ljubljana:20261016T190000
-SUMMARY:Štirje neustrašni
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
-URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
-END:VEVENT
-BEGIN:VEVENT
-UID:930d93862e138a01@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T180000
-DTEND;TZID=Europe/Ljubljana:20261016T200000
-SUMMARY:Prazni prostori\, prostori praznine: pogovor
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45776-prazni-prostori-prostori-praznine-pogovor
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45776-prazni-prostori-prostori-praznine-pogovor
-END:VEVENT
-BEGIN:VEVENT
-UID:6e2214af6394b18c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T180000
-DTEND;TZID=Europe/Ljubljana:20261016T200000
-SUMMARY:Festival Razpoka • Prazni prostori\, prostori praznine: pogovor
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/festival-razpoka-prazni-prostori-prostori-praznine-pogovor
-URL:https://www.minoriti.si/dogodki/festival-razpoka-prazni-prostori-prostori-praznine-pogovor
+SUMMARY:(Fl)etna noč čarovnic
+LOCATION:Atelje Vetrinjskega dvora
+DESCRIPTION:Čira čara\, hokus pokus – nasmeh se nariše in nikoli ne izbriše!\nNa Vetrinjskem dvoru bo znova završalo od čarovniškega smeha\, skrivnostnih napojev in šelestenja metel. Noč čarovnic pri nas že tradicionalno združuje male in velike čarovnice ter čarovnike.\nUstvarjali bomo\, se igrali in poslikali obraz https://mladimaribor.si/dogodek/fletna-noc-carovnic-2/
+URL:https://mladimaribor.si/dogodek/fletna-noc-carovnic-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab8b10c1936a0d17@kulturko
@@ -806,51 +212,6 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.h
 URL:https://sngmb.mojekarte.si/si/opera-balet-premiera/paketi-1213181.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd287b8e2fbd392@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Dan Maribora 2026
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45815-dan-maribora-2026
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45815-dan-maribora-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:516cff841ac42838@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Pivo fest Maribor - prestavljeno
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/40193-pivo-fest-maribor-prestavljeno
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/40193-pivo-fest-maribor-prestavljeno
-END:VEVENT
-BEGIN:VEVENT
-UID:758aea670ad33525@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Dan Maribora 2026 | Program za otroke
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47912-dan-maribora-2026-program-za-otroke
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47912-dan-maribora-2026-program-za-otroke
-END:VEVENT
-BEGIN:VEVENT
-UID:77a0673d119bc626@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Dan Maribora 2026 |  Z avtobusom v predmestje
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47913-dan-maribora-2026-z-avtobusom-v-predmestje
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47913-dan-maribora-2026-z-avtobusom-v-predmestje
-END:VEVENT
-BEGIN:VEVENT
-UID:7815122b530848bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T190000
-DTEND;TZID=Europe/Ljubljana:20261016T210000
-SUMMARY:Dan Maribora 2026 | Kulturni program
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47914-dan-maribora-2026-kulturni-program
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47914-dan-maribora-2026-kulturni-program
-END:VEVENT
-BEGIN:VEVENT
 UID:b964b13dc55da910@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T193000
 DTEND;TZID=Europe/Ljubljana:20261016T213000
@@ -860,22 +221,13 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/communio-cantus-obcestvo-v-pesmi/
 END:VEVENT
 BEGIN:VEVENT
-UID:88fd61f70fdf6eb4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T193000
-DTEND;TZID=Europe/Ljubljana:20261016T213000
-SUMMARY:Spominski večer posvečen Tomažu Pandurju
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45802-spominski-vecer-posvecen-tomazu-pandurju
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45802-spominski-vecer-posvecen-tomazu-pandurju
-END:VEVENT
-BEGIN:VEVENT
 UID:9b66aa444505ebc5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T200000
-DTEND;TZID=Europe/Ljubljana:20261016T220000
-SUMMARY:Odgovor je Kvir!
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Vabljeni na kvir čago! \n\nBodite pripravljeni na večer posvečen ikonam kot so Freddie\, Madona\, Gaga in pa seveda tudi fsem ikonam v nastajanju.\nZa dobro muziko bo poskrbel neverjetni DJ Wooga\, noč pa bodo popestrile Slavna Diva Slovenije Akira Ve\, zasvojljiva Miss Pearlicious in pa žametna Miss Si https://nd-mb.si/dogodek/odgovor-je-kvir/
-URL:https://nd-mb.si/dogodek/odgovor-je-kvir/
+DTEND;TZID=Europe/Ljubljana:20261016T230000
+SUMMARY:Odgovor je Kvir
+LOCATION:Vetrinjc – BarCoda
+DESCRIPTION:Vabljeni na kvir čago!\n\nBodite pripravljeni na večer posvečen ikonam kot so Freddie\, Madona\, Gaga in pa seveda tudi fsem ikonam v nastajanju.\nZa dobro muziko bo poskrbel neverjetni DJ Wooga\, noč pa bodo popestrile Slavna Diva Slovenije Akira Ve\, zasvojljiva Miss Pearllicious in pa žametna Miss Sin K https://mladimaribor.si/dogodek/odgovor-je-kvir/
+URL:https://mladimaribor.si/dogodek/odgovor-je-kvir/
 END:VEVENT
 BEGIN:VEVENT
 UID:127007137613ebbe@kulturko
@@ -887,22 +239,13 @@ DESCRIPTION:Ali je sestrstvo - zavezništvo? Je vedno feministično? Je njegova 
 URL:https://nd-mb.si/dogodek/na-zenskah-svet-stoji-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:07d9786b77ca215a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T200000
-DTEND;TZID=Europe/Ljubljana:20261016T220000
-SUMMARY:Na ženskah svet stoji / 8. ZIZ festival
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47863-na-zenskah-svet-stoji-8-ziz-festival
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47863-na-zenskah-svet-stoji-8-ziz-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:158334077a07843d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T210000
 DTEND;TZID=Europe/Ljubljana:20261016T230000
 SUMMARY:KRANKŠVESTER
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/kranksvester/
-URL:https://www.pekarna.net/napovednik/kranksvester/
+DESCRIPTION:\nTa petek\, 16 oktober\, 2026 ob 21:00\n MC Pekarna\n\nKRANKŠVESTER prihaja v MC Pekarna!\nV petek\, 16. oktobra 2026\, bo oder MC Pekarna v Mariboru zavzel eden najbolj razvpitih in kontroverznih hiphop dvojcev z območja nekdanje Jugoslavije – Krankšvester.\nZa imenom Krankšvester stojita Sett (Hrvoje Marja https://mladimaribor.si/dogodek/kranksvester/
+URL:https://mladimaribor.si/dogodek/kranksvester/
 END:VEVENT
 BEGIN:VEVENT
 UID:fbe3d81d71f26b43@kulturko
@@ -914,67 +257,22 @@ DESCRIPTION:V oktobrski Biškoteriji bomo z Alenko Dogša zamesili\, razvaljali 
 URL:https://nd-mb.si/dogodek/biskoterija-z-alenko-dogsa/
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea81a3157139edb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Dediščinski detektiv
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/38494-dediscinski-detektiv
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/38494-dediscinski-detektiv
+UID:b1dcedce339522da@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T110000
+DTEND;TZID=Europe/Ljubljana:20261017T130000
+SUMMARY:Vzgoja in nega ameriških borovnic
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
+URL:https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
 END:VEVENT
 BEGIN:VEVENT
-UID:fcf75ad5a67a673e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Dan Maribora 2026 - od Marchburga do Maribora
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45803-dan-maribora-2026-od-marchburga-do-maribora
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45803-dan-maribora-2026-od-marchburga-do-maribora
-END:VEVENT
-BEGIN:VEVENT
-UID:f920ab52dd05f2da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Voden ogled posestva in druženje z živalmi
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47887-voden-ogled-posestva-in-druzenje-z-zivalmi
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47887-voden-ogled-posestva-in-druzenje-z-zivalmi
-END:VEVENT
-BEGIN:VEVENT
-UID:34651abd02b02639@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Modernizem v Mariboru\, Costaperarija\, Gosposvetska\, Vila Hutter
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47922-modernizem-v-mariboru-costaperarija-gosposvetska-vila-hutter
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47922-modernizem-v-mariboru-costaperarija-gosposvetska-vila-hutter
-END:VEVENT
-BEGIN:VEVENT
-UID:eee486e20e4f85f2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Štirje neustrašni
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
-URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
-END:VEVENT
-BEGIN:VEVENT
-UID:39f33fd7b7dd6efa@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T120000
-DTEND;TZID=Europe/Ljubljana:20261017T140000
-SUMMARY:Dan Maribora 2026 - Ustvarjalna delavnica v UGM
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46855-dan-maribora-2026-ustvarjalna-delavnica-v-ugm
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46855-dan-maribora-2026-ustvarjalna-delavnica-v-ugm
-END:VEVENT
-BEGIN:VEVENT
-UID:4d38e036dbe84ae0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T120000
-DTEND;TZID=Europe/Ljubljana:20261017T140000
-SUMMARY:Sprehod po baročnem Mariboru
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47923-sprehod-po-barocnem-mariboru
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47923-sprehod-po-barocnem-mariboru
+UID:4decec917b45c6c5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T160000
+DTEND;TZID=Europe/Ljubljana:20261017T180000
+SUMMARY:Voden ogled  »Srednjeveški Maribor«
+LOCATION:Trg generala Maistra
+DESCRIPTION:Peš ogled Maribora znotraj nekdanjega mestnega obzidja. Ogled bo posvečen srednjemu veku\, obdobju\, v katerem je bil 20. oktobra 1164 Maribor prvič omenjen v listini.\nOgled mesta bo izveden s sodelovanjem ustanov: Pokrajinski muzej Maribor\, Narodni dom Maribor – Vetrinjski dvor\, Stolna župnija Marib https://nd-mb.si/dogodek/voden-ogled-srednjeveski-maribor/
+URL:https://nd-mb.si/dogodek/voden-ogled-srednjeveski-maribor/
 END:VEVENT
 BEGIN:VEVENT
 UID:148d95d378014e2a@kulturko
@@ -984,24 +282,6 @@ SUMMARY:Othello
 LOCATION:SNG Maribor
 DESCRIPTION:William Shakespeare\, Valentina Turcu\, Gustav Mahler · HNK Zagreb https://www.sng-mb.si/event/othello/
 URL:https://www.sng-mb.si/event/othello/
-END:VEVENT
-BEGIN:VEVENT
-UID:edbf12bfd4cf20c4@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T180000
-DTEND;TZID=Europe/Ljubljana:20261017T200000
-SUMMARY:Hokejska tekma ÖEL: HDK Maribor – ASKÖ Grizzlies Linz
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47925-hokejska-tekma-oel-hdk-maribor-asko-grizzlies-linz
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47925-hokejska-tekma-oel-hdk-maribor-asko-grizzlies-linz
-END:VEVENT
-BEGIN:VEVENT
-UID:d718d4b19dc83de9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T180000
-DTEND;TZID=Europe/Ljubljana:20261017T200000
-SUMMARY:Lutkovna rokodelnica za odrasle
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47928-lutkovna-rokodelnica-za-odrasle
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47928-lutkovna-rokodelnica-za-odrasle
 END:VEVENT
 BEGIN:VEVENT
 UID:ce7149501da93f20@kulturko
@@ -1031,15 +311,6 @@ DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Fran
 URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
 END:VEVENT
 BEGIN:VEVENT
-UID:888729addfa50070@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T200000
-DTEND;TZID=Europe/Ljubljana:20261017T220000
-SUMMARY:13. Gala podelitev ZIZ nagrad
-LOCATION:Klub Narodnega doma
-DESCRIPTION:Stalno stičišče mariborske neodvisne gledališke scene. Vsakoletno srečališče njenih akterk in akterjev. Upogljivo vozlišče\, ki jo učvrsti v živo tkivo mesta.\n  Galo ZIZ lahko razumemo kot koordinatni sistem\, po katerem se z nagradami orientiramo po mariborski neodvisni gledališki produkciji. Lahko  https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
-URL:https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
-END:VEVENT
-BEGIN:VEVENT
 UID:c9f395433b658926@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261017T200000
 DTEND;TZID=Europe/Ljubljana:20261017T220000
@@ -1049,58 +320,13 @@ DESCRIPTION:Bort Ross je vsestranski glasbenik\, ki se je po številnih žanrsko
 URL:https://nd-mb.si/dogodek/bort-ross-v-vetrinjcu/
 END:VEVENT
 BEGIN:VEVENT
-UID:b7c104faeae376f5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T084500
-DTEND;TZID=Europe/Ljubljana:20261018T104500
-SUMMARY:Prebujajoča jutranja joga in pranajama v UGM
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44020-prebujajoca-jutranja-joga-in-pranajama-v-ugm
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44020-prebujajoca-jutranja-joga-in-pranajama-v-ugm
-END:VEVENT
-BEGIN:VEVENT
-UID:8a330c1463fb2bc8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T090000
-DTEND;TZID=Europe/Ljubljana:20261018T110000
-SUMMARY:Opojne dišave zelišč na tri načine
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45590-opojne-disave-zelisc-na-tri-nacine
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45590-opojne-disave-zelisc-na-tri-nacine
-END:VEVENT
-BEGIN:VEVENT
-UID:e739a3121f23900f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T100000
-DTEND;TZID=Europe/Ljubljana:20261018T120000
-SUMMARY:Dekla in hlapec za en dan
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45585-dekla-in-hlapec-za-en-dan
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45585-dekla-in-hlapec-za-en-dan
-END:VEVENT
-BEGIN:VEVENT
-UID:1376a4be868fb13f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T110000
-DTEND;TZID=Europe/Ljubljana:20261018T130000
-SUMMARY:Vodstvo po mariborski Piramidi
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47929-vodstvo-po-mariborski-piramidi
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47929-vodstvo-po-mariborski-piramidi
-END:VEVENT
-BEGIN:VEVENT
-UID:c91ed8f7389c5c68@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T110000
-DTEND;TZID=Europe/Ljubljana:20261018T130000
-SUMMARY:Z avtobusom Po sledeh skrivnosti Mariborskega otoka
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47947-z-avtobusom-po-sledeh-skrivnosti-mariborskega-otoka
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47947-z-avtobusom-po-sledeh-skrivnosti-mariborskega-otoka
-END:VEVENT
-BEGIN:VEVENT
-UID:00b8da72086bf6f0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T150000
-DTEND;TZID=Europe/Ljubljana:20261018T170000
-SUMMARY:Z avtobusom do Limbuša in Meranovega – od svetega Jakoba do nadvojvode Janeza
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47939-z-avtobusom-do-limbusa-in-meranovega-od-svetega-jakoba-do-nadvojvode-janeza
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47939-z-avtobusom-do-limbusa-in-meranovega-od-svetega-jakoba-do-nadvojvode-janeza
+UID:888729addfa50070@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T200000
+DTEND;TZID=Europe/Ljubljana:20261017T220000
+SUMMARY:13. Gala podelitev ZIZ nagrad
+LOCATION:Klub Narodnega doma
+DESCRIPTION:Stalno stičišče mariborske neodvisne gledališke scene. Vsakoletno srečališče njenih akterk in akterjev. Upogljivo vozlišče\, ki jo učvrsti v živo tkivo mesta.\n  Galo ZIZ lahko razumemo kot koordinatni sistem\, po katerem se z nagradami orientiramo po mariborski neodvisni gledališki produkciji. Lahko  https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
+URL:https://nd-mb.si/dogodek/13-gala-podelitev-ziz-nagrad/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7817aec25a1cb1e@kulturko
@@ -1121,15 +347,6 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-121318
 URL:https://sngmb.mojekarte.si/si/opera-balet-popoldanski/paketi-1213184.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1e3a2973ac7a1cfe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261018T190000
-DTEND;TZID=Europe/Ljubljana:20261018T210000
-SUMMARY:Komedija Špas Teatra: Odprti zakon
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46835-komedija-spas-teatra-odprti-zakon
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46835-komedija-spas-teatra-odprti-zakon
-END:VEVENT
-BEGIN:VEVENT
 UID:3a559e6de4dd648e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T090000
 DTEND;TZID=Europe/Ljubljana:20261019T110000
@@ -1139,22 +356,49 @@ DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
 URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
 END:VEVENT
 BEGIN:VEVENT
-UID:a9cc87e32559371b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T164500
-DTEND;TZID=Europe/Ljubljana:20261019T184500
-SUMMARY:Z avtobusom Od muzeja do muzeja – Muzej narodne osvoboditve Maribor – Vojaški muzej Slovenske vojske
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47948-z-avtobusom-od-muzeja-do-muzeja-muzej-narodne-osvoboditve-maribor-vojaski-muzej-slovenske-vojske
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47948-z-avtobusom-od-muzeja-do-muzeja-muzej-narodne-osvoboditve-maribor-vojaski-muzej-slovenske-vojske
+UID:4cd675cdc6d74323@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T100000
+DTEND;TZID=Europe/Ljubljana:20261019T120000
+SUMMARY:Branko Zinauer | Festival Špegl
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Enega najpomembnejših ilustratorjev legendarnega   Totega lista   boste spoznali skozi edinstvena medijska očala!\n\nKako so mediji spremljali njegovo ustvarjalno pot\, kako se je umaknil iz javnega življenja\, kako smo ga znova odkrili in kakšen neprecenljiv prispevek je dal našemu Totemu listu in ml https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
+URL:https://nd-mb.si/dogodek/festival-spegl-branko-zinauer/
 END:VEVENT
 BEGIN:VEVENT
-UID:24c0a5dccbfc0ca8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T170000
-DTEND;TZID=Europe/Ljubljana:20261019T190000
-SUMMARY:Ljudski vrt – Vila Langer s parkom
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47930-ljudski-vrt-vila-langer-s-parkom
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47930-ljudski-vrt-vila-langer-s-parkom
+UID:8026f4d43ba27a9b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T100000
+DTEND;TZID=Europe/Ljubljana:20261019T120000
+SUMMARY:Med svetlobo in transcendenco
+LOCATION:Vodni stolp
+DESCRIPTION:Otvoritev razstave bo v četrtek\, 1. oktobra ob 19.30.\n Na otvoritvi razstave bosta nastopila sopranistka Nilda Luketič in pianist Matej Luketič. O razstavi bo spregovoril Mario Berdič. \n \n\n \n\nRazstava Zdravka Luketiča v Vodnem stolpu predstavlja izbor novejših del\, v katerih umetnik skozi simb https://nd-mb.si/dogodek/med-svetlobo-in-transcendenco/
+URL:https://nd-mb.si/dogodek/med-svetlobo-in-transcendenco/
+END:VEVENT
+BEGIN:VEVENT
+UID:ce045a6d7cf3a1b7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T100000
+DTEND;TZID=Europe/Ljubljana:20261019T120000
+SUMMARY:… ta neskončna negotovost
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:… ta neskončna negotovost\n\nSlike so nastajale v ustvarjalno napetem okolju slikarskih delavnic\, so novejšega datuma in nastale so v zadnjem letu ali dveh. V tedenskih slikarskih delavnicah najdejo prostor odrasli posamezniki. Nekateri že leta obiskujejo delavnice\, nekateri pa so se pridružili šele https://nd-mb.si/dogodek/ta-neskoncna-negotovost-2/
+URL:https://nd-mb.si/dogodek/ta-neskoncna-negotovost-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6aedceadce227d8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T163000
+DTEND;TZID=Europe/Ljubljana:20261019T183000
+SUMMARY:Likovna šola s Polono\, 6+
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Kjer radovednost sreča umetnost \n\nKaj vidimo in občutimo\, če pogledamo svet malo drugače – bolj pozorno in zavzeto? V kakšne fantazijske svetove in čudovite podobe nas lahko popeljejo domišljija\, ostro oko in spretni prsti? Kako iz črte\, madeža\, barv in oblik nastane nekaj čisto našega in osupljiv https://nd-mb.si/dogodek/likovna-sola-s-polono-6/
+URL:https://nd-mb.si/dogodek/likovna-sola-s-polono-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:20281fc0bfc116a8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T163000
+DTEND;TZID=Europe/Ljubljana:20261019T183000
+SUMMARY:Šola animiranega filma\, 8+
+LOCATION:Partizanska cesta 12
+DESCRIPTION:Ko se risba premakne. Ko predmet oživi. Ko ideja postane film.\n\nKako doseči\, da risba oživi? Kako premakniti predmet\, ne da bi ga zares premaknili? In kako iz množice fotografij ustvariti čisto pravi animirani film?\n\nV laboratoriju za animacijo oz. šoli animiranega filma bodo otroci skozi igro\,  https://nd-mb.si/dogodek/sola-animiranega-filma-8/
+URL:https://nd-mb.si/dogodek/sola-animiranega-filma-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:82bc1426f5aeabd1@kulturko
@@ -1166,6 +410,24 @@ DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno pri
 URL:https://mladimaribor.si/dogodek/studentski-oktober-trivia-vecer-pod-arkadami/
 END:VEVENT
 BEGIN:VEVENT
+UID:06b3cc33a09fb983@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T183000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Jesenski turnir Zdrave Zabave 2026
+LOCATION:Športna dvorana Vrbanska
+DESCRIPTION:Nova študijska sezona\, nova priložnost za športno druženje! Univerzitetna športna zveza Maribor te vabi na Jesenski turnir Zdrave Zabave 2026\, ki bo potekal 19. in 20. oktobra 2026.\nDva dni\, pet športov in ogromno dobre energije! Pomerili se boste lahko v badmintonu\, namiznem tenisu\, odbojki 4×4\, ko https://mladimaribor.si/dogodek/jesenski-turnir-zdrave-zabave-2026/
+URL:https://mladimaribor.si/dogodek/jesenski-turnir-zdrave-zabave-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:afaad53dd2c5d2bf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T190000
+DTEND;TZID=Europe/Ljubljana:20261019T220000
+SUMMARY:Mlade glave mislijo: glasovi z obrobja
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMlade glave mislijo: glasovi z obrobja\nDAN MARIBORA\nPonedeljek\, 19. oktober 2026 // 19.00 // Kulturni inkubator\nGostje: Doroteja Drevenšek\, Niko Kostanjevec\, Amadeja Rek // Moderatorja: Julija Plemenitaš Potočnik in Aljoša Toplak\nMladinski kulturni center Maribor obuja miseln https://mladimaribor.si/dogodek/mlade-glave-mislijo-glasovi-z-obrobja-2026-10-19-19-00-00-2026-10-19-22-00-00/
+URL:https://mladimaribor.si/dogodek/mlade-glave-mislijo-glasovi-z-obrobja-2026-10-19-19-00-00-2026-10-19-22-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:c84d609d4c70f38e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T190000
 DTEND;TZID=Europe/Ljubljana:20261019T210000
@@ -1175,15 +437,6 @@ DESCRIPTION:📅 19. oktober 2026 ob 19:00 📍 Dvorana ŠTUK 👥 20 ekip s 4 �
 URL:https://vstopnice.stuk.org/izdelek/noc-skrivnostnega-umora-harry-potter/
 END:VEVENT
 BEGIN:VEVENT
-UID:afaad53dd2c5d2bf@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T190000
-DTEND;TZID=Europe/Ljubljana:20261019T220000
-SUMMARY:Mlade glave mislijo: glasovi z obrobja
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-obrobja
-URL:https://mkc.si/koledar/2026/10/19/mlade-glave-mislijo-glasovi-iz-obrobja
-END:VEVENT
-BEGIN:VEVENT
 UID:cab29663150ea5f1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T193000
 DTEND;TZID=Europe/Ljubljana:20261019T213000
@@ -1191,33 +444,6 @@ SUMMARY:1. koncert cikla Carpe artem »Trije svetovi«
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
 URL:https://www.sng-mb.si/event/1-koncert-cikla-carpe-artem-trije-svetovi/
-END:VEVENT
-BEGIN:VEVENT
-UID:bd34e29bdce00bd3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:Trije svetovi
-LOCATION:SNG Maribor: Kazinska dvorana
-DESCRIPTION: https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-URL:https://www.carpeartem.eu/cikel-carpe-artem-2627/trije-svetovi/
-END:VEVENT
-BEGIN:VEVENT
-UID:a6f8aa50e4576246@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:CIKEL CARPE ARTEM
-LOCATION:SNG Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-URL:https://sngmb.mojekarte.si/si/cikel-carpe-artem/paketi-1213187.html
-END:VEVENT
-BEGIN:VEVENT
-UID:07d362e89cfb2bed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261019T193000
-DTEND;TZID=Europe/Ljubljana:20261019T213000
-SUMMARY:1. koncert cikla Carpe artem
-LOCATION:Kazinska dvorana Maribor
-DESCRIPTION: https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
-URL:https://sngmb.mojekarte.si/si/1-koncert-cikla-carpe-artem/vstopnice-1213603.html
 END:VEVENT
 BEGIN:VEVENT
 UID:53803e24634f22c2@kulturko
@@ -1238,15 +464,6 @@ DESCRIPTION:V Center eksperimentov Maribor prihaja Festival znanosti Maribor\, n
 URL:https://mladimaribor.si/dogodek/festival-znanosti-maribor-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:244bcf3c988de7ae@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T090000
-DTEND;TZID=Europe/Ljubljana:20261020T110000
-SUMMARY:Festival znanosti
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47933-festival-znanosti
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47933-festival-znanosti
-END:VEVENT
-BEGIN:VEVENT
 UID:dcde5be1eb6a7ff4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T100000
 DTEND;TZID=Europe/Ljubljana:20261020T120000
@@ -1256,13 +473,22 @@ DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/ev
 URL:https://www.sng-mb.si/event/kot-noc-in-dan/
 END:VEVENT
 BEGIN:VEVENT
-UID:a60c645b077c8a42@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T150000
-DTEND;TZID=Europe/Ljubljana:20261020T170000
-SUMMARY:Modernizem v Mariboru: Železniška postaja
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47935-modernizem-v-mariboru-zelezniska-postaja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47935-modernizem-v-mariboru-zelezniska-postaja
+UID:16fba737946cec18@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T100000
+DTEND;TZID=Europe/Ljubljana:20261020T120000
+SUMMARY:Predstavitev javnega razpisa Mestne občine Maribor za sofinanciranje kulturnih programov  2027 – 2029
+LOCATION:Vetrinjski dvor
+DESCRIPTION:Spoštovani! \n\nV petek\, 9. 10. 2026\, je bil objavljen Javni razpis za izbor kulturnih programov\, ki jih bo v letih 2027 - 2029 sofinancirala Mestna občina Maribor (JRPJI-KUL-2027-29).\n\nPredstavitev\, ki jo za potencialne prijavitelje organizira Urad za kulturo in mladino Mestne občine Maribor\,  bo https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
+URL:https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6dfd38320985897@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T163000
+DTEND;TZID=Europe/Ljubljana:20261020T183000
+SUMMARY:Mali modni studio\, 6+
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Iz blaga\, niti in domišljije ustvarjamo čisto svoje izdelke.\n\nKaj vse lahko nastane iz blaga\, preje\, šivanke in malo domišljije? Na celoletnem tečaju Mali modni studio oz. moda za najmlajše bodo otroci raziskovali svet tekstila\, spoznavali različne materiale in tehnike ter se učili\, kako svoje ide https://nd-mb.si/dogodek/mali-modni-studio-6/
+URL:https://nd-mb.si/dogodek/mali-modni-studio-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:761006c8717fd7fc@kulturko
@@ -1274,13 +500,40 @@ DESCRIPTION:Ste se naveličali svojih cunj\, čeprav so še lepe in modne? Jih i
 URL:https://mladimaribor.si/dogodek/cunjami-izmenjevalnica-oblacil-za-mlade-6/
 END:VEVENT
 BEGIN:VEVENT
-UID:cc41bc4d9ac31147@kulturko
+UID:936f0a1a5acb6b7b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T170000
-DTEND;TZID=Europe/Ljubljana:20261020T190000
-SUMMARY:Pravljična ura: Motiv iz preteklosti Maribora
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46814-pravljicna-ura-motiv-iz-preteklosti-maribora
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46814-pravljicna-ura-motiv-iz-preteklosti-maribora
+DTEND;TZID=Europe/Ljubljana:20261020T200000
+SUMMARY:Rokodelstvo\, igre & Queer Hangout
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nROKODELSTVO\, IGRE & QUEER HANGOUT\nTorek\, 20. oktober 2026 // 17.00 // Kulturni inkubator\nPridi na še eno edicijo Queer hangouta! Vidimo se v torek\, 20. oktobra 2026\, med 17.00 in 20.00 v Kulturnem inkubatorju.\nDruženje bomo začele_i s šivanjem in vezenjem. Materiale zagotovimo me_i\, prav tako m https://mladimaribor.si/dogodek/rokodelstvo-igre-queer-hangout-2026-10-20-17-00-00-2026-10-20-20-00-00/
+URL:https://mladimaribor.si/dogodek/rokodelstvo-igre-queer-hangout-2026-10-20-17-00-00-2026-10-20-20-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:007051c78506c0c8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T170000
+DTEND;TZID=Europe/Ljubljana:20261020T170000
+SUMMARY:22 KOD / Srečanje in pogovor o prostoru Maribor
+LOCATION:OBRAT
+DESCRIPTION:\n\n\n\n\n\n\n\n20. 10. 2026 ob 17.00\, OBRAT\n22 KOD / Srečanje in pogovor o prostoru Maribor\nV torek\, 20. 10. 2026\, te ob 17.00 v sodelovanju z Ano Pečar vabimo v OBRAT\, prostor umetnosti in participacije na nekajurno raziskovanje prostora\, ki ga običajno jemljemo za samoumevnega.\nKaj se zgodi\, če svojega o https://mladimaribor.si/dogodek/22-kod-srecanje-in-pogovor-o-prostoru-maribor-2026-10-20-17-00-00/
+URL:https://mladimaribor.si/dogodek/22-kod-srecanje-in-pogovor-o-prostoru-maribor-2026-10-20-17-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:eab959a93f66e243@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T173000
+DTEND;TZID=Europe/Ljubljana:20261020T193000
+SUMMARY:Mladinski modni studio\, 10+
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Kaj bi si zašil_a\, če bi lahko ustvaril_a čisto svoj modni kos?\n\nMladinski modni studio je prostor za vse\, ki jih zanima moda\, tekstil\, oblikovanje in ustvarjanje z rokami. Skozi leto bomo raziskovali\, kako iz ideje nastane izdelek – od prve skice in izbire materiala do krojenja\, šivanja in končne https://nd-mb.si/dogodek/mladinski-modni-studio-10/
+URL:https://nd-mb.si/dogodek/mladinski-modni-studio-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:dca641983d9936ff@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T180000
+DTEND;TZID=Europe/Ljubljana:20261105T150000
+SUMMARY:[Razstava] Utrinki iz Animoku Studia
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nRAZSTAVA\nUTRINKI IZ ANIMOKU STUDIA\nOtvoritev: Torek\, 20. oktober 2026 // ob 18:00 // Kulturni inkubator\nVabljeni na ogled razstave fotografij projekta Animoku Studio in otvoritev razstave\, ki bo v torek\, 20. oktobra 2026\, ob 18 uri v Kulturnem inkubatorju\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRazstavljene fotografi https://mladimaribor.si/dogodek/razstava-utrinki-iz-animoku-studia-2026-10-20-18-00-00-2026-11-05-15-00-00/
+URL:https://mladimaribor.si/dogodek/razstava-utrinki-iz-animoku-studia-2026-10-20-18-00-00-2026-11-05-15-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b48c1803ca99089@kulturko
@@ -1310,6 +563,15 @@ DESCRIPTION:Domen Valič\, Iztok Valič in Vid Valič bodo končno stali skupaj 
 URL:https://nd-mb.si/dogodek/dediscina/
 END:VEVENT
 BEGIN:VEVENT
+UID:5a846c2e579cdac9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Umetnost in duševno zdravje mladih\, medresorsko povezovanje kulture in zdravja / zaključna delavnica
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih\,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
+URL:https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
+END:VEVENT
+BEGIN:VEVENT
 UID:04d1581effb83f96@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T190000
 DTEND;TZID=Europe/Ljubljana:20261020T210000
@@ -1319,13 +581,13 @@ DESCRIPTION: https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 URL:https://sngmb.mojekarte.si/si/opera-balet-torek/paketi-1213186.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3fbd3d03c7733584@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T191500
-DTEND;TZID=Europe/Ljubljana:20261020T211500
-SUMMARY:Dan Maribora 2026 | 5 koncertov na 5 lokacijah
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47906-dan-maribora-2026-5-koncertov-na-5-lokacijah
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47906-dan-maribora-2026-5-koncertov-na-5-lokacijah
+UID:cc174fa53590a2ce@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T080000
+DTEND;TZID=Europe/Ljubljana:20261021T080000
+SUMMARY:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+LOCATION:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+DESCRIPTION:Dogodek je namenjen dijakom 4. letnikov Srednje ekonomske šole in gimnazije Maribor\, z namenom\, da pridobijo informacije in znanja za premišljene odločitve glede nadaljnje izobraževalne in poklicne poti\, skladno z njihovimi željami in cilji.\n\n\n\nDijaki bodo:\n\nraziskali svoje interese\, vrednote in veš https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00-2/
+URL:https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:a30ea765915e5ea1@kulturko
@@ -1337,13 +599,31 @@ DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
 URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
 END:VEVENT
 BEGIN:VEVENT
-UID:84cc486eff7f7462@kulturko
+UID:51f69461a23298ab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T163000
+DTEND;TZID=Europe/Ljubljana:20261021T183000
+SUMMARY:Mala šola mozaika
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Kamenček\, košček stekla\, malo domišljije – in nastane mozaik.\n\nMozaik je ena najstarejših likovnih tehnik na svetu. A čeprav so z njim okraševali tla in stene že pred tisočletji\, je lahko danes prav tako igriv\, barvit in čisto naš.\n\nNa Mali šoli mozaika bomo raziskovali\, kaj vse lahko ustvarimo  https://nd-mb.si/dogodek/mala-sola-mozaika/
+URL:https://nd-mb.si/dogodek/mala-sola-mozaika/
+END:VEVENT
+BEGIN:VEVENT
+UID:f011ee380f3412de@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261021T170000
-DTEND;TZID=Europe/Ljubljana:20261021T190000
-SUMMARY:Otvoritev knjižnice Pesnica na novi lokaciji
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46842-otvoritev-knjiznice-pesnica-na-novi-lokaciji
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46842-otvoritev-knjiznice-pesnica-na-novi-lokaciji
+DTEND;TZID=Europe/Ljubljana:20261021T180000
+SUMMARY:Prostovoljsko delo mladih za mlade
+LOCATION:Pekarna Madalenske mreže
+DESCRIPTION:\n\n\n\n\n\n\n\nOd ponedeljka do petka 10.00 – 17.00\, Pekarna Magdalenske mreže\nPoziv za mlade prostovoljke_ce\nMlade od 15. do 30. leta vabimo\, da postanete prostovoljke_ci v naši organizaciji in se pridružite drugim mladim\, ki skozi prostovoljsko delo pridobivajo nove prijatelje_ice\, nova znanja in izkušnj https://mladimaribor.si/dogodek/prostovoljsko-delo-mladih-za-mlade-2/
+URL:https://mladimaribor.si/dogodek/prostovoljsko-delo-mladih-za-mlade-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:139c949779ffdfb3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T170000
+DTEND;TZID=Europe/Ljubljana:20261021T180000
+SUMMARY:Poezija na mestnih ulicah 2026: vodeni sprehod ob plakatih
+LOCATION:Glavni trg
+DESCRIPTION:\n\n\n\n\nPOEZIJA NA MESTNIH ULICAH 2026\nVODENI SPREHOD OB PLAKATIH\nSreda\, 21. oktober 2026 // ob 17.00 // središče Maribora in Kulturni inkubator\; zbirno mesto je na Glavnem trgu\nMed 20. in 26. oktobrom bo nekatere oglase na plakatnih mestih v središču Maribora v sklopu projekta Poezija na mestnih ulica https://mladimaribor.si/dogodek/poezija-na-mestnih-ulicah-2026-vodeni-sprehod-ob-plakatih-2026-10-21-17-00-00-2026-10-21-18-00-00-2/
+URL:https://mladimaribor.si/dogodek/poezija-na-mestnih-ulicah-2026-vodeni-sprehod-ob-plakatih-2026-10-21-17-00-00-2026-10-21-18-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:3f8679cceb14fb75@kulturko
@@ -1353,6 +633,24 @@ SUMMARY:Študentski oktober – GLASBENO-LITERARNI VEČER Z ŽANOM VIDCEM
 LOCATION:Pod arkadami UKM
 DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno prireditev Študentski oktober kot dobrodošlico študentkam in študentom ob začetku novega študijskega leta.\nSreda\, 21. oktober 2026\, 18.00\, Pod arkadami\nZačetek novega študijskega leta bo glasbeno obarval vokalist Žan Videc\, ki bo skupaj https://mladimaribor.si/dogodek/studentski-oktober-glasbeno-literarni-vecer-z-zanom-vidcem/
 URL:https://mladimaribor.si/dogodek/studentski-oktober-glasbeno-literarni-vecer-z-zanom-vidcem/
+END:VEVENT
+BEGIN:VEVENT
+UID:a429439b1f69d607@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T180000
+DTEND;TZID=Europe/Ljubljana:20261021T200000
+SUMMARY:Knjižni klub: Bookworm Society
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nKNJIŽNI KLUB MKC MARIBOR\nBOOKWORM SOCIETY\nSreda\, 21. oktober 2026 // ob 18.00 // Kulturni inkubator\nOktobrsko srečanje Knjižnega kluba MKC Maribor bo v sredo\, 21. oktobra 2026\, ob 18. uri v Kulturnem inkubatorju.\nDragi naši bralci\, vabimo vas\, da se nam pridružite na še enem srečanju bralnega k https://mladimaribor.si/dogodek/knjizni-klub-bookworm-society-2026-10-21-18-00-00-2026-10-21-20-00-00-2/
+URL:https://mladimaribor.si/dogodek/knjizni-klub-bookworm-society-2026-10-21-18-00-00-2026-10-21-20-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:06b66ffc20bc108e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T180000
+DTEND;TZID=Europe/Ljubljana:20261021T200000
+SUMMARY:Šola mozaika\, 15+
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Od majhnih koščkov do velike ideje.\n\nMozaik je umetnost sestavljanja. Iz kamna\, keramike\, stekla in drugih materialov nastajajo podobe\, vzorci\, teksture in predmeti\, pri katerih ima svoje mesto vsak posamezen košček.\n\nNa celoletni Šoli mozaika bomo raziskovali tako klasične kot sodobne pristope  https://nd-mb.si/dogodek/sola-mozaika-15/
+URL:https://nd-mb.si/dogodek/sola-mozaika-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e0196e63b15fa6@kulturko
@@ -1400,6 +698,24 @@ DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/ev
 URL:https://www.sng-mb.si/event/kot-noc-in-dan/
 END:VEVENT
 BEGIN:VEVENT
+UID:1a7e01f2230e0cf6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T100000
+DTEND;TZID=Europe/Ljubljana:20261022T120000
+SUMMARY:Gledališki labirint
+LOCATION:Slovensko narodno gledališče Maribor
+DESCRIPTION:Interaktivni vodnik po gledališču za mlade \n\nSlovensko narodno gledališče Maribor v Kulturnem dnevniku sodeluje s programom Interaktivni vodnik po gledališču – Gledališki labirint. Učence popeljemo v labirint Slovenskega narodnega gledališča Maribor kjer odkrivajo skrivne prostore\, ki jih ob obisk https://nd-mb.si/dogodek/gledaliski-labirint-3/
+URL:https://nd-mb.si/dogodek/gledaliski-labirint-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:063b578eebc7fa2c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T150000
+DTEND;TZID=Europe/Ljubljana:20261022T150000
+SUMMARY:KEMIKON: Uporaba družbenega omrežja LinkedIn pri iskanju zaposlitve
+LOCATION:Dvorana Vladimirja Bračiča\, Rektorat UM
+DESCRIPTION:Na delavnici se bomo osredotočili na vlogo družbenih omrežij pri vstopu na trg dela. Podrobneje se bomo posvetili LinkedInu\, ki je vodilno družbeno omrežje\, namenjeno profesionalnemu mreženju.\n\n\n\nCilji delavnice:\n\n\nozavestiti pomen digitalne prisotnosti na trgu dela\;\nnaučiti se učinkovitega mreženja https://mladimaribor.si/dogodek/kemikon-uporaba-druzbenega-omrezja-linkedin-pri-iskanju-zaposlitve-2026-10-22-15-00-00/
+URL:https://mladimaribor.si/dogodek/kemikon-uporaba-druzbenega-omrezja-linkedin-pri-iskanju-zaposlitve-2026-10-22-15-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:eeadcdea338fa5dd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T160000
 DTEND;TZID=Europe/Ljubljana:20261022T180000
@@ -1418,6 +734,33 @@ DESCRIPTION:Društvo Asociacija in Zavod PIP vabita na javno predvolilno soočen
 URL:https://nd-mb.si/dogodek/prostori-kulture-vizija-maribora-za-kulturo-in-umetnost/
 END:VEVENT
 BEGIN:VEVENT
+UID:5966bb683ca123ab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T163000
+DTEND;TZID=Europe/Ljubljana:20261022T163000
+SUMMARY:Sprehod po Kulturnem centru Pekarna
+LOCATION:KC Pekarna
+DESCRIPTION:\n\n\n\n\n\n\n\n22. 10. 2026 ob 16.30\, Kulturni center Pekarna\nSprehod po Kulturnem centru Pekarna\nV četrtek\, 22. 10. 2026\, mlade med 15 in 30 let ob 16.00 vabimo na sprehod po KC Pekarna. Dobimo se pred prostori Pekarne Magdalenske mreže.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmo le ena od organizacij v Kulturnem centru Pekarna.  https://mladimaribor.si/dogodek/sprehod-po-kulturnem-centru-pekarna-2026-10-22-16-30-00/
+URL:https://mladimaribor.si/dogodek/sprehod-po-kulturnem-centru-pekarna-2026-10-22-16-30-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2b16be919f6f95@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T163000
+DTEND;TZID=Europe/Ljubljana:20261022T183000
+SUMMARY:Likovna šola s Polono\, 9+
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Kjer radovednost sreča umetnost \n\nKaj vidimo in občutimo\, če pogledamo svet malo drugače – bolj pozorno in zavzeto? V kakšne fantazijske svetove in čudovite podobe nas lahko popeljejo domišljija\, ostro oko in spretni prsti? Kako iz črte\, madeža\, barv in oblik nastane nekaj čisto našega in osupljiv https://nd-mb.si/dogodek/likovna-sola-s-polono-9/
+URL:https://nd-mb.si/dogodek/likovna-sola-s-polono-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:582e8c5057eb52a4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T163000
+DTEND;TZID=Europe/Ljubljana:20261022T183000
+SUMMARY:Studio za animirani film – mladi
+LOCATION:Partizanska cesta 12
+DESCRIPTION:Animacija ni samo tehnika. Je način\, kako lahko idejo spraviš v gibanje.\n\nKaj lahko poveš z animacijo\, česar ne moreš povedati z eno samo sliko? Kako nastane gibanje? Kaj se zgodi\, ko fotografiji dodaš še eno – in še eno?\n\nAnimacijski laboratorij za mlade je prostor za raziskovanje animiranega f https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
+URL:https://nd-mb.si/dogodek/studio-za-animirani-film-mladi/
+END:VEVENT
+BEGIN:VEVENT
 UID:6337e350258715b6@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T173000
 DTEND;TZID=Europe/Ljubljana:20261022T193000
@@ -1432,17 +775,17 @@ DTSTART;TZID=Europe/Ljubljana:20261022T180000
 DTEND;TZID=Europe/Ljubljana:20261022T220000
 SUMMARY:Druženje ob barvanju 3D figuric in namiznih igrah
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
-URL:https://mkc.si/koledar/2025/10/22/druzenje-ob-barvanju-3d-figuric
+DESCRIPTION:\n\n\n\n\nDELAVNICA\nMi barvamo [3d tiskane figurice] + namizne igre\nČetrtek\, 22. oktober 2026 // 18.00-22.00 // Kulturni inkubator\nMKC Maribor vabi v Kulturni inkubator na brezplačno delavnico\, na kateri bodo udeleženci lahko barvali 3D tiskane figurice\, igrali namizne igre\, se pogovarjali o 3D tisku in  https://mladimaribor.si/dogodek/druzenje-ob-barvanju-3d-figuric-in-namiznih-igrah-2026-10-22-18-00-00-2026-10-22-22-00-00/
+URL:https://mladimaribor.si/dogodek/druzenje-ob-barvanju-3d-figuric-in-namiznih-igrah-2026-10-22-18-00-00-2026-10-22-22-00-00/
 END:VEVENT
 BEGIN:VEVENT
-UID:b170e91ccdde0c98@kulturko
+UID:870f09805d6ed6e3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T190000
 DTEND;TZID=Europe/Ljubljana:20261022T210000
-SUMMARY:KMŠ || Gusar party
+SUMMARY:Martinovanje 2026 || Martinova večerja
 LOCATION:ŠTUK
-DESCRIPTION:GUSAR PARTY / Klub mariborskih študentov / 22. 10. 2026 Gusarji so prepluli Dravo in zatavali na ŠTUK\, kjer pa bojo rabli tvojo pomoč! 🏴‍☠️ V četrtek\, 22. oktobra\, se atrij ŠTUK-a spremeni v pravi štajerski zaliv! Ob prihodu dobiš svoj gusarski backstory in skrivno misijo večera\, potem pa je na tebi https://vstopnice.stuk.org/izdelek/gusar-party/
-URL:https://vstopnice.stuk.org/izdelek/gusar-party/
+DESCRIPTION:GUSAR PARTY / Klub mariborskih študentov / 22. 10. 2026 Gusarji so prepluli Dravo in zatavali na ŠTUK\, kjer pa bojo rabli tvojo pomoč! 🏴‍☠️ V četrtek\, 22. oktobra\, se atrij ŠTUK-a spremeni v pravi štajerski zaliv! Ob prihodu dobiš svoj gusarski backstory in skrivno misijo večera\, potem pa je na tebi https://vstopnice.stuk.org/izdelek/fdakjfhasffas-crpwafsd-jfysdfg/
+URL:https://vstopnice.stuk.org/izdelek/fdakjfhasffas-crpwafsd-jfysdfg/
 END:VEVENT
 BEGIN:VEVENT
 UID:6f520a27f9c6edb0@kulturko
@@ -1454,6 +797,15 @@ DESCRIPTION:Richard Wagner · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/
 URL:https://www.sng-mb.si/event/tannhauser/
 END:VEVENT
 BEGIN:VEVENT
+UID:694d74422a1c2858@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T190000
+DTEND;TZID=Europe/Ljubljana:20261022T210000
+SUMMARY:Zvočne zgodbe mojih neznan(k)cev
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Neznanke\, neznanci. Nepričakovani.   \n  Znane oblike\, melodije\, misli\, besede sprožijo vrsto nekontroliranih\, neznanih reakcij\, smeri\, poti. Slikajo popolnoma novo pokrajino občutkov nekontrole. Svoboda razplete razum. V trenutku obstajanja se čudim neznancem. Želijo na prostost. Želijo prip https://nd-mb.si/dogodek/zvocne-zgodbe-mojih-neznankcev/
+URL:https://nd-mb.si/dogodek/zvocne-zgodbe-mojih-neznankcev/
+END:VEVENT
+BEGIN:VEVENT
 UID:fbbae50f26eeb3ea@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T193000
 DTEND;TZID=Europe/Ljubljana:20261022T213000
@@ -1461,6 +813,15 @@ SUMMARY:Pravljični večer za odrasle • Človek zgodba
 LOCATION:Sodni stolp
 DESCRIPTION: https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
 URL:https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
+END:VEVENT
+BEGIN:VEVENT
+UID:b170e91ccdde0c98@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T200000
+DTEND;TZID=Europe/Ljubljana:20261022T233000
+SUMMARY:KMŠ || Gusar party
+LOCATION:ŠTUK
+DESCRIPTION:GUSAR PARTY / Klub mariborskih študentov / 22. 10. 2026\nGusarji so prepluli Dravo in zatavali na ŠTUK\, kjer pa bojo rabli tvojo pomoč! 🏴‍☠️\nV četrtek\, 22. oktobra\, se atrij ŠTUK-a spremeni v pravi štajerski zaliv! Ob prihodu dobiš svoj gusarski backstory in skrivno misijo večera\, potem pa je na tebi https://mladimaribor.si/dogodek/kms-gusar-party-2026-10-22-00-00-00/
+URL:https://mladimaribor.si/dogodek/kms-gusar-party-2026-10-22-00-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac96fe7a7c986e3@kulturko
@@ -1474,29 +835,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2923f80caaba538e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T210000
-DTEND;TZID=Europe/Ljubljana:20261022T230000
+DTEND;TZID=Europe/Ljubljana:20261022T210000
 SUMMARY:UFO Art Night v Vetrinjcu
-LOCATION:Vetrinjski Dvor
-DESCRIPTION:Projekt  UFO Art Night  je prvi tovrstni dogodek v Sloveniji – interdisciplinarni umetniški večer\, ki združuje vizualne projekcije (VJ-ing)\, glasbo v živo ter moderirano razpravo.\n\nDogodek bo raziskoval teme vesolja\, neznanih letečih predmetov (UFO) in skrivnostnega. Cilj je povezati umetnost\, zna https://nd-mb.si/dogodek/ufo-art-night-v-vetrinjcu/
-URL:https://nd-mb.si/dogodek/ufo-art-night-v-vetrinjcu/
+LOCATION:Vetrinjc-BarCoda
+DESCRIPTION:Predprodaja na šanku in v spletni Coda štacuni: 10 €\, na dan dogodka: 15 €\nhttps://www.kud-coda.org/izdelek/ufo-art-night-22-10-2026/\n—————————————\nProjekt UFO Art Night je prvi tovrstni dogodek v Sloveniji – interdisciplinarni umetniški večer\, ki združuje vizualne projekcije (VJ-ing)\, glasbo v živo https://mladimaribor.si/dogodek/ufo-art-night-v-vetrinjcu/
+URL:https://mladimaribor.si/dogodek/ufo-art-night-v-vetrinjcu/
 END:VEVENT
 BEGIN:VEVENT
-UID:215827c1db2cf8ba@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T170000
-DTEND;TZID=Europe/Ljubljana:20261023T190000
-SUMMARY:Pubec 2026
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47881-pubec-2026
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47881-pubec-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:fdd38e6a74897751@kulturko
+UID:0b964e1045d174ee@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T170000
 DTEND;TZID=Europe/Ljubljana:20261023T190000
 SUMMARY:Razcufane zgodbe
 LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45570-razcufane-zgodbe
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45570-razcufane-zgodbe
+DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 END:VEVENT
 BEGIN:VEVENT
 UID:c548b70e98e0fb64@kulturko
@@ -1504,8 +856,8 @@ DTSTART;TZID=Europe/Ljubljana:20261023T173000
 DTEND;TZID=Europe/Ljubljana:20261023T190000
 SUMMARY:Novinarska šola MKC Maribor: od ideje do objave
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/2/novinarska-sola-mkc-maribor
-URL:https://mkc.si/koledar/2026/10/2/novinarska-sola-mkc-maribor
+DESCRIPTION:\n\n\n\n\nNovinarska šola MKC Maribor x Maribor24\nOBRAZI MLADEGA MARIBORA: OD IDEJE DO OBJAVE\nPetek\, 23. oktober 2026 // 17.30 // Kulturni inkubator\nS septembrom je Novinarska šola MKC Maribor stopila v svojo tretjo sezono\, zato je čas za okrepitev in nadgraditev. V svoje vrste vabimo nove mlade\, ki bi ž https://mladimaribor.si/dogodek/novinarska-sola-mkc-maribor-od-ideje-do-objave-2026-10-23-17-30-00-2026-10-23-19-00-00/
+URL:https://mladimaribor.si/dogodek/novinarska-sola-mkc-maribor-od-ideje-do-objave-2026-10-23-17-30-00-2026-10-23-19-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:11086af7537d765f@kulturko
@@ -1526,6 +878,33 @@ DESCRIPTION:Raziščite bogastvo stare glasbe ter baročne elegancije v navdihuj
 URL:https://mladimaribor.si/dogodek/koncert-tria-tacet/
 END:VEVENT
 BEGIN:VEVENT
+UID:7fb7cf2bbb54fe2f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T233000
+SUMMARY:ČUNGA LUNGA
+LOCATION:ŠTUK
+DESCRIPTION:Vračamo se v čas največjih hitov od 2000 do 2015. 🎶 Komadi\, ki smo jih imeli na MP3-jih\, poslušali na repeat in ob njih preživeli prve žure.\n📍 ŠTUK\n📅 23. 10. 2026\n🕘 20.00–2.00\n🔞 21+Povezava do originalnega članka https://mladimaribor.si/dogodek/cunga-lunga-2026-10-23-00-00-00/
+URL:https://mladimaribor.si/dogodek/cunga-lunga-2026-10-23-00-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1edd5498d972fa3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T200000
+SUMMARY:Heavy Metal
+LOCATION:Dvorana Gustaf
+DESCRIPTION:⚔️ CLAYMOREAN + CRYSTALLION ⚔️\nTwo bands\, one night of heavy metal. Raise your fists and bang your head at Dvorana Gustaf! https://mladimaribor.si/dogodek/heavy-metal/
+URL:https://mladimaribor.si/dogodek/heavy-metal/
+END:VEVENT
+BEGIN:VEVENT
+UID:80d870a185ee8ed7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T233000
+SUMMARY:Anarhitektonika: Underground Movements ” Detroid Shakedown ”
+LOCATION:Eksperiment Kavarna & Bar
+DESCRIPTION:Gotti se je vrnil iz balkan turneje z detroitskim smooth spitterjem Valid-om in legendarnim DJ Headom\, človekom ki je med drugim igral pomembno vlogo pri kaljenju kalibrov kot so J Dilla\, Big Proof ter celo 50 Cent in Eminem.\nNjima na čast bomo poslušali selekcije Detroitovskih artistov z velikim po https://mladimaribor.si/dogodek/anarhitektonika-underground-movements-detroid-shakedown/
+URL:https://mladimaribor.si/dogodek/anarhitektonika-underground-movements-detroid-shakedown/
+END:VEVENT
+BEGIN:VEVENT
 UID:b6ebef889b2aeb19@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T200000
 DTEND;TZID=Europe/Ljubljana:20261023T220000
@@ -1544,31 +923,31 @@ DESCRIPTION:Tadej Toš: Resno?!? Ne se hecat   \n  O življenju\, odnosih\, sve
 URL:https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
 END:VEVENT
 BEGIN:VEVENT
-UID:ef25fc336411a463@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T200000
-DTEND;TZID=Europe/Ljubljana:20261023T220000
-SUMMARY:Eva Boto – koncert
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46836-eva-boto-koncert
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46836-eva-boto-koncert
-END:VEVENT
-BEGIN:VEVENT
-UID:7fb7cf2bbb54fe2f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T210000
-DTEND;TZID=Europe/Ljubljana:20261023T230000
-SUMMARY:ČUNGA LUNGA
-LOCATION:ŠTUK
-DESCRIPTION:📅 Petek\, 23. 10. ⏰ Začnemo ob 21.00 🔞 21+ 🍭 ČUNGA LUNGA na ŠTUKU | 23. 10. 🌀 Novo poglavje vikendov na ŠTUKU se začenja. OdŠTUKani vikendi so nova serija vikend dogodkov\, ki na plesišče vrača glasbo različnih generacij. Začenjamo s Čunga Lunga. 🎶 Hiti od 2000 do 2015. Od popa in R&B-ja do dance hito https://vstopnice.stuk.org/izdelek/cunga-lunga/
-URL:https://vstopnice.stuk.org/izdelek/cunga-lunga/
-END:VEVENT
-BEGIN:VEVENT
 UID:0048ff59c23a42f9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T210000
 DTEND;TZID=Europe/Ljubljana:20261023T230000
 SUMMARY:PERO DEFFORMERO
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
-URL:https://www.pekarna.net/napovednik/pero-defformero-23.10.2026/
+DESCRIPTION:\nV Maribor po štirih letih prihaja spektakularna\, intergalaktična\, iberseksi gruvibilna skupina – PERO DEFFORMERO!\nVsi metalci in ljubitelji turbofolka ali pa nihče od teh – vabljeni na đuskanje ob hitih\, kot so:\nGotičarka\, Gastarbajter\, Metal sviraću\, Kauboj\, Trebalo bi\, Došli smo do kraja puta\, U  https://mladimaribor.si/dogodek/pero-defformero-2026-10-23-21-00-00-2026-10-23-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/pero-defformero-2026-10-23-21-00-00-2026-10-23-23-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9086f3a67c708eb8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T000000
+DTEND;TZID=Europe/Ljubljana:20261024T000000
+SUMMARY:CRVENA JABUKA || koncert
+LOCATION:ŠTUK
+DESCRIPTION:📅 Sobota\, 24. oktober 2026\n🕘 21.00\n📍 ŠTUK\, Maribor\nLegendarna skupina\, brezčasne uspešnice in večer\, poln nostalgije\, emocij ter pesmi\, ki jih poznajo generacije. Tugo\, nesrećo\, Bježi kišo s prozora\, Dirlija\, Ima nešto od srca do srca in številne druge bomo tokrat prepevali skupaj na ŠTUK-u.\nPriprav https://mladimaribor.si/dogodek/crvena-jabuka-koncert-2026-10-24-00-00-00/
+URL:https://mladimaribor.si/dogodek/crvena-jabuka-koncert-2026-10-24-00-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:4af9d18a53d07762@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T090000
+DTEND;TZID=Europe/Ljubljana:20261024T110000
+SUMMARY:Izrezovanje buč\, delavnica
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
+URL:https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
 END:VEVENT
 BEGIN:VEVENT
 UID:ad87c352b1fd7161@kulturko
@@ -1580,15 +959,6 @@ DESCRIPTION:Oktober je čas za čarovnice\, buče in skrivnostne uroke! Pridruž
 URL:https://nd-mb.si/dogodek/carovniski-klobuki-s-polono-poklukar/
 END:VEVENT
 BEGIN:VEVENT
-UID:d19705ede2f7ccad@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T100000
-DTEND;TZID=Europe/Ljubljana:20261024T120000
-SUMMARY:Ves svet je marmelada
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
-END:VEVENT
-BEGIN:VEVENT
 UID:3ffe0a4841c80d59@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T100000
 DTEND;TZID=Europe/Ljubljana:20261024T120000
@@ -1598,22 +968,40 @@ DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 END:VEVENT
 BEGIN:VEVENT
+UID:461abff6f8f7143f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T100000
+DTEND;TZID=Europe/Ljubljana:20261024T120000
+SUMMARY:Ves svet je marmelada
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
+URL:https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
+END:VEVENT
+BEGIN:VEVENT
 UID:22b7dbc52f493072@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T110000
 DTEND;TZID=Europe/Ljubljana:20261025T190000
 SUMMARY:Hiša strahov: Čud(ež)na dežela
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/24/hia-strahov-udena-deela
-URL:https://mkc.si/koledar/2026/10/24/hia-strahov-udena-deela
+DESCRIPTION:\n\n\n\n\nANIMOKU OTAKU KAISHO\nHIŠA STRAHOV: ČUD(EŽ)NA DEŽELA\n \nV Kulturni inkubator se vrača Hiša strahov\, ki so jo tudi tokrat pripravili v Društvu Animoku. Čud(ež)na dežela bo vrata prvič odprla v sklopu dvodnevnega tematskega dogodka Animoku Halloween Special\, ki bo v Kulturnem inkubatorju v soboto i https://mladimaribor.si/dogodek/hisa-strahov-cud-ez-na-dezela-2026-10-24-11-00-00-2026-10-25-19-00-00/
+URL:https://mladimaribor.si/dogodek/hisa-strahov-cud-ez-na-dezela-2026-10-24-11-00-00-2026-10-25-19-00-00/
 END:VEVENT
 BEGIN:VEVENT
-UID:9086f3a67c708eb8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T190000
-DTEND;TZID=Europe/Ljubljana:20261024T210000
-SUMMARY:CRVENA JABUKA || koncert
-LOCATION:ŠTUK
-DESCRIPTION:📅 Sobota\, 24. oktober 2026 🕘 21.00 📍 ŠTUK\, Maribor Legendarna skupina\, brezčasne uspešnice in večer\, poln nostalgije\, emocij ter pesmi\, ki jih poznajo generacije. Tugo\, nesrećo\, Bježi kišo s prozora\, Dirlija\, Ima nešto od srca do srca in številne druge bomo tokrat prepevali skupaj na ŠTUK-u. Priprav https://vstopnice.stuk.org/izdelek/crvena-jabuka-koncert/
-URL:https://vstopnice.stuk.org/izdelek/crvena-jabuka-koncert/
+UID:07f48320102d36b9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T150000
+DTEND;TZID=Europe/Ljubljana:20261024T233000
+SUMMARY:Coda Zombie Walk
+LOCATION:Vetrinjc-BarCoda
+DESCRIPTION:Bliža se čas strahov. Svet tone v kaos. Mrtvi vstajajo\, zombiji prihajajo in…\nkaj naredijo Codovci ter Vetrinjčani? Pridružijo se jim s plesom in petjem\, seveda.\nŽelite biti del našega mračnega pohoda?\n24. 10. 2026 se bomo prelevili v zombije na glasbeni šoli KUD Coda\, Koroška cesta 63.\nOb 15.00: za https://mladimaribor.si/dogodek/coda-zombie-walk/
+URL:https://mladimaribor.si/dogodek/coda-zombie-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb5fbedfa9d3421@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T180000
+DTEND;TZID=Europe/Ljubljana:20261024T220000
+SUMMARY:Paint & Sip
+LOCATION:Eksperiment Kavarna & Bar
+DESCRIPTION: PAINT & SIP Eksperiment bar\, Maribor Petek\, 24. oktober 2026 18:00–22:00\nPridruži se nam na sproščenem ustvarjalnem večeru v jesenskem duhu!Tokrat bomo slikali motive na temo noč čarovnic. V prijetnem ambientu Eksperiment bara te čaka umetniško druženje\, okusna pijača in prigrizki ter veliko dobre  https://mladimaribor.si/dogodek/paint-sip/
+URL:https://mladimaribor.si/dogodek/paint-sip/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e11e797965b6621@kulturko
@@ -1661,33 +1049,6 @@ DESCRIPTION: https://www.facebook.com/events/1692643712078130/
 URL:https://www.facebook.com/events/1692643712078130/
 END:VEVENT
 BEGIN:VEVENT
-UID:f0299990a95b6572@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T200000
-DTEND;TZID=Europe/Ljubljana:20261024T220000
-SUMMARY:TRAGOM OLIVERA - Koncert v spomin Oliverju Dragojeviću
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42407-tragom-olivera-koncert-v-spomin-oliverju-dragojevicu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/42407-tragom-olivera-koncert-v-spomin-oliverju-dragojevicu
-END:VEVENT
-BEGIN:VEVENT
-UID:479c488a239af040@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261025T100000
-DTEND;TZID=Europe/Ljubljana:20261025T120000
-SUMMARY:Brezplačno vodenje: Če bi trške hiše lahko spregovorile
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45531-brezplacno-vodenje-ce-bi-trske-hise-lahko-spregovorile
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45531-brezplacno-vodenje-ce-bi-trske-hise-lahko-spregovorile
-END:VEVENT
-BEGIN:VEVENT
-UID:f68a50b0d4d9cc81@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261025T100000
-DTEND;TZID=Europe/Ljubljana:20261025T120000
-SUMMARY:Urice z živalmi za najmlajše
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47888-urice-z-zivalmi-za-najmlajse
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47888-urice-z-zivalmi-za-najmlajse
-END:VEVENT
-BEGIN:VEVENT
 UID:4a735aab47c48421@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261025T143000
 DTEND;TZID=Europe/Ljubljana:20261025T163000
@@ -1697,31 +1058,40 @@ DESCRIPTION:Bertolt Brecht · 2026 BPAT International Theatre Festival\, Beijing
 URL:https://www.sng-mb.si/event/malomescanska-svatba/
 END:VEVENT
 BEGIN:VEVENT
-UID:db1033bfe7c455bc@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261026T073000
-DTEND;TZID=Europe/Ljubljana:20261026T093000
-SUMMARY:Počitniško varstvo na kmetiji
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47889-pocitnisko-varstvo-na-kmetiji
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47889-pocitnisko-varstvo-na-kmetiji
+UID:86303c3ac01060e7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261026T070000
+DTEND;TZID=Europe/Ljubljana:20261030T160000
+SUMMARY:Krompirjeve počitnice na MARSu
+LOCATION:Vetrinjski dvor\, Maribor
+DESCRIPTION:Datum in ura začetka: 26. 10. 2026 ob 07:00\nDatum in ura konca: 30. 10. 2026 ob 16:00\nKraj: Vetrinjski dvor\, Maribor\n\nOpis dogodka:\nPrijave zbiramo do 21. 10. 2026\n\nPrijavi zdaj!\n\nKrompirjeve počitnice so pred vrati. Po uspešnemu poletju\, smo na pobudo staršev pripravili program ustvarjalnega varstv https://mladimaribor.si/dogodek/krompirjeve-pocitnice-na-marsu-2026-10-26-07-00-00-2026-10-30-16-00-00-2/
+URL:https://mladimaribor.si/dogodek/krompirjeve-pocitnice-na-marsu-2026-10-26-07-00-00-2026-10-30-16-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:d8e43ddc9930881c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261026T100000
-DTEND;TZID=Europe/Ljubljana:20261026T120000
+UID:7a711f29ab9a77a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261026T090000
+DTEND;TZID=Europe/Ljubljana:20261026T110000
 SUMMARY:v SVETU Petra SVETine
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 END:VEVENT
 BEGIN:VEVENT
 UID:601455a04f0b4c35@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261026T190000
-DTEND;TZID=Europe/Ljubljana:20261026T210000
+DTEND;TZID=Europe/Ljubljana:20261026T190000
 SUMMARY:Kostanjev žar 2026
 LOCATION:ŠTUK
-DESCRIPTION:📅 26. 10. 2026 ⏰ od 19.00 naprej 📍 atrij ŠTUK / vstopnine ni Vabljeni na tradicionalni kostanjev žar na Štuku! 🌰 V ponedeljek\, 26. oktobra 2026 ob 19.00\, boste lahko uživali v brezplačnih kostanjih izpod rok mojstra Kostanj Bedrača in brezplačnem moštu s kmetije Kajžar. Za dobro glasbo bo poskrbljen https://vstopnice.stuk.org/izdelek/kostanjev-zar-2026/
-URL:https://vstopnice.stuk.org/izdelek/kostanjev-zar-2026/
+DESCRIPTION:📅 26. 10. 2026\n⏰ od 19.00 naprej\n📍 atrij ŠTUK / vstopnine ni\nVabljeni na tradicionalni kostanjev žar na Štuku! 🌰\nV ponedeljek\, 26. oktobra 2026 ob 19.00\, boste lahko uživali v brezplačnih kostanjih izpod rok mojstra Kostanj Bedrača in brezplačnem moštu s kmetije Kajžar. Za dobro glasbo bo poskrbljen https://mladimaribor.si/dogodek/kostanjev-zar-2026-2026-10-26-19-00-00/
+URL:https://mladimaribor.si/dogodek/kostanjev-zar-2026-2026-10-26-19-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac65adcb55230b0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T000000
+DTEND;TZID=Europe/Ljubljana:20261027T000000
+SUMMARY:Brucovanje ŠTUK || Mejaši & Burjana
+LOCATION:ŠTUK
+DESCRIPTION:Novo študijsko leto\, novi obrazi\, nova prijateljstva in prve nepozabne študentske zgodbe. In kje drugje jih začeti kot na legendarnem ŠTUK-u?\nV torek\, 27. oktobra\, pripravljamo BRUCOVANJE ŠTUK 2026\, kjer bomo poskrbeli za pravo študentsko vzdušje\, glasno prepevanje in zabavo do jutranjih ur!\nZa glas https://mladimaribor.si/dogodek/brucovanje-stuk-mejasi-burjana-2026-10-27-00-00-00-2/
+URL:https://mladimaribor.si/dogodek/brucovanje-stuk-mejasi-burjana-2026-10-27-00-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:d8015fd3a5c4e44c@kulturko
@@ -1733,6 +1103,15 @@ DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 END:VEVENT
 BEGIN:VEVENT
+UID:0140878c889f6e14@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T180000
+DTEND;TZID=Europe/Ljubljana:20261027T180000
+SUMMARY:Žiga Brdnik: Kubanska revolucija in razgradnja evrocentričnega pogleda
+LOCATION:OBRAT
+DESCRIPTION:\n\n\n\n\n\n\n\n27. 10. 2026 ob 18.00\, OBRAT\nCikel Filmski pogled\n\n\n\n\n\n\nŽiga Brdnik: Kubanska revolucija in razgradnja evrocentričnega pogleda\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nV torek\, 27. 10. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT – prostor umetnosti in participacije\, na predavanje Žige Brdnika z nasl https://mladimaribor.si/dogodek/ziga-brdnik-kubanska-revolucija-in-razgradnja-evrocentricnega-pogleda-2026-10-27-18-00-00/
+URL:https://mladimaribor.si/dogodek/ziga-brdnik-kubanska-revolucija-in-razgradnja-evrocentricnega-pogleda-2026-10-27-18-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:c9b78745c4778f4e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261027T180000
 DTEND;TZID=Europe/Ljubljana:20261027T200000
@@ -1740,15 +1119,6 @@ SUMMARY:PIAF KVIZ #87 - Torek\, 27. 10. 2026
 LOCATION:PIAF
 DESCRIPTION:Upajmo\, da bo lepo vreme. Za vsak slučaj spremljajte Piaf FB.\n\nPravila kviza ostajajo enaka. Na kviz se lahko prijavi posameznik ali skupina do 6 ljudi. Prijave potekajo na dogodku samem\, prijavnina je 1 EUR po osebi. Rezervacije niso možne\, zato je modro\, če pridete kaj prej. Odgovarjali bomo na 40 https://www.facebook.com/events/1117273517409636/
 URL:https://www.facebook.com/events/1117273517409636/
-END:VEVENT
-BEGIN:VEVENT
-UID:d952c116c25d0d4a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261027T193000
-DTEND;TZID=Europe/Ljubljana:20261027T213000
-SUMMARY:Dol mi visi! Kaj pa teb'? Motivacijski kabaret vražje babnice
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45697-dol-mi-visi-kaj-pa-teb-motivacijski-kabaret-vrazje-babnice
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45697-dol-mi-visi-kaj-pa-teb-motivacijski-kabaret-vrazje-babnice
 END:VEVENT
 BEGIN:VEVENT
 UID:4dd334666d0a38e2@kulturko
@@ -1796,6 +1166,24 @@ DESCRIPTION:V Univerzitetni knjižnici tudi letos organiziramo tradicionalno pri
 URL:https://mladimaribor.si/dogodek/studentski-oktober-14-sahovski-turnir-ukm/
 END:VEVENT
 BEGIN:VEVENT
+UID:3643d9195a3b8187@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261028T170000
+DTEND;TZID=Europe/Ljubljana:20261028T200000
+SUMMARY:[Kreativarna] Izdelaj svojo Halloween pisavo
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/10/28/kreativarna-izdelaj-svojo-halloween-pisavo
+URL:https://mkc.si/koledar/2026/10/28/kreativarna-izdelaj-svojo-halloween-pisavo
+END:VEVENT
+BEGIN:VEVENT
+UID:2df564601783732b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261028T200000
+DTEND;TZID=Europe/Ljubljana:20261028T233000
+SUMMARY:ŠOUROCK 2026 || finalni večer
+LOCATION:ŠTUK
+DESCRIPTION:Pridružite se nam na večeru\, polnem dobre glasbe mladih ustvarjalcev in napete bitke za naslov “Bend Šourocka ‘26”! ⚡\nVečer bodo dodatno popestrili lanski zmagovalci – Band Šourocka ‘25\, KREERA! 🎤\n🎧 Komisija: Katarina Samobor\, Anej Pevec\, David Kreslin\, Marko Furek in Robert Novak.\n🎁 Kotiček za obis https://mladimaribor.si/dogodek/sourock-2026-finalni-vecer-2026-10-28-00-00-00-2/
+URL:https://mladimaribor.si/dogodek/sourock-2026-finalni-vecer-2026-10-28-00-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:a8cc9b563541082b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261029T090000
 DTEND;TZID=Europe/Ljubljana:20261029T110000
@@ -1805,6 +1193,15 @@ DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 END:VEVENT
 BEGIN:VEVENT
+UID:fe13e493891d168d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261029T200000
+DTEND;TZID=Europe/Ljubljana:20261029T220000
+SUMMARY:Razpoke bližine: fuga / plamen / krč
+LOCATION:Sodni stolp
+DESCRIPTION: https://www.minoriti.si/dogodki/razpoke-blizine-fuga-plamen-krc
+URL:https://www.minoriti.si/dogodki/razpoke-blizine-fuga-plamen-krc
+END:VEVENT
+BEGIN:VEVENT
 UID:afc8ae928e97aeed@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261030T090000
 DTEND;TZID=Europe/Ljubljana:20261030T110000
@@ -1812,6 +1209,15 @@ SUMMARY:v SVETU Petra SVETine
 LOCATION:Lutkovno gledališče Maribor
 DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:cd43f2a0d9f86237@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261030T180000
+DTEND;TZID=Europe/Ljubljana:20261030T180000
+SUMMARY:HALLOWEEN MASSACRE IV
+LOCATION:Dvorana Gustaf
+DESCRIPTION:The Unholy Ritual Returns. Halloween Massacre IV.\nCome step into the portal to the underworld\, cross the threshold between life and death\, and dance with the devil!\nMaske dobrodošle!\nWelcome drink!\nAfter party z KIZUMA 💀 https://mladimaribor.si/dogodek/halloween-massacre-iv/
+URL:https://mladimaribor.si/dogodek/halloween-massacre-iv/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d7c93aaa0876986@kulturko
@@ -1834,11 +1240,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:300b9b562acb7e9d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261030T210000
-DTEND;TZID=Europe/Ljubljana:20261030T230000
+DTEND;TZID=Europe/Ljubljana:20261030T233000
 SUMMARY:HIŠNI HITI
 LOCATION:ŠTUK
-DESCRIPTION:📅 Petek\, 30. 10. ⏰ Začnemo ob 21.00 🔞 25+ 🪩 HIŠNI RITMI na ŠTUKU | 30. 10. 🌀 OdŠTUKani vikendi so serija vikend dogodkov na ŠTUKU\, kjer vsak večer prinaša svojo glasbo in svoj vibe. Drugi v seriji so Hišni ritmi\, tokrat v posebni Halloween izvedbi. 🎶 Od house klasik do aktualnih uspešnic\, ki jih dan https://vstopnice.stuk.org/izdelek/hisni-hiti/
-URL:https://vstopnice.stuk.org/izdelek/hisni-hiti/
+DESCRIPTION:📅 Petek\, 30. 10.\n⏰ Začnemo ob 21.00\n🔞 25+\n🪩 HIŠNI RITMI na ŠTUKU | 30. 10.\n🌀 OdŠTUKani vikendi so serija vikend dogodkov na ŠTUKU\, kjer vsak večer prinaša svojo glasbo in svoj vibe. Drugi v seriji so Hišni ritmi\, tokrat v posebni Halloween izvedbi.\n🎶 Od house klasik do aktualnih uspešnic\, ki jih dan https://mladimaribor.si/dogodek/hisni-hiti-2026-10-30-00-00-00-2/
+URL:https://mladimaribor.si/dogodek/hisni-hiti-2026-10-30-00-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:14ca363e7449a98a@kulturko
@@ -1850,13 +1256,13 @@ DESCRIPTION:Poslikave za noč čarovnic so odličen način\, da ustvarite prazni
 URL:https://nd-mb.si/dogodek/strasne-poslikave-z-matejo-nabersnik/
 END:VEVENT
 BEGIN:VEVENT
-UID:1e99c2b62c0bcadb@kulturko
+UID:f87f5f9e86d6e6ed@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261031T110000
 DTEND;TZID=Europe/Ljubljana:20261031T130000
-SUMMARY:Halloween Brunch &amp\; Ritem
+SUMMARY:Halloween Brunch & Ritem
 LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
-URL:https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
+DESCRIPTION:\n\n\n\n\nBRUNCH & RITEM\nHALLOWEEN BRUNCH\nSobota\, 31. oktober 2026 // 11.00-13.00 // Kulturni inkubator\nNa oktobrskem Brunch & Ritem druženju bomo kulinariko in glasbo prepletli z Nočjo čarovnic. Se vidimo v soboto\, 31. oktobra 2026\, med 11. in 13. uro.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nV soboto\, 31. okrobra 2026\, vablje https://mladimaribor.si/dogodek/halloween-brunch-ritem-2026-10-31-11-00-00-2026-10-31-13-00-00/
+URL:https://mladimaribor.si/dogodek/halloween-brunch-ritem-2026-10-31-11-00-00-2026-10-31-13-00-00/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d270a8e6dd90626@kulturko
@@ -1868,13 +1274,40 @@ DESCRIPTION:Čira čara\, hokus pokus – nasmeh se nariše in nikoli ne izbriš
 URL:https://nd-mb.si/dogodek/fletna-noc-carovnic-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:56418416e2cb21b9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T200000
+DTEND;TZID=Europe/Ljubljana:20261031T220000
+SUMMARY:Drag show: Vulvariaté
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nDRAG SHOW\nVULVARIATÉ\nSobota\, 31. oktober 2026 // ob 20.00 // Kulturni inkubator\nV soboto\, 31. oktobra 2026\, bo ob 20. uri v Kulturnem inkubatorju jesenski Vulvariaté. Vstop je brezplačen\, so pa zaradi omejenega števila mest predhodne prijave obvezne.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlišite skrivnostni šum? V  https://mladimaribor.si/dogodek/drag-show-vulvariat-2026-10-31-20-00-00-2026-10-31-22-00-00-2/
+URL:https://mladimaribor.si/dogodek/drag-show-vulvariat-2026-10-31-20-00-00-2026-10-31-22-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:b904705ef7886486@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T200000
+DTEND;TZID=Europe/Ljubljana:20261031T200000
+SUMMARY:SKRIVALNICE: HALLOWEEN – R&B EDITION
+LOCATION:Vinag Maribor
+DESCRIPTION:SKRIVALNICE niso le zabave – so doživetja. Prostori\, kjer glasba ni v ozadju\, ampak v središču izkušnje. Vrhunska produkcija. Dovršen line-up. Občutek ekskluzivnosti. Vsake SKRIVALNICE so drugačne.\nŽe tradicionalno se 31. oktobra vračamo v VINAG. Tokrat prvič v novi preobleki – s posebno R&B edicijo https://mladimaribor.si/dogodek/skrivalnice-halloween-rb-edition/
+URL:https://mladimaribor.si/dogodek/skrivalnice-halloween-rb-edition/
+END:VEVENT
+BEGIN:VEVENT
 UID:f59eb7acc964fa24@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261031T210000
 DTEND;TZID=Europe/Ljubljana:20261031T230000
 SUMMARY:HALLOWEEN
 LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/halloween.31.10.2026/
-URL:https://www.pekarna.net/napovednik/halloween.31.10.2026/
+DESCRIPTION:\nČe bi pred 30 leti vedeli\, da bo dandanes vsaka šminkerska birtija praznovala noč čarovnic\, da bodo mini plastične bučke prodajali v Hoferu pa Tediju… takrat ne bi niti začeli s tem. Samo sranje smo naredili. Ampak kaj moremo.\nTradicija v Pekarni ni hec in ne bomo se umikali\, ker so nas povozili tr https://mladimaribor.si/dogodek/halloween-2026-10-31-21-00-00-2026-10-31-23-00-00-2/
+URL:https://mladimaribor.si/dogodek/halloween-2026-10-31-21-00-00-2026-10-31-23-00-00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:aafecf1a11b1e819@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T220000
+DTEND;TZID=Europe/Ljubljana:20261031T220000
+SUMMARY:Dance Of The Undead
+LOCATION:ŠTUK
+DESCRIPTION:🎃 DANCE OF THE UNDEAD 🎃\nThe OG Halloween electronic event\nWe are so back!\nNajboljši praznik v letu je pred nami\, MR ekipa se že počuti razposajeno in slutimo\, da bo to eden jačih eventov zadnjih let!\nMaskiranje je zaželjeno\, predvsem zato\, da ni treba takoj pobegnit domov\, ko vzide sonce. Uporaba te https://mladimaribor.si/dogodek/dance-of-the-undead/
+URL:https://mladimaribor.si/dogodek/dance-of-the-undead/
 END:VEVENT
 BEGIN:VEVENT
 UID:19eeb3ff82bb2bd7@kulturko
@@ -1886,6 +1319,15 @@ DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preo
 URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
+UID:89f79594bf85333c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261102T190000
+DTEND;TZID=Europe/Ljubljana:20261102T210000
+SUMMARY:Trivia night || ROZA vs MODRO
+LOCATION:ŠTUK
+DESCRIPTION:📅 2. november 2026 🕖 19.00 📍 Dvorana ŠTUK\, Maribor 👥 Ekipe po 3-4 člane 🔢 40 ekip + 5 ekip v čakalni vrsti Čaka vas večer zanimivih vprašanj\, tekmovalnega vzdušja\, druženja in nagrad za najboljše ekipe! 🏆 PRIJAVE: https://www.soum.si/events/trivia-night-roza-vs-modro/ 🩵🩷 TRIVIA NIGHT – ROZA VS. MODR https://vstopnice.stuk.org/izdelek/trivia-night-roza-vs-modro/
+URL:https://vstopnice.stuk.org/izdelek/trivia-night-roza-vs-modro/
+END:VEVENT
+BEGIN:VEVENT
 UID:c0b1be38513d8660@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261103T080000
 DTEND;TZID=Europe/Ljubljana:20261103T100000
@@ -1893,6 +1335,15 @@ SUMMARY:Rumena pika na nebu
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
 URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:3eead47b4cbb5bb1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261103T180000
+DTEND;TZID=Europe/Ljubljana:20261103T200000
+SUMMARY:Knjižni klub: Bookworm Society
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/3/knjizni-klub-bookworm-society
+URL:https://mkc.si/koledar/2026/11/3/knjizni-klub-bookworm-society
 END:VEVENT
 BEGIN:VEVENT
 UID:c3516764441bfce4@kulturko
@@ -1931,6 +1382,24 @@ DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
 URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
 END:VEVENT
 BEGIN:VEVENT
+UID:a90deca183bb2a76@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T100000
+DTEND;TZID=Europe/Ljubljana:20261104T130000
+SUMMARY:“Kaj pa vi sploh delate?” – praktična delavnica o komuniciranju učinkov za NVO
+LOCATION:Zavod PIP
+DESCRIPTION:Živimo v časih\, ki so zlasti za nevladne organizacije precej negotovi. Delamo dobro\, a se s tem pogosto ne pohvalimo\, saj menimo\, da naše delo govori samo zase. Dejstvo pa je\, da je vsaka organizacija nekoliko specifična in nagovarja svoj krog uporabnikov\, obiskovalcev ali podpornikov.\nKako torej sv https://mladimaribor.si/dogodek/kaj-pa-vi-sploh-delate-prakticna-delavnica-o-komuniciranju-ucinkov-za-nvo/
+URL:https://mladimaribor.si/dogodek/kaj-pa-vi-sploh-delate-prakticna-delavnica-o-komuniciranju-ucinkov-za-nvo/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3124aee404f0321@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T110000
+DTEND;TZID=Europe/Ljubljana:20261104T130000
+SUMMARY:Aktualne novosti na področju statusa in računovodskih obveznosti
+LOCATION:Vetrinjski Dvor
+DESCRIPTION:Novičnik za samostojne delavce v kulturi\, ki deluje v okviru KUD Trivia\, vabi k prijavam na brezplačno delavnico  “Aktualne novosti na področju statusa in računovodskih obveznosti” . Delavnica bo potekala  4. novembra 2026 v Vetrinjskem dvoru v Mariboru od 11.00 – 14.00 ure\, v prostoru Studio .\n   https://nd-mb.si/dogodek/aktualne-novosti-na-podrocju-statusa-in-racunovodskih-obveznosti/
+URL:https://nd-mb.si/dogodek/aktualne-novosti-na-podrocju-statusa-in-racunovodskih-obveznosti/
+END:VEVENT
+BEGIN:VEVENT
 UID:953ad1eaf08dace7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261104T170000
 DTEND;TZID=Europe/Ljubljana:20261104T183000
@@ -1959,8 +1428,8 @@ URL:https://vstopnice.stuk.org/izdelek/ftrgatev-2025-dsfsdgdssdgadf/
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc5f9f74a4b5053@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261104T200000
-DTEND;TZID=Europe/Ljubljana:20261104T220000
+DTSTART;TZID=Europe/Ljubljana:20261104T190000
+DTEND;TZID=Europe/Ljubljana:20261104T210000
 SUMMARY:Oče\, hči in sveti duh
 LOCATION:SNG Maribor
 DESCRIPTION:Mate Matišić · Dvorana Frana Žižka https://www.sng-mb.si/event/oce-hci-in-sveti-duh/
@@ -1974,15 +1443,6 @@ SUMMARY:Črnogorec v postelji – Peđa Šuškavčević
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Črnogorsko kulturno društvo ''KOMOVI'' Maribor \n\n \n\nČrnogorec v postelji je komedija\, ki spregovori o vseh življenjskih obdobjih\, še posebej duhovito pa o vsakdanjih težavah povsem običajnega črnog https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
 URL:https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
-END:VEVENT
-BEGIN:VEVENT
-UID:625fd3fede43754e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261104T200000
-DTEND;TZID=Europe/Ljubljana:20261104T220000
-SUMMARY:Črnogorec v postelji
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45670-crnogorec-v-postelji
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45670-crnogorec-v-postelji
 END:VEVENT
 BEGIN:VEVENT
 UID:2edc94ef309e56e9@kulturko
@@ -2012,13 +1472,31 @@ DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Fran
 URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4942e268589399@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T170000
-DTEND;TZID=Europe/Ljubljana:20261106T190000
+UID:5761c3980d3fc77d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T200000
+DTEND;TZID=Europe/Ljubljana:20261105T220000
+SUMMARY:Četrtkovi večeri kulture || NOTRANJI PIR – Miha Šalehar
+LOCATION:ŠTUK
+DESCRIPTION:📅 5. 11. 2026 🕗 20:00 📍 dvorana ŠTUK\, Maribor … Z veseljem vam predstavljamo prvi večer v sklopu dogodkov Četrtkovi večeri kulture!! ✨ Na Štuku bo 5. 11. ob 20. uri z monokomedijo Notranji Pir nastopil Miha Šalehar. 🎭Preživi sproščen ter zabaven večer na ŠTUK-u in najdi svoj notranji pir!🍻 Se vidimo https://vstopnice.stuk.org/izdelek/cvk-notranji-pir/
+URL:https://vstopnice.stuk.org/izdelek/cvk-notranji-pir/
+END:VEVENT
+BEGIN:VEVENT
+UID:4eeb0e36effed35e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T093000
+DTEND;TZID=Europe/Ljubljana:20261106T113000
 SUMMARY:Rumena pika na nebu
 LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7a6b84aee1c23a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T150000
+DTEND;TZID=Europe/Ljubljana:20261106T180000
+SUMMARY:Šiviljska delavnica za mlade: Sešij & Nosi
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nŠiviljska delavnica za mlade\nSEŠIJ & NOSI\nPetek\, 6. november 2026 // 15.00-18.00 // Kulturni inkubator\nSi ustvarjalen/a\, imaš rad/a torbice in modne dodatke in te zanima reciklaža materialov? Vabimo te\, da se nam pridružiš na ustvarjalni delavnici šivanja in ponovne uporabe tekstila. Delavnica  https://mladimaribor.si/dogodek/siviljska-delavnica-za-mlade-sesij-nosi-2026-11-06-15-00-00-2026-11-06-18-00-00-2/
+URL:https://mladimaribor.si/dogodek/siviljska-delavnica-za-mlade-sesij-nosi-2026-11-06-15-00-00-2026-11-06-18-00-00-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0809501da6af312@kulturko
@@ -2111,13 +1589,13 @@ DESCRIPTION:Na novembrski ustvarjalni delavnici bomo z Barbaro Crnkovič iz mehk
 URL:https://nd-mb.si/dogodek/nakit-iz-filca-z-barbaro-crnkovic/
 END:VEVENT
 BEGIN:VEVENT
-UID:a447002bc3187b0f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261107T200000
-DTEND;TZID=Europe/Ljubljana:20261107T220000
-SUMMARY:Usje se je dalu
-LOCATION:SNG Maribor
-DESCRIPTION:Tereza Gregorič\, Borut Petrović\, Jakob Šfiligoj · Dvorana Frana Žižka https://www.sng-mb.si/event/usje-se-je-dalu/
-URL:https://www.sng-mb.si/event/usje-se-je-dalu/
+UID:5ca85edead0d4bbc@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T100000
+DTEND;TZID=Europe/Ljubljana:20261107T120000
+SUMMARY:Jesensko sajenje in zaščita vrtnic
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=jesensko-sajenje-in-zascita-vrtnic
+URL:https://botanicnivrt.um.si/?ajde_events=jesensko-sajenje-in-zascita-vrtnic
 END:VEVENT
 BEGIN:VEVENT
 UID:9e95f86fdca1eea9@kulturko
@@ -2127,6 +1605,15 @@ SUMMARY:Immaculata
 LOCATION:SNG Maribor
 DESCRIPTION:Kazalište Marina Držića\, Dubrovnik\, Hrvaška https://www.sng-mb.si/event/immaculata/
 URL:https://www.sng-mb.si/event/immaculata/
+END:VEVENT
+BEGIN:VEVENT
+UID:a447002bc3187b0f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T200000
+DTEND;TZID=Europe/Ljubljana:20261107T220000
+SUMMARY:Usje se je dalu
+LOCATION:SNG Maribor
+DESCRIPTION:Tereza Gregorič\, Borut Petrović\, Jakob Šfiligoj · Dvorana Frana Žižka https://www.sng-mb.si/event/usje-se-je-dalu/
+URL:https://www.sng-mb.si/event/usje-se-je-dalu/
 END:VEVENT
 BEGIN:VEVENT
 UID:8fb6275ab683265e@kulturko
@@ -2208,6 +1695,24 @@ SUMMARY:Kot noč in dan
 LOCATION:SNG Maribor
 DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
 URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:953e791b5aff39ac@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261110T160000
+DTEND;TZID=Europe/Ljubljana:20261110T180000
+SUMMARY:Martinovanje 2026 || Martinova večerja
+LOCATION:ŠTUK
+DESCRIPTION:📅 10. november 2026 🕖 16.00 📍 Dvorana ŠTUK\, Maribor Za martinovanje si vsi želimo čim manj sikiranja\, več degustiranja. Število kart je omejeno – na voljo so v predprodaji SAMO v kavarni ŠTUK po ceni 12 €. Vsi\, ki kupite karto za Martinovo večerjo\, boste na dan dogodka brezplačno prejeli tudi vstopn https://vstopnice.stuk.org/izdelek/martinovanje-2026-martinova-vecerja/
+URL:https://vstopnice.stuk.org/izdelek/martinovanje-2026-martinova-vecerja/
+END:VEVENT
+BEGIN:VEVENT
+UID:08689b41df6c2ed4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261110T180000
+DTEND;TZID=Europe/Ljubljana:20261129T150000
+SUMMARY:[RAZSTAVA] Nova krila
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/10/razstava-nova-krila
+URL:https://mkc.si/koledar/2026/11/10/razstava-nova-krila
 END:VEVENT
 BEGIN:VEVENT
 UID:3855295d4c89bd25@kulturko
@@ -2372,13 +1877,13 @@ DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/e
 URL:https://www.sng-mb.si/event/bajadera/
 END:VEVENT
 BEGIN:VEVENT
-UID:36fa6facb4f3fc7e@kulturko
+UID:1b1372faab390553@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261113T200000
 DTEND;TZID=Europe/Ljubljana:20261113T220000
-SUMMARY:JAZZelnica: Rene Grajfoner brings fellowship
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46837-jazzelnica-rene-grajfoner-brings-fellowship
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46837-jazzelnica-rene-grajfoner-brings-fellowship
+SUMMARY:Rock 'ma mlade 2026 #2: Fallen Division
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/13/rock-ma-mlade-2026-fallen-division
+URL:https://mkc.si/koledar/2026/11/13/rock-ma-mlade-2026-fallen-division
 END:VEVENT
 BEGIN:VEVENT
 UID:5743e7c8b760f671@kulturko
@@ -2435,15 +1940,6 @@ DESCRIPTION: https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slove
 URL:https://www.facebook.com/events/koresova-ulica-7-2000-maribor-slovenija/%C5%BEeljko-bebek-maribor-dvorana-tabor/1465541275123555/
 END:VEVENT
 BEGIN:VEVENT
-UID:dea82f9705e1bf5c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261114T200000
-DTEND;TZID=Europe/Ljubljana:20261114T220000
-SUMMARY:JAZZelnica: Ana Soklič feat. SOUL Cast
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46833-jazzelnica-ana-soklic-feat-soul-cast
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46833-jazzelnica-ana-soklic-feat-soul-cast
-END:VEVENT
-BEGIN:VEVENT
 UID:305b42fb8fd6e3bd@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261114T220000
 DTEND;TZID=Europe/Ljubljana:20261114T220000
@@ -2467,7 +1963,7 @@ DTSTART;TZID=Europe/Ljubljana:20261116T200000
 DTEND;TZID=Europe/Ljubljana:20261116T220000
 SUMMARY:Zadnja večerja
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike\n\nPredstava traja 1 u https://nd-mb.si/dogodek/zadnja-vecerja/
+DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike.\n\nPredstava traja 1  https://nd-mb.si/dogodek/zadnja-vecerja/
 URL:https://nd-mb.si/dogodek/zadnja-vecerja/
 END:VEVENT
 BEGIN:VEVENT
@@ -2516,15 +2012,6 @@ DESCRIPTION:2. koncert Komornega cikla 2026/2027 \n\n \n\n  Dejan Lazić  \,
 URL:https://nd-mb.si/dogodek/mozart/
 END:VEVENT
 BEGIN:VEVENT
-UID:0a4c844d070985b3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261119T110000
-DTEND;TZID=Europe/Ljubljana:20261119T130000
-SUMMARY:Klasično: Marimba
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41985-klasicno-marimba
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41985-klasicno-marimba
-END:VEVENT
-BEGIN:VEVENT
 UID:61ad56649ba80725@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261119T190000
 DTEND;TZID=Europe/Ljubljana:20261119T210000
@@ -2534,15 +2021,6 @@ DESCRIPTION:Tv Poper je nazaj!  \n\nŠe bolj aktualen\, še bolj drzen in še 
 URL:https://nd-mb.si/dogodek/tv-poper-v-zivo/
 END:VEVENT
 BEGIN:VEVENT
-UID:438e52ab9b90a739@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261119T193000
-DTEND;TZID=Europe/Ljubljana:20261119T213000
-SUMMARY:Duokomedija za odrasle: Razočarana gospodinja pri seksologu
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45547-duokomedija-za-odrasle-razocarana-gospodinja-pri-seksologu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45547-duokomedija-za-odrasle-razocarana-gospodinja-pri-seksologu
-END:VEVENT
-BEGIN:VEVENT
 UID:c03106583e4cf5d0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261120T100000
 DTEND;TZID=Europe/Ljubljana:20261120T120000
@@ -2550,15 +2028,6 @@ SUMMARY:Kako sta Bibi in Gusti sipala srečo
 LOCATION:SNG Maribor
 DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
 URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
-END:VEVENT
-BEGIN:VEVENT
-UID:bf03bf3ed0954da2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T140000
-DTEND;TZID=Europe/Ljubljana:20261120T160000
-SUMMARY:Jesenska razbremenitev: 3-dnevni oddih na Pohorju (za ženske)
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44023-jesenska-razbremenitev-3-dnevni-oddih-na-pohorju-za-zenske
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/44023-jesenska-razbremenitev-3-dnevni-oddih-na-pohorju-za-zenske
 END:VEVENT
 BEGIN:VEVENT
 UID:5978b35bf4e5b784@kulturko
@@ -2606,13 +2075,22 @@ DESCRIPTION: https://www.facebook.com/events/965770649184332/
 URL:https://www.facebook.com/events/965770649184332/
 END:VEVENT
 BEGIN:VEVENT
-UID:0fed6ad096e65c53@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261120T210000
-DTEND;TZID=Europe/Ljubljana:20261120T230000
-SUMMARY:Pool Party Night
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45584-pool-party-night
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45584-pool-party-night
+UID:8f98ee2e7cb71899@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261120T200000
+DTEND;TZID=Europe/Ljubljana:20261120T220000
+SUMMARY:ELVIS JACKSON\, The Last Supper\, Blame Betty
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
+URL:https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad8b4bf6b340f56@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T090000
+DTEND;TZID=Europe/Ljubljana:20261121T110000
+SUMMARY:Glej\, tička!
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/glejtika-35141
+URL:https://www.minoriti.si/dogodki/glejtika-35141
 END:VEVENT
 BEGIN:VEVENT
 UID:29af338064d649db@kulturko
@@ -2624,22 +2102,13 @@ DESCRIPTION:Na tej čudoviti delavnici bomo skupaj ustvarjali unikatne adventne 
 URL:https://nd-mb.si/dogodek/vencki-taki-in-drugacni-z-nino-holc-in-natalijo-zabav/
 END:VEVENT
 BEGIN:VEVENT
-UID:7c96d6c2cbb0a189@kulturko
+UID:b237816f0b67231c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T100000
 DTEND;TZID=Europe/Ljubljana:20261121T120000
-SUMMARY:Muzejska sobota
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47899-muzejska-sobota
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47899-muzejska-sobota
-END:VEVENT
-BEGIN:VEVENT
-UID:eac5ed12526fbb0b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261121T140000
-DTEND;TZID=Europe/Ljubljana:20261121T160000
-SUMMARY:Hrestač ob soju sveč
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45703-hrestac-ob-soju-svec
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45703-hrestac-ob-soju-svec
+SUMMARY:Izdelovanje adventnih venčkov
+LOCATION:Botanični vrt
+DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=izdelovanje-adventnih-dekoracij
+URL:https://botanicnivrt.um.si/?ajde_events=izdelovanje-adventnih-dekoracij
 END:VEVENT
 BEGIN:VEVENT
 UID:41612e7733695733@kulturko
@@ -2669,11 +2138,11 @@ DESCRIPTION:Svetlana Aleksijevič · Mali oder https://www.sng-mb.si/event/vojna
 URL:https://www.sng-mb.si/event/vojna-nima-zenskega-obraza/
 END:VEVENT
 BEGIN:VEVENT
-UID:7a4499e44b9f3b88@kulturko
+UID:87f65bbb1fd24310@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T200000
 DTEND;TZID=Europe/Ljubljana:20261121T220000
 SUMMARY:Klasika!  Trio Firšt
-LOCATION:Narodni dom Maribor
+LOCATION:Vetrinjski Dvor
 DESCRIPTION:Nastopi tria Firšt navdušujejo občinstva v Sloveniji\, Srbiji in na Hrvaškem z glasbeno-gledališkim sprehodom čez eklektičen koncertni spored\, ki postavlja nove mejnike tehnične virtuoznosti in džezovske invencije\, norčavo predeluje znane napeve iz repertoarja evropske klasične glasbe in jih povezuje https://nd-mb.si/dogodek/klasika-trio-first/
 URL:https://nd-mb.si/dogodek/klasika-trio-first/
 END:VEVENT
@@ -2786,6 +2255,15 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
+UID:9f6b3ea581885c4b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261125T190000
+DTEND;TZID=Europe/Ljubljana:20261125T220000
+SUMMARY:Banda ferdamana: Impro noir
+LOCATION:Kulturni inkubator
+DESCRIPTION:\n\n\n\n\nBanda ferdamana\nIMPRO NOIR\nSreda\, 25. november 2026 // ob 19.00 // Kulturni inkubator\nV sredo\, 25. novembra 2026\, bo na odru Kulturnega inkubatorja ob 19. uri stala Banda ferdamana. Pripravljajo Impro noir.\nAli radi gledate filme\, vendar zmeraj uspete napovedati njegov zaključek? Ali imate radi https://mladimaribor.si/dogodek/banda-ferdamana-impro-noir-2026-11-25-19-00-00-2026-11-25-22-00-00/
+URL:https://mladimaribor.si/dogodek/banda-ferdamana-impro-noir-2026-11-25-19-00-00-2026-11-25-22-00-00/
+END:VEVENT
+BEGIN:VEVENT
 UID:12dea035f0dee45f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T080000
 DTEND;TZID=Europe/Ljubljana:20261126T100000
@@ -2813,15 +2291,6 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
-UID:060f9ccaaae31457@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261126T193000
-DTEND;TZID=Europe/Ljubljana:20261126T213000
-SUMMARY:Kakšno ime pa je to?!
-LOCATION:SNG Maribor
-DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · ZKTŠ Murska Sobota https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
-END:VEVENT
-BEGIN:VEVENT
 UID:315e2fa588a1435d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T193000
 DTEND;TZID=Europe/Ljubljana:20261126T213000
@@ -2829,6 +2298,15 @@ SUMMARY:3. koncert cikla Carpe artem »Refleksije strun«
 LOCATION:SNG Maribor
 DESCRIPTION:Kazinska dvorana https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
 URL:https://www.sng-mb.si/event/3-koncert-cikla-carpe-artem-refleksije-strun-izvenabonmajski-koncert/
+END:VEVENT
+BEGIN:VEVENT
+UID:060f9ccaaae31457@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T193000
+DTEND;TZID=Europe/Ljubljana:20261126T213000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · ZKTŠ Murska Sobota https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
 UID:f81db5852209f20c@kulturko
@@ -2867,24 +2345,6 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/trio-vivere-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:0e7094ab548a9900@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T160000
-DTEND;TZID=Europe/Ljubljana:20261127T180000
-SUMMARY:Cesarjeva nova oblačila
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
-URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
-END:VEVENT
-BEGIN:VEVENT
-UID:2c81690b36220e36@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T190000
-DTEND;TZID=Europe/Ljubljana:20261127T210000
-SUMMARY:Salome / Slovenka
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46838-salome-slovenka
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46838-salome-slovenka
-END:VEVENT
-BEGIN:VEVENT
 UID:17c82be0270c16c9@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261127T193000
 DTEND;TZID=Europe/Ljubljana:20261127T213000
@@ -2903,6 +2363,33 @@ DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana �
 URL:https://www.sng-mb.si/event/uberkrajina/
 END:VEVENT
 BEGIN:VEVENT
+UID:a56f15943e6886bf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261127T200000
+DTEND;TZID=Europe/Ljubljana:20261127T220000
+SUMMARY:Jazz 'ma mlade 2026
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://www.facebook.com/events/1743925803251503/1743925816584835/
+URL:https://www.facebook.com/events/1743925803251503/1743925816584835/
+END:VEVENT
+BEGIN:VEVENT
+UID:50338099655d5496@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261127T200000
+DTEND;TZID=Europe/Ljubljana:20261127T220000
+SUMMARY:Jazz 'ma mlade 2026 #4: Standards Quartet Vol.2
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/27/jazz-ma-mlade-2026-standards-quartet
+URL:https://mkc.si/koledar/2026/11/27/jazz-ma-mlade-2026-standards-quartet
+END:VEVENT
+BEGIN:VEVENT
+UID:285b9c6dfffbe236@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T090000
+DTEND;TZID=Europe/Ljubljana:20261128T110000
+SUMMARY:Mizarjeva zgodba
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+END:VEVENT
+BEGIN:VEVENT
 UID:94eb493cc8bb7705@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261128T090000
 DTEND;TZID=Europe/Ljubljana:20261128T110000
@@ -2910,15 +2397,6 @@ SUMMARY:Cesarjeva nova oblačila
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
 URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
-END:VEVENT
-BEGIN:VEVENT
-UID:bdd0ca3dedfd2d33@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261128T100000
-DTEND;TZID=Europe/Ljubljana:20261128T120000
-SUMMARY:Mizarjeva zgodba
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
 END:VEVENT
 BEGIN:VEVENT
 UID:6daf4b9b127ba2a6@kulturko
@@ -2948,15 +2426,6 @@ DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb
 URL:https://www.sng-mb.si/event/netopir-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:e607a7d3ab72120b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261128T200000
-DTEND;TZID=Europe/Ljubljana:20261128T220000
-SUMMARY:Koncert Vite Mavrič: La vita è bella
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46839-koncert-vite-mavric-la-vita-bella
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46839-koncert-vite-mavric-la-vita-bella
-END:VEVENT
-BEGIN:VEVENT
 UID:f169ef9afdaec789@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261130T080000
 DTEND;TZID=Europe/Ljubljana:20261130T100000
@@ -2966,15 +2435,6 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
-UID:56b06130aef8f09f@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261130T200000
-DTEND;TZID=Europe/Ljubljana:20261130T220000
-SUMMARY:Boji in preobrazbe neke ženske
-LOCATION:SNG Maribor
-DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
-END:VEVENT
-BEGIN:VEVENT
 UID:e7328a03517db444@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261130T200000
 DTEND;TZID=Europe/Ljubljana:20261130T220000
@@ -2982,6 +2442,15 @@ SUMMARY:Kakšno ime pa je to?!
 LOCATION:SNG Maribor
 DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Dvorana Frana Žižka https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
+UID:56b06130aef8f09f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261130T200000
+DTEND;TZID=Europe/Ljubljana:20261130T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
 END:VEVENT
 BEGIN:VEVENT
 UID:55ee5cc51403dc53@kulturko
@@ -3009,6 +2478,24 @@ SUMMARY:Moč besede
 LOCATION:Dvorana Union
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kulturno društvo BSA \n\n \n\n Po razprodanih Izštekanih v Cankarjevem domu in izjemnem koncertu v Slovenski filharmoniji prihaja ta vrhunska glasbena energija tudi k nam! \n\n V Dvorani Union   gostim https://nd-mb.si/dogodek/moc-besede/
 URL:https://nd-mb.si/dogodek/moc-besede/
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc8b73cdd660cbb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T200000
+DTEND;TZID=Europe/Ljubljana:20261201T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · Mali oder https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd41e0c07f60314@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T200000
+DTEND;TZID=Europe/Ljubljana:20261201T220000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Dvorana Frana Žižka https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
 UID:5a61808f57bd187a@kulturko
@@ -3056,13 +2543,13 @@ DESCRIPTION:2. koncert Orkestrskega cikla 2026/2027\n \n\n \n\n  Beneški b
 URL:https://nd-mb.si/dogodek/beneski-barocni-orkester/
 END:VEVENT
 BEGIN:VEVENT
-UID:fabbd147d842c554@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261203T193000
-DTEND;TZID=Europe/Ljubljana:20261203T213000
-SUMMARY:Beneški baročni orkester
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41993-beneski-barocni-orkester
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41993-beneski-barocni-orkester
+UID:e35337f794bd3168@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261203T200000
+DTEND;TZID=Europe/Ljubljana:20261203T220000
+SUMMARY:Večno mladi
+LOCATION:SNG Maribor
+DESCRIPTION:Erik Gedeon · Dvorana Frana Žižka https://www.sng-mb.si/event/vecno-mladi/
+URL:https://www.sng-mb.si/event/vecno-mladi/
 END:VEVENT
 BEGIN:VEVENT
 UID:a127b3b4e58d866e@kulturko
@@ -3074,6 +2561,15 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
+UID:e987771b8c995e8c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261204T200000
+DTEND;TZID=Europe/Ljubljana:20261204T220000
+SUMMARY:Boji in preobrazbe neke ženske
+LOCATION:SNG Maribor
+DESCRIPTION:Édouard Louis · AGRFT Ljubljana https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+URL:https://www.sng-mb.si/event/boji-in-preobrazbe-neke-zenske/
+END:VEVENT
+BEGIN:VEVENT
 UID:e9a53c16ba98b648@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261204T200000
 DTEND;TZID=Europe/Ljubljana:20261204T220000
@@ -3083,13 +2579,13 @@ DESCRIPTION:Glavni junak Viskovitz v svojih različnih živalskih inkarnacijah p
 URL:https://nd-mb.si/dogodek/zival-si/
 END:VEVENT
 BEGIN:VEVENT
-UID:d300d8294d979124@kulturko
+UID:c4c99c77d38835cf@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261204T200000
 DTEND;TZID=Europe/Ljubljana:20261204T220000
-SUMMARY:Koncert Severa in Gal Gjurin – s spremljavo
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46841-koncert-severa-in-gal-gjurin-s-spremljavo
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/46841-koncert-severa-in-gal-gjurin-s-spremljavo
+SUMMARY:Stand up večer z Avtmigeci
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/12/4/stand-up-vecer-z-avtmigeci
+URL:https://mkc.si/koledar/2026/12/4/stand-up-vecer-z-avtmigeci
 END:VEVENT
 BEGIN:VEVENT
 UID:ff3a2c3b1a4da33e@kulturko
@@ -3101,6 +2597,24 @@ DESCRIPTION: https://www.minoriti.si/dogodki/zlatolaskaintrijemedvedi
 URL:https://www.minoriti.si/dogodki/zlatolaskaintrijemedvedi
 END:VEVENT
 BEGIN:VEVENT
+UID:5d058ddc6a854f8f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T200000
+DTEND;TZID=Europe/Ljubljana:20261205T220000
+SUMMARY:Večno mladi
+LOCATION:SNG Maribor
+DESCRIPTION:Erik Gedeon · Dvorana Frana Žižka https://www.sng-mb.si/event/vecno-mladi/
+URL:https://www.sng-mb.si/event/vecno-mladi/
+END:VEVENT
+BEGIN:VEVENT
+UID:f46a01d2cde7b8e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T200000
+DTEND;TZID=Europe/Ljubljana:20261205T220000
+SUMMARY:Medeja
+LOCATION:SNG Maribor
+DESCRIPTION:Simon Stone\, Heiner Müller · Mednarodni festival gledališke režije Jagoš Marković\, Podgorica\, Črna Gora https://www.sng-mb.si/event/stone_muller_medeja/
+URL:https://www.sng-mb.si/event/stone_muller_medeja/
+END:VEVENT
+BEGIN:VEVENT
 UID:b08cf33814de451a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261205T200000
 DTEND;TZID=Europe/Ljubljana:20261205T220000
@@ -3108,6 +2622,24 @@ SUMMARY:30 let Foltin
 LOCATION:Mali oder Narodnega doma
 DESCRIPTION:Leta 2026 skupina Foltin praznuje 30 let ustvarjalnosti\, glasbene svobode in neprekinjenega dialoga z občinstvom. Ob tej posebni obletnici se vrača v Slovenijo z jubilejnim koncertom v okviru regionalne turneje 30 let Foltin.\n\nFoltin se po več letih vračajo v Maribor. Nastopili bodo v sklopu progr https://nd-mb.si/dogodek/30-let-foltin/
 URL:https://nd-mb.si/dogodek/30-let-foltin/
+END:VEVENT
+BEGIN:VEVENT
+UID:42906636b967bbd0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261205T200000
+DTEND;TZID=Europe/Ljubljana:20261205T220000
+SUMMARY:ARKONA + The Great old Ones + Seth
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/arkona-the-great-old-ones-seth/
+URL:https://www.pekarna.net/napovednik/arkona-the-great-old-ones-seth/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a3b79efe013961@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261206T160000
+DTEND;TZID=Europe/Ljubljana:20261206T180000
+SUMMARY:Kako sta Bibi in Gusti sipala srečo
+LOCATION:SNG Maribor
+DESCRIPTION:Ida Mlakar\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
+URL:https://www.sng-mb.si/event/kako-sta-bibi-in-gusti-sipala-sreco/
 END:VEVENT
 BEGIN:VEVENT
 UID:57af480b9185aaa8@kulturko
@@ -3128,6 +2660,51 @@ DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb
 URL:https://www.sng-mb.si/event/netopir-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:c6a138b444b75b00@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261207T200000
+DTEND;TZID=Europe/Ljubljana:20261207T220000
+SUMMARY:Kje je primadona?
+LOCATION:SNG Maribor
+DESCRIPTION:Ken Ludwig · Dvorana Frana Žižka https://www.sng-mb.si/event/kje-je-primadona/
+URL:https://www.sng-mb.si/event/kje-je-primadona/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdc6c8555a14da2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261209T200000
+DTEND;TZID=Europe/Ljubljana:20261209T220000
+SUMMARY:Gospa ministrica
+LOCATION:SNG Maribor
+DESCRIPTION:Branislav Nušić · Dvorana Frana Žižka https://www.sng-mb.si/event/gospa-ministrica/
+URL:https://www.sng-mb.si/event/gospa-ministrica/
+END:VEVENT
+BEGIN:VEVENT
+UID:a38d33e1ddd20186@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261210T110000
+DTEND;TZID=Europe/Ljubljana:20261210T130000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Mali oder https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
+END:VEVENT
+BEGIN:VEVENT
+UID:808e1dac4871a222@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261210T200000
+DTEND;TZID=Europe/Ljubljana:20261210T220000
+SUMMARY:Gospa ministrica
+LOCATION:SNG Maribor
+DESCRIPTION:Branislav Nušić · Dvorana Frana Žižka https://www.sng-mb.si/event/gospa-ministrica/
+URL:https://www.sng-mb.si/event/gospa-ministrica/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eca3102c8fc15aa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261211T110000
+DTEND;TZID=Europe/Ljubljana:20261211T130000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Mali oder https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
+END:VEVENT
+BEGIN:VEVENT
 UID:e2dc611d9cbe1432@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261211T150000
 DTEND;TZID=Europe/Ljubljana:20261211T160000
@@ -3146,6 +2723,33 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/candlelight-queen-vs-abba/
 END:VEVENT
 BEGIN:VEVENT
+UID:2d89553b0a1750e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T110000
+DTEND;TZID=Europe/Ljubljana:20261212T130000
+SUMMARY:Božična sreča
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kontrabant d.o.o. \n\n \n\nEnkrat na leto se na svojem čisto posebnem sestanku dobijo tri vražje babice: gospa Božičkova\, babi influencerka Všečka in babi najbolj navihane deklice na svetu\, Pika Rokavi https://nd-mb.si/dogodek/bozicna-sreca/
+URL:https://nd-mb.si/dogodek/bozicna-sreca/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b8d883346d40bd@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T160000
+DTEND;TZID=Europe/Ljubljana:20261212T180000
+SUMMARY:Antonton
+LOCATION:SNG Maribor
+DESCRIPTION:Grigor Vitez · Dvorana Frana Žižka https://www.sng-mb.si/event/antonton/
+URL:https://www.sng-mb.si/event/antonton/
+END:VEVENT
+BEGIN:VEVENT
+UID:85a6cfc68815568e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T210000
+DTEND;TZID=Europe/Ljubljana:20261212T230000
+SUMMARY:NIET + Piksel Prfekt
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/niet-piksel-prfekt/
+URL:https://www.pekarna.net/napovednik/niet-piksel-prfekt/
+END:VEVENT
+BEGIN:VEVENT
 UID:4d8dc9cab43d806e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261214T100000
 DTEND;TZID=Europe/Ljubljana:20261214T113000
@@ -3153,6 +2757,15 @@ SUMMARY:FESTIVAL IZVIRNE SLOVENSKE SLIKANICE
 LOCATION:Mariborska knjižnica
 DESCRIPTION:3. Festival izvirne slovenske slikanice je razprl jadra in s posadko izjemnih slovenskih avtorjev in ilustratorjev ter polnimi skrinjami zgodb in prečudovitih ilustracij že pluje po Sloveniji.\nNamen Festivala izvirne slovenske slikanice je\, da beremo skupaj\, saj je tako branje daleč najlepše in najb https://mladimaribor.si/dogodek/festival-izvirne-slovenske-slikanice/
 URL:https://mladimaribor.si/dogodek/festival-izvirne-slovenske-slikanice/
+END:VEVENT
+BEGIN:VEVENT
+UID:20c87b2d7d6608b3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261215T100000
+DTEND;TZID=Europe/Ljubljana:20261215T120000
+SUMMARY:Mica pri babici
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Predin · Komorni oder https://www.sng-mb.si/event/mica-pri-babici-2/
+URL:https://www.sng-mb.si/event/mica-pri-babici-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2604eb78829855fb@kulturko
@@ -3164,6 +2777,33 @@ DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.s
 URL:https://www.sng-mb.si/event/hrestac/
 END:VEVENT
 BEGIN:VEVENT
+UID:2f9b40a9a9117a0e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261215T190000
+DTEND;TZID=Europe/Ljubljana:20261215T210000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
+UID:17f46f049cfd5dc9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261215T200000
+DTEND;TZID=Europe/Ljubljana:20261215T220000
+SUMMARY:Prizori iz zakonskega življenja
+LOCATION:SNG Maribor
+DESCRIPTION:Ingmar Bergman · Mali oder https://www.sng-mb.si/event/prizori-iz-zakonskega-zivljenja/
+URL:https://www.sng-mb.si/event/prizori-iz-zakonskega-zivljenja/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0edea60aa77880@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261216T110000
+DTEND;TZID=Europe/Ljubljana:20261216T130000
+SUMMARY:Mica pri babici
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Predin · Komorni oder https://www.sng-mb.si/event/mica-pri-babici-2/
+URL:https://www.sng-mb.si/event/mica-pri-babici-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:55eeafb126c512e2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261216T180000
 DTEND;TZID=Europe/Ljubljana:20261216T200000
@@ -3171,6 +2811,51 @@ SUMMARY:Hrestač
 LOCATION:SNG Maribor
 DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
 URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:38d3463b285769b4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261216T190000
+DTEND;TZID=Europe/Ljubljana:20261216T210000
+SUMMARY:Jutra v Dženinu
+LOCATION:SNG Maribor
+DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
+URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb50c17fa950246e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261216T200000
+DTEND;TZID=Europe/Ljubljana:20261216T220000
+SUMMARY:Prizori iz zakonskega življenja
+LOCATION:SNG Maribor
+DESCRIPTION:Ingmar Bergman · Mali oder https://www.sng-mb.si/event/prizori-iz-zakonskega-zivljenja/
+URL:https://www.sng-mb.si/event/prizori-iz-zakonskega-zivljenja/
+END:VEVENT
+BEGIN:VEVENT
+UID:d42ad7645bc907e7@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261217T110000
+DTEND;TZID=Europe/Ljubljana:20261217T130000
+SUMMARY:Mica pri babici
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Predin · Komorni oder https://www.sng-mb.si/event/mica-pri-babici-2/
+URL:https://www.sng-mb.si/event/mica-pri-babici-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cacc978f63537fdb@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261217T200000
+DTEND;TZID=Europe/Ljubljana:20261217T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf1b822d3395fe0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261218T110000
+DTEND;TZID=Europe/Ljubljana:20261218T130000
+SUMMARY:Mica pri babici
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Predin · Komorni oder https://www.sng-mb.si/event/mica-pri-babici-2/
+URL:https://www.sng-mb.si/event/mica-pri-babici-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:f599815a610d870c@kulturko
@@ -3191,6 +2876,15 @@ DESCRIPTION: https://www.facebook.com/events/1512537020909103/
 URL:https://www.facebook.com/events/1512537020909103/
 END:VEVENT
 BEGIN:VEVENT
+UID:2e1729dd2f2abb77@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261219T100000
+DTEND;TZID=Europe/Ljubljana:20261219T120000
+SUMMARY:Mica pri babici
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Predin · Komorni oder https://www.sng-mb.si/event/mica-pri-babici-2/
+URL:https://www.sng-mb.si/event/mica-pri-babici-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:2885413eecad9f3c@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261219T180000
 DTEND;TZID=Europe/Ljubljana:20261219T200000
@@ -3198,6 +2892,15 @@ SUMMARY:Hrestač
 LOCATION:SNG Maribor
 DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
 URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b5c41fa1e457c8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261219T200000
+DTEND;TZID=Europe/Ljubljana:20261219T220000
+SUMMARY:Überkrajina
+LOCATION:SNG Maribor
+DESCRIPTION:Nina Ramšak Marković in Milan Ramšak Marković · Dvorana Frana Žižka https://www.sng-mb.si/event/uberkrajina/
+URL:https://www.sng-mb.si/event/uberkrajina/
 END:VEVENT
 BEGIN:VEVENT
 UID:48a1b9581aa4c33a@kulturko
@@ -3218,6 +2921,33 @@ DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.
 URL:https://www.sng-mb.si/event/hrestac/
 END:VEVENT
 BEGIN:VEVENT
+UID:7adb18741eea1d9e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261221T100000
+DTEND;TZID=Europe/Ljubljana:20261221T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:c44d59a902cfa257@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261221T110000
+DTEND;TZID=Europe/Ljubljana:20261221T130000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Dvorana Frana Žižka https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
+END:VEVENT
+BEGIN:VEVENT
+UID:c61f3afa5a90199e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261222T100000
+DTEND;TZID=Europe/Ljubljana:20261222T120000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Dvorana Frana Žižka https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
+END:VEVENT
+BEGIN:VEVENT
 UID:fbbe3fd17b0697a7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261222T110000
 DTEND;TZID=Europe/Ljubljana:20261222T130000
@@ -3227,13 +2957,22 @@ DESCRIPTION:Peter Iljič Čajkovski · Dvorana Ondine Otta Klasinc https://www.s
 URL:https://www.sng-mb.si/event/hrestac/
 END:VEVENT
 BEGIN:VEVENT
-UID:6b52179183a9935c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261222T190000
-DTEND;TZID=Europe/Ljubljana:20261222T210000
-SUMMARY:Komedija Dediščina
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45549-komedija-dediscina
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45549-komedija-dediscina
+UID:eb319ab7a340d961@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261223T100000
+DTEND;TZID=Europe/Ljubljana:20261223T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4e36fd6c078f7b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261223T100000
+DTEND;TZID=Europe/Ljubljana:20261223T120000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Dvorana Frana Žižka https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
 END:VEVENT
 BEGIN:VEVENT
 UID:3692e66221af63c8@kulturko
@@ -3243,6 +2982,51 @@ SUMMARY:Hrestač
 LOCATION:SNG Maribor
 DESCRIPTION:Peter Iljič Čajkovski ·  Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/hrestac/
 URL:https://www.sng-mb.si/event/hrestac/
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf4da0160ecc063@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261223T200000
+DTEND;TZID=Europe/Ljubljana:20261223T220000
+SUMMARY:»Lav iz in di er«
+LOCATION:SNG Maribor
+DESCRIPTION:Matevž Biber\, Nejc Ropret in Matija Stipanič · Mali oder https://www.sng-mb.si/event/lav-iz-in-di-er/
+URL:https://www.sng-mb.si/event/lav-iz-in-di-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb9ba924112ce43@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261224T100000
+DTEND;TZID=Europe/Ljubljana:20261224T120000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Dvorana Frana Žižka https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
+END:VEVENT
+BEGIN:VEVENT
+UID:cefddbeb242b1503@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261224T100000
+DTEND;TZID=Europe/Ljubljana:20261224T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:1efc62e9318dd477@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261226T100000
+DTEND;TZID=Europe/Ljubljana:20261226T120000
+SUMMARY:Kot noč in dan
+LOCATION:SNG Maribor
+DESCRIPTION:Cvetka Sokolov\, Maja Borin · Komorni oder https://www.sng-mb.si/event/kot-noc-in-dan/
+URL:https://www.sng-mb.si/event/kot-noc-in-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:95891418e467efe0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261226T103000
+DTEND;TZID=Europe/Ljubljana:20261226T123000
+SUMMARY:Janko in Metka
+LOCATION:SNG Maribor
+DESCRIPTION:Andrej Rozman Roza · Dvorana Frana Žižka https://www.sng-mb.si/event/janko-in-metka/
+URL:https://www.sng-mb.si/event/janko-in-metka/
 END:VEVENT
 BEGIN:VEVENT
 UID:97ede18a18eea90d@kulturko
@@ -3263,6 +3047,15 @@ DESCRIPTION:New event is officially here! Friday\, 26.12.! Another massive lineu
 URL:https://vstopnice.stuk.org/izdelek/sdfgsagdscvadfs/
 END:VEVENT
 BEGIN:VEVENT
+UID:12cd1896ac30d9a8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261229T200000
+DTEND;TZID=Europe/Ljubljana:20261229T220000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+END:VEVENT
+BEGIN:VEVENT
 UID:065fba0e88904e0d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261230T193000
 DTEND;TZID=Europe/Ljubljana:20261230T213000
@@ -3270,6 +3063,15 @@ SUMMARY:Netopir
 LOCATION:SNG Maribor
 DESCRIPTION:Johann Strauss ml. · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/netopir-3/
 URL:https://www.sng-mb.si/event/netopir-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:71f7a2dd7a62e4f0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261230T200000
+DTEND;TZID=Europe/Ljubljana:20261230T220000
+SUMMARY:Kakšno ime pa je to?!
+LOCATION:SNG Maribor
+DESCRIPTION:Matthieu Delaporte\, Alexandre de La Patellière · Mali oder https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
+URL:https://www.sng-mb.si/event/kaksno-ime-pa-je-to/
 END:VEVENT
 BEGIN:VEVENT
 UID:b336cc4591169b18@kulturko
@@ -3452,6 +3254,15 @@ DESCRIPTION:Z velikim veseljem vas vabimo na seminar iz kataloga KATIS  Ustvarja
 URL:https://nd-mb.si/dogodek/katis-ustvarjanje-z-izvirnimi-instrumenti-v-vrtcu-in-soli/
 END:VEVENT
 BEGIN:VEVENT
+UID:4b37ec68ef3c1a41@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270130T190000
+DTEND;TZID=Europe/Ljubljana:20270130T210000
+SUMMARY:Pol stoletja pisanja in petja
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Andrej Šifrer je eden tistih avtorjev\, katerih pesmi mrmramo\, še preden se zavemo\, da jih znamo na pamet. Glasbeni kronist časa\, pripovedovalec in večni hudomušnež že desetletja piše resnice\, v katerih se prepoznavajo generacije.\n\nPetdeset let na odrih\, v studiih\, med ljudmi in z ljudmi. Pol stole https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/
+URL:https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/
+END:VEVENT
+BEGIN:VEVENT
 UID:88f4d82b41912778@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270130T193000
 DTEND;TZID=Europe/Ljubljana:20270130T213000
@@ -3542,15 +3353,6 @@ DESCRIPTION:Wolfgang Amadeus Mozart · Dvorana Ondine Otta Klasinc https://www.s
 URL:https://www.sng-mb.si/event/don-giovanni/
 END:VEVENT
 BEGIN:VEVENT
-UID:b21bc7ce7d785f0d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270215T200000
-DTEND;TZID=Europe/Ljubljana:20270215T220000
-SUMMARY:PERICA 2.0 Pro Max
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45459-perica-2-0-pro-max
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45459-perica-2-0-pro-max
-END:VEVENT
-BEGIN:VEVENT
 UID:01b2cf06cc9677f2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270217T190000
 DTEND;TZID=Europe/Ljubljana:20270217T210000
@@ -3585,15 +3387,6 @@ SUMMARY:Commedia dell arte v glasbi
 LOCATION:Dvorana Union
 DESCRIPTION:4. koncert Mladinskega cikla 2026/2027 \n\n \n\nKoncert  Harmonija violončela in klavirja \, ki je bil prvotno načrtovan\, bo zaradi spremenjenih okoliščin prestavljen v šolsko leto 2027/2028.\n\n \n\n  Commedia dell arte v glasbi\n  \n  Ema Grčman\,  violončelo \n  Manca Dornik\,  harmonika \n\n \n\n   https://nd-mb.si/dogodek/commedia-dell-arte-v-glasbi/
 URL:https://nd-mb.si/dogodek/commedia-dell-arte-v-glasbi/
-END:VEVENT
-BEGIN:VEVENT
-UID:6bc8da7e8260ebad@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270304T150000
-DTEND;TZID=Europe/Ljubljana:20270304T170000
-SUMMARY:Harmonije violončela in klavirja
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41982-harmonije-violoncela-in-klavirja
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/41982-harmonije-violoncela-in-klavirja
 END:VEVENT
 BEGIN:VEVENT
 UID:aa78c6ba1fbfe4af@kulturko
@@ -3758,15 +3551,6 @@ DESCRIPTION:Ambroise Thomas · Dvorana Ondine Otta Klasinc https://www.sng-mb.si
 URL:https://www.sng-mb.si/event/hamlet-opera/
 END:VEVENT
 BEGIN:VEVENT
-UID:03b551e5bbdc92c6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270412T200000
-DTEND;TZID=Europe/Ljubljana:20270412T220000
-SUMMARY:Moški so z Marsa\, ženske so z Venere 2
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45454-moski-so-z-marsa-zenske-so-z-venere-2
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45454-moski-so-z-marsa-zenske-so-z-venere-2
-END:VEVENT
-BEGIN:VEVENT
 UID:46e13caf1a4700ea@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270416T200000
 DTEND;TZID=Europe/Ljubljana:20270416T220000
@@ -3783,15 +3567,6 @@ SUMMARY:Kredit
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Ko banka stranki odreče kredit\, na videz preprosta zavrnitev razkrije veliko več kot finančno nemoč. Kredit je komedija o neusmiljenem svetu\, v katerem kapital ne določa le tega\, kaj si lahko privoščimo\, temveč tudi\, kako daleč smo pripravljeni iti\, ko nam sistem reče ne.     \n\n \n\n Vpis za   dos https://nd-mb.si/dogodek/jordi-galceran-kredit/
 URL:https://nd-mb.si/dogodek/jordi-galceran-kredit/
-END:VEVENT
-BEGIN:VEVENT
-UID:2034ffda616dfd3c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20270416T200000
-DTEND;TZID=Europe/Ljubljana:20270416T220000
-SUMMARY:Jordi Galceran: Kredit
-LOCATION:
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45782-jordi-galceran-kredit
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45782-jordi-galceran-kredit
 END:VEVENT
 BEGIN:VEVENT
 UID:4064d345eae1d6e9@kulturko
@@ -4008,23 +3783,5 @@ SUMMARY:Pogovorna skupina za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION:\n\n\n\nPROJEKT VITA\nPODPORNE SKUPINE ZA DIJAKE\nMaj 2026- oktober 2027 // vsako prvo sredo v mesecu med 17.00 in 18.30 // Kulturni inkubator\nV Društvu za psihološko svetovanje Kameleon v okviru projekta VITA vljudno vabijo na brezplačno psihološko podporo za mlade. Podporne skupine bodo potekale vsako p https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-10-06/
 URL:https://mladimaribor.si/dogodek/podporne-skupine-za-dijake-2026-05-06-17-00-00-2026-05-06-18-30-00-2/2027-10-06/
-END:VEVENT
-BEGIN:VEVENT
-UID:0affa09c4ff8b47b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20271008T190000
-DTEND;TZID=Europe/Ljubljana:20271008T210000
-SUMMARY:Mednarodna večerja || Erasmus International Dinner
-LOCATION:ŠTUK
-DESCRIPTION:📍 ŠTUK 📅 8. oktober Časovnica dogodka: 🕗 20.00 – Začetek dogodka 20.45 – Slovensko presenečenje 🌙 22.00 – Konec dogodka 🌍🍴 Veliko kultur. Veliko okusov. En nepozaben večer. Hrana povezuje ljudi – tokrat pa bomo na ŠTUK pripeljali kar ves svet! 🌎✨ Pridružite se nam 8. oktobra na ŠTUK-u na mednarodni  https://vstopnice.stuk.org/izdelek/mednarodna-vecerja-erasmus-international-dinner/
-URL:https://vstopnice.stuk.org/izdelek/mednarodna-vecerja-erasmus-international-dinner/
-END:VEVENT
-BEGIN:VEVENT
-UID:71bc116eb48d8f57@kulturko
-DTSTART;TZID=Europe/Ljubljana:20271009T210000
-DTEND;TZID=Europe/Ljubljana:20271009T230000
-SUMMARY:How country
-LOCATION:ŠTUK
-DESCRIPTION:9.10. prihaja v Štuk\, Maribor dolgo pričakovani Country & Southern Rock dogodek HOW COUNTRY! 🤠🔥 Zdaj pa je vprašanje: HOW COUNTRY ARE YOU? Predvajali bomo country in southern rock hite vseh časov – od starejših izvajalcev\, kot so Lynyrd Skynyrd\, Kid Rock\, ZZ Top\, Johnny Cash\, Dolly Parton\, Alan Jack https://vstopnice.stuk.org/izdelek/how-country/
-URL:https://vstopnice.stuk.org/izdelek/how-country/
 END:VEVENT
 END:VCALENDAR

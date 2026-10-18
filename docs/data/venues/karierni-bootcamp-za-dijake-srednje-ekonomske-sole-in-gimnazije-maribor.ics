@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cc174fa53590a2ce@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T080000
+DTEND;TZID=Europe/Ljubljana:20261021T080000
+SUMMARY:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+LOCATION:Karierni Bootcamp za dijake Srednje ekonomske šole in gimnazije Maribor
+DESCRIPTION:Dogodek je namenjen dijakom 4. letnikov Srednje ekonomske šole in gimnazije Maribor\, z namenom\, da pridobijo informacije in znanja za premišljene odločitve glede nadaljnje izobraževalne in poklicne poti\, skladno z njihovimi željami in cilji.\n\n\n\nDijaki bodo:\n\nraziskali svoje interese\, vrednote in veš https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00-2/
+URL:https://mladimaribor.si/dogodek/karierni-bootcamp-za-dijake-srednje-ekonomske-sole-in-gimnazije-maribor-2026-10-21-08-00-00-2/
+END:VEVENT
+END:VCALENDAR

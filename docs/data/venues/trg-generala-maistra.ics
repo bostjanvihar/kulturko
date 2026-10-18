@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Trg generala Maistra — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:4decec917b45c6c5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261017T160000
+DTEND;TZID=Europe/Ljubljana:20261017T180000
+SUMMARY:Voden ogled  »Srednjeveški Maribor«
+LOCATION:Trg generala Maistra
+DESCRIPTION:Peš ogled Maribora znotraj nekdanjega mestnega obzidja. Ogled bo posvečen srednjemu veku\, obdobju\, v katerem je bil 20. oktobra 1164 Maribor prvič omenjen v listini.\nOgled mesta bo izveden s sodelovanjem ustanov: Pokrajinski muzej Maribor\, Narodni dom Maribor – Vetrinjski dvor\, Stolna župnija Marib https://nd-mb.si/dogodek/voden-ogled-srednjeveski-maribor/
+URL:https://nd-mb.si/dogodek/voden-ogled-srednjeveski-maribor/
+END:VEVENT
+END:VCALENDAR

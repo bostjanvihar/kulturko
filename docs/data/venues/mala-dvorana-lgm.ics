@@ -5,15 +5,6 @@ X-WR-CALNAME:Mala dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:479722565eaae62d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261015T180000
-DTEND;TZID=Europe/Ljubljana:20261015T200000
-SUMMARY:8. Prevodni Pranger
-LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/8-prevodni-pranger
-URL:https://www.minoriti.si/dogodki/8-prevodni-pranger
-END:VEVENT
-BEGIN:VEVENT
 UID:056b4628d714d837@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261125T170000
 DTEND;TZID=Europe/Ljubljana:20261125T190000
@@ -32,13 +23,13 @@ DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
-UID:bdd0ca3dedfd2d33@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261128T100000
-DTEND;TZID=Europe/Ljubljana:20261128T120000
+UID:285b9c6dfffbe236@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T090000
+DTEND;TZID=Europe/Ljubljana:20261128T110000
 SUMMARY:Mizarjeva zgodba
 LOCATION:Mala dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47901-mizarjeva-zgodba
+DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
+URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
 BEGIN:VEVENT
 UID:f169ef9afdaec789@kulturko

@@ -5,15 +5,6 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:20d43805eea394db@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T190000
-DTEND;TZID=Europe/Ljubljana:20261007T210000
-SUMMARY:Kopisti v UGM / Slikarska ustvarjalnica za mlade in odrasle
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
-URL:https://www.ugm.si/dogodki/kopisti-v-ugm-slikarska-ustvarjalnica-za-mlade-in-odrasle
-END:VEVENT
-BEGIN:VEVENT
 UID:5b313bcbe4714423@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261017T190000
 DTEND;TZID=Europe/Ljubljana:20261017T210000
@@ -21,5 +12,14 @@ SUMMARY:Dan Maribora 2026
 LOCATION:UGM
 DESCRIPTION: https://www.ugm.si/dogodki/dan-maribora-2026
 URL:https://www.ugm.si/dogodki/dan-maribora-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5a846c2e579cdac9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T190000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Umetnost in duševno zdravje mladih\, medresorsko povezovanje kulture in zdravja / zaključna delavnica
+LOCATION:UGM
+DESCRIPTION: https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih\,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
+URL:https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
 END:VEVENT
 END:VCALENDAR

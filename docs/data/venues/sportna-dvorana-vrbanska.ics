@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Športna dvorana Vrbanska — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:06b3cc33a09fb983@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261019T183000
+DTEND;TZID=Europe/Ljubljana:20261020T210000
+SUMMARY:Jesenski turnir Zdrave Zabave 2026
+LOCATION:Športna dvorana Vrbanska
+DESCRIPTION:Nova študijska sezona\, nova priložnost za športno druženje! Univerzitetna športna zveza Maribor te vabi na Jesenski turnir Zdrave Zabave 2026\, ki bo potekal 19. in 20. oktobra 2026.\nDva dni\, pet športov in ogromno dobre energije! Pomerili se boste lahko v badmintonu\, namiznem tenisu\, odbojki 4×4\, ko https://mladimaribor.si/dogodek/jesenski-turnir-zdrave-zabave-2026/
+URL:https://mladimaribor.si/dogodek/jesenski-turnir-zdrave-zabave-2026/
+END:VEVENT
+END:VCALENDAR

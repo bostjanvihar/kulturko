@@ -5,12 +5,21 @@ X-WR-CALNAME:Dvorana Gustaf — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:defa5f014d5e9af8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T200000
-DTEND;TZID=Europe/Ljubljana:20260904T200000
-SUMMARY:TERRA NOX (melodic death/groove metal – Croatia)\, KAR’AH (death metal – Croatia)
+UID:a1edd5498d972fa3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T200000
+DTEND;TZID=Europe/Ljubljana:20261023T200000
+SUMMARY:Heavy Metal
 LOCATION:Dvorana Gustaf
-DESCRIPTION:TERRA NOX (melodic death/groove metal – Croatia)\nKAR’AH (death metal – Croatia)\nLinks:\nTERRA NOX (melodic death/groove metal – Croatia)\nFacebook: https://www.facebook.com/people/Terra-Nox/61565369494303/\nYoutube: https://www.youtube.com/@TerraNox\nKAR’AH (death metal – Croatia)\nFacebook: https://www. https://mladimaribor.si/dogodek/terra-nox-melodic-death-groove-metal-croatia-karah-death-metal-croatia/
-URL:https://mladimaribor.si/dogodek/terra-nox-melodic-death-groove-metal-croatia-karah-death-metal-croatia/
+DESCRIPTION:⚔️ CLAYMOREAN + CRYSTALLION ⚔️\nTwo bands\, one night of heavy metal. Raise your fists and bang your head at Dvorana Gustaf! https://mladimaribor.si/dogodek/heavy-metal/
+URL:https://mladimaribor.si/dogodek/heavy-metal/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd43f2a0d9f86237@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261030T180000
+DTEND;TZID=Europe/Ljubljana:20261030T180000
+SUMMARY:HALLOWEEN MASSACRE IV
+LOCATION:Dvorana Gustaf
+DESCRIPTION:The Unholy Ritual Returns. Halloween Massacre IV.\nCome step into the portal to the underworld\, cross the threshold between life and death\, and dance with the devil!\nMaske dobrodošle!\nWelcome drink!\nAfter party z KIZUMA 💀 https://mladimaribor.si/dogodek/halloween-massacre-iv/
+URL:https://mladimaribor.si/dogodek/halloween-massacre-iv/
 END:VEVENT
 END:VCALENDAR

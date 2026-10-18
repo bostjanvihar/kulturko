@@ -5,21 +5,12 @@ X-WR-CALNAME:Vetrinjc – BarCoda — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:011d96afeda818de@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260918T170000
-DTEND;TZID=Europe/Ljubljana:20260918T210000
-SUMMARY:Majhno osvobojeno ozemlje #7
+UID:9b66aa444505ebc5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261016T200000
+DTEND;TZID=Europe/Ljubljana:20261016T230000
+SUMMARY:Odgovor je Kvir
 LOCATION:Vetrinjc – BarCoda
-DESCRIPTION:\n\n\npetek\, 18. september 2026 · 17.00-21.00 · Vetrinjc – BarCoda\n\n\nVelikokrat smo že šli spat in končno bomo dočakali naslednji večer Dveh lun. Na njem se odpiramo umetnosti\, ljubezni do dreves in narave in do sočloveka. Predstavljamo najboljša dela\, nastala ob iskanju življenjskih izkušenj.\nOsrednji https://mladimaribor.si/dogodek/majhno-osvobojeno-ozemlje-7/
-URL:https://mladimaribor.si/dogodek/majhno-osvobojeno-ozemlje-7/
-END:VEVENT
-BEGIN:VEVENT
-UID:9106a2f5358e7600@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260919T100000
-DTEND;TZID=Europe/Ljubljana:20260919T120000
-SUMMARY:Pregneti verz · delavnica oblikovanja gline s poezijo
-LOCATION:Vetrinjc – BarCoda
-DESCRIPTION:\n\n\nsobota\, 19. september 2026 · 10.00-12.00 · Vetrinjc – BarCoda\n\n\nTako poezija kot lončarjenje zahtevata stanje sproščene odprtosti in radovednosti. Zahtevata prepuščanje materialu (bodisi besedi ali glini)\, njegovo opazovanje\, gnetenje in spremljanje tega\, kam te usmerja. Pred začetkom ni nujno\, d https://mladimaribor.si/dogodek/pregneti-verz-%c2%b7-delavnica-oblikovanja-gline-s-poezijo/
-URL:https://mladimaribor.si/dogodek/pregneti-verz-%c2%b7-delavnica-oblikovanja-gline-s-poezijo/
+DESCRIPTION:Vabljeni na kvir čago!\n\nBodite pripravljeni na večer posvečen ikonam kot so Freddie\, Madona\, Gaga in pa seveda tudi fsem ikonam v nastajanju.\nZa dobro muziko bo poskrbel neverjetni DJ Wooga\, noč pa bodo popestrile Slavna Diva Slovenije Akira Ve\, zasvojljiva Miss Pearllicious in pa žametna Miss Sin K https://mladimaribor.si/dogodek/odgovor-je-kvir/
+URL:https://mladimaribor.si/dogodek/odgovor-je-kvir/
 END:VEVENT
 END:VCALENDAR

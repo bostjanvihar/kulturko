@@ -5,12 +5,21 @@ X-WR-CALNAME:OBRAT — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:7433a1188f654c6a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261006T180000
-DTEND;TZID=Europe/Ljubljana:20261006T193000
-SUMMARY:Ajda Rudolf: Ko bom velika\, bom pošast
+UID:007051c78506c0c8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261020T170000
+DTEND;TZID=Europe/Ljubljana:20261020T170000
+SUMMARY:22 KOD / Srečanje in pogovor o prostoru Maribor
 LOCATION:OBRAT
-DESCRIPTION:\n\n\nV torek\, 6. 10. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT – prostor umetnosti in participacije\, na predavanje Ajde Rudolf z naslovom Ko bom velika\, bom pošast.\n\n\n\n\n\n\nV svetu\, ki stremi k večni mladosti\, je podoba mlade ženske na filmu prežeta z vizualno fascinacijo. Kamera ml https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
-URL:https://mladimaribor.si/dogodek/ajda-rudolf-ko-bom-velika-bom-posast/
+DESCRIPTION:\n\n\n\n\n\n\n\n20. 10. 2026 ob 17.00\, OBRAT\n22 KOD / Srečanje in pogovor o prostoru Maribor\nV torek\, 20. 10. 2026\, te ob 17.00 v sodelovanju z Ano Pečar vabimo v OBRAT\, prostor umetnosti in participacije na nekajurno raziskovanje prostora\, ki ga običajno jemljemo za samoumevnega.\nKaj se zgodi\, če svojega o https://mladimaribor.si/dogodek/22-kod-srecanje-in-pogovor-o-prostoru-maribor-2026-10-20-17-00-00/
+URL:https://mladimaribor.si/dogodek/22-kod-srecanje-in-pogovor-o-prostoru-maribor-2026-10-20-17-00-00/
+END:VEVENT
+BEGIN:VEVENT
+UID:0140878c889f6e14@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261027T180000
+DTEND;TZID=Europe/Ljubljana:20261027T180000
+SUMMARY:Žiga Brdnik: Kubanska revolucija in razgradnja evrocentričnega pogleda
+LOCATION:OBRAT
+DESCRIPTION:\n\n\n\n\n\n\n\n27. 10. 2026 ob 18.00\, OBRAT\nCikel Filmski pogled\n\n\n\n\n\n\nŽiga Brdnik: Kubanska revolucija in razgradnja evrocentričnega pogleda\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nV torek\, 27. 10. 2026\, te v okviru cikla Filmski pogled ob 18.00 vabimo v OBRAT – prostor umetnosti in participacije\, na predavanje Žige Brdnika z nasl https://mladimaribor.si/dogodek/ziga-brdnik-kubanska-revolucija-in-razgradnja-evrocentricnega-pogleda-2026-10-27-18-00-00/
+URL:https://mladimaribor.si/dogodek/ziga-brdnik-kubanska-revolucija-in-razgradnja-evrocentricnega-pogleda-2026-10-27-18-00-00/
 END:VEVENT
 END:VCALENDAR

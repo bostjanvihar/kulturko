@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Pekarna Madalenske mreže — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f011ee380f3412de@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T170000
+DTEND;TZID=Europe/Ljubljana:20261021T180000
+SUMMARY:Prostovoljsko delo mladih za mlade
+LOCATION:Pekarna Madalenske mreže
+DESCRIPTION:\n\n\n\n\n\n\n\nOd ponedeljka do petka 10.00 – 17.00\, Pekarna Magdalenske mreže\nPoziv za mlade prostovoljke_ce\nMlade od 15. do 30. leta vabimo\, da postanete prostovoljke_ci v naši organizaciji in se pridružite drugim mladim\, ki skozi prostovoljsko delo pridobivajo nove prijatelje_ice\, nova znanja in izkušnj https://mladimaribor.si/dogodek/prostovoljsko-delo-mladih-za-mlade-2/
+URL:https://mladimaribor.si/dogodek/prostovoljsko-delo-mladih-za-mlade-2/
+END:VEVENT
+END:VCALENDAR

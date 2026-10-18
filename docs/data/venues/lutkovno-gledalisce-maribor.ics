@@ -5,22 +5,22 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:d19705ede2f7ccad@kulturko
+UID:461abff6f8f7143f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T100000
 DTEND;TZID=Europe/Ljubljana:20261024T120000
 SUMMARY:Ves svet je marmelada
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45571-ves-svet-je-marmelada
+DESCRIPTION: https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
+URL:https://www.minoriti.si/dogodki/vessvetjemarmelada-28969
 END:VEVENT
 BEGIN:VEVENT
-UID:d8e43ddc9930881c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261026T100000
-DTEND;TZID=Europe/Ljubljana:20261026T120000
+UID:7a711f29ab9a77a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261026T090000
+DTEND;TZID=Europe/Ljubljana:20261026T110000
 SUMMARY:v SVETU Petra SVETine
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45651-v-svetu-petra-svetine
+DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 END:VEVENT
 BEGIN:VEVENT
 UID:d8015fd3a5c4e44c@kulturko
@@ -57,6 +57,15 @@ SUMMARY:v SVETU Petra SVETine
 LOCATION:Lutkovno gledališče Maribor
 DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
 URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad8b4bf6b340f56@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T090000
+DTEND;TZID=Europe/Ljubljana:20261121T110000
+SUMMARY:Glej\, tička!
+LOCATION:Lutkovno gledališče Maribor
+DESCRIPTION: https://www.minoriti.si/dogodki/glejtika-35141
+URL:https://www.minoriti.si/dogodki/glejtika-35141
 END:VEVENT
 BEGIN:VEVENT
 UID:a581e99e4c8b0d25@kulturko

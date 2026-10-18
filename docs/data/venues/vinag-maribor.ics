@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Vinag Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:b904705ef7886486@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T200000
+DTEND;TZID=Europe/Ljubljana:20261031T200000
+SUMMARY:SKRIVALNICE: HALLOWEEN – R&B EDITION
+LOCATION:Vinag Maribor
+DESCRIPTION:SKRIVALNICE niso le zabave – so doživetja. Prostori\, kjer glasba ni v ozadju\, ampak v središču izkušnje. Vrhunska produkcija. Dovršen line-up. Občutek ekskluzivnosti. Vsake SKRIVALNICE so drugačne.\nŽe tradicionalno se 31. oktobra vračamo v VINAG. Tokrat prvič v novi preobleki – s posebno R&B edicijo https://mladimaribor.si/dogodek/skrivalnice-halloween-rb-edition/
+URL:https://mladimaribor.si/dogodek/skrivalnice-halloween-rb-edition/
+END:VEVENT
+END:VCALENDAR

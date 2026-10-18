@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Zavod PIP — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a90deca183bb2a76@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261104T100000
+DTEND;TZID=Europe/Ljubljana:20261104T130000
+SUMMARY:“Kaj pa vi sploh delate?” – praktična delavnica o komuniciranju učinkov za NVO
+LOCATION:Zavod PIP
+DESCRIPTION:Živimo v časih\, ki so zlasti za nevladne organizacije precej negotovi. Delamo dobro\, a se s tem pogosto ne pohvalimo\, saj menimo\, da naše delo govori samo zase. Dejstvo pa je\, da je vsaka organizacija nekoliko specifična in nagovarja svoj krog uporabnikov\, obiskovalcev ali podpornikov.\nKako torej sv https://mladimaribor.si/dogodek/kaj-pa-vi-sploh-delate-prakticna-delavnica-o-komuniciranju-ucinkov-za-nvo/
+URL:https://mladimaribor.si/dogodek/kaj-pa-vi-sploh-delate-prakticna-delavnica-o-komuniciranju-ucinkov-za-nvo/
+END:VEVENT
+END:VCALENDAR

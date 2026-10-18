@@ -5,24 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5b3093179c890314@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T170000
-DTEND;TZID=Europe/Ljubljana:20261016T190000
-SUMMARY:Štirje neustrašni
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
-URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
-END:VEVENT
-BEGIN:VEVENT
-UID:eee486e20e4f85f2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T100000
-DTEND;TZID=Europe/Ljubljana:20261017T120000
-SUMMARY:Štirje neustrašni
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
-URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
-END:VEVENT
-BEGIN:VEVENT
 UID:3a559e6de4dd648e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261019T090000
 DTEND;TZID=Europe/Ljubljana:20261019T110000
@@ -50,13 +32,13 @@ DESCRIPTION: https://www.minoriti.si/dogodki/tirjeneustrani-34704
 URL:https://www.minoriti.si/dogodki/tirjeneustrani-34704
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd38e6a74897751@kulturko
+UID:0b964e1045d174ee@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261023T170000
 DTEND;TZID=Europe/Ljubljana:20261023T190000
 SUMMARY:Razcufane zgodbe
 LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45570-razcufane-zgodbe
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/45570-razcufane-zgodbe
+DESCRIPTION: https://www.minoriti.si/dogodki/razcufanezgodbe-37174
+URL:https://www.minoriti.si/dogodki/razcufanezgodbe-37174
 END:VEVENT
 BEGIN:VEVENT
 UID:3ffe0a4841c80d59@kulturko
@@ -95,13 +77,13 @@ DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
 URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4942e268589399@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T170000
-DTEND;TZID=Europe/Ljubljana:20261106T190000
+UID:4eeb0e36effed35e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261106T093000
+DTEND;TZID=Europe/Ljubljana:20261106T113000
 SUMMARY:Rumena pika na nebu
 LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
-URL:https://www.visitmaribor.si/si/kaj-poceti/dogodki-in-prireditve/vsi-dogodki-in-prireditve/47898-rumena-pika-na-nebu
+DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
+URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
 END:VEVENT
 BEGIN:VEVENT
 UID:268999f829839e42@kulturko
@@ -170,15 +152,6 @@ BEGIN:VEVENT
 UID:12dea035f0dee45f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261126T080000
 DTEND;TZID=Europe/Ljubljana:20261126T100000
-SUMMARY:Cesarjeva nova oblačila
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila
-URL:https://www.minoriti.si/dogodki/cesarjevanovaoblaila
-END:VEVENT
-BEGIN:VEVENT
-UID:0e7094ab548a9900@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261127T160000
-DTEND;TZID=Europe/Ljubljana:20261127T180000
 SUMMARY:Cesarjeva nova oblačila
 LOCATION:Velika dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/cesarjevanovaoblaila

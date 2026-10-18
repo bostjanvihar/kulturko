@@ -5,33 +5,6 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:674cc461d1800a96@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T190000
-DTEND;TZID=Europe/Ljubljana:20261005T210000
-SUMMARY:Šminka in sekirca
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Kontrabant d.o.o. \n\n \n\nKaj pa\, ko se dve popolnoma različni ženski resnično znajdeta v divjini. Bosta postali prijateljici ali nasprotnici? Bosta sploh preživeli daleč od kopalnice\, ogledala in wc-j https://nd-mb.si/dogodek/sminka-in-sekirca/
-URL:https://nd-mb.si/dogodek/sminka-in-sekirca/
-END:VEVENT
-BEGIN:VEVENT
-UID:dd7610bcc7ae87a7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T180000
-DTEND;TZID=Europe/Ljubljana:20261007T200000
-SUMMARY:Večer v živo: Vili Ravnjak
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Večer  \n\n \n\nVili Ravnjak\, učitelj meditacije in duhovne modrosti\n\n Prebujanje v svetlobo \n\nVili Ravnjak je znani učitelj meditacije in duhovnih znanj. Je dramaturg in avtor več knjig o duhovnos https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
-URL:https://nd-mb.si/dogodek/vecer-v-zivo-vili-ravnjak/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e3b115adc89b920@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261008T190000
-DTEND;TZID=Europe/Ljubljana:20261008T210000
-SUMMARY:Odprti zakon
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater  \n\n \n\n  Odprti zakon ni zgolj komedija o paru\, temveč univerzalna zgodba o odnosih\, v katerih so pravila pogosto pisana za enega\, ne pa za oba.  \n\nZanimiv zakonski par srednjih let\, č https://nd-mb.si/dogodek/odprti-zakon/
-URL:https://nd-mb.si/dogodek/odprti-zakon/
-END:VEVENT
-BEGIN:VEVENT
 UID:acd9922144c8c048@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261013T200000
 DTEND;TZID=Europe/Ljubljana:20261013T220000
@@ -136,7 +109,7 @@ DTSTART;TZID=Europe/Ljubljana:20261116T200000
 DTEND;TZID=Europe/Ljubljana:20261116T220000
 SUMMARY:Zadnja večerja
 LOCATION:Dvorana generala Maistra
-DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike\n\nPredstava traja 1 u https://nd-mb.si/dogodek/zadnja-vecerja/
+DESCRIPTION:Zadnja večerja je predstava o dveh čisto običajnih ljudeh\, ki se v enem samem popoldnevu znajdeta ujeta v vrtincu nesporazumov\, naključij in »dobronamernih« ljudi okoli sebe.\n\nGre za toplo\, igrivo in povsem odbito komedijo\, ki občinstvo drži v smehu od prve do zadnje replike.\n\nPredstava traja 1  https://nd-mb.si/dogodek/zadnja-vecerja/
 URL:https://nd-mb.si/dogodek/zadnja-vecerja/
 END:VEVENT
 BEGIN:VEVENT
@@ -185,6 +158,15 @@ DESCRIPTION:Glavni junak Viskovitz v svojih različnih živalskih inkarnacijah p
 URL:https://nd-mb.si/dogodek/zival-si/
 END:VEVENT
 BEGIN:VEVENT
+UID:2d89553b0a1750e2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T110000
+DTEND;TZID=Europe/Ljubljana:20261212T130000
+SUMMARY:Božična sreča
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kontrabant d.o.o. \n\n \n\nEnkrat na leto se na svojem čisto posebnem sestanku dobijo tri vražje babice: gospa Božičkova\, babi influencerka Všečka in babi najbolj navihane deklice na svetu\, Pika Rokavi https://nd-mb.si/dogodek/bozicna-sreca/
+URL:https://nd-mb.si/dogodek/bozicna-sreca/
+END:VEVENT
+BEGIN:VEVENT
 UID:48a1b9581aa4c33a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261220T110000
 DTEND;TZID=Europe/Ljubljana:20261220T130000
@@ -219,6 +201,15 @@ SUMMARY:Pridi gola
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo ljubico\, medtem ko ima žena načrtovan obisk pri mami. A načrti se začnejo podirati\, ker žena ostane doma – in to še ni vse! Na prizorišče pridejo še najboljši prijatelj\, Cordon bleu kuharica in kup nesporazumov\, ki sprožijo verižno reak https://nd-mb.si/dogodek/pridi-gola/
 URL:https://nd-mb.si/dogodek/pridi-gola/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b37ec68ef3c1a41@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270130T190000
+DTEND;TZID=Europe/Ljubljana:20270130T210000
+SUMMARY:Pol stoletja pisanja in petja
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Andrej Šifrer je eden tistih avtorjev\, katerih pesmi mrmramo\, še preden se zavemo\, da jih znamo na pamet. Glasbeni kronist časa\, pripovedovalec in večni hudomušnež že desetletja piše resnice\, v katerih se prepoznavajo generacije.\n\nPetdeset let na odrih\, v studiih\, med ljudmi in z ljudmi. Pol stole https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/
+URL:https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ef3fed8cced71bd@kulturko

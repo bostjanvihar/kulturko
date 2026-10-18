@@ -5,12 +5,12 @@ X-WR-CALNAME:Glavni trg — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e54de811d7dc6b0c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260904T200000
-DTEND;TZID=Europe/Ljubljana:20260904T220000
-SUMMARY:Balet pod zvezdami
+UID:139c949779ffdfb3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261021T170000
+DTEND;TZID=Europe/Ljubljana:20261021T180000
+SUMMARY:Poezija na mestnih ulicah 2026: vodeni sprehod ob plakatih
 LOCATION:Glavni trg
-DESCRIPTION:Balet pod zvezdami  nastaja v koprodukciji Opere in Baleta Slovenskega narodnega gledališča Maribor\, Narodnega doma Maribor\, Društva EZL EK in Zavoda za turizem Maribor pod častnim pokroviteljstvom Mestne občine Maribor\, ki želijo ob začetku nove gledališke sezone meščankam in meščanom podariti nepo https://nd-mb.si/dogodek/balet-pod-zvezdami/
-URL:https://nd-mb.si/dogodek/balet-pod-zvezdami/
+DESCRIPTION:\n\n\n\n\nPOEZIJA NA MESTNIH ULICAH 2026\nVODENI SPREHOD OB PLAKATIH\nSreda\, 21. oktober 2026 // ob 17.00 // središče Maribora in Kulturni inkubator\; zbirno mesto je na Glavnem trgu\nMed 20. in 26. oktobrom bo nekatere oglase na plakatnih mestih v središču Maribora v sklopu projekta Poezija na mestnih ulica https://mladimaribor.si/dogodek/poezija-na-mestnih-ulicah-2026-vodeni-sprehod-ob-plakatih-2026-10-21-17-00-00-2026-10-21-18-00-00-2/
+URL:https://mladimaribor.si/dogodek/poezija-na-mestnih-ulicah-2026-vodeni-sprehod-ob-plakatih-2026-10-21-17-00-00-2026-10-21-18-00-00-2/
 END:VEVENT
 END:VCALENDAR

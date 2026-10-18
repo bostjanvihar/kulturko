@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:KC Pekarna — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:5966bb683ca123ab@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261022T163000
+DTEND;TZID=Europe/Ljubljana:20261022T163000
+SUMMARY:Sprehod po Kulturnem centru Pekarna
+LOCATION:KC Pekarna
+DESCRIPTION:\n\n\n\n\n\n\n\n22. 10. 2026 ob 16.30\, Kulturni center Pekarna\nSprehod po Kulturnem centru Pekarna\nV četrtek\, 22. 10. 2026\, mlade med 15 in 30 let ob 16.00 vabimo na sprehod po KC Pekarna. Dobimo se pred prostori Pekarne Magdalenske mreže.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmo le ena od organizacij v Kulturnem centru Pekarna.  https://mladimaribor.si/dogodek/sprehod-po-kulturnem-centru-pekarna-2026-10-22-16-30-00/
+URL:https://mladimaribor.si/dogodek/sprehod-po-kulturnem-centru-pekarna-2026-10-22-16-30-00/
+END:VEVENT
+END:VCALENDAR

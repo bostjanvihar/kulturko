@@ -5,15 +5,6 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:e310b8399694929a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261007T110000
-DTEND;TZID=Europe/Ljubljana:20261007T130000
-SUMMARY:Tolkala za radovedneže
-LOCATION:Dvorana Union
-DESCRIPTION:koncert Mladinskega cikla 2026/2027  \n \n\n \n\n  SLOVENSKI TOLKALNI PROJEKT (SToP)  \n\n \n\n Komentirani koncert \n\n Skupina  Slovenski tolkalni projekt (krajše SToP)  deluje od leta 1999. Tolkalce je združila želja po komornem muziciranju\, izvajanju kakovostnih skladb ter raziskovanju novih zvo https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-URL:https://nd-mb.si/dogodek/tolkala-za-radovedneze/
-END:VEVENT
-BEGIN:VEVENT
 UID:b964b13dc55da910@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261016T193000
 DTEND;TZID=Europe/Ljubljana:20261016T213000
