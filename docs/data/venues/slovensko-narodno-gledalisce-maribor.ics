@@ -6,8 +6,8 @@ X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:1a7e01f2230e0cf6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T100000
-DTEND;TZID=Europe/Ljubljana:20261022T120000
+DTSTART;TZID=Europe/Ljubljana:20261022T120000
+DTEND;TZID=Europe/Ljubljana:20261022T140000
 SUMMARY:Gledališki labirint
 LOCATION:Slovensko narodno gledališče Maribor
 DESCRIPTION:Interaktivni vodnik po gledališču za mlade \n\nSlovensko narodno gledališče Maribor v Kulturnem dnevniku sodeluje s programom Interaktivni vodnik po gledališču – Gledališki labirint. Učence popeljemo v labirint Slovenskega narodnega gledališča Maribor kjer odkrivajo skrivne prostore\, ki jih ob obisk https://nd-mb.si/dogodek/gledaliski-labirint-3/

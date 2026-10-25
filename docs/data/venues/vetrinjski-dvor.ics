@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b542643b58631888@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T180000
-DTEND;TZID=Europe/Ljubljana:20261013T193000
-SUMMARY:SobaZaGosteMaribor: Interesni safari »Riba ali raca«
-LOCATION:Vetrinjski dvor
-DESCRIPTION:\n\n\n\n\n\n\n\n13. 10. 2026 ob 18.00\, Vetrinjski dvor\nSobaZaGosteMaribor: Interesni safari »Riba ali raca«\nV torek\, 13. 10. 2026\, te vabimo\, da se nam ob 18.00 pridružiš na dvorišču Vetrinjskega dvora\, kjer bomo začeli Interesni safari z umetnikom Petrom Vranjkovićem.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSprehod po mestu bo tokr https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
-URL:https://mladimaribor.si/dogodek/sobazagostemaribor-interesni-safari-riba-ali-raca-2026-10-13-18-00-00/
-END:VEVENT
-BEGIN:VEVENT
 UID:16fba737946cec18@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261020T100000
 DTEND;TZID=Europe/Ljubljana:20261020T120000
@@ -21,24 +12,6 @@ SUMMARY:Predstavitev javnega razpisa Mestne občine Maribor za sofinanciranje ku
 LOCATION:Vetrinjski dvor
 DESCRIPTION:Spoštovani! \n\nV petek\, 9. 10. 2026\, je bil objavljen Javni razpis za izbor kulturnih programov\, ki jih bo v letih 2027 - 2029 sofinancirala Mestna občina Maribor (JRPJI-KUL-2027-29).\n\nPredstavitev\, ki jo za potencialne prijavitelje organizira Urad za kulturo in mladino Mestne občine Maribor\,  bo https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
 URL:https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
-END:VEVENT
-BEGIN:VEVENT
-UID:eeadcdea338fa5dd@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T160000
-DTEND;TZID=Europe/Ljubljana:20261022T180000
-SUMMARY:Šola za župane 2026: Prostori kulture: vizija Maribora pred lokalnimi volitvami 2026
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Društvo Asociacija in Zavod PIP v okviru Regionalnega stičišča NVO Podravja vas vabimo na javno predvolilno soočenje Prostori kulture: vizija Maribora pred lokalnimi volitvami 2026\, ki bo v četrtek\, 22. oktobra\, ob 16. uri v Vetrinjskem dvoru v Mariboru.\nMariborsko soočenje poteka tudi v okviru Šole https://mladimaribor.si/dogodek/sola-za-zupane-2026-prostori-kulture-vizija-maribora-pred-lokalnimi-volitvami-2026/
-URL:https://mladimaribor.si/dogodek/sola-za-zupane-2026-prostori-kulture-vizija-maribora-pred-lokalnimi-volitvami-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:1bb7c5450c38e137@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T200000
-DTEND;TZID=Europe/Ljubljana:20261023T213000
-SUMMARY:Koncert Tria Tacet
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Raziščite bogastvo stare glasbe ter baročne elegancije v navdihujoči izvedbi uveljavljenega ansambla Tacet Ensemble. Pridružite se nam na čudovitem glasbenem potovanju\, kjer zgodovinska izvajalska praksa in vrhunska umetniška dediščina oživita na sodobnem odru.\nZasedba Tacet Ensemble želi s svojim d https://mladimaribor.si/dogodek/koncert-tria-tacet/
-URL:https://mladimaribor.si/dogodek/koncert-tria-tacet/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d270a8e6dd90626@kulturko
@@ -50,12 +23,12 @@ DESCRIPTION:Čira čara\, hokus pokus – nasmeh se nariše in nikoli ne izbriš
 URL:https://nd-mb.si/dogodek/fletna-noc-carovnic-3/
 END:VEVENT
 BEGIN:VEVENT
-UID:41612e7733695733@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261121T200000
-DTEND;TZID=Europe/Ljubljana:20261121T213000
-SUMMARY:Koncert Tria Firšt
+UID:cac695d9ffcce866@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261111T180000
+DTEND;TZID=Europe/Ljubljana:20261111T200000
+SUMMARY:Maribere: Kako je umrl Vivek Oji
 LOCATION:Vetrinjski dvor
-DESCRIPTION:Doživite nepozaben preplet virtuoznosti\, džezovske invencije in glasbenega humorja v edinstveni izvedbi dinamičnega Tria Firšt. Pridružite se nam na zabavnem in navdihujočem glasbeno-gledališkem sprehodu\, kjer klasična tradicija sreča elemente stand-upa.\nNastopi tria Firšt navdušujejo občinstva v Sl https://mladimaribor.si/dogodek/koncert-tria-first/
-URL:https://mladimaribor.si/dogodek/koncert-tria-first/
+DESCRIPTION:Za nami je prvo srečanje te sezone in se že veselim naslednjega.  11. novembra  se bomo pogovarjali o knjigi  Akwaeke Emezi: Kako je umrl Vivek Oji . Pogovor bo v  prostoru Freske  (1. nadstropje Vetrinjskega dvora)  ob 18. uri. \n\nRoman se začne z naslednjimi besedami: " Na dan\, ko je umrl Vivek O https://nd-mb.si/dogodek/maribere-kako-je-umrl-vivek-oji/
+URL:https://nd-mb.si/dogodek/maribere-kako-je-umrl-vivek-oji/
 END:VEVENT
 END:VCALENDAR

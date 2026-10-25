@@ -5,24 +5,6 @@ X-WR-CALNAME:Mali oder Narodnega doma — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b70b58a91d20b181@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T203000
-DTEND;TZID=Europe/Ljubljana:20261013T223000
-SUMMARY:Vladimir Kostadinović Iris Quintet Feat. Joe Locke
-LOCATION:Mali oder Narodnega doma
-DESCRIPTION:Če bi bil 46-letni Vladimir Kostadinović Američan in ne v Avstriji živeči Srb\, bi bil po vsem svetu znan kot energičen\, vsestranski in skladateljsko ustvarjalen bobnarski virtuoz. V resnici pa so ga najbolje sprejeli prav na izjemno tekmovalni newyorški sceni\, kjer že dolgo velja za »enega njihovih« https://nd-mb.si/dogodek/vladimir-kostadinovic-iris-quintet-feat-joe-locke/
-URL:https://nd-mb.si/dogodek/vladimir-kostadinovic-iris-quintet-feat-joe-locke/
-END:VEVENT
-BEGIN:VEVENT
-UID:127007137613ebbe@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T200000
-DTEND;TZID=Europe/Ljubljana:20261016T220000
-SUMMARY:Na ženskah svet stoji
-LOCATION:Mali oder Narodnega doma
-DESCRIPTION:Ali je sestrstvo - zavezništvo? Je vedno feministično? Je njegova solidarnost prevečkrat samoumevna\, ali pa prepogosto umanjka? Smo to nekoč znale bolje\, ali pa se ga moramo ponovno priučiti?  \n  Predstava razmišlja o sestrstvu kot solidarnosti in medsebojni podpori žensk\, pa tudi opozarja o njegov https://nd-mb.si/dogodek/na-zenskah-svet-stoji-2/
-URL:https://nd-mb.si/dogodek/na-zenskah-svet-stoji-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:75961ce995012640@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261027T203000
 DTEND;TZID=Europe/Ljubljana:20261027T223000
@@ -39,6 +21,15 @@ SUMMARY:Eyal Maoz’s Edom
 LOCATION:Mali oder Narodnega doma
 DESCRIPTION:Ko je leta 2014 mali oder Narodnega doma prvič zasedla skupina Abraxas\, najbrž nihče ni pričakoval vulkana\, ki je z odra bruhnil v občinstvo in ustvaril enega najbolj neponovljivih večerov v več kot 25-letni zgodovini cikla. Ključna odgovorna za zvočno atako sta bila varovanca Johna Zorna\, basist Sh https://nd-mb.si/dogodek/eyal-maozs-edom/
 URL:https://nd-mb.si/dogodek/eyal-maozs-edom/
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa532d8e9ea20b0@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T203000
+DTEND;TZID=Europe/Ljubljana:20261121T223000
+SUMMARY:Na tleh
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:Na tleh   je odrsko delo ustvarjalk\, sodelavk in dolgoletnih prijateljic Alenke Marinič in Maje Dekleva Lapajne. Je zemeljska koncertna predstava\, ki na oseben in humoren način predeluje teme prekarstva\, feminizma\, dela\, materinstva in bivanja v času poznega kapitalizma. Je iskriv glasbeno-gledališk https://nd-mb.si/dogodek/na-tleh-2/
+URL:https://nd-mb.si/dogodek/na-tleh-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:b08cf33814de451a@kulturko

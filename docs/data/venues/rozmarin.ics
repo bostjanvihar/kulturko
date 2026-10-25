@@ -5,13 +5,13 @@ X-WR-CALNAME:Rozmarin — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ce7149501da93f20@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T190000
-DTEND;TZID=Europe/Ljubljana:20261017T210000
-SUMMARY:HOUSE DROPS - PAOLO BARBATO
+UID:238c26c8f0b5b4e6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261031T190000
+DTEND;TZID=Europe/Ljubljana:20261031T210000
+SUMMARY:ROŽMARINOVA DOMAČICA- HALLOWEEN EDITION
 LOCATION:Rozmarin
-DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/house-drops---paolo-barbato-1
-URL:https://www.rozmaringroup.si/Dogodki/dogodek/house-drops---paolo-barbato-1
+DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/rozmarinova-domacica--halloween-edition
+URL:https://www.rozmaringroup.si/Dogodki/dogodek/rozmarinova-domacica--halloween-edition
 END:VEVENT
 BEGIN:VEVENT
 UID:f2c1862393584d55@kulturko

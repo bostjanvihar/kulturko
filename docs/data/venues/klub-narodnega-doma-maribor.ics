@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Klub Narodnega doma Maribor — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:c8643c73d6aee715@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T190000
+DTEND;TZID=Europe/Ljubljana:20261121T210000
+SUMMARY:Pod vodo
+LOCATION:Klub Narodnega doma Maribor
+DESCRIPTION:Pod vodo je avtorski projekt Alenke Marinič in Maje Dekleva Lapajne\, ki ju družijo poglavitna obdobja skupnega ustvarjanja ter tesen prijateljski odnos\, obenem pa tudi pozicija\, v kateri sta se znašli kot ustvarjalki: generacija srednjih let\, ki ne ujame več starih socialnih ugodnosti\, obenem pa ne  https://nd-mb.si/dogodek/pod-vodo/
+URL:https://nd-mb.si/dogodek/pod-vodo/
+END:VEVENT
+END:VCALENDAR

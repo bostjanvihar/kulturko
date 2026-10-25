@@ -5,15 +5,6 @@ X-WR-CALNAME:Botanični vrt — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b1dcedce339522da@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T110000
-DTEND;TZID=Europe/Ljubljana:20261017T130000
-SUMMARY:Vzgoja in nega ameriških borovnic
-LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
-URL:https://botanicnivrt.um.si/?ajde_events=temno-jagodicevje-aronija-sibirska-in-ameriska-borovnica
-END:VEVENT
-BEGIN:VEVENT
 UID:4af9d18a53d07762@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261024T090000
 DTEND;TZID=Europe/Ljubljana:20261024T110000

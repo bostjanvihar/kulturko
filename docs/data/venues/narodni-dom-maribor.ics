@@ -5,9 +5,18 @@ X-WR-CALNAME:Narodni dom Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:694d74422a1c2858@kulturko
+UID:917baa3f69106906@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T190000
 DTEND;TZID=Europe/Ljubljana:20261022T210000
+SUMMARY:Vroči sever – Frontna črta prihodnosti
+LOCATION:Narodni dom Maribor
+DESCRIPTION:Arktika \, nekoč odmaknjeno in pogosto spregledano območje na robu sveta\, danes postaja eno ključnih geopolitičnih\, okoljskih in varnostnih žarišč našega časa. Taljenje ledu\, podnebne spremembe ter vse izrazitejša tekma velikih sil za strateški vpliv spreminjajo podobo severa in odpirajo vprašanja\, k https://nd-mb.si/dogodek/vroci-sever-frontna-crta-prihodnosti/
+URL:https://nd-mb.si/dogodek/vroci-sever-frontna-crta-prihodnosti/
+END:VEVENT
+BEGIN:VEVENT
+UID:4190f34631ceac9e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261023T190000
+DTEND;TZID=Europe/Ljubljana:20261023T210000
 SUMMARY:Zvočne zgodbe mojih neznan(k)cev
 LOCATION:Narodni dom Maribor
 DESCRIPTION:Neznanke\, neznanci. Nepričakovani.   \n  Znane oblike\, melodije\, misli\, besede sprožijo vrsto nekontroliranih\, neznanih reakcij\, smeri\, poti. Slikajo popolnoma novo pokrajino občutkov nekontrole. Svoboda razplete razum. V trenutku obstajanja se čudim neznancem. Želijo na prostost. Želijo prip https://nd-mb.si/dogodek/zvocne-zgodbe-mojih-neznankcev/

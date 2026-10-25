@@ -5,15 +5,6 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:b964b13dc55da910@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261016T193000
-DTEND;TZID=Europe/Ljubljana:20261016T213000
-SUMMARY:Communio Cantus “občestvo v pesmi”
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: KUD Študent Maribor\n \n\n \n\nVabimo vas na čudovit glasbeni večer s pestrim repertoarjem svetovno znanih skladateljev.\n\nMogočen vokalno-instrumentalni koncert\, na katerem se bo združilo več kot 200 https://nd-mb.si/dogodek/communio-cantus-obcestvo-v-pesmi/
-URL:https://nd-mb.si/dogodek/communio-cantus-obcestvo-v-pesmi/
-END:VEVENT
-BEGIN:VEVENT
 UID:5ac96fe7a7c986e3@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261022T200000
 DTEND;TZID=Europe/Ljubljana:20261022T220000
@@ -77,10 +68,10 @@ DESCRIPTION:2. koncert Komornega cikla 2026/2027 \n\n \n\n  Dejan Lazić  \,
 URL:https://nd-mb.si/dogodek/mozart/
 END:VEVENT
 BEGIN:VEVENT
-UID:e5aef27f688000e6@kulturko
+UID:fdbeb699ba03c953@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261124T193000
 DTEND;TZID=Europe/Ljubljana:20261124T213000
-SUMMARY:Piazzolleky
+SUMMARY:Piaz20lleky
 LOCATION:Dvorana Union
 DESCRIPTION:»Nedelja\, ko bi še sam Astor Piazzolla\, revolucionar tanga\, prišel tja dol. Na Minorite. In videl\, kaj je za časa življenja pognal.«\n(Jaša Lorenčič)  \n  Dvajset let že poganjamo. Ja\, že več kot polovico življenja igramo skupaj. Igramo\, se učimo\, pozabimo\, se spet spomnimo in vse skupaj nekako vedn https://nd-mb.si/dogodek/piazzolleky/
 URL:https://nd-mb.si/dogodek/piazzolleky/

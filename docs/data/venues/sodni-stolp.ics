@@ -5,15 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:fbbae50f26eeb3ea@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T193000
-DTEND;TZID=Europe/Ljubljana:20261022T213000
-SUMMARY:Pravljični večer za odrasle • Človek zgodba
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
-URL:https://www.minoriti.si/dogodki/pravljicni-vecer-za-odrasle-clovek-zgodba
-END:VEVENT
-BEGIN:VEVENT
 UID:fe13e493891d168d@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261029T200000
 DTEND;TZID=Europe/Ljubljana:20261029T220000

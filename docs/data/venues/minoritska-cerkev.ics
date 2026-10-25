@@ -5,21 +5,12 @@ X-WR-CALNAME:Minoritska cerkev — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c987c356749be4cb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20260926T193000
-DTEND;TZID=Europe/Ljubljana:20260926T213000
-SUMMARY:Festival Maribor: Z Balkana z ljubeznijo
+UID:d08edb0f5abf96ee@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T180000
+DTEND;TZID=Europe/Ljubljana:20261108T200000
+SUMMARY:MED TIŠINO IN SANJAMI  – svetovne uspavanke
 LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.minoriti.si/dogodki/festival-maribor-z-balkana-z-ljubeznijo
-URL:https://www.minoriti.si/dogodki/festival-maribor-z-balkana-z-ljubeznijo
-END:VEVENT
-BEGIN:VEVENT
-UID:f2af88b4289260e2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261002T190000
-DTEND;TZID=Europe/Ljubljana:20261002T210000
-SUMMARY:32. MFRU • Otvoritev festivala
-LOCATION:Minoritska cerkev
-DESCRIPTION: https://www.minoriti.si/dogodki/32-mfru-otvoritev-festivala
-URL:https://www.minoriti.si/dogodki/32-mfru-otvoritev-festivala
+DESCRIPTION: https://www.minoriti.si/dogodki/med-tisino-in-sanjami-svetovne-uspavanke
+URL:https://www.minoriti.si/dogodki/med-tisino-in-sanjami-svetovne-uspavanke
 END:VEVENT
 END:VCALENDAR

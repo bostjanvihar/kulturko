@@ -5,33 +5,6 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:acd9922144c8c048@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261013T200000
-DTEND;TZID=Europe/Ljubljana:20261013T220000
-SUMMARY:Lepa Brena Project
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kulturishka d.o.o. \n\n \n\n  Nagrajena predstava po navdihu fenomena Lepe Brene premierno v Mariboru!  \n\n  V eni izmed vlog Lepe Brene nastopa tudi najboljša evropska igralka Jasna Đuričić  \n\n  »T https://nd-mb.si/dogodek/lepa-brena-project/
-URL:https://nd-mb.si/dogodek/lepa-brena-project/
-END:VEVENT
-BEGIN:VEVENT
-UID:eba650cd47d4cc3a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261014T203000
-DTEND;TZID=Europe/Ljubljana:20261014T223000
-SUMMARY:Barcelona Gipsy balKan Orchestra
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Zasedba Barcelona Gipsy BalKan Orchestra (BGKO) se je po štirinajstih letih strastnega ustvarjanja trdno usidrala kot nesporna avtoriteta na svetovni balkanski glasbeni sceni. Njihovo edinstveno prepletanje različnih glasbenih tradicij v prepoznaven zvok je osvojilo srca in misli občinstva po vsem s https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
-URL:https://nd-mb.si/dogodek/barcelona-gipsy-balkan-orchestra/
-END:VEVENT
-BEGIN:VEVENT
-UID:1572a101f4457db0@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T190000
-DTEND;TZID=Europe/Ljubljana:20261020T210000
-SUMMARY:Dediščina
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Domen Valič\, Iztok Valič in Vid Valič bodo končno stali skupaj na odru\, če se ne bodo prej skregali.\n\nJabolko ne pade daleč od drevesa\, razen\, če drevo stoji na klancu. V primeru igralske družine Valič je drevo stalo v kraški vrtači\, zato je bilo sledeče neizbežno. Oče in sinova bodo prvič nastopi https://nd-mb.si/dogodek/dediscina/
-URL:https://nd-mb.si/dogodek/dediscina/
-END:VEVENT
-BEGIN:VEVENT
 UID:3186d895cc534487@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261021T190000
 DTEND;TZID=Europe/Ljubljana:20261021T210000
@@ -41,24 +14,6 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/we-will-we-will-rakija-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:6337e350258715b6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T173000
-DTEND;TZID=Europe/Ljubljana:20261022T193000
-SUMMARY:Ženske brez filtra 2
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kontrabant d.o.o. \n\n \n\nPo več kot 150tih ponovitvah hit stand-up komedije ŽENSKE BREZ FILTRA\, ki se še vedno odvija širom celotne Slovenije\, napovedujejo naše dame ponoven podvig in nadaljevanje- Ž https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
-URL:https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:3f6d007a7f829931@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261023T200000
-DTEND;TZID=Europe/Ljubljana:20261023T220000
-SUMMARY:Tadej Toš: Resno? Ne se hecat!
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Tadej Toš: Resno?!? Ne se hecat   \n  O življenju\, odnosih\, svetu\, ki postaja vedno bolj resen\, in človeku\, ki ga skuša preživeti z nekaj zdravega humorja.  \n  Ker vsega res ne gre jemati resno.  \n   Resno?!? Ne se hecat   \nVečer smeha\, dobre volje in stvari\, ki jih vsi živimo\, samo Toš jih pove  https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
-URL:https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
-END:VEVENT
-BEGIN:VEVENT
 UID:4dd334666d0a38e2@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261027T200000
 DTEND;TZID=Europe/Ljubljana:20261027T220000
@@ -66,6 +21,15 @@ SUMMARY:Slovenka
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Zavod "Zimske urice". \n\n \n\nPozor\, prihaja SLOVENKA!\n\nPo dolgih letih življenja na sončni strani Alp je Salome dobila še uradni žig: postala je Slovenka. In ker si tako pomembna prelomnica zasluži  https://nd-mb.si/dogodek/slovenka/
 URL:https://nd-mb.si/dogodek/slovenka/
+END:VEVENT
+BEGIN:VEVENT
+UID:eea268b8051b436f@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261102T193000
+DTEND;TZID=Europe/Ljubljana:20261102T213000
+SUMMARY:Sprehod skozi brezčasne šansone
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Soroptimist International je mednarodno združenje poklicno uspešnih in družbeno aktivnih žensk\, ki si prizadevajo za izboljšanje človekovih pravic in položaja žensk po vsem svetu. Združuje več kot 62.000 članic v 106 državah.\n V duhu solidarnosti in dobrodelnosti združenje organizira koncert\, kater https://nd-mb.si/dogodek/sprehod-skozi-brezcasne-sansone/
+URL:https://nd-mb.si/dogodek/sprehod-skozi-brezcasne-sansone/
 END:VEVENT
 BEGIN:VEVENT
 UID:83acffb31daa0f64@kulturko
@@ -84,6 +48,24 @@ SUMMARY:Jaz sem najboljši fotr na svetu
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Tukaj in zdaj d.o.o. \n\n \n\n PET FOTROV\, TISOČ IDEJ O VZGOJI\, NIČ POJMA \n\nPravijo\, da so očetje najpomembnejši izmed manj pomembnih članov vsake družine. So zlati prinašalci nakupovalnih vrečk\, čas https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
 URL:https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2bb52da74108b3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261108T180000
+DTEND;TZID=Europe/Ljubljana:20261108T200000
+SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\nPripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fafcd3e14ecd50@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261110T200000
+DTEND;TZID=Europe/Ljubljana:20261110T220000
+SUMMARY:Tadej Toš: Resno? Ne se hecat!
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Tadej Toš: Resno?!? Ne se hecat   \n  O življenju\, odnosih\, svetu\, ki postaja vedno bolj resen\, in človeku\, ki ga skuša preživeti z nekaj zdravega humorja.  \n  Ker vsega res ne gre jemati resno.  \n   Resno?!? Ne se hecat   \nVečer smeha\, dobre volje in stvari\, ki jih vsi živimo\, samo Toš jih pove  https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
+URL:https://nd-mb.si/dogodek/tadej-tos-resno-ne-se-hecat/
 END:VEVENT
 BEGIN:VEVENT
 UID:5952e892afa580d5@kulturko
@@ -149,6 +131,24 @@ DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informa
 URL:https://nd-mb.si/dogodek/trio-vivere-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:06b4ad49be3e8522@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261201T190000
+DTEND;TZID=Europe/Ljubljana:20261201T210000
+SUMMARY:Dediščina
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Domen Valič\, Iztok Valič in Vid Valič bodo končno stali skupaj na odru\, če se ne bodo prej skregali.\n\nJabolko ne pade daleč od drevesa\, razen\, če drevo stoji na klancu. V primeru igralske družine Valič je drevo stalo v kraški vrtači\, zato je bilo sledeče neizbežno. Oče in sinova bodo prvič nastopi https://nd-mb.si/dogodek/dediscina/
+URL:https://nd-mb.si/dogodek/dediscina/
+END:VEVENT
+BEGIN:VEVENT
+UID:48cc22b16440da32@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261202T173000
+DTEND;TZID=Europe/Ljubljana:20261202T193000
+SUMMARY:Ženske brez filtra 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Kontrabant d.o.o. \n\n \n\nPo več kot 150tih ponovitvah hit stand-up komedije ŽENSKE BREZ FILTRA\, ki se še vedno odvija širom celotne Slovenije\, napovedujejo naše dame ponoven podvig in nadaljevanje- Ž https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
+URL:https://nd-mb.si/dogodek/zenske-brez-filtra-2-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:e9a53c16ba98b648@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261204T200000
 DTEND;TZID=Europe/Ljubljana:20261204T220000
@@ -203,10 +203,10 @@ DESCRIPTION:Preprosta … vsaj na začetku. Mož načrtuje popoln vikend s svojo
 URL:https://nd-mb.si/dogodek/pridi-gola/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b37ec68ef3c1a41@kulturko
+UID:1a53a4a9bbe9d5ef@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270130T190000
 DTEND;TZID=Europe/Ljubljana:20270130T210000
-SUMMARY:Pol stoletja pisanja in petja
+SUMMARY:Andrej Šifrer z gosti
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Andrej Šifrer je eden tistih avtorjev\, katerih pesmi mrmramo\, še preden se zavemo\, da jih znamo na pamet. Glasbeni kronist časa\, pripovedovalec in večni hudomušnež že desetletja piše resnice\, v katerih se prepoznavajo generacije.\n\nPetdeset let na odrih\, v studiih\, med ljudmi in z ljudmi. Pol stole https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/
 URL:https://nd-mb.si/dogodek/pol-stoletja-pisanja-in-petja/

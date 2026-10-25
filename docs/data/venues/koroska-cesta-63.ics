@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Koroška cesta 63 — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f21ec8c6603e17b6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261024T150000
+DTEND;TZID=Europe/Ljubljana:20261024T170000
+SUMMARY:Coda Zombie Walk
+LOCATION:Koroška cesta 63
+DESCRIPTION:Bliža se čas strahov. Svet tone v kaos. Mrtvi vstajajo\, zombiji prihajajo in…\nkaj naredijo Codovci ter Vetrinjčani? Pridružijo se jim s plesom in petjem\, seveda.\n\n Želite biti del našega mračnega pohoda?\n\n 24. 10. 2026 se bomo prelevili v zombije na glasbeni šoli KUD Coda\,  Koroška cesta 63 .\n https://nd-mb.si/dogodek/coda-zombie-walk/
+URL:https://nd-mb.si/dogodek/coda-zombie-walk/
+END:VEVENT
+END:VCALENDAR
