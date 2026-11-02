@@ -5,15 +5,6 @@ X-WR-CALNAME:Sodni stolp — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:fe13e493891d168d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261029T200000
-DTEND;TZID=Europe/Ljubljana:20261029T220000
-SUMMARY:Razpoke bližine: fuga / plamen / krč
-LOCATION:Sodni stolp
-DESCRIPTION: https://www.minoriti.si/dogodki/razpoke-blizine-fuga-plamen-krc
-URL:https://www.minoriti.si/dogodki/razpoke-blizine-fuga-plamen-krc
-END:VEVENT
-BEGIN:VEVENT
 UID:fab0ae4f47df02a5@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261103T190000
 DTEND;TZID=Europe/Ljubljana:20261103T210000

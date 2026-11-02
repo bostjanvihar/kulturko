@@ -5,15 +5,6 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f59eb7acc964fa24@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261031T210000
-DTEND;TZID=Europe/Ljubljana:20261031T230000
-SUMMARY:HALLOWEEN
-LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/halloween.31.10.2026/
-URL:https://www.pekarna.net/napovednik/halloween.31.10.2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:844c469dbc15b86e@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261106T210000
 DTEND;TZID=Europe/Ljubljana:20261106T230000

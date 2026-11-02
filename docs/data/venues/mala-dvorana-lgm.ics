@@ -67,4 +67,112 @@ LOCATION:Mala dvorana LGM
 DESCRIPTION: https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 URL:https://www.minoriti.si/dogodki/mizarjevazgodba-36739
 END:VEVENT
+BEGIN:VEVENT
+UID:8e0bbe9d4ad833bf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261209T093000
+DTEND;TZID=Europe/Ljubljana:20261209T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:1bda404ad763b3f9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261210T093000
+DTEND;TZID=Europe/Ljubljana:20261210T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:491bbf2b80045ffa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261211T093000
+DTEND;TZID=Europe/Ljubljana:20261211T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:5d71c754ad832111@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261212T100000
+DTEND;TZID=Europe/Ljubljana:20261212T120000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:21ff3d3a248bec1c@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261214T093000
+DTEND;TZID=Europe/Ljubljana:20261214T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:df8ca3f2f87dfea1@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261215T093000
+DTEND;TZID=Europe/Ljubljana:20261215T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:5d92baf407175b1d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261216T160000
+DTEND;TZID=Europe/Ljubljana:20261216T180000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:e54aad8b447cb2fa@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261217T160000
+DTEND;TZID=Europe/Ljubljana:20261217T180000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:a299c3f22b207716@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261218T093000
+DTEND;TZID=Europe/Ljubljana:20261218T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:26a38a973513dd9e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261219T160000
+DTEND;TZID=Europe/Ljubljana:20261219T180000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:b51862cc277f9ef5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261221T093000
+DTEND;TZID=Europe/Ljubljana:20261221T113000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka
+URL:https://www.minoriti.si/dogodki/pepelka
+END:VEVENT
+BEGIN:VEVENT
+UID:e19d0f1fcc92dc03@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261230T170000
+DTEND;TZID=Europe/Ljubljana:20261230T190000
+SUMMARY:Pepelka
+LOCATION:Mala dvorana LGM
+DESCRIPTION: https://www.minoriti.si/dogodki/pepelka-34868
+URL:https://www.minoriti.si/dogodki/pepelka-34868
+END:VEVENT
 END:VCALENDAR

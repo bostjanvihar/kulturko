@@ -23,6 +23,15 @@ DESCRIPTION:Ko je leta 2014 mali oder Narodnega doma prvič zasedla skupina Abra
 URL:https://nd-mb.si/dogodek/eyal-maozs-edom/
 END:VEVENT
 BEGIN:VEVENT
+UID:db686917c3734b2b@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T190000
+DTEND;TZID=Europe/Ljubljana:20261114T210000
+SUMMARY:Mutivator
+LOCATION:Mali oder Narodnega doma
+DESCRIPTION:Mutivator je topla monokomedija o človeku\, ki prodaja upanje drugim\, medtem ko ga sam najbolj potrebuje. O velikih sanjah\, majhnih katastrofah in o tem\, kako daleč lahko človeka pripelje samozavest. Tudi kadar nima popolnoma nobene zveze z realnostjo.\n\nToda Bruno Hakl ni poraženec. Bruno je človek https://nd-mb.si/dogodek/mutivator/
+URL:https://nd-mb.si/dogodek/mutivator/
+END:VEVENT
+BEGIN:VEVENT
 UID:2aa532d8e9ea20b0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T203000
 DTEND;TZID=Europe/Ljubljana:20261121T223000

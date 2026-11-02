@@ -5,15 +5,6 @@ X-WR-CALNAME:Vetrinjski dvor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:16fba737946cec18@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T100000
-DTEND;TZID=Europe/Ljubljana:20261020T120000
-SUMMARY:Predstavitev javnega razpisa Mestne občine Maribor za sofinanciranje kulturnih programov  2027 – 2029
-LOCATION:Vetrinjski dvor
-DESCRIPTION:Spoštovani! \n\nV petek\, 9. 10. 2026\, je bil objavljen Javni razpis za izbor kulturnih programov\, ki jih bo v letih 2027 - 2029 sofinancirala Mestna občina Maribor (JRPJI-KUL-2027-29).\n\nPredstavitev\, ki jo za potencialne prijavitelje organizira Urad za kulturo in mladino Mestne občine Maribor\,  bo https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
-URL:https://nd-mb.si/dogodek/vabilo-na-predstavitev-javnega-razpisa-mestne-obcine-maribor-za-sofinanciranje-kulturnih-programov-za-obdobje-2027-do-2029/
-END:VEVENT
-BEGIN:VEVENT
 UID:2d270a8e6dd90626@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261031T160000
 DTEND;TZID=Europe/Ljubljana:20261031T180000

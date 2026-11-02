@@ -5,49 +5,13 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:7a711f29ab9a77a5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261026T100000
-DTEND;TZID=Europe/Ljubljana:20261026T120000
-SUMMARY:v SVETU Petra SVETine
+UID:d0c597248e2bbab8@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261102T190000
+DTEND;TZID=Europe/Ljubljana:20261102T210000
+SUMMARY:FRANKENSTEINOV MINI KABINET OSAMLJENOSTI
 LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-END:VEVENT
-BEGIN:VEVENT
-UID:d8015fd3a5c4e44c@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261027T100000
-DTEND;TZID=Europe/Ljubljana:20261027T120000
-SUMMARY:v SVETU Petra SVETine
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-END:VEVENT
-BEGIN:VEVENT
-UID:37163f8d38fad676@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261028T100000
-DTEND;TZID=Europe/Ljubljana:20261028T120000
-SUMMARY:v SVETU Petra SVETine
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-END:VEVENT
-BEGIN:VEVENT
-UID:a8cc9b563541082b@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261029T100000
-DTEND;TZID=Europe/Ljubljana:20261029T120000
-SUMMARY:v SVETU Petra SVETine
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-END:VEVENT
-BEGIN:VEVENT
-UID:afc8ae928e97aeed@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261030T100000
-DTEND;TZID=Europe/Ljubljana:20261030T120000
-SUMMARY:v SVETU Petra SVETine
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
-URL:https://www.minoriti.si/dogodki/vsvetupetrasvetine-37390
+DESCRIPTION: https://www.minoriti.si/dogodki/frankensteinov-mini-kabinet-osamljenosti
+URL:https://www.minoriti.si/dogodki/frankensteinov-mini-kabinet-osamljenosti
 END:VEVENT
 BEGIN:VEVENT
 UID:2ad8b4bf6b340f56@kulturko

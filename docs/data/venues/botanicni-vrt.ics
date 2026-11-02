@@ -5,15 +5,6 @@ X-WR-CALNAME:Botanični vrt — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:4af9d18a53d07762@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T090000
-DTEND;TZID=Europe/Ljubljana:20261024T110000
-SUMMARY:Izrezovanje buč\, delavnica
-LOCATION:Botanični vrt
-DESCRIPTION: https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
-URL:https://botanicnivrt.um.si/?ajde_events=zivljenje-obicaji-in-kulinarika
-END:VEVENT
-BEGIN:VEVENT
 UID:5ca85edead0d4bbc@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261107T100000
 DTEND;TZID=Europe/Ljubljana:20261107T120000

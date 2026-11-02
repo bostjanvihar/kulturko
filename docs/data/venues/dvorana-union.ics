@@ -5,15 +5,6 @@ X-WR-CALNAME:Dvorana Union — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5ac96fe7a7c986e3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261022T200000
-DTEND;TZID=Europe/Ljubljana:20261022T220000
-SUMMARY:Ludovico Einaudi Music – klavirski recital
-LOCATION:Dvorana Union
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: AZ Event Production SK S.R.O.  \n\n\n \n Ne zamudite nepozabnega večera čudovite glasbe z melodijami Ludovica Einaudija\, enega najboljših svetovnih pianistov in skladateljev\, v izvedbi vrhunskega češke https://nd-mb.si/dogodek/ludovico-einaudi-music-klavirski-recital/
-URL:https://nd-mb.si/dogodek/ludovico-einaudi-music-klavirski-recital/
-END:VEVENT
-BEGIN:VEVENT
 UID:316054516a027f82@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261106T193000
 DTEND;TZID=Europe/Ljubljana:20261106T213000

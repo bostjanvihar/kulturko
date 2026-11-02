@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Fotografska temnica Mišnica — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:614f61c77e2ae224@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261128T100000
+DTEND;TZID=Europe/Ljubljana:20261128T140000
+SUMMARY:[Delavnica] Fotografske voščilnice: čarobnost fotograma
+LOCATION:Fotografska temnica Mišnica
+DESCRIPTION: https://mkc.si/koledar/2026/11/28/delavnica-fotografske-voscilnice
+URL:https://mkc.si/koledar/2026/11/28/delavnica-fotografske-voscilnice
+END:VEVENT
+END:VCALENDAR

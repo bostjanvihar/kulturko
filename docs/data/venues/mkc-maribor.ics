@@ -5,15 +5,6 @@ X-WR-CALNAME:MKC Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:f6cc004456f533c1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261028T170000
-DTEND;TZID=Europe/Ljubljana:20261028T190000
-SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi
-LOCATION:MKC Maribor
-DESCRIPTION: https://mkc.si/koledar/2026/10/28/testiranja-na-spolno-prenosljive-okuzbe-za-moske-fl59c
-URL:https://mkc.si/koledar/2026/10/28/testiranja-na-spolno-prenosljive-okuzbe-za-moske-fl59c
-END:VEVENT
-BEGIN:VEVENT
 UID:67d3c39a3146b713@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261125T170000
 DTEND;TZID=Europe/Ljubljana:20261125T190000

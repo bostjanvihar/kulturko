@@ -5,21 +5,12 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5b313bcbe4714423@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261017T190000
-DTEND;TZID=Europe/Ljubljana:20261017T210000
-SUMMARY:Dan Maribora 2026
+UID:5a1fc2adb5a13ac2@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T190000
+DTEND;TZID=Europe/Ljubljana:20261105T210000
+SUMMARY:Delavnica slikanja na keramiko
 LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/dan-maribora-2026
-URL:https://www.ugm.si/dogodki/dan-maribora-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:5a846c2e579cdac9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T190000
-DTEND;TZID=Europe/Ljubljana:20261020T210000
-SUMMARY:Umetnost in duševno zdravje mladih\, medresorsko povezovanje kulture in zdravja / zaključna delavnica
-LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih\,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
-URL:https://www.ugm.si/dogodki/umetnost-in-dusevno-zdravje-mladih,-medresorsko-povezovanje-kulture-in-zdravja-zakljucna-delavnica
+DESCRIPTION: https://www.ugm.si/dogodki/delavnica-slikanja-na-keramiko
+URL:https://www.ugm.si/dogodki/delavnica-slikanja-na-keramiko
 END:VEVENT
 END:VCALENDAR

@@ -5,51 +5,6 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:dca641983d9936ff@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261020T180000
-DTEND;TZID=Europe/Ljubljana:20261105T150000
-SUMMARY:[Razstava] Utrinki iz Animoku Studia
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/20/razstava-utrinki-iz-animoku-studia
-URL:https://mkc.si/koledar/2026/10/20/razstava-utrinki-iz-animoku-studia
-END:VEVENT
-BEGIN:VEVENT
-UID:2e4a749ce9c23d7a@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261024T110000
-DTEND;TZID=Europe/Ljubljana:20261106T160000
-SUMMARY:Soba pobega: Hiša strahov Čud(ež)na dežela
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/24/hisa-strahov-cudena-dezela
-URL:https://mkc.si/koledar/2026/10/24/hisa-strahov-cudena-dezela
-END:VEVENT
-BEGIN:VEVENT
-UID:3643d9195a3b8187@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261028T170000
-DTEND;TZID=Europe/Ljubljana:20261028T200000
-SUMMARY:[Kreativarna] Izdelaj svojo Halloween pisavo
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/28/kreativarna-izdelaj-svojo-halloween-pisavo
-URL:https://mkc.si/koledar/2026/10/28/kreativarna-izdelaj-svojo-halloween-pisavo
-END:VEVENT
-BEGIN:VEVENT
-UID:1e99c2b62c0bcadb@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261031T110000
-DTEND;TZID=Europe/Ljubljana:20261031T130000
-SUMMARY:Halloween Brunch &amp\; Ritem
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
-URL:https://mkc.si/koledar/2026/10/31/halloween-brunch-amp-ritem
-END:VEVENT
-BEGIN:VEVENT
-UID:56418416e2cb21b9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261031T200000
-DTEND;TZID=Europe/Ljubljana:20261031T220000
-SUMMARY:Drag show: Vulvariaté
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/10/31/drag-show-vulvariat
-URL:https://mkc.si/koledar/2026/10/31/drag-show-vulvariat
-END:VEVENT
-BEGIN:VEVENT
 UID:3eead47b4cbb5bb1@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261103T180000
 DTEND;TZID=Europe/Ljubljana:20261103T200000
@@ -66,6 +21,15 @@ SUMMARY:Podporne skupine za dijake
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
 URL:https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
+END:VEVENT
+BEGIN:VEVENT
+UID:79b8acc738fa7b4d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261105T180000
+DTEND;TZID=Europe/Ljubljana:20261105T200000
+SUMMARY:Plodne rane\, delo v nastajanju
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/5/plodne-rane-delo-v-nastajanju
+URL:https://mkc.si/koledar/2026/11/5/plodne-rane-delo-v-nastajanju
 END:VEVENT
 BEGIN:VEVENT
 UID:20e496cbb64ba648@kulturko
@@ -86,6 +50,15 @@ DESCRIPTION: https://mkc.si/koledar/2026/11/10/razstava-nova-krila
 URL:https://mkc.si/koledar/2026/11/10/razstava-nova-krila
 END:VEVENT
 BEGIN:VEVENT
+UID:0edb2699cd7ef17e@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261112T190000
+DTEND;TZID=Europe/Ljubljana:20261112T210000
+SUMMARY:Stand up večer: Skrajno resno
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/12/stand-up-vecer-skrajno-resno
+URL:https://mkc.si/koledar/2026/11/12/stand-up-vecer-skrajno-resno
+END:VEVENT
+BEGIN:VEVENT
 UID:1b1372faab390553@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261113T200000
 DTEND;TZID=Europe/Ljubljana:20261113T220000
@@ -93,6 +66,15 @@ SUMMARY:Rock 'ma mlade 2026 #2: Fallen Division
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/11/13/rock-ma-mlade-2026-fallen-division
 URL:https://mkc.si/koledar/2026/11/13/rock-ma-mlade-2026-fallen-division
+END:VEVENT
+BEGIN:VEVENT
+UID:90cc315f3ad3ffa6@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T140000
+DTEND;TZID=Europe/Ljubljana:20261114T180000
+SUMMARY:Delavnica odrske tehnike: zvok in osvetlitev
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/14/delavnica-odrske-tehnike-zvok-in-osvetlitev
+URL:https://mkc.si/koledar/2026/11/14/delavnica-odrske-tehnike-zvok-in-osvetlitev
 END:VEVENT
 BEGIN:VEVENT
 UID:9f6b3ea581885c4b@kulturko
