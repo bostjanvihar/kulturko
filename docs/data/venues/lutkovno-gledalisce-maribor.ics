@@ -5,15 +5,6 @@ X-WR-CALNAME:Lutkovno gledališče Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:d0c597248e2bbab8@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261102T190000
-DTEND;TZID=Europe/Ljubljana:20261102T210000
-SUMMARY:FRANKENSTEINOV MINI KABINET OSAMLJENOSTI
-LOCATION:Lutkovno gledališče Maribor
-DESCRIPTION: https://www.minoriti.si/dogodki/frankensteinov-mini-kabinet-osamljenosti
-URL:https://www.minoriti.si/dogodki/frankensteinov-mini-kabinet-osamljenosti
-END:VEVENT
-BEGIN:VEVENT
 UID:2ad8b4bf6b340f56@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T100000
 DTEND;TZID=Europe/Ljubljana:20261121T120000

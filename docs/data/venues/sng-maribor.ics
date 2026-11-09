@@ -5,15 +5,6 @@ X-WR-CALNAME:SNG Maribor — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3d7c93aaa0876986@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261030T200000
-DTEND;TZID=Europe/Ljubljana:20261030T220000
-SUMMARY:Jutra v Dženinu
-LOCATION:SNG Maribor
-DESCRIPTION:Žiga Divjak in Gregor Zorc po romanu Susan Abulhawa · Dvorana Frana Žižka https://www.sng-mb.si/event/jutra-v-dzeninu/
-URL:https://www.sng-mb.si/event/jutra-v-dzeninu/
-END:VEVENT
-BEGIN:VEVENT
 UID:19eeb3ff82bb2bd7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261102T180000
 DTEND;TZID=Europe/Ljubljana:20261102T200000
@@ -44,7 +35,7 @@ BEGIN:VEVENT
 UID:bfc5f9f74a4b5053@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261104T190000
 DTEND;TZID=Europe/Ljubljana:20261104T210000
-SUMMARY:Oče\, hči in sveti duh
+SUMMARY:Oče\, Hči in Sveti Duh
 LOCATION:SNG Maribor
 DESCRIPTION:Mate Matišić · Dvorana Frana Žižka https://www.sng-mb.si/event/oce-hci-in-sveti-duh/
 URL:https://www.sng-mb.si/event/oce-hci-in-sveti-duh/
@@ -77,15 +68,6 @@ DESCRIPTION:Ludwig Minkus · Dvorana Ondine Otta Klasinc https://www.sng-mb.si/e
 URL:https://www.sng-mb.si/event/bajadera/
 END:VEVENT
 BEGIN:VEVENT
-UID:9e95f86fdca1eea9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261107T200000
-DTEND;TZID=Europe/Ljubljana:20261107T220000
-SUMMARY:Immaculata
-LOCATION:SNG Maribor
-DESCRIPTION:Kazalište Marina Držića\, Dubrovnik\, Hrvaška https://www.sng-mb.si/event/immaculata/
-URL:https://www.sng-mb.si/event/immaculata/
-END:VEVENT
-BEGIN:VEVENT
 UID:a447002bc3187b0f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261107T200000
 DTEND;TZID=Europe/Ljubljana:20261107T220000
@@ -93,6 +75,15 @@ SUMMARY:Usje se je dalu
 LOCATION:SNG Maribor
 DESCRIPTION:Tereza Gregorič\, Borut Petrović\, Jakob Šfiligoj · Dvorana Frana Žižka https://www.sng-mb.si/event/usje-se-je-dalu/
 URL:https://www.sng-mb.si/event/usje-se-je-dalu/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e95f86fdca1eea9@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261107T200000
+DTEND;TZID=Europe/Ljubljana:20261107T220000
+SUMMARY:Immaculata
+LOCATION:SNG Maribor
+DESCRIPTION:Kazalište Marina Držića\, Dubrovnik\, Hrvaška https://www.sng-mb.si/event/immaculata/
+URL:https://www.sng-mb.si/event/immaculata/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbb5637cbcf973aa@kulturko
@@ -878,6 +869,15 @@ DESCRIPTION:Dvorana Ondine Otta Klasinc https://www.sng-mb.si/event/2-koncert-si
 URL:https://www.sng-mb.si/event/2-koncert-simfonicnega-cikla-od-virtuoznosti-rahlocutnega-sloga-do-monumentalnega-simfonizma-romantike/
 END:VEVENT
 BEGIN:VEVENT
+UID:a6af7a0bc4a0b592@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270115T200000
+DTEND;TZID=Europe/Ljubljana:20270115T220000
+SUMMARY:Galeb
+LOCATION:SNG Maribor
+DESCRIPTION:Anton Pavlovič Čehov · Dvorana Frana Žižka https://www.sng-mb.si/event/galeb/
+URL:https://www.sng-mb.si/event/galeb/
+END:VEVENT
+BEGIN:VEVENT
 UID:d524e4a18c76e9e0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270116T180000
 DTEND;TZID=Europe/Ljubljana:20270116T200000
@@ -912,6 +912,15 @@ SUMMARY:Tannhäuser
 LOCATION:SNG Maribor
 DESCRIPTION:Richard Wagner · Gallusova dvorana\, Cankarjev dom Ljubljana https://www.sng-mb.si/event/tannhauser/
 URL:https://www.sng-mb.si/event/tannhauser/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0de7a17009ef6bf@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270122T180000
+DTEND;TZID=Europe/Ljubljana:20270122T200000
+SUMMARY:Gledališče od Ž do A
+LOCATION:SNG Maribor
+DESCRIPTION:Ira Ratej · Mali oder https://www.sng-mb.si/event/gledalisce-od-z-do-a/
+URL:https://www.sng-mb.si/event/gledalisce-od-z-do-a/
 END:VEVENT
 BEGIN:VEVENT
 UID:14b71ad9cd47413e@kulturko

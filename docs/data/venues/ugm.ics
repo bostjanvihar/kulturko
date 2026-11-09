@@ -5,12 +5,12 @@ X-WR-CALNAME:UGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:5a1fc2adb5a13ac2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261105T190000
-DTEND;TZID=Europe/Ljubljana:20261105T210000
-SUMMARY:Delavnica slikanja na keramiko
+UID:df5961c42b7a8431@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261109T190000
+DTEND;TZID=Europe/Ljubljana:20261109T210000
+SUMMARY:Na zemlji svet stoji: Mladi o prihodnosti učenja arhitekture / Okrogla miza in javna razprava
 LOCATION:UGM
-DESCRIPTION: https://www.ugm.si/dogodki/delavnica-slikanja-na-keramiko
-URL:https://www.ugm.si/dogodki/delavnica-slikanja-na-keramiko
+DESCRIPTION: https://www.ugm.si/dogodki/na-zemlji-svet-stoji-mladi-o-prihodnosti-ucenja-arhitekture
+URL:https://www.ugm.si/dogodki/na-zemlji-svet-stoji-mladi-o-prihodnosti-ucenja-arhitekture
 END:VEVENT
 END:VCALENDAR

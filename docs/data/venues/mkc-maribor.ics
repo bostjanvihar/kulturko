@@ -13,4 +13,31 @@ LOCATION:MKC Maribor
 DESCRIPTION: https://mkc.si/koledar/2026/11/25/testiranja-na-spolno-prenosljive-okuzbe-za-moske
 URL:https://mkc.si/koledar/2026/11/25/testiranja-na-spolno-prenosljive-okuzbe-za-moske
 END:VEVENT
+BEGIN:VEVENT
+UID:b85c78a727b4c167@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270127T170000
+DTEND;TZID=Europe/Ljubljana:20270127T190000
+SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi
+LOCATION:MKC Maribor
+DESCRIPTION: https://mkc.si/koledar/2027/1/27/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+URL:https://mkc.si/koledar/2027/1/27/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+END:VEVENT
+BEGIN:VEVENT
+UID:5267043d6763e5e4@kulturko
+DTSTART;TZID=Europe/Ljubljana:20270929T170000
+DTEND;TZID=Europe/Ljubljana:20270929T190000
+SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi
+LOCATION:MKC Maribor
+DESCRIPTION: https://mkc.si/koledar/2026/10/29/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+URL:https://mkc.si/koledar/2026/10/29/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+END:VEVENT
+BEGIN:VEVENT
+UID:9de2641c07e18109@kulturko
+DTSTART;TZID=Europe/Ljubljana:20271027T170000
+DTEND;TZID=Europe/Ljubljana:20271027T190000
+SUMMARY:Testiranja na spolno prenosljive okužbe za moške\, ki imajo spolne odnose z moškimi
+LOCATION:MKC Maribor
+DESCRIPTION: https://mkc.si/koledar/2026/10/27/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+URL:https://mkc.si/koledar/2026/10/27/testiranja-na-spolno-prenosljive-okuzbe-za-moske
+END:VEVENT
 END:VCALENDAR

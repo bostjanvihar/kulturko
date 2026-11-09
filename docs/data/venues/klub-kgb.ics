@@ -5,12 +5,30 @@ X-WR-CALNAME:Klub KGB — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:785f6cb549865a76@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261010T190000
-DTEND;TZID=Europe/Ljubljana:20261010T210000
-SUMMARY:Popium Vol. 2
+UID:a3cb38119c0e454d@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261109T190000
+DTEND;TZID=Europe/Ljubljana:20261109T210000
+SUMMARY:Omer Hodžić: Normala
 LOCATION:Klub KGB
-DESCRIPTION: https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
-URL:https://klub-kgb.si/dogodki/2026/okt/popium-vol-2
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/nov/omer-hodzic-normala
+URL:https://klub-kgb.si/dogodki/2026/nov/omer-hodzic-normala
+END:VEVENT
+BEGIN:VEVENT
+UID:31f3da5da9666703@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261113T190000
+DTEND;TZID=Europe/Ljubljana:20261113T210000
+SUMMARY:Hrup
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/nov/hrup
+URL:https://klub-kgb.si/dogodki/2026/nov/hrup
+END:VEVENT
+BEGIN:VEVENT
+UID:cc5b7d87538c7e1a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261204T190000
+DTEND;TZID=Europe/Ljubljana:20261204T210000
+SUMMARY:PANIKA: Reunion
+LOCATION:Klub KGB
+DESCRIPTION: https://klub-kgb.si/dogodki/2026/dec/panika-reunion
+URL:https://klub-kgb.si/dogodki/2026/dec/panika-reunion
 END:VEVENT
 END:VCALENDAR

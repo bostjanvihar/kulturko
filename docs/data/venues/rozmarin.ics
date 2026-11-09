@@ -5,15 +5,6 @@ X-WR-CALNAME:Rozmarin — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:238c26c8f0b5b4e6@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261031T190000
-DTEND;TZID=Europe/Ljubljana:20261031T210000
-SUMMARY:ROŽMARINOVA DOMAČICA- HALLOWEEN EDITION
-LOCATION:Rozmarin
-DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/rozmarinova-domacica--halloween-edition
-URL:https://www.rozmaringroup.si/Dogodki/dogodek/rozmarinova-domacica--halloween-edition
-END:VEVENT
-BEGIN:VEVENT
 UID:f2c1862393584d55@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261106T190000
 DTEND;TZID=Europe/Ljubljana:20261106T210000
@@ -21,5 +12,23 @@ SUMMARY:MI2 V ROŽMARINU!
 LOCATION:Rozmarin
 DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/mi2-v-rozmarinu-1
 URL:https://www.rozmaringroup.si/Dogodki/dogodek/mi2-v-rozmarinu-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ab466273d7409fde@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261114T190000
+DTEND;TZID=Europe/Ljubljana:20261114T210000
+SUMMARY:I LOVE 80'S PARTY
+LOCATION:Rozmarin
+DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/i-love-80-s-party-25
+URL:https://www.rozmaringroup.si/Dogodki/dogodek/i-love-80-s-party-25
+END:VEVENT
+BEGIN:VEVENT
+UID:07ab9f4bcf10a469@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261219T190000
+DTEND;TZID=Europe/Ljubljana:20261219T210000
+SUMMARY:Tradicija dobrih vibracij: PREDBOŽIČNI TABU
+LOCATION:Rozmarin
+DESCRIPTION: https://www.rozmaringroup.si/Dogodki/dogodek/tradicija-dobrih-vibracij-predbozicni-tabu-1
+URL:https://www.rozmaringroup.si/Dogodki/dogodek/tradicija-dobrih-vibracij-predbozicni-tabu-1
 END:VEVENT
 END:VCALENDAR

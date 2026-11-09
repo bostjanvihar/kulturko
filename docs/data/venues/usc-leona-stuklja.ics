@@ -5,12 +5,12 @@ X-WR-CALNAME:UŠC Leona Štuklja — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:743c65f5163c6ba5@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261005T170000
-DTEND;TZID=Europe/Ljubljana:20261005T180000
-SUMMARY:BREZPLAČNA VADBA!
+UID:af8af3d5ee987508@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261118T080000
+DTEND;TZID=Europe/Ljubljana:20261119T160000
+SUMMARY:MKC Maribor na Kariernem sejmu 2026
 LOCATION:UŠC Leona Štuklja
-DESCRIPTION:V okviru projekta Zmigaj se do vadbe\, katerega nosilec je Olimpijski komite Slovenije – Združenje športnih zvez (OKS-ZŠZ)\, organizirali brezplačne strokovno vodene vadbe za vse odrasle prebivalce Slovenije\, ki ne dosegajo priporočene ravni telesne dejavnosti po smernicah Svetovne zdravstvene organiz https://mladimaribor.si/dogodek/brezplacna-vadba/
-URL:https://mladimaribor.si/dogodek/brezplacna-vadba/
+DESCRIPTION: https://mkc.si/koledar/2026/11/18/mkc-maribor-na-kariernem-sejmu-2026
+URL:https://mkc.si/koledar/2026/11/18/mkc-maribor-na-kariernem-sejmu-2026
 END:VEVENT
 END:VCALENDAR

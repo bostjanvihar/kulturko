@@ -5,15 +5,6 @@ X-WR-CALNAME:MC Pekarna — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:844c469dbc15b86e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T210000
-DTEND;TZID=Europe/Ljubljana:20261106T230000
-SUMMARY:peKARAOKE
-LOCATION:MC Pekarna
-DESCRIPTION: https://www.pekarna.net/napovednik/pekaraoke-6.11.2026/
-URL:https://www.pekarna.net/napovednik/pekaraoke-6.11.2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:691faed6a00981a6@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261113T210000
 DTEND;TZID=Europe/Ljubljana:20261113T230000
@@ -32,13 +23,22 @@ DESCRIPTION: https://www.pekarna.net/napovednik/rage-against-the-machine-korn-tr
 URL:https://www.pekarna.net/napovednik/rage-against-the-machine-korn-tribute-koncert/
 END:VEVENT
 BEGIN:VEVENT
-UID:8f98ee2e7cb71899@kulturko
+UID:e4161e49756df376@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261120T200000
 DTEND;TZID=Europe/Ljubljana:20261120T220000
-SUMMARY:ELVIS JACKSON\, The Last Supper\, Blame Betty
+SUMMARY:ELVIS JACKSON\, The Last Supper\, Blame Betty\, NUFO
 LOCATION:MC Pekarna
 DESCRIPTION: https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
 URL:https://www.pekarna.net/napovednik/elvis-jackson-the-last-supper-blame-betty/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d37c97fea34753a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261203T180000
+DTEND;TZID=Europe/Ljubljana:20261203T200000
+SUMMARY:Dynatzty + Enforcer
+LOCATION:MC Pekarna
+DESCRIPTION: https://www.pekarna.net/napovednik/dynatzty-enforcer/
+URL:https://www.pekarna.net/napovednik/dynatzty-enforcer/
 END:VEVENT
 BEGIN:VEVENT
 UID:42906636b967bbd0@kulturko

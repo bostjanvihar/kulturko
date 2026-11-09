@@ -5,51 +5,6 @@ X-WR-CALNAME:Velika dvorana LGM — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:c0b1be38513d8660@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261103T090000
-DTEND;TZID=Europe/Ljubljana:20261103T110000
-SUMMARY:Rumena pika na nebu
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
-URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
-END:VEVENT
-BEGIN:VEVENT
-UID:48faa1c99d7b1277@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261104T090000
-DTEND;TZID=Europe/Ljubljana:20261104T110000
-SUMMARY:Rumena pika na nebu
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
-URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
-END:VEVENT
-BEGIN:VEVENT
-UID:2edc94ef309e56e9@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261105T090000
-DTEND;TZID=Europe/Ljubljana:20261105T110000
-SUMMARY:Rumena pika na nebu
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
-URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
-END:VEVENT
-BEGIN:VEVENT
-UID:4eeb0e36effed35e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T103000
-DTEND;TZID=Europe/Ljubljana:20261106T123000
-SUMMARY:Rumena pika na nebu
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
-URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
-END:VEVENT
-BEGIN:VEVENT
-UID:268999f829839e42@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261107T100000
-DTEND;TZID=Europe/Ljubljana:20261107T120000
-SUMMARY:Rumena pika na nebu
-LOCATION:Velika dvorana LGM
-DESCRIPTION: https://www.minoriti.si/dogodki/rumenapikananebu-37416
-URL:https://www.minoriti.si/dogodki/rumenapikananebu-37416
-END:VEVENT
-BEGIN:VEVENT
 UID:f20fcab3dca1873a@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261111T090000
 DTEND;TZID=Europe/Ljubljana:20261111T110000

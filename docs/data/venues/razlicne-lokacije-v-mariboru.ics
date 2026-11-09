@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kulturko//event-aggregator//SL
+X-WR-CALNAME:Različne lokacije v Mariboru — dogodki
+X-WR-TIMEZONE:Europe/Ljubljana
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:08f447243bb17c35@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261116T110000
+DTEND;TZID=Europe/Ljubljana:20261120T120000
+SUMMARY:Festival Mladi Maribor 2026
+LOCATION:Različne lokacije v Mariboru
+DESCRIPTION: https://mkc.si/koledar/2026/11/16/festival-mladi-maribor-2026
+URL:https://mkc.si/koledar/2026/11/16/festival-mladi-maribor-2026
+END:VEVENT
+END:VCALENDAR

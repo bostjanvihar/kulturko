@@ -5,15 +5,6 @@ X-WR-CALNAME:Dvorana generala Maistra — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:4dd334666d0a38e2@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261027T200000
-DTEND;TZID=Europe/Ljubljana:20261027T220000
-SUMMARY:Slovenka
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja Zavod "Zimske urice". \n\n \n\nPozor\, prihaja SLOVENKA!\n\nPo dolgih letih življenja na sončni strani Alp je Salome dobila še uradni žig: postala je Slovenka. In ker si tako pomembna prelomnica zasluži  https://nd-mb.si/dogodek/slovenka/
-URL:https://nd-mb.si/dogodek/slovenka/
-END:VEVENT
-BEGIN:VEVENT
 UID:eea268b8051b436f@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261102T193000
 DTEND;TZID=Europe/Ljubljana:20261102T213000
@@ -33,21 +24,12 @@ URL:https://nd-mb.si/dogodek/crnogorec-v-postelji-peda-suskavcevic/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d99589ad76dff0e@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261105T170000
-DTEND;TZID=Europe/Ljubljana:20261105T190000
+DTSTART;TZID=Europe/Ljubljana:20261105T200000
+DTEND;TZID=Europe/Ljubljana:20261105T220000
 SUMMARY:Jaz sem najboljši fotr na svetu
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Tukaj in zdaj d.o.o. \n\n \n\n PET FOTROV\, TISOČ IDEJ O VZGOJI\, NIČ POJMA \n\nPravijo\, da so očetje najpomembnejši izmed manj pomembnih članov vsake družine. So zlati prinašalci nakupovalnih vrečk\, čas https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
 URL:https://nd-mb.si/dogodek/jaz-sem-najboljsi-fotr-na-svetu/
-END:VEVENT
-BEGIN:VEVENT
-UID:ae2bb52da74108b3@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261108T180000
-DTEND;TZID=Europe/Ljubljana:20261108T200000
-SUMMARY:Moški so z Marsa\, ženske so z Venere 2
-LOCATION:Dvorana generala Maistra
-DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\nPripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
-URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7fafcd3e14ecd50@kulturko
@@ -147,6 +129,15 @@ SUMMARY:Žival si!
 LOCATION:Dvorana generala Maistra
 DESCRIPTION:Glavni junak Viskovitz v svojih različnih živalskih inkarnacijah preizprašuje svojo in našo identiteto\, smisel bivanja\, kaj človeka razlikuje od živali in kaj ga dela žival. Na svojem potovanju po živalskem kraljestvu neustavljivo išče ljubezen svojega življenja\, ki v vsaki epizodi nosi enako ime –  https://nd-mb.si/dogodek/zival-si/
 URL:https://nd-mb.si/dogodek/zival-si/
+END:VEVENT
+BEGIN:VEVENT
+UID:29cb7c6393c857a5@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261211T180000
+DTEND;TZID=Europe/Ljubljana:20261211T200000
+SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+LOCATION:Dvorana generala Maistra
+DESCRIPTION:Nakup vstopnic ni mogoč na blagajni Narodnega doma. Za več informacij se obrnite na organizatorja: Špas teater \n\n \n\nPripnite si pasove – vzletamo proti Marsu in Veneri\, tokrat z Bojanom Emeršičem!\n\nNa stotisoče parov\, ki so navdušeno spremljali prvi del uspešnice Moški so z Marsa\, ženske so z  https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
+URL:https://nd-mb.si/dogodek/moski-so-z-marsa-zenske-so-z-venere-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d89553b0a1750e2@kulturko

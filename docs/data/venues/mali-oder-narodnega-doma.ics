@@ -5,15 +5,6 @@ X-WR-CALNAME:Mali oder Narodnega doma — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:75961ce995012640@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261027T203000
-DTEND;TZID=Europe/Ljubljana:20261027T223000
-SUMMARY:The Thinkers feat. Mat Maneri
-LOCATION:Mali oder Narodnega doma
-DESCRIPTION:Samo Šalamon ne miruje. Njegove albume medtem preštevamo že v ducatih\, pričujoč trio pa mu očitno tako sede\, da so medtem izdali že tri albume (ki so zaenkrat dobavljivi le kot download). In kot smo vajeni že iz preteklosti\, mu ne manjka sodelovanj z najvidnejšimi predstavniki sodobnega jazza. Tokra https://nd-mb.si/dogodek/the-thinkers-feat-mat-maneri/
-URL:https://nd-mb.si/dogodek/the-thinkers-feat-mat-maneri/
-END:VEVENT
-BEGIN:VEVENT
 UID:038b41f8ec58d1e0@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261112T203000
 DTEND;TZID=Europe/Ljubljana:20261112T223000
@@ -32,10 +23,10 @@ DESCRIPTION:Mutivator je topla monokomedija o človeku\, ki prodaja upanje drug
 URL:https://nd-mb.si/dogodek/mutivator/
 END:VEVENT
 BEGIN:VEVENT
-UID:2aa532d8e9ea20b0@kulturko
+UID:d20976a705984ab7@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261121T203000
 DTEND;TZID=Europe/Ljubljana:20261121T223000
-SUMMARY:Na tleh
+SUMMARY:ZIZ predstavlja: Na tleh
 LOCATION:Mali oder Narodnega doma
 DESCRIPTION:Na tleh   je odrsko delo ustvarjalk\, sodelavk in dolgoletnih prijateljic Alenke Marinič in Maje Dekleva Lapajne. Je zemeljska koncertna predstava\, ki na oseben in humoren način predeluje teme prekarstva\, feminizma\, dela\, materinstva in bivanja v času poznega kapitalizma. Je iskriv glasbeno-gledališk https://nd-mb.si/dogodek/na-tleh-2/
 URL:https://nd-mb.si/dogodek/na-tleh-2/

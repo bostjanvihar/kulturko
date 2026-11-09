@@ -5,6 +5,15 @@ X-WR-CALNAME:GT22 — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:cfd7a86519c7b32a@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261121T190000
+DTEND;TZID=Europe/Ljubljana:20261121T210000
+SUMMARY:Pissed
+LOCATION:GT22
+DESCRIPTION: https://gt22.si/premiera-pissed/
+URL:https://gt22.si/premiera-pissed/
+END:VEVENT
+BEGIN:VEVENT
 UID:1c5bc49cd94ba31b@kulturko
 DTSTART;TZID=Europe/Ljubljana:20270709T190000
 DTEND;TZID=Europe/Ljubljana:20270709T210000

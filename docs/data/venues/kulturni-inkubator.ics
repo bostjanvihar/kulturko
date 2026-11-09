@@ -5,42 +5,6 @@ X-WR-CALNAME:Kulturni inkubator — dogodki
 X-WR-TIMEZONE:Europe/Ljubljana
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:3eead47b4cbb5bb1@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261103T180000
-DTEND;TZID=Europe/Ljubljana:20261103T200000
-SUMMARY:Knjižni klub: Bookworm Society
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/11/3/knjizni-klub-bookworm-society
-URL:https://mkc.si/koledar/2026/11/3/knjizni-klub-bookworm-society
-END:VEVENT
-BEGIN:VEVENT
-UID:3c494428f91952b7@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261104T170000
-DTEND;TZID=Europe/Ljubljana:20261104T183000
-SUMMARY:Podporne skupine za dijake
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
-URL:https://mkc.si/koledar/2026/11/4/podporne-skupine-za-dijake
-END:VEVENT
-BEGIN:VEVENT
-UID:79b8acc738fa7b4d@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261105T180000
-DTEND;TZID=Europe/Ljubljana:20261105T200000
-SUMMARY:Plodne rane\, delo v nastajanju
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/11/5/plodne-rane-delo-v-nastajanju
-URL:https://mkc.si/koledar/2026/11/5/plodne-rane-delo-v-nastajanju
-END:VEVENT
-BEGIN:VEVENT
-UID:20e496cbb64ba648@kulturko
-DTSTART;TZID=Europe/Ljubljana:20261106T150000
-DTEND;TZID=Europe/Ljubljana:20261106T180000
-SUMMARY:Šiviljska delavnica za mlade: Sešij &amp\; Nosi
-LOCATION:Kulturni inkubator
-DESCRIPTION: https://mkc.si/koledar/2026/11/6/siviljska-delavnica-za-mlade
-URL:https://mkc.si/koledar/2026/11/6/siviljska-delavnica-za-mlade
-END:VEVENT
-BEGIN:VEVENT
 UID:08689b41df6c2ed4@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261110T180000
 DTEND;TZID=Europe/Ljubljana:20261129T150000
@@ -86,6 +50,15 @@ DESCRIPTION: https://mkc.si/koledar/2026/11/25/banda-ferdamana-impro-noir
 URL:https://mkc.si/koledar/2026/11/25/banda-ferdamana-impro-noir
 END:VEVENT
 BEGIN:VEVENT
+UID:cf7db04f67ac5250@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261126T170000
+DTEND;TZID=Europe/Ljubljana:20261126T200000
+SUMMARY:Calm in Chaos: Kako pomagati\, ko se mladi znajdejo v stiski?
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/11/26/calm-in-chaos-kako-pomagati-ko-se-mladi-znajdejo-v-stiski
+URL:https://mkc.si/koledar/2026/11/26/calm-in-chaos-kako-pomagati-ko-se-mladi-znajdejo-v-stiski
+END:VEVENT
+BEGIN:VEVENT
 UID:50338099655d5496@kulturko
 DTSTART;TZID=Europe/Ljubljana:20261127T200000
 DTEND;TZID=Europe/Ljubljana:20261127T220000
@@ -111,6 +84,15 @@ SUMMARY:Stand up večer z Avtmigeci
 LOCATION:Kulturni inkubator
 DESCRIPTION: https://mkc.si/koledar/2026/12/4/stand-up-vecer-z-avtmigeci
 URL:https://mkc.si/koledar/2026/12/4/stand-up-vecer-z-avtmigeci
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5a1a4766014ed3@kulturko
+DTSTART;TZID=Europe/Ljubljana:20261210T180000
+DTEND;TZID=Europe/Ljubljana:20261210T210000
+SUMMARY:Kvizkubator: (VSE)PRAZNIČNO
+LOCATION:Kulturni inkubator
+DESCRIPTION: https://mkc.si/koledar/2026/12/10/kvizkubator-vsepraznino
+URL:https://mkc.si/koledar/2026/12/10/kvizkubator-vsepraznino
 END:VEVENT
 BEGIN:VEVENT
 UID:e2dc611d9cbe1432@kulturko
